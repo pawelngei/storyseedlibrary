@@ -1,0 +1,9 @@
+{
+  "name": "Astral Requin",
+  "image" : "img/astralrequin.jpg",
+  "bio": "Artist  //  Hobbyist  //  Digital Art",
+  "social": [
+      { "link": "https://www.deviantart.com/astral-requin" }
+  ]
+}
+

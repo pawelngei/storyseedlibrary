@@ -1,0 +1,13 @@
+{
+  "name": "Aerroscape - Alex Rommel",
+  "image" : "img/aerroscape.jpg",
+  "bio": "he/him | Artist  //  Professional  //  Digital Art | Germany",
+  "social": [
+      { "pencil": "https://www.aerroscape.de/" },
+      { "facebook": "https://www.facebook.com/aerroscape/" },
+      { "instagram": "https://www.instagram.com/aerroscape_art/" },
+      { "wand-magic-sparkles": "https://www.artstation.com/aerroscape" },
+      { "link": "https://www.deviantart.com/aerroscape" }
+  ]
+}
+

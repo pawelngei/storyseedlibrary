@@ -1,0 +1,9 @@
+{
+  "name": "Jacob Coffin",
+  "image" : "img/jacobcoffin.jpg",
+  "bio": "Sci-fi writer with a passion for land conservation, reuse, and human rights not being rolled back.",
+  "social": [
+      { "pencil": "https://jacobcoffinwrites.wordpress.com/" },
+      { "mastodon": "https://writing.exchange/@jacobcoffin" }
+  ]
+}

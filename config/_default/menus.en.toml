@@ -1,0 +1,51 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Art"
+pageRef = "art"
+identifier = "3yRSzr3A8F"
+weight = 1
+
+[[main]]
+name = "Seeds"
+pageRef = "seeds"
+identifier = "3yRSzr3A8D"
+weight = 2
+
+[[main]]
+name = "Tags"
+pageRef = "tags"
+identifier = "24BZL6Odw6"
+weight = 3
+
+[[main]]
+name = "Authors"
+pageRef = "authors"
+identifier = "LD7z6Qopgw"
+weight = 4
+
+[[main]]
+name = "About"
+weight = 5
+
+[[main]]
+parent = "About"
+name = "How to Contribute?"
+pageRef = "contribute"
+weight = 1
+
+[[main]]
+parent = "About"
+name = "Solarpunk Prompts"
+url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+weight = 2
+
+[[main]]
+parent = "About"
+name = "The Curator"
+url = "https://alxd.org/"
+weight = 10
+
+[[footer]]
+none = "none"
