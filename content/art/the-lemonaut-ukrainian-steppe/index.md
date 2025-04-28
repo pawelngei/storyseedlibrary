@@ -8,8 +8,4 @@ authors:
   - "thelemonaut"
 ---
 
-
-
-Ukrainian Steppe by The Lemonaut
-
-
+Originally a submission to Andrewism's [Solarpunk Art Collab 2023](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions), the illustration depicts a temperate grassland in Ukraine.
