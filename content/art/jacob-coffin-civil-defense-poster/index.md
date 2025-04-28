@@ -1,5 +1,5 @@
 ---
-title: "Civil Defense Poster - Bus"
+title: "Civil Defense Poster"
 date: 2024-03-22
 draft: false
 description: ""
