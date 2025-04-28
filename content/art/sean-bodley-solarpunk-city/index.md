@@ -3,7 +3,7 @@ title: "How to build a Solarpunk City"
 date: 2023-03-09
 draft: false
 description: ""
-tags: ["illustration", "LICENSE PENDING",]
+tags: ["illustration", "CC BY-SA 4.0",]
 authors:
   - "seanbodley"
 ---

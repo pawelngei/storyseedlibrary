@@ -3,7 +3,7 @@ title: "Solarpunk Anarchy"
 date: 2024-05-10
 draft: false
 description: ""
-tags: ["illustration", "LICENSE PENDING", "people"]
+tags: ["illustration", "CC BY-SA 4.0", "people"]
 authors:
   - "seanbodley"
 ---

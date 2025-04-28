@@ -3,7 +3,7 @@ title: "Climate Resilience Yurt"
 date: 2023-02-01
 draft: false
 description: ""
-tags: ["illustration", "LICENSE PENDING"]
+tags: ["illustration", "CC BY-SA 4.0"]
 authors:
   - "seanbodley"
 ---

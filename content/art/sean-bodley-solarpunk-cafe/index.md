@@ -3,7 +3,7 @@ title: "Solarpunk Cafe"
 date: 2023-09-19
 draft: false
 description: ""
-tags: ["illustration", "LICENSE PENDING", "people"]
+tags: ["illustration", "CC BY-SA 4.0", "people"]
 authors:
   - "seanbodley"
 ---
