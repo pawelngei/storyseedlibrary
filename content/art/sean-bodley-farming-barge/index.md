@@ -3,7 +3,7 @@ title: "Farming Barge"
 date: 2023-02-01
 draft: false
 description: ""
-tags: ["illustration", "CC TBD"]
+tags: ["illustration", "LICENSE PENDING"]
 authors:
   - "seanbodley"
 ---

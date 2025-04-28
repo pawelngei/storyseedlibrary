@@ -3,7 +3,7 @@ title: "The Library of Everything"
 date: 2025-02-03
 draft: false
 description: ""
-tags: ["illustration", "CC TBD", "people"]
+tags: ["illustration", "LICENSE PENDING", "people"]
 authors:
   - "seanbodley"
 ---

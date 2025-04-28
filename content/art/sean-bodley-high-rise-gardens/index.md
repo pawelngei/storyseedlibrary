@@ -3,7 +3,7 @@ title: "High-Rise Gardens"
 date: 2022-07-29
 draft: false
 description: ""
-tags: ["illustration", "CC TBD", "people"]
+tags: ["illustration", "LICENSE PENDING", "people"]
 authors:
   - "seanbodley"
 ---

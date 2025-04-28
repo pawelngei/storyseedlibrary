@@ -3,7 +3,7 @@ title: "Sweetzer Ave. Carbon-Negative Concept Art"
 date: 2020-08-09
 draft: false
 description: ""
-tags: ["illustration", "CC TBD", "people"]
+tags: ["illustration", "LICENSE PENDING", "people"]
 authors:
   - "seanbodley"
 ---
