@@ -31,15 +31,21 @@ weight = 5
 
 [[main]]
 parent = "About"
-name = "How to Contribute?"
-pageRef = "contribute"
+name = "The Library"
+pageRef = "/pages/about"
 weight = 1
 
 [[main]]
 parent = "About"
-name = "Solarpunk Prompts"
-url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+name = "How to Contribute?"
+pageRef = "/pages/contribute"
 weight = 2
+
+[[main]]
+parent = "About"
+name = "Solarpunk Prompts Podcast"
+url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+weight = 3
 
 [[main]]
 parent = "About"
