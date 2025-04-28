@@ -1,12 +1,14 @@
 ---
 title: "Solarpunk Workshop"
-date: 2024-05-16
+date: 2024-05-17
 draft: false
 description: ""
 tags: [ "photobash", "CC BY 4.0"]
 authors:
  - jacobcoffin
 ---
+
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/05/17/solarpunk-workshop/)
 
 This is one I’ve had on my list for months now, and I finally decided to just go ahead and make it. Back when I was researching solar cookers, solar concentrator, and solar furnaces, I ran into a few really interesting ideas around fresnel lenses (https://en.wikipedia.org/wiki/Fresnel_lens). Look them up on youtube and you can find all kinds videos of people melting glass or burning skillsaw blades in half, but the ones that kind of showed me how useful a really-concentrated point of heat could be was this 3D printer for sintering sand into glass objects (https://www.dezeen.com/2011/06/28/the-solar-sinter-by-markus-kayser/) and this solar rig for smelting zinc or aluminum (https://www.dezeen.com/2022/10/31/solar-metal-smelter-giant-magnifying-glass-sustainable-metalwork-design/). Both used fresnel lenses, but were limited by the size of their portable builds.
 

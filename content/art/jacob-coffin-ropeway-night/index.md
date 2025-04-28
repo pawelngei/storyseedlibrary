@@ -8,6 +8,8 @@ authors:
  - jacobcoffin
 ---
 
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/10/13/ropeway-at-night-photobash/)
+
 I’ve been working on a photobash of a rural village for the last couple weeks – it’s in a more realistic style and has lots and lots of elements, so it’s taking forever and I’m sick of looking at it. So today I took a break and banged this out.
 
 PoVoq over on slrpnk.net suggested ropeways (which I grew up calling gondolas, thinking of them as a ski mountain thing) when I was asking for ideas for the village. They’re a great transportation option, so I added one to it, but I got thinking about other scenes I could do with the concept. One of those ideas was a kind of peaceful scene of a ropeway at night, each cab lit up like string lights. This came out pretty much how I was picturing it (as much as I picture anything visually).

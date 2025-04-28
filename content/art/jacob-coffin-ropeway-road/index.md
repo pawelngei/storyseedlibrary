@@ -8,6 +8,8 @@ authors:
  - jacobcoffin
 ---
 
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/11/06/ropeway-over-a-seasonal-road-winter/)
+
 Made in response to this post: https://www.reddit.com/r/solarpunk/comments/17m5tr3/solarpunk_during_winter_and_late_fall/k7iv7p4/?context=3 – on the realization that there aren’t many examples of solarpunk art set in winter.
 
 One thing I've been considering is if snow rollers(https://mwvvibe.com/white-mountain-snow-rollers/), or a modern take on packing down snow instead of plowing it out of the way, might make a comeback in a society with fewer cars and snowy winters. Around here, they used to use sleighs in the winter, and snow rollers pulled by oxen to flatten the roads for travel. The idea of shoveling an entire road bare so you could drive on it would probably have seemed pretty extravagant to them.

@@ -1,12 +1,14 @@
 ---
 title: "Village"
-date: 2023-12-20
+date: 2023-12-21
 draft: false
 description: ""
 tags: [ "photobash", "CC BY 4.0"]
 authors:
  - jacobcoffin
 ---
+
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/12/21/solarpunk-village/)
 
 I’ve been thinking a lot about rural solarpunk lately. Idyllic farming scenes aside, there aren’t many depictions in solarpunk art of places that look like the towns where I’m from. But the towns where I’m from aren’t very solarpunk, despite being beautiful and full of nature. With cars, people have spread out in these sprawling bedroom communities that are becoming ever more dense with neighborhoods. Gas and groceries are easily a 40-minute drive away (more if you’re looking for a big box store), and I feel like most people I knew growing up drove at least an hour each way for work. When you live there, you’re completely dependent on your vehicles and you sometimes have at least one spare per household.
 

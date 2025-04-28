@@ -1,12 +1,14 @@
 ---
 title: "Woodgas Plow Truck Filling a Village Snow Vault"
-date: 2024-01-02
+date: 2024-01-03
 draft: false
 description: ""
 tags: [ "photobash", "CC BY 4.0"]
 authors:
  - jacobcoffin
 ---
+
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/01/03/woodgas-plow-truck-filling-a-village-snow-vault/)
 
 This will likely be my last winter solarpunk scene for a bit – I want to focus on library economies next. This one is based on two different ideas recommended for the village scene, which I decided to combine in their own photobash.
 

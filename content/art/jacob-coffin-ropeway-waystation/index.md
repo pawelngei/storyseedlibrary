@@ -8,6 +8,8 @@ authors:
  - jacobcoffin
 ---
 
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/10/20/ropeway-waystation-photobash/)
+
 This is my second, slightly more serious photobash of a ropeway.
 
 Like I said before, I really like the idea that the rural towns in this setting all have some kind of reliable public transit option - the larger ones (or ones conveniently placed) are linked by high speed rail, and others nearby might link to those (and to eachother) with ropeways. Easier/cheaper to set up over rough terrain, great view, and pretty reliable - you always know there’s another car coming.

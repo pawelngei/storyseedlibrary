@@ -8,6 +8,8 @@ authors:
  - jacobcoffin
 ---
 
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/09/15/solar-furnace-steel-recycling-photobash/)
+
 So this one is kind of different from most solarpunk art, but then I suppose that’s the goal of this series. It’s not a scene of a farm, or a homestead, or a city full of people gardening. But I think scenes like this might be necessary.
 
 One thing I’ve noticed about solarpunk art is that the societies it depicts are usually pretty developed, plenty of concrete and refined metals in many of the scenes. But there’s almost no scenes of solarpunk industry.

@@ -1,12 +1,14 @@
 ---
 title: "Tech Salvage Co-Op"
-date: 2023-09-05
+date: 2023-08-25
 draft: false
 description: ""
 tags: [ "photobash", "CC BY 4.0"]
 authors:
  - jacobcoffin
 ---
+
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/08/25/solarpunk-photobash-tech-raid/)
 
 I’ve been thinking lately that I’d like to see more art that was meant from the start to be solarpunk. So I put together this photobash. If it goes over okay, I think I’ll try some other scenes along similar lines, trying to depict what I think of as aspirational aspects of a fictional solarpunk society.
 

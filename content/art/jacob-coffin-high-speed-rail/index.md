@@ -8,6 +8,8 @@ authors:
  - jacobcoffin
 ---
 
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/09/06/high-speed-rail-photobash/)
+
 The second photobash in what I hope will be a series; a bit larger and more visually interesting than the first. I’ve started thinking of these as ‘postcards from a solarpunk future.’ They might not show the width and breadth of this world, but nice scenes of what this fictional solarpunk society would consider aspirational, or values worth showing off.
 
 Lately I’ve been thinking that for a genre/movement with such a focus on intentionality, there’s a lot of AI art setting the tone online, along with a tendency to accept anything that looks partway futuristic and green, even if it’s a massive cityscape or sort of generically utopian. I want to try to pull the visual aspect towards a more lived-in, human future that sets out to show possibilities/options.

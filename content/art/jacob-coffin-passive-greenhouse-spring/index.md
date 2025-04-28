@@ -1,12 +1,14 @@
 ---
 title: "Passive Greenhouses in Early Spring"
-date: 2024-02-29
+date: 2023-11-15
 draft: false
 description: ""
 tags: [ "photobash", "CC BY 4.0"]
 authors:
  - jacobcoffin
 ---
+
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/11/15/passive-greenhouses-in-early-spring/)
 
 Another winter (technically spring) solarpunk scene, this time centered around passive greenhouses. The idea is that since the sun will mostly be coming from one direction in colder climates, you surround the other sides with brick or concrete walls, which absorb heat during the day and radiate it at night (which is when you cover over the plastic). The first time I saw an article (https://solar.lowtechmagazine.com/2015/12/reinventing-the-greenhouse/) about this design I was amazed I’d never considered how poorly standard greenhouses fit our use case up here. I worked on a farm for years growing up and we heated about half of them at least through December. Single or double ply plastic sheets and corrugated white plastic siding nailed to stick frame walls on the ends. Garage doors only on either end. I can’t imagine how much they cost to heat. It’s that one-size-fits-all-just-burn-more-gas approach I think a solarpunk society should reconsider wherever it finds it.
 

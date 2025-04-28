@@ -8,7 +8,7 @@ authors:
  - jacobcoffin
 ---
 
-# Airshipyard in early morning by Jacob Coffin
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/11/01/airshipyard-in-early-morning-photobash/)
 
 Another glance at the more industrial parts of this solarpunk future. This one was inspired by the absolutely massive mountain of clothes which has been dumped, brand new and unsold, in the Atacama desert in Chile (https://www.aljazeera.com/gallery/2021/11/8/chiles-desert-dumping-ground-for-fast-fashion-leftovers). The product of our society’s fast fashion industry and the complexities of our supply chains, a tremendous amount of energy and water is wasted producing these clothes, more energy is wasted shipping them, and then yet more is spent to haul them into the desert where they smother the landscape and ecosystem in cheap synthetic materials. 
 

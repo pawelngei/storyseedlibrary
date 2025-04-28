@@ -8,6 +8,8 @@ authors:
  - jacobcoffin
 ---
 
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/05/02/deconstruction-crew-disassembling-abandoned-mcmansions-so-the-material-can-be-reused/)
+
 # Deconstruction crew disassembling abandoned McMansions by Jacob Coffin
 
 Houses require maintenance. How much and how often depends on the design and its surroundings. They also require occupants – in my brief experience at least, they degrade much faster when they’re left cold and empty than when someone lives there, even if that someone doesn’t fix things. Weather, encroaching water, mold, ice, and animals can all cause compounding damage surprisingly fast.
