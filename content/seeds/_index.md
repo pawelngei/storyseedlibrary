@@ -7,3 +7,6 @@ slug: "seeds"
 
 Story Seeds are short, one-paragraph descriptions of a Solarpunk community, place or situation with some dramatic tension already baked in - ready to kickstart your writing!
 
+Be sure to also check out the [podcast](https://podcast.tomasino.org/) based on them!
+
+<br>
