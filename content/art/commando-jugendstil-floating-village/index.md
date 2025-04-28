@@ -1,5 +1,5 @@
 ---
-title: "Oil Platform"
+title: "The Floating Village"
 date: 2022-11-14
 draft: false
 description: ""
