@@ -6,11 +6,6 @@ enableCodeCopy = false
 replyByEmail = false
 disableImageOptimization = false
 disableTextInHeader = false
-# giteaDefaultServer = "https://git.fsfe.org"
-# forgejoDefaultServer = "https://v8.next.forgejo.org"
-
-# defaultBackgroundImage = "/img/background.svg"
-
 
 [header]
 layout = "basic"
@@ -56,7 +51,7 @@ showTaxonomies = true
 showAuthorsBadges = true
 showWordCount = false
 showZenMode = false
-heroStyle = "background" # CUSTOM
+heroStyle = "background"
 
 [list]
 showHero = false
