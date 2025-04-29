@@ -6,6 +6,7 @@ enableCodeCopy = false
 replyByEmail = false
 disableImageOptimization = false
 disableTextInHeader = false
+defaultFeaturedImage = "img/seedling.png"
 
 [header]
 layout = "basic"
