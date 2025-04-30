@@ -13,11 +13,11 @@ pageRef = "seeds"
 identifier = "3yRSzr3A8D"
 weight = 20
 
-# [[main]]
-# name = "Art Collab 2025"
-# pageRef = "/pages/andrewisms-art-collab-2025"
-# identifier = "3yRGzr3A8D"
-# weight = 25
+[[main]]
+name = "Art Collab 2025"
+pageRef = "/pages/andrewisms-art-collab-2025"
+identifier = "3yRGzr3A8D"
+weight = 25
 
 [[main]]
 name = "More"

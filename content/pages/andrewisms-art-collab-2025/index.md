@@ -15,9 +15,15 @@ The goal of the project is to welcome everyone to collaborate together, share id
 
 <br>
 
-{{< button href="https://discord.gg/HGF6xBhRya" target="_self" >}}
-Join Art Collab Discord
+{{< button href="https://discord.gg/HGF6xBhRya" target="_blank" >}}
+Join the Art Collab Discord
 {{< /button >}}
+
+## Livestream
+
+{{< youtube id="v724dRvTk-k" label=" Discussing Solarpunk Art 2025 w/ alxd " >}}
+
+[alxd's slides](https://slides.com/pawelngei/art-collab-2025)
 
 ## Previous Collabs
 
@@ -48,6 +54,8 @@ Join Art Collab Discord
   - Think how different age groups interact in a setting where lifelong learning is the norm, not only in schools!
   - Explore the role of research, non-exploitative peer review, and science education.
   - What does [Citizen Science](https://en.wikipedia.org/wiki/Citizen_science) look like, when regular people care for and monitor the ecosystems around them?
+  - Education and learning is not only about your early life. Look at projects like the [University of the Third Age](https://en.wikipedia.org/wiki/University_of_the_Third_Age) - maybe there are even some in your area?
+  - To make people more aware of their surroundings, education and learning should happen within the context of local ecosystems. How can we encourage people to get involved in their own hometowns?
   - Take a look at the [Story Seeds](/seeds/) and see if any of them inspire you!
 - Artwork must reflect some degree of human diversity. People of different racial and cultural backgrounds, genders and sexualities, abilities, ages, etc, should be included. Solarpunk is for the people. All the people.
 - Artwork may depict urban, semi-urban, and rural spaces, including interiors or exteriors.
