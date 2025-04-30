@@ -5,29 +5,41 @@ none = "none"
 name = "Art"
 pageRef = "art"
 identifier = "3yRSzr3A8F"
-weight = 1
+weight = 10
 
 [[main]]
 name = "Seeds"
 pageRef = "seeds"
 identifier = "3yRSzr3A8D"
-weight = 2
+weight = 20
+
+# [[main]]
+# name = "Art Collab 2025"
+# pageRef = "/pages/andrewisms-art-collab-2025"
+# identifier = "3yRGzr3A8D"
+# weight = 25
 
 [[main]]
+name = "More"
+weight = 30
+
+[[main]]
+parent = "More"
 name = "Tags"
 pageRef = "tags"
 identifier = "24BZL6Odw6"
-weight = 3
+weight = 30
 
 [[main]]
+parent = "More"
 name = "Authors"
 pageRef = "authors"
 identifier = "LD7z6Qopgw"
-weight = 4
+weight = 40
 
 [[main]]
 name = "About"
-weight = 5
+weight = 50
 
 [[main]]
 parent = "About"
