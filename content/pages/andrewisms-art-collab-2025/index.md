@@ -23,7 +23,7 @@ Join Art Collab Discord
 
 - [2024: Dreams of New Labor](https://andrew-ism.tumblr.com/post/770135694637236224/solarpunk-art-2024-new-dreams-of-labour) (and on [YouTube](https://www.youtube.com/watch?v=mRKt2ORY9bs))
 - [2023: Bioregions](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions) (and on [YouTube](https://www.youtube.com/watch?v=j3PZfXpY1og))
-- [2021](https://www.youtube.com/watch?v=IiK1MK44Or4)
+- [2021 Art Collab](https://www.youtube.com/watch?v=IiK1MK44Or4)
 
 ## Submission Guidelines
 
@@ -59,7 +59,7 @@ Join Art Collab Discord
   - [Solarpunk](https://youtu.be/u03hoO3QueM)
   - [Solarpunk Cities](https://youtu.be/4UmU1dSe3n0)
   - [How Anarchy Works](https://www.youtube.com/watch?v=lrTzjaXskUU)
-  - [What Anarchy Needs](https://www.youtube.com/watch?v=qkN_nQPpeSU), 
+  - [What Anarchy Needs](https://www.youtube.com/watch?v=qkN_nQPpeSU)
   - [Rethinking School](https://www.youtube.com/watch?v=9ZGYtHPtZwM)
 
 ---
