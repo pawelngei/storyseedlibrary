@@ -13,6 +13,11 @@ Welcome to the 2025 edition of the collaborative solarpunk art project! This yea
 
 The goal of the project is to welcome everyone to collaborate together, share ideas and get inspired by each others' works! This is not a contest - there are no prizes and no winners, outside of everything we learn from each other and the visions of a better world we create!
 
+<br>
+
+{{< button href="https://discord.gg/HGF6xBhRya" target="_self" >}}
+Join Art Collab Discord
+{{< /button >}}
 
 ## Previous Collabs
 
