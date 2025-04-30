@@ -1,0 +1,9 @@
+{
+  "name": "Andrewism",
+  "image" : "img/andrewism.jpg",
+  "bio": "he/him |  I want to learn and explore as much as possible | Trinidad & Tobago 🇹🇹",
+  "social": [
+      { "youtube": "https://www.youtube.com/@Andrewism/" },
+      { "patreon": "https://www.patreon.com/c/saintdrew" }
+  ]
+}
