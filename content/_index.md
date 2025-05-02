@@ -7,6 +7,6 @@ Welcome to a library of Solarpunk [art](/art) and [story seeds](/seeds) - helpin
 
 If you haven't heard about Solarpunk before, check out our short [introduction](/essays/what-is-solarpunk)!
 
-![The Community Center by the Lemonaut](featured.jpg "[The Community Center](/art/the-lemonaut-community-center/) CC BY-SA 4.0 [The Lemonaut](/authors/thelemonaut)")
+![The Community Center by the Lemonaut](cover.jpg "[The Community Center](/art/the-lemonaut-community-center/) CC BY-SA 4.0 [The Lemonaut](/authors/thelemonaut)")
 
 All the materials on this page are free to use under a respective [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) license - unless noted otherwise. Have fun browsing!
