@@ -10,3 +10,4 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 description = "A library of Solarpunk art and story seeds, visions of an optimistic climate future."
+logo = "img/sitelogo.png"

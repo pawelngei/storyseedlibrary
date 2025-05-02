@@ -19,3 +19,7 @@ For the last few years I witnessed many well-meaning writers and academics try t
 I hope that with this Library, thanks to the [artists](/authors/) who generously donated their [art](/art/) under copyleft licenses, we will be able to go towards meaningful symbols, planting them like signposts towards a better future.
 
 For anyone stuck looking for a story idea, good conflict or tension in a realistic near-future setting, I hope that the [seeds](/seeds/) will kickstart their creativity. Be sure to also check out the [Solarpunk Prompts podcast](https://podcast.tomasino.org/@SolarpunkPrompts) by the awesome [tomasino](https://tomasino.org/) for even more writing inspirations!
+
+---
+
+The beautiful logo of the Story Seed Library was created by the awesome Natalia Vish!

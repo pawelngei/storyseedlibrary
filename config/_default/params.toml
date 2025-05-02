@@ -18,6 +18,10 @@ showThemeAttribution = true
 showAppearanceSwitcher = true
 showScrollToTop = true
 
+[author]
+image = "img/sitelogo.png"
+# headline = "subtitle"
+
 [homepage]
 layout = "background"
 showRecent = true
