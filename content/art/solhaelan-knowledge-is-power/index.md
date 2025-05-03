@@ -1,9 +1,9 @@
 ---
 title: "Knowledge is Power"
-date: 2023-10-11
+date: 2024-04-02
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0"]
+tags: ["illustration", "CC BY-NC-SA 4.0"]
 authors:
   - "solhaelan"
 ---

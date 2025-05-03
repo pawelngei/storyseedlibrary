@@ -1,9 +1,9 @@
 ---
 title: "Suburban Rain Gardens"
-date: 2024-02-03
+date: 2023-06-07
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0"]
+tags: ["illustration", "CC BY-NC-SA 4.0"]
 authors:
   - "solhaelan"
 ---
