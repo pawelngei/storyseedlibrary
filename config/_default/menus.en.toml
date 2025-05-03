@@ -67,3 +67,9 @@ weight = 10
 
 [[footer]]
 none = "none"
+
+[[footer]]
+name = "How to Contribute?"
+pageRef = "/pages/contribute"
+identifier = "Wz0vblbVYr"
+weight = 9_999
