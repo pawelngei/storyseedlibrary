@@ -20,7 +20,7 @@ We want to feature art which:
 
 We do not accept AI art or art created with the use of AI (even if it's just a texture).
 
-If you'd like to submit your art to the Library, please [contact me](mailto:storyseedlibrary@alxd_PLEASE_DELETE_THIS_CAPTION_.org) (read the address carefully!) with:
+If you'd like to submit your art to the Library, please {{< cloakemail display="contact me" address="storyseedlibrary@alxd.org" >}} with:
 
 - The title of your work
 - The description of your work
@@ -38,7 +38,7 @@ You can [glaze](https://nightshade.cs.uchicago.edu/whatis.html) your work with s
 
 ## For Developers
 
-If you're interested in contributing to this website, please contact the curator on [Mastodon](https://writing.exchange/@alxd) or by [email](mailto:storyseedlibrary@alxd_PLEASE_DELETE_THIS_CAPTION_.org) (read the address carefully please)!
+If you're interested in contributing to this website, please contact the curator on [Mastodon](https://writing.exchange/@alxd) or by {{< cloakemail display="email" address="storyseedlibrary@alxd.org" >}}!
 
 Soon it will be possible to create a pull request straight to this site's repository!
 
