@@ -38,7 +38,6 @@ You can [glaze](https://nightshade.cs.uchicago.edu/whatis.html) your work with s
 
 ## For Developers
 
-If you're interested in contributing to this website, please contact the curator on [Mastodon](https://writing.exchange/@alxd) or by {{< cloakemail display="email" address="storyseedlibrary@alxd.org" >}}!
+If you're interested in contributing to this website, you can make a pull request to the repository on [Codeberg](https://codeberg.org/alxd/storyseedlibrary)! Alternatively, you can contact me on [Mastodon](https://writing.exchange/@alxd) or by {{< cloakemail display="email" address="storyseedlibrary@alxd.org" >}}!
 
-Soon it will be possible to create a pull request straight to this site's repository!
 
