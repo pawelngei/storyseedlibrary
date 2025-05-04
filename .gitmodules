@@ -1,7 +1,7 @@
 [submodule "themes/blowfish"]
 	path = themes/blowfish
 	url = https://codeberg.org/alxd/blowfish-storyseedlibrary.git
-	branch = main
+	branch = story-seed-library
 [submodule "themes/hugo-cloak-email"]
 	path = themes/hugo-cloak-email
 	url = https://github.com/martignoni/hugo-cloak-email.git
