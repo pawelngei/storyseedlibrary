@@ -3,7 +3,7 @@ title: "Flood Compatible City"
 date: 2024-09-25
 draft: false
 description: ""
-tags: ["photobash", "CC BY 4.0"]
+tags: ["photobash", "CC BY 4.0", "horizontal", "city"]
 authors:
  - jacobcoffin
 ---

@@ -3,7 +3,7 @@ title: "The Floating Village"
 date: 2022-11-14
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0"]
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "sea", "infrastructure", "reclaimed structure"]
 authors:
  - commandojugendstil
 ---

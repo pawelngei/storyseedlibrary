@@ -3,7 +3,7 @@ title: "Solarpunk Farm"
 date: 2025-02-10
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "horizontal", "farming", "food"]
 authors:
  - jacobcoffin
 ---

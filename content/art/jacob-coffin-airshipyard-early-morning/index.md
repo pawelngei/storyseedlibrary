@@ -3,7 +3,7 @@ title: "Airshipyard in early morning"
 date: 2023-11-01
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "horizontal", "airship", "transport", "desert"]
 authors:
  - jacobcoffin
 ---

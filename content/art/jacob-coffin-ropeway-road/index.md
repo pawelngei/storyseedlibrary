@@ -3,7 +3,7 @@ title: "Ropeway over a Seasonal Road - Winter"
 date: 2023-11-06
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "vertical", "snow", "transport", "ropeway", "people"]
 authors:
  - jacobcoffin
 ---

@@ -3,7 +3,7 @@ title: "Suburban Rain Gardens"
 date: 2023-06-07
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0"]
+tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "city", "suburbia", "weather"]
 authors:
   - "solhaelan"
 ---

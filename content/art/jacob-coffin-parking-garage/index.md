@@ -3,7 +3,7 @@ title: "Repurposed Parking Garage"
 date: 2023-09-11
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "horizontal", "infrastructure", "reclaimed structure", "transport", "tram"]
 authors:
  - jacobcoffin
 ---

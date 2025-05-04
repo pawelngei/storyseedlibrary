@@ -3,7 +3,7 @@ title: "Indy Lunarpunk"
 date: 2023-04-03
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0"]
+tags: ["illustration", "CC BY-NC-SA 4.0", "vertical", "lunarpunk", "night", "city", "music", "infrastructure"]
 authors:
   - "solhaelan"
 ---

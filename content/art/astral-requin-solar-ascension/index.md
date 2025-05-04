@@ -3,7 +3,7 @@ title: "Solar Ascension"
 date: 2019-08-06
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-ND 3.0"]
+tags: ["illustration", "CC BY-NC-ND 3.0", "horizontal", "fantastic"]
 authors:
  - astralrequin
 ---

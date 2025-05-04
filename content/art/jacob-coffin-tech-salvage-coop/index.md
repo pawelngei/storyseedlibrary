@@ -3,7 +3,7 @@ title: "Tech Salvage Co-Op"
 date: 2023-08-25
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "vertical", "city", "economy", "cooperation"]
 authors:
  - jacobcoffin
 ---

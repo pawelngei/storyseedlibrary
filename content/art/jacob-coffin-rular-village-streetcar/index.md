@@ -3,7 +3,7 @@ title: "Rural Village Streetcar"
 date: 2025-03-23
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "horizontal", "tram", "transport", "monorail"]
 authors:
  - jacobcoffin
 ---

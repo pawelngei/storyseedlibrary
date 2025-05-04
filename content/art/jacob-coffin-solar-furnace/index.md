@@ -3,7 +3,7 @@ title: "Solar Furnace Steel Recycling"
 date: 2023-09-15
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "horizontal", "desert", "solar", "industry"]
 authors:
  - jacobcoffin
 ---

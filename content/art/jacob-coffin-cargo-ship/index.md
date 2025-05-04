@@ -3,7 +3,7 @@ title: "Cargo Ship"
 date: 2024-10-16
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "horizontal", "sea", "ship", "transport" ]
 authors:
  - jacobcoffin
 ---

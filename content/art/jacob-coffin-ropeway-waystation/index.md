@@ -3,7 +3,7 @@ title: "Ropeway Waystation"
 date: 2023-10-20
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "vertical", "ropeway", "transport", "forest", "mountains"]
 authors:
  - jacobcoffin
 ---

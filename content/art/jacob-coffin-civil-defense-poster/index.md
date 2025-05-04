@@ -3,7 +3,7 @@ title: "Civil Defense Poster"
 date: 2024-03-22
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0", "people", "symbolism"]
+tags: [ "photobash", "CC BY 4.0", "vertical", "people", "symbolism"]
 authors:
  - jacobcoffin
 ---

@@ -3,7 +3,7 @@ title: "The Tailors"
 date: 2024-08-26
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "people"]
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "crafts", "Africa", "disability"]
 authors:
   - "thelemonaut"
 ---

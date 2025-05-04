@@ -3,7 +3,7 @@ title: "Ship in a Storm"
 date: 2024-08-20
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "vertical", "ship", "transport", "sea", "wind turbine", "weather"]
 authors:
  - jacobcoffin
 ---

@@ -3,7 +3,7 @@ title: "Modular Caustic Soda Locomotive"
 date: 2024-04-12
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "horizontal", "transport", "train"]
 authors:
  - jacobcoffin
 ---

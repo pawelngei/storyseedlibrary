@@ -3,7 +3,7 @@ title: "ECOCIDE Inc. - Victory"
 date: 2020-04-15
 draft: false
 description: ""
-tags: ["illustration", "CC BY 4.0", "symbolism"]
+tags: ["illustration", "CC BY 4.0", "vertical", "symbolism"]
 authors:
  - honora
 ---

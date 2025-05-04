@@ -3,7 +3,7 @@ title: "A Sunken Greenhouse and a Bike Kitchen"
 date: 2024-08-14
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0"]
+tags: [ "photobash", "CC BY 4.0", "horizontal"]
 authors:
  - jacobcoffin
 ---

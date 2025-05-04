@@ -3,7 +3,7 @@ title: "The Tower"
 date: 2024-09-05
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "people"]
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "farming", "solar", "transport", "city", "generations", "residential"]
 authors:
   - "thelemonaut"
   - "scandinavian101"

@@ -3,7 +3,7 @@ title: "Library Truck"
 date: 2024-01-16
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0", "people"]
+tags: [ "photobash", "CC BY 4.0", "horizontal", "people", "city", "economy"]
 authors:
  - jacobcoffin
 ---

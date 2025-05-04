@@ -3,7 +3,7 @@ title: "High-Rise Gardens"
 date: 2022-07-29
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "people"]
+tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "farming", "solar", "ruins"]
 authors:
   - "seanbodley"
 ---
