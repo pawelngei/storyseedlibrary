@@ -2,7 +2,7 @@
 
 Welcome to the repository for the [Story Seed Library](https://storyseedlibrary.org/), a copyleft library of Solarpunk art and writing!
 
-You can contribute to it on [Codeberg](https://codeberg.org/alxd/storyseedlibrary) and [Github](https://github.com/pawelngei/storyseedlibrary) - the merged commits will be mirrored between the platforms!
+You can contribute to it on [Codeberg](https://codeberg.org/alxd/storyseedlibrary) and [Github](https://github.com/pawelngei/storyseedlibrary) - the merged commits will be [mirrored](https://codeberg.org/Recommendations/Mirror_to_Codeberg) between the platforms!
 
 ## Theme
 
