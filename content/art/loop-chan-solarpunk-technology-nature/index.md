@@ -7,5 +7,3 @@ tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "city", "transport"
 authors:
   - loop-chan
 ---
-
-[Original on ArtStation](https://www.artstation.com/artwork/0l5BwV)
