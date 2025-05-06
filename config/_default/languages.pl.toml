@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "pl"
+languageName = "Polski"
+weight = 1
+title = "Biblioteka Zalążków Opowieści"
+
+[params]
+displayName = "PL"
+isoCode = "pl"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Biblioteka solarpunkowych ilustracji i zalążków opowieści, wizji optymistycznej przyszłości klimatycznej."
+logo = "img/sitelogo.png"

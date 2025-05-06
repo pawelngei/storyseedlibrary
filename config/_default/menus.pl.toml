@@ -1,0 +1,69 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Ilustracje"
+pageRef = "art"
+identifier = "3yRSzr3A8F"
+weight = 10
+
+[[main]]
+name = "Zalążki"
+pageRef = "seeds"
+identifier = "3yRSzr3A8D"
+weight = 20
+
+[[main]]
+name = "Więcej"
+weight = 30
+
+[[main]]
+parent = "Więcej"
+name = "Tagi"
+pageRef = "tags"
+identifier = "24BZL6Odw6"
+weight = 30
+
+[[main]]
+parent = "Więcej"
+name = "Autorzy"
+pageRef = "authors"
+identifier = "LD7z6Qopgw"
+weight = 40
+
+[[main]]
+name = "O..."
+weight = 50
+
+[[main]]
+parent = "O..."
+name = "...Bibliotece"
+pageRef = "/pages/about"
+weight = 1
+
+[[main]]
+parent = "O..."
+name = "Jak się przyłączyć?"
+pageRef = "/pages/contribute"
+weight = 2
+
+[[main]]
+parent = "O..."
+name = "Podcast Solarpunk Prompts"
+url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+weight = 3
+
+[[main]]
+parent = "O..."
+name = "...Kuratorze"
+url = "https://alxd.org/"
+weight = 10
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Jak się przyłączyć?"
+pageRef = "/pages/contribute"
+identifier = "Wz0vblbVYr"
+weight = 9_999
