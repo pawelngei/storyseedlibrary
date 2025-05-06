@@ -1,6 +1,6 @@
 ---
 title: "A Repurposed Mall"
-date: 2025-05-06
+date: 2025-02-23
 draft: false
 description: ""
 tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "food", "infrastructure", "reclaimed structure", "economy", "library"]
