@@ -1,5 +1,5 @@
 ---
-title: "Desert Power - Charging"
+title: "Energia Pustyni - Ładowanie"
 date: 2025-03-16
 draft: false
 description: ""

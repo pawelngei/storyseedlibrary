@@ -1,5 +1,5 @@
 ---
-title: "High Speed Rail"
+title: "Kolej wysokich prędkości"
 date: 2023-09-06
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "Village"
+title: "Wioska"
 date: 2023-12-21
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "Seeds of Resistance"
+title: "Nasiona Oporu"
 date: 2021-08-02
 draft: false
 description: ""

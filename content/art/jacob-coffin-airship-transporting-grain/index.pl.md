@@ -1,5 +1,5 @@
 ---
-title: "Airship Transporting Grain"
+title: "Sterowiec Przewożący Ziarno"
 date: 2023-11-03
 draft: false
 description: ""

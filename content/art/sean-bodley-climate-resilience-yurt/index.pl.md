@@ -1,5 +1,5 @@
 ---
-title: "Climate Resilience Yurt"
+title: "Jurta uodporniona na zmiany klimatu"
 date: 2023-02-01
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "The Canteen"
+title: "Stołówka"
 date: 2023-10-11
 draft: false
 description: ""

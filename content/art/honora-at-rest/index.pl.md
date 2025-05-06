@@ -1,5 +1,5 @@
 ---
-title: "At Rest"
+title: "W Spoczynku"
 date: 2021-03-26
 draft: false
 description: ""

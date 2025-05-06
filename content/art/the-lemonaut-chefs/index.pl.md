@@ -1,5 +1,5 @@
 ---
-title: "The Chefs"
+title: "Kucharze"
 date: 2024-07-31
 draft: false
 description: ""

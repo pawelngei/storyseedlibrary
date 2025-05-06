@@ -1,5 +1,5 @@
 ---
-title: "Solarpunk Anarchy"
+title: "Solarpunkowa anarchia"
 date: 2024-05-10
 draft: false
 description: ""

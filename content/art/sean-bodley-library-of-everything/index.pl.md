@@ -1,5 +1,5 @@
 ---
-title: "The Library of Everything"
+title: "Biblioteka wszystkiego"
 date: 2025-02-03
 draft: false
 description: ""

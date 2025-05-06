@@ -1,5 +1,5 @@
 ---
-title: "A prosthesis maintenance day at the hackerspace"
+title: "Dzień naprawy protez w hakerspejsie"
 date: 2024-11-20
 draft: false
 description: ""

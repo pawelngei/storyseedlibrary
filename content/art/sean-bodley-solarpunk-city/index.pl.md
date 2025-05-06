@@ -1,5 +1,5 @@
 ---
-title: "How to build a Solarpunk City"
+title: "Jak zbudować solarpunkowe miasto"
 date: 2023-03-09
 draft: false
 description: ""

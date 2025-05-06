@@ -1,5 +1,5 @@
 ---
-title: "Deconstruction crew"
+title: "Ekipa rozbiorkowa"
 date: 2024-05-03
 draft: false
 description: ""

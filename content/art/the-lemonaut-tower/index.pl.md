@@ -1,5 +1,5 @@
 ---
-title: "The Tower"
+title: "Wieża Mieszkalna"
 date: 2024-09-05
 draft: false
 description: ""

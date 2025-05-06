@@ -1,5 +1,5 @@
 ---
-title: "ECOCIDE Inc. - Victory"
+title: "EKOBÓJSTWO Sp. z o.o. - Zwycięstwo"
 date: 2020-04-15
 draft: false
 description: ""

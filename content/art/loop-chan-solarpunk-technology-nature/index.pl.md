@@ -1,5 +1,5 @@
 ---
-title: "Solarpunk Technology and Nature together"
+title: "Solarpunk - technologia i natura razem"
 date: 2024-03-25
 draft: false
 description: ""

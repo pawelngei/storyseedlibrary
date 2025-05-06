@@ -1,5 +1,5 @@
 ---
-title: "Solarpunk Workshop"
+title: "Solarpunkowy warsztat"
 date: 2024-05-17
 draft: false
 description: ""

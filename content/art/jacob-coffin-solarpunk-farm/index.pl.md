@@ -1,5 +1,5 @@
 ---
-title: "Solarpunk Farm"
+title: "Solarpunkowe gospodarstwo"
 date: 2025-02-10
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "Ropeway Waystation"
+title: "Stacja kolejki linowej"
 date: 2023-10-20
 draft: false
 description: ""

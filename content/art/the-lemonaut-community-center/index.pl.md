@@ -1,5 +1,5 @@
 ---
-title: "The Community Center"
+title: "Dom Kultury"
 date: 2024-07-05
 draft: false
 description: ""

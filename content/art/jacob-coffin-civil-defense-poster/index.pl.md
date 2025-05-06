@@ -1,5 +1,5 @@
 ---
-title: "Civil Defense Poster"
+title: "Plakat przysposobienia obronnego"
 date: 2024-03-22
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "Modular Caustic Soda Locomotive"
+title: "Modułowa lokomotywa sodowa"
 date: 2024-04-12
 draft: false
 description: ""

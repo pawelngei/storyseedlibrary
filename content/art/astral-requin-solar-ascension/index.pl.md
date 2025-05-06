@@ -1,5 +1,5 @@
 ---
-title: "Solar Ascension"
+title: "Słoneczne Wyniesienie"
 date: 2019-08-06
 draft: false
 description: ""
@@ -8,7 +8,7 @@ authors:
  - astralrequin
 ---
 
-[Original on DeviantArt](https://www.deviantart.com/astral-requin/art/Solar-Ascension-808565337)
+[Oryginał na DeviantArt](https://www.deviantart.com/astral-requin/art/Solar-Ascension-808565337)
 
 ## Original Description
 

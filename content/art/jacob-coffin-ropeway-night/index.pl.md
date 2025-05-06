@@ -1,5 +1,5 @@
 ---
-title: "Ropeway at Night"
+title: "Kolejka linowa w nocy"
 date: 2023-10-13
 draft: false
 description: ""

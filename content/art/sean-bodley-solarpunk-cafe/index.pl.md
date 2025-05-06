@@ -1,5 +1,5 @@
 ---
-title: "Solarpunk Cafe"
+title: "Solarpunkowa kawiarnia"
 date: 2023-09-19
 draft: false
 description: ""

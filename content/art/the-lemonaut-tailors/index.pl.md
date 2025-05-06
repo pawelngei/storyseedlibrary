@@ -1,5 +1,5 @@
 ---
-title: "The Tailors"
+title: "Krawcy"
 date: 2024-08-26
 draft: false
 description: ""

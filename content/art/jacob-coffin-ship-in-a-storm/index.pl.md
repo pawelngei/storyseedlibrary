@@ -1,5 +1,5 @@
 ---
-title: "Ship in a Storm"
+title: "Statek podczas sztormu"
 date: 2024-08-20
 draft: false
 description: ""

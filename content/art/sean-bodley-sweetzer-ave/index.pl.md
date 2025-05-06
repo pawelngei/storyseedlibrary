@@ -1,5 +1,5 @@
 ---
-title: "Sweetzer Ave. Carbon-Negative Concept Art"
+title: "Sweetzer Avenue - ujemny ślad węglowy"
 date: 2020-08-09
 draft: false
 description: ""

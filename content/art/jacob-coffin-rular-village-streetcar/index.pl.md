@@ -1,5 +1,5 @@
 ---
-title: "Rural Village Streetcar"
+title: "Tramwaj w wiosce"
 date: 2025-03-23
 draft: false
 description: ""

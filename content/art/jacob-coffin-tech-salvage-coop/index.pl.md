@@ -1,5 +1,5 @@
 ---
-title: "Tech Salvage Co-Op"
+title: "Kooperatywa Odzysku Technologii"
 date: 2023-08-25
 draft: false
 description: ""

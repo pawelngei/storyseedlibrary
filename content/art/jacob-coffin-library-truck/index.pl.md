@@ -1,5 +1,5 @@
 ---
-title: "Library Truck"
+title: "Ciężarówka biblioteczna"
 date: 2024-01-16
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "Passive Greenhouses in Early Spring"
+title: "Pasywna szklarnia na wczesną wiosnę"
 date: 2023-11-15
 draft: false
 description: ""

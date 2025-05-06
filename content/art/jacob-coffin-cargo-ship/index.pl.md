@@ -1,5 +1,5 @@
 ---
-title: "Cargo Ship"
+title: "Kontenerowiec"
 date: 2024-10-16
 draft: false
 description: ""

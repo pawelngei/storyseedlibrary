@@ -1,5 +1,5 @@
 ---
-title: "Farming Barge"
+title: "Barka rolna"
 date: 2023-02-01
 draft: false
 description: ""

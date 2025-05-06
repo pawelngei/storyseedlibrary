@@ -1,5 +1,5 @@
 ---
-title: "Solar Furnace Steel Recycling"
+title: "Słoneczny piec przetapiający stal"
 date: 2023-09-15
 draft: false
 description: ""

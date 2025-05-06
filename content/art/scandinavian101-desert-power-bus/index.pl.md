@@ -1,5 +1,5 @@
 ---
-title: "Desert Power - Bus"
+title: "Energia Pustyni - Autobus"
 date: 2025-03-16
 draft: false
 description: ""

@@ -1,5 +1,5 @@
 ---
-title: "Repurposed Parking Garage"
+title: "Przerobiony parking"
 date: 2023-09-11
 draft: false
 description: ""

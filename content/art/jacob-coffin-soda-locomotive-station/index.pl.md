@@ -1,5 +1,5 @@
 ---
-title: "Caustic Soda Locomotive At A Station"
+title: "Lokomotywa sodowa na stacji"
 date: 2024-04-07
 draft: false
 description: ""

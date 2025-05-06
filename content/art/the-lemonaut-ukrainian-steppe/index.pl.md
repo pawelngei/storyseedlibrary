@@ -1,5 +1,5 @@
 ---
-title: "Ukrainian Steppe"
+title: "Ukraiński Step"
 date: 2023-06-06
 draft: false
 description: ""

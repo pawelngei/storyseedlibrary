@@ -1,5 +1,5 @@
 ---
-title: "Woodgas Plow Truck Filling a Village Snow Vault"
+title: "Pług śnieżny na gaz drzewny"
 date: 2024-01-03
 draft: false
 description: ""

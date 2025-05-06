@@ -1,5 +1,5 @@
 ---
-title: "Ropeway over a Seasonal Road - Winter"
+title: "Kolejka linowa nad zimową drogą"
 date: 2023-11-06
 draft: false
 description: ""
