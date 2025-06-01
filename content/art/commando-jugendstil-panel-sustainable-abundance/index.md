@@ -1,5 +1,5 @@
 ---
-title: "Sustainable abundance?"
+title: "Sustainable abundance"
 date: 2023-08-16
 draft: false
 description: ""
@@ -10,10 +10,10 @@ series: ["Commando Jugendstil's Panels"]
 series_order: 6
 ---
 
-**Question**: 
-Sustainable abundance?
+**Topic**: 
+Sustainable abundance
 
-**Answer**:
+**Description**:
 Every year between April and November the solarpunk city is transformed. Flowers, fruits and crops of all sorts appear on balconies and terraces and community allotments, in flower beds and even on bush shelters sometimes. Maybe the city is not quite self-sufficient food-wise, and lives in strict symbiosis with the countryside that surrounds it, but during the right season it still gets hit with waves of abundance.
 
 The residents celebrate the fresh produce. They organize open-air feasts in gardens and orchards, centred on strawberries, tomatoes or courgettes, each in its season, but for the most part there is more fresh food that can be consumed, even through repeated parties.

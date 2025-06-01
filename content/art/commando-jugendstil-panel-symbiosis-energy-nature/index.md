@@ -1,5 +1,5 @@
 ---
-title: "Symbiosis between energy and nature?"
+title: "Symbiosis between energy and nature"
 date: 2023-10-16
 draft: false
 description: ""
@@ -10,10 +10,10 @@ series: ["Commando Jugendstil's Panels"]
 series_order: 8
 ---
 
-**Question**: 
-Symbiosis between energy and nature?
+**Topic**: 
+Symbiosis between energy and nature
 
-**Answer**:
+**Description**:
 Upon crossing the countryside surrounding the solarpunk city on a bike, a boat or a train, a visitor from our world would feel a bit disconcerted.
 Where are the monocultures that once upon a time spread as far as the eye could see? And what are all those solar panels doing there? And most of all, who let the sheep out in the olive grove?
 

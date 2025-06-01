@@ -10,10 +10,10 @@ series: ["Commando Jugendstil's Panels"]
 series_order: 7
 ---
 
-**Question**: 
+**Topic**: 
 Water management, the solarpunk way
 
-**Answer**:
+**Description**:
 Hard, impermeable surfaces have their uses, to allow bicycles, wheelchairs, strollers and yes, even the few surviving cars, all electric and with sodium batteries, to roll around undisturbed, but with weather patterns freely cycling between drought and torrential rain, the solarpunk city has had to transform, to become permeable and rethink its relationship with water.
 Gardens and food growing spaces are designed around water harvesting and redirect the rain towards cisterns, ponds and other water reservoirs, which are used to water the plants in the try season. Drains and grey water pipes are directly connected to filtration systems. Used water is recovered and used again and again and again.
 

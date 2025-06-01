@@ -13,7 +13,7 @@ series_order: 10
 **Topic**: 
 Human = Artisan
 
-**Answer**:
+**Description**:
 The solarpunk society of the future also celebrates important festivities.
 To tell the truth, people celebrate an even greater number of them.
 Since frantic productivism has been abandoned, everybody has much more time to socialize and relax.

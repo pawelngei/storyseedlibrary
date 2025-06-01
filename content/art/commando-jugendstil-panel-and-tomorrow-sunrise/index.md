@@ -13,7 +13,7 @@ series_order: 12
 **Topic**: 
 And tomorrow? Sunrise.
 
-**Answer**:
+**Description**:
 Up until now we told you how a solarpunk city may work, how it would live and how it would face its problems. We spoke about public transports and clean energy, abundance and nature, but now is the time to bring it all together. Bring us all together and get to work.
 
 A city where everyone could live a good life, worthy, comfortable and meaningful is a city where the primacy of "Economy" over everything else has been dismantled, where people unite to help each other find shared solutions, where "Technology" isn't a fetish used to control people and nature, but just a tool among the others, to be used properly. A city where resources aren't grabbed and hoarded by the usual suspects, but shared among everyone equally and ethically. A city where what matters, the only thing that really matters, is caring about others, about nature and urban spaces.

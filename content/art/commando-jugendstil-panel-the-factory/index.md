@@ -13,7 +13,7 @@ series_order: 11
 **Topic**: 
 The Factory
 
-**Answer**:
+**Description**:
 In the solarpunk society there is a factory which doubles as a historic monument, whose story is taught in schools. In Italy the Just Transition, from the bottom up and mutualistic, started there. Abandoned by bosses and politicians after the latest industrial crisis, with the threat of redundancy over their heads, the workers occupied their factory and drew up an alternate industrial plan: out with car parts, in with cargo bikes and solar panels!
 And in this postcard from the future of the factory we can see how the workers installed their new state-of-the-art solar panels: they are flexible and can adapt to the organic shapes obtained over a cluster of small wind turbines.
 Zero-miles energy, from the Sun and from the wind.
