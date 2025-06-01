@@ -1,5 +1,5 @@
 ---
-title: "How does a solarpunk city exchange goods with other solarpunk communities across the globe?"
+title: "How does a solarpunk city exchange goods?"
 date: 2023-04-16
 draft: false
 description: ""
