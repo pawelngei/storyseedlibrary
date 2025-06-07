@@ -6,6 +6,8 @@ description: ""
 tags: ["illustration", "CC BY 4.0", "vertical", "city", "dystopia"]
 authors:
  - dustinjacobus
+series: ["Living City"]
+series_order: 1
 ---
 
 - Eric Hunting - the living city

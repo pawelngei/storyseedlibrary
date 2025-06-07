@@ -6,6 +6,8 @@ description: ""
 tags: ["illustration", "CC BY 4.0", "vertical", "city", "solar", "wind turbines", "people", "transport"]
 authors:
  - dustinjacobus
+series: ["Living City"]
+series_order: 2
 ---
 
 - Eric Hunting - the living city
