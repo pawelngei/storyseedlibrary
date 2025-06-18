@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "it"
+languageName = "Italian"
+weight = 1
+title = "Story Seed Library"
+
+[params]
+displayName = "IT"
+isoCode = "it"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Una biblioteca di opere solarpunk e visioni di un futuro climatico positivo."
+logo = "img/sitelogo.png"
