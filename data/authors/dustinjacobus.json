@@ -1,0 +1,10 @@
+{
+  "name": "Dustin Jacobus",
+  "image" : "img/dustinjacobus.jpg",
+  "bio": "Through art rooted in solarpunk and eco-futurism, I challenge systems of harm and envision a world where all species are protected and valued.",
+  "social": [
+      { "pencil": "https://dustinjacobus.com/" },
+      { "instagram": "https://www.instagram.com/solarpunkart/" },
+      { "patreon": "http://patreon.com/dustinjacobus" }
+  ]
+}
