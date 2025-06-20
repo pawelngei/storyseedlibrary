@@ -14,4 +14,4 @@ An illustration for two separate Solarpunk Prompts episodes, [The Disabled Commu
 
 > A hackerspace sits within a city still clinging to their own ways while the rest of the world changes. Activists, technologists, inventors and educators trying to show the communities around them that it’s possible to live differently, while actively squabbling over whose plan is the best.
 
-Based on the story seeds: [the hackerspace](seeds/the-hackerspace) and [the disabled community](seeds/the-disabled-community).
+Based on the story seeds: [the hackerspace](/seeds/the-hackerspace) and [the disabled community](/seeds/the-disabled-community).

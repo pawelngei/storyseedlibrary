@@ -13,4 +13,4 @@ authors:
 
 - [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower)
 - [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tower)
-- [Illustration](art/the-lemonaut-tower/)
+- [Illustration](/art/the-lemonaut-tower/)
