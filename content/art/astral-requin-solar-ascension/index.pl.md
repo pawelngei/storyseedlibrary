@@ -3,14 +3,14 @@ title: "Słoneczne Wyniesienie"
 date: 2019-08-06
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-ND 3.0", "horizontal", "fantastic"]
+tags: ["illustration", "CC BY-NC-ND 3.0", "horizontal", "fantastical"]
 authors:
  - astralrequin
 ---
 
 [Oryginał na DeviantArt](https://www.deviantart.com/astral-requin/art/Solar-Ascension-808565337)
 
-## Original Description
+## Opis po angielsku
 
 This is my submission for the Atomhawk contest atomhawk.com/solarpunk! The theme was Solarpunk, I just decided to participate because I love this theme and I believe it should be emphasized!
 

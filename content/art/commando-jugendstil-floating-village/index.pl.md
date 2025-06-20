@@ -8,5 +8,4 @@ authors:
  - commandojugendstil
 ---
 
-Originally commissioned in 2022 for a Solarpunk article in [Liberal Debatt](https://www.liberaldebatt.se/) magazine which never got published. In the meantime it was featured in several other newspapers, like the Polish [Gazeta Wyborcza](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html).
-
+Ilustracja pierwotnie zamówiona w 2022 do solarpunkowego artykułu w magazynie [Liberal Debatt](https://www.liberaldebatt.se/), który niestety nie został nigdy opublikowany. W międzyczasie ukazała się w kilku innych czasopismach, jak [Gazeta Wyborcza](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html).
