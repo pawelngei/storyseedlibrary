@@ -13,4 +13,4 @@ authors:
 
 - [Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-canteen)
 - [Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Canteen)
-- [Ilustracja](/art/the-lemonaut-canteen/)
+- [Ilustracja](/pl/art/the-lemonaut-canteen/)

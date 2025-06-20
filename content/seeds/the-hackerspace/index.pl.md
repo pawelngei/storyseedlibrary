@@ -13,4 +13,4 @@ authors:
 
 - [Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-hackerspace)
 - [Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Hackerspace)
-- [Ilustracja](/art/the-lemonaut-hackerspace/)
+- [Ilustracja](/pl/art/the-lemonaut-hackerspace/)
