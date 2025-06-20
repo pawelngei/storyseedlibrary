@@ -12,4 +12,4 @@ An illustration to one of the Solarpunk Prompts episodes, [The Tailors](https://
 
 > A new Tailor joins a community which has lacked one for years. In a world of distributed manufacturing tailors are no longer just artisans, but educators, material and sustainability experts, fashion designers and translators of cultures, making sure no garment offends others when traveling. Seeing that they’re much less traditional than their predecessor, will they be accepted by the community? Which bold statement surprised everybody?
 
-Based on the [story seed](/seeds/the-tailors).
+Based on the [story seed](seeds/the-tailors).

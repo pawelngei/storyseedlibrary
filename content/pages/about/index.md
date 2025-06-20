@@ -16,9 +16,9 @@ I believe that to be able to create a sustainable civilization and stop destroyi
 
 For the last few years I witnessed many well-meaning writers and academics try to write about a better climate future - be it under a name of Solarpunk or any other - and struggle to find art illustrating their work. It saddened me to see them turn to the most thoughtless AI-generated images, trees growing from concrete buildings - just to represent _something_.
 
-I hope that with this Library, thanks to the [artists](/authors/) who generously donated their [art](/art/) under copyleft licenses, we will be able to go towards meaningful symbols, planting them like signposts towards a better future.
+I hope that with this Library, thanks to the [artists](authors/) who generously donated their [art](art/) under copyleft licenses, we will be able to go towards meaningful symbols, planting them like signposts towards a better future.
 
-For anyone stuck looking for a story idea, good conflict or tension in a realistic near-future setting, I hope that the [seeds](/seeds/) will kickstart their creativity. Be sure to also check out the [Solarpunk Prompts podcast](https://podcast.tomasino.org/@SolarpunkPrompts) by the awesome [tomasino](https://tomasino.org/) for even more writing inspirations!
+For anyone stuck looking for a story idea, good conflict or tension in a realistic near-future setting, I hope that the [seeds](seeds/) will kickstart their creativity. Be sure to also check out the [Solarpunk Prompts podcast](https://podcast.tomasino.org/@SolarpunkPrompts) by the awesome [tomasino](https://tomasino.org/) for even more writing inspirations!
 
 ---
 
