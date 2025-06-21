@@ -3,7 +3,7 @@ title: "W Spoczynku"
 date: 2021-03-26
 draft: false
 description: ""
-tags: ["illustration", "CC BY 4.0", "vertical", "forest", "reclaimed infrastructure"]
+tags: ["illustration", "CC BY 4.0", "vertical", "forest", "reclaimed structure"]
 authors:
  - honora
 ---
