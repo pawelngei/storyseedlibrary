@@ -3,7 +3,7 @@ title: "Ascensione Solare"
 date: 2019-08-06
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-ND 3.0", "horizontal", "fantastical"]
+tags: ["illustrazion", "CC BY-NC-ND 3.0", "orizzontale", "fantastico"]
 authors:
  - astralrequin
 ---

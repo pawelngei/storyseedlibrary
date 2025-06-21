@@ -3,7 +3,7 @@ title: "Strada Verde a Norimberga (Germania)"
 date: 2025-04-29
 draft: false
 description: ""
-tags: ["illustration", "CC BY 4.0", "horizontal", "city", "people", "transport"]
+tags: ["illustrazione", "CC BY 4.0", "orizzontale", "città", "persone", "trasporti"]
 authors:
  - dustinjacobus
 ---

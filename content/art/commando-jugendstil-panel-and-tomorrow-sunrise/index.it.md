@@ -3,7 +3,7 @@ title: "E domani? L'Alba."
 date: 2024-02-16
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal"]
+tags: ["illustrazione", "CC BY-NC-SA 4.0", "orizzontale"]
 authors:
  - commandojugendstil
 series: ["Commando Jugendstil's Panels"]

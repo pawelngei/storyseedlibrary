@@ -3,7 +3,7 @@ title: "Il Risveglio"
 date: 2025-04-29
 draft: false
 description: ""
-tags: ["illustration", "CC BY 4.0", "vertical", "people", "trees"]
+tags: ["illustrazione", "CC BY 4.0", "verticale", "persone", "alberi"]
 authors:
  - dustinjacobus
 ---

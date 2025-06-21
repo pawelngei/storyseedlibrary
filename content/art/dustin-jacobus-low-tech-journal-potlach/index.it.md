@@ -3,7 +3,7 @@ title: "Low tech Journal: La Festa"
 date: 2025-04-29
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-ND 4.0", "vertical", "people", "food", "transport", "solar"]
+tags: ["illustrazione", "CC BY-NC-ND 4.0", "verticale", "persone", "cibo", "trasporti", "solare"]
 authors:
  - dustinjacobus
 ---

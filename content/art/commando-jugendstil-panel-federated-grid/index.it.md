@@ -3,7 +3,7 @@ title: "Cos'è una Rete Federata?"
 date: 2023-11-16
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "wind turbine", "city"]
+tags: ["illustrazion", "CC BY-NC-SA 4.0", "orizzontale", "pale eoliche", "città"]
 authors:
  - commandojugendstil
 series: ["Commando Jugendstil's Panels"]

@@ -3,7 +3,7 @@ title: "Deasfaltare: come coltivare frutta e verdura nella città solarpunk?"
 date: 2023-07-16
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "farming", "city"]
+tags: ["illustrazione", "CC BY-NC-SA 4.0", "orizzontale", "agricoltura", "città"]
 authors:
  - commandojugendstil
 series: ["Commando Jugendstil's Panels"]

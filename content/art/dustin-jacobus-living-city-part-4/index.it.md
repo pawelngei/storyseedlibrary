@@ -3,10 +3,10 @@ title: "Città Vivente: dalla serie di transizione di una città (parte 4)"
 date: 2025-04-29
 draft: false
 description: ""
-tags: ["illustration", "CC BY 4.0", "vertical", "city", "wind turbines", "people", "transport"]
+tags: ["illustrazione", "CC BY 4.0", "verticale", "città", "pale eoliche", "persone", "trasporti"]
 authors:
  - dustinjacobus
-series: ["Living City"]
+series: ["Città Vivente"]
 series_order: 4
 ---
 

@@ -3,7 +3,7 @@ title: "Come scambia beni la città solarpunk?"
 date: 2023-04-16
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "infrastructure", "transport"]
+tags: ["illustrazione", "CC BY-NC-SA 4.0", "orizzontale", "infrastrutture", "trasporti"]
 authors:
  - commandojugendstil
 series: ["Commando Jugendstil's Panels"]
