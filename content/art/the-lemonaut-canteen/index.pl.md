@@ -8,8 +8,8 @@ authors:
   - "thelemonaut"
 ---
 
-An illustration to one of the Solarpunk Prompts episodes, [The Canteen](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-canteen) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Canteen)]:
+Ilustracja do odcinka podcastu Solarpunk Prompts - [The Canteen](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-canteen) [[transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Canteen)]:
 
-> A canteen in an isolated scientific or environmental outpost, where scientists, engineers, cooks and maintenance staff show each other their human face, while still remembering the importance of their role here and the harsh conditions of the outside. For example: cleaning the plastic from the oceans, measuring the polar ice levels, etc.
+> Stołówka w odizolowanej placówce naukowej / środowiskowej, gdzie naukowcy, inżynierowie, kucharze i pracownicy obsługi pokazują sobie nawzajem swoje ludzkie oblicze, jednocześnie pamiętając o tym, jak ważna jest ich rola tutaj i jak trudne warunki panują na zewnątrz (np. czyszczenie oceanów z plastiku, mierzenie poziomu lodu na biegunie północnym itp.).
 
-Based on the [story seed](/pl/seeds/the-canteen).
+Na podstawie [zalążka opowieści](/pl/seeds/the-canteen).

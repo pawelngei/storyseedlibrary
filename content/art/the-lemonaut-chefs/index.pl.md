@@ -8,8 +8,8 @@ authors:
   - "thelemonaut"
 ---
 
-An illustration to one of the Solarpunk Prompts episodes, [The Chefs](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-chefs) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Chefs)]:
+Ilustracja do odcinka podcastu Solarpunk Prompts - [The Chefs](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-chefs) [[transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Chefs)]:
 
-> A group of cooks, dietitians, and teachers are tasked with both creating and promoting well-rounded and tasty vegetarian cuisine in a world living through the culture shock of no affordable meat.
+> Grupa kucharzy, dietetyków i nauczycieli, których zadaniem jest tworzenie i promowanie dobrze dopracowanej i smacznej kuchni wegańskiej/wegetariańskiej w świecie przeżywającym szok kulturowy związany z brakiem niedrogiego mięsa. Czy uda im się powstrzymać masową panikę i zamieszki?
 
-Based on the [story seed](/pl/seeds/the-chefs).
+Na podstawie [zalążka opowieści](/pl/seeds/the-chefs).

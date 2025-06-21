@@ -8,10 +8,10 @@ authors:
   - "thelemonaut"
 ---
 
-An illustration for two separate Solarpunk Prompts episodes, [The Disabled Community](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-disabled-community) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Disabled-Community)] and [The Hackerspace](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-hackerspace) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Hackerspace)]. Two halves representing the cover arts for each of the episodes connect in the wider version above.
+Ilustracja do dwóch oddzielnych odcinków podcastu Solarpunk Prompts - [The Disabled Community](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-disabled-community) [[transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Disabled-Community)] i [The Hackerspace](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-hackerspace) [[transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Hackerspace)]. Dwie połówki będące okładkami każdego z nich łączą się w szerszą wersję - powyżej.
 
-> A community of people with disabilities share their best tricks on how to deal with a harsh world not made for them. A lot of what they share remains unspoken, for every one knows the pain and the challenges they face.
+> Społeczność osób z niepełnosprawnościami dzieli się najlepszymi sztuczkami, jak radzić sobie w trudnym świecie, który nie został dla nich stworzony. Wiele z tego, czym się dzielą, pozostaje niewypowiedziane, bo każdy z nich zna ból i wyzwania, z jakimi się mierzą.
 
-> A hackerspace sits within a city still clinging to their own ways while the rest of the world changes. Activists, technologists, inventors and educators trying to show the communities around them that it’s possible to live differently, while actively squabbling over whose plan is the best.
+> Squat / hackerspace w mieście, które wciąż trzyma się starych schematów, podczas gdy reszta świata się zmienia. Aktywiści, technolodzy, wynalazcy i edukatorzy próbują pokazać społecznościom wokół siebie, że można żyć inaczej, a jednocześnie aktywnie spierają się o to, czyj plan jest najlepszy.
 
-Based on the story seeds: [the hackerspace](/pl/seeds/the-hackerspace) and [the disabled community](/pl/seeds/the-disabled-community).
+Na podstawie dwóch Zalążków Opowieści: [hackerspace](/pl/seeds/the-hackerspace) i [niepełnosprawnych](/pl/seeds/the-disabled-community).

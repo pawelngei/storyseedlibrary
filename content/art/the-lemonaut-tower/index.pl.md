@@ -1,5 +1,5 @@
 ---
-title: "Wieża Mieszkalna"
+title: "Drewniany blok mieszkalny"
 date: 2024-09-05
 draft: false
 description: ""
@@ -9,10 +9,10 @@ authors:
   - "scandinavian101"
 ---
 
-An illustration to one of the Solarpunk Prompts episodes, [The Tower](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tower)]:
+Ilustracja do jednego z odcinków podcastu Solarpunk Prompts, [Wieży](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower) [[transkrpt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tower)]:
 
-> A community is freshly moved into a new, wooden, sustainable, climate-controlled tower designed to help them be close to each other and live communally. For some it is a dream come true, for others it is a culture shock, but everyone is struggling with the trauma of losing their old homes to floods, fires and relocation programs. While the adults deal with their emotions, children are quick to run around and explore the wonders of their new home.
+> Społeczność świeżo wprowadziła się do nowego, drewnianego, odżywalnego i udopornionego na zmiany klimatu bloku mieszkalnego. Został on zaprojektowany, by pomóc im stworzyć wspólnotę i zbliżyć się do siebie nawzajem. Dla części mieszkańców jest to szczyt marzeń, podczas gdy inni mierzą się z szokiem kulturowym. Wszyscy z nich stracili swoje poprzednie domy w pożarach, powodziach i programach przesiedleniowych. Kiedy dorośli stawiają czoła trudnym emocjom, ich dzieci z radością eksplorują fascynujące zakamarki budynku.
 
-Based on the [story seed](/pl/seeds/the-tower).
+Na bazie [zalążka opowieści](/pl/seeds/the-tower).
 
-The illustration itself is a collaboration between The Lemonaut (lineart, characters, colors) and Scandinavian101 (architecture, wooden construction research).
+Ilustracja powstała we współpracy pomiędzy The Lemonaut (linia, postaci, kolory) i Scandinavian101 (architektura, źródła o konstrukcjach drewnianych).

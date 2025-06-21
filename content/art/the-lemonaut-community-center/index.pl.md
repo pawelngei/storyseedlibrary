@@ -8,8 +8,8 @@ authors:
   - "thelemonaut"
 ---
 
-An illustration to one of the Solarpunk Prompts episodes, [The Community Center](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-community-center) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Community-Center)]:
+Ilustracja do odcinka podcastu Solarpunk Prompts, [The Community Center](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-community-center) [[transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Community-Center)]:
 
-> A community center, library, or educational hub, initially set up to help people like coal miners re-specialize and find other jobs, has now became a place for unofficial “pilgrimages” of people striving to find their role in life and learn history from those who lived it.
+> Dom kultury / biblioteka / ośrodek edukacyjny, początkowo założony, by pomóc ludziom takim jak górnicy w zdobyciu nowych umiejętności i znalezieniu innej pracy, teraz stał się miejscem nieoficjalnych „pielgrzymek” ludzi dążących do odnalezienia swojej roli w życiu i poznania historii od tych, którzy taką przemianę przeżyli.
 
-Based on the [story seed](/pl/seeds/the-community-center).
+Na podstawie [zalążka opowieści](/pl/seeds/the-community-center).

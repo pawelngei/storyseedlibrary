@@ -8,8 +8,8 @@ authors:
   - "thelemonaut"
 ---
 
-An illustration to one of the Solarpunk Prompts episodes, [The Tailors](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tailors) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-tailors)]:
+Ilustracja do jednego z odcinków podcastu Solarpunk Prompts, [The Tailors](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tailors) [[transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-tailors)]:
 
-> A new Tailor joins a community which has lacked one for years. In a world of distributed manufacturing tailors are no longer just artisans, but educators, material and sustainability experts, fashion designers and translators of cultures, making sure no garment offends others when traveling. Seeing that they’re much less traditional than their predecessor, will they be accepted by the community? Which bold statement surprised everybody?
+> Nowy Krawiec dołącza do społeczności która od lat radziła sobie bez nich. W świecie zdystrybuowanej produkcji to już nie tylko rzemieślnicy, ale edukatorzy, eksperci w sprawach materiałów i odżywalności, projektanci mody i tłumacze kultur zapewniający, że strój nikogo nie urazi w trakcie podróży. Czy społeczność przyjmie z otwartymi ramionami nowego Krawca, widząc, że jest on / ona znacznie mniej konserwatywny/a niż jego/jej poprzednik sprzed lat? Jakie śmiałe posunięcie zszokowało wszystkich?
 
-Based on the [story seed](/pl/seeds/the-tailors).
+Na bazie [zalążka opowieści](/pl/seeds/the-tailors).
