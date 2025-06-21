@@ -10,7 +10,6 @@ authors:
 
 [Original on ArtStation](https://efflam.artstation.com/projects/aYJ9BX)
 
-
 > I long for the day fossil fuels are nothing but a painful memory we can heal from.
 > I long for the day fungus eats steel, vines entrapping the derricks ~
 

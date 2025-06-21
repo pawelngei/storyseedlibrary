@@ -8,7 +8,9 @@ authors:
  - honora
 ---
 
-[Original on ArtStation](https://efflam.artstation.com/projects/Dx0KkR)
+[Oryginał na ArtStation](https://efflam.artstation.com/projects/Dx0KkR)
+
+## Angielski opis
 
 See more behind the scenes, post your own activist art WIPs for feedback and paint-overs in the Artists vs Extinction discord and FB group!
 Invite link: https://discord.gg/5nQVgSf
