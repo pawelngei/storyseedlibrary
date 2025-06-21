@@ -8,4 +8,5 @@ authors:
  - jacobcoffin
 ---
 
-If you would like to print it or use the alpha channel, a <a href="full_resolution_print.png" target="_blank">PNG version</a> is also available.
+
+<a href="full_resolution_print.png" target="_blank">Wersja PNG</a> jest również dostępna dla osób chcących wydrukować tą ilustrację - bądź potrzebujących kanału alfa.

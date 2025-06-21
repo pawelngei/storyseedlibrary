@@ -8,7 +8,9 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/08/20/ship-in-a-storm/)
+[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2024/08/20/ship-in-a-storm/)
+
+## Angielski opis
 
 I’ve been wanting to do scenes of solarpunk ships and shipping for awhile now (https://slrpnk.net/post/3123093). I love reexamining old technologies and seeing if they could work again, mixed with modern advancements, especially in a society with different values, or one that uses more metrics than just money to make their decisions. 
 

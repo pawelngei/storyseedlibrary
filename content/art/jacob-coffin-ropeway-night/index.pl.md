@@ -8,7 +8,9 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/10/13/ropeway-at-night-photobash/)
+[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2023/10/13/ropeway-at-night-photobash/)
+
+## Angielski opis
 
 I’ve been working on a photobash of a rural village for the last couple weeks – it’s in a more realistic style and has lots and lots of elements, so it’s taking forever and I’m sick of looking at it. So today I took a break and banged this out.
 

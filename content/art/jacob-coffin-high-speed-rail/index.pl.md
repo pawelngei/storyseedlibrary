@@ -8,7 +8,9 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/09/06/high-speed-rail-photobash/)
+[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2023/09/06/high-speed-rail-photobash/)
+
+## Angielski opis
 
 The second photobash in what I hope will be a series; a bit larger and more visually interesting than the first. I’ve started thinking of these as ‘postcards from a solarpunk future.’ They might not show the width and breadth of this world, but nice scenes of what this fictional solarpunk society would consider aspirational, or values worth showing off.
 

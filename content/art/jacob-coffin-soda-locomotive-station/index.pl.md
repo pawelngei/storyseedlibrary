@@ -8,9 +8,11 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/04/07/caustic-soda-locomotive-stopped-at-a-solar-drying-station/)
+[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2024/04/07/caustic-soda-locomotive-stopped-at-a-solar-drying-station/)
 
-# Caustic Soda Locomotive Stopped at a Solar Drying Station
+## Angielski opis
+
+### Caustic Soda Locomotive Stopped at a Solar Drying Station
 
 One of my goals for my postcard series is to show a rebuilding society that prioritizes reducing waste and externalities, and examining what weird technologies might appeal to them because of those goals/limitations. So I’ve been wanting to do a scene of a caustic soda locomotive (http://www.douglas-self.com/MUSEUM/LOCOLOCO/soda/soda.htm) ever since I first heard about them (https://slrpnk.net/comment/2627767).
 

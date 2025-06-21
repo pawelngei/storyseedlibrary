@@ -8,7 +8,9 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2025/03/23/buried-treasure-location-art/)
+[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2025/03/23/buried-treasure-location-art/)
+
+## Angielski opis
 
 We’ve been making good progress on the Buried Treasure TTRPG campaign book. One of the [Fully Automated](https://fullyautomatedrpg.com/) devs has been helping me build out the character section with the little profiles the other premade campaigns use for NPCs, and another has connected me to someone who is working on a PHD in phytoremediation, who can hopefully review the sections I’ve written on that for accuracy.
 

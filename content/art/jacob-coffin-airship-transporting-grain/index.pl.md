@@ -8,7 +8,9 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/11/03/airship-transporting-grain/)
+[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2023/11/03/airship-transporting-grain/)
+
+## Angielski opis
 
 A quick photobash based on a comment about combining airship mooring masts with screw conveyors/screw elevators similar to those used by grain silos on my last airship post. I had these ideas in my head of how the mast could look, and figured it was worth a small detour. It might not be practical, but I'm pleased with how it came out. This was a quick one, the zoomed out scenes often are. (I have been told by a farmer that a loading elevator (the kind with a chain of buckets) would fit better). 
 

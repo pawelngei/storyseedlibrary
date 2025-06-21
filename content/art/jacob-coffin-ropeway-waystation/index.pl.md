@@ -8,7 +8,9 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/10/20/ropeway-waystation-photobash/)
+[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2023/10/20/ropeway-waystation-photobash/)
+
+## Angielski opis
 
 This is my second, slightly more serious photobash of a ropeway.
 
