@@ -8,7 +8,9 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/sweetzer-ave-art-39995429)
+[Oryginał na Patreonie](https://www.patreon.com/posts/sweetzer-ave-art-39995429)
+
+## Angielski opis
 
 I hope you enjoy this attempt to turn my concrete Los Angeles neighborhood into a live-in garden. 
 

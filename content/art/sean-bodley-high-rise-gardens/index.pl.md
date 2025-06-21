@@ -8,7 +8,9 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/solar-punk-art-68063940)
+[Originał na Patreonie](https://www.patreon.com/posts/solar-punk-art-68063940)
+
+## Angielski opis
 
 For this piece I wanted to explore one of my favorite subjects (vertical farming) within  Parable of the Sower. I imagined a gardener enjoying a breeze with the butterflies from one of the top levels. 
 

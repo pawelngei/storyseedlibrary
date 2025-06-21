@@ -8,6 +8,8 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/climate-yurt-36972796)
+[Oryginał na Patreonie](https://www.patreon.com/posts/climate-yurt-36972796)
+
+## Angielski opis
 
 Hey Patrons! I want to thank our newest patron Efflam for offering some critiques on the [original version of this design, the Drought Yurt](https://www.patreon.com/posts/35331381). He inspired me to develop it more

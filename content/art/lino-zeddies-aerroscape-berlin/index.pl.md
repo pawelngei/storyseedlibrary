@@ -9,7 +9,9 @@ authors:
   - aerroscape
 ---
 
-[Original on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berlin_Friedrichstra%C3%9Fe_Utopia_2048_small_file.jpg)
+[Oryginał na Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berlin_Friedrichstra%C3%9Fe_Utopia_2048_small_file.jpg)
+
+## Angielski opis
 
 This art was a submission to the [RealUtopien](https://realutopien.info/visuals/berlin-friedrichstrasse-utopia-2048/) project.
 

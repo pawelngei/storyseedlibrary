@@ -8,7 +8,9 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/painted-farming-78049477)
+[Oryginał na Patreonie](https://www.patreon.com/posts/painted-farming-78049477)
+
+## Angielski opis
 
 I hope you enjoy the coloring of the Farming Barge. 
 

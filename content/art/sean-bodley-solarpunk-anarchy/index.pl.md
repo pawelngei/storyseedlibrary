@@ -8,7 +8,9 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/solarpunk-with-103968472)
+[Oryginał na Patreonie](https://www.patreon.com/posts/solarpunk-with-103968472)
+
+## Angielski opis
 
 One of my heroes Charlie Munger said that "If you don't destroy one of your most closely held ideas each year, then you're not learning enough."
 

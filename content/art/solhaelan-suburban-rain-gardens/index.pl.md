@@ -8,6 +8,8 @@ authors:
   - "solhaelan"
 ---
 
+## Angielski opis
+
 This digital painting depicts the Southern Great Lakes Ecoregion, within the Interior Plateau & Southern Great Lakes Forests Bioregion, within the Temperate Broadleaf and Mixed Forest Biome.
 I chose a suburban setting for this piece because I’ve not yet seen a Solarpunk artwork that features this. I’m aware of the problems with the suburbs, but it seems to me more sustainable to try to adapt them than to demolish them and start over. So instead of lawns I’ve depicted beds of native Indiana plants, including but not limited to:
 

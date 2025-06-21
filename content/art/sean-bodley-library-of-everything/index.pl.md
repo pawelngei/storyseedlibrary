@@ -8,7 +8,9 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/121433682?collection=538254)
+[Oryginał na Patreonie](https://www.patreon.com/posts/121433682?collection=538254)
+
+## Angielski opis
 
 My latest collaborative piece is finished! Check out the video by Andrewism that explores "How Library Economies Work" https://www.youtube.com/watch?v=vW5EVNT--DA
 

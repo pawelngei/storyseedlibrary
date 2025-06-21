@@ -9,7 +9,9 @@ authors:
  - lindsbrown
 ---
 
-[Original on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LindsBrown_SolarpunkArtCollab2024.jpg)
+[Oryginał on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LindsBrown_SolarpunkArtCollab2024.jpg)
+
+## Angielski opis
 
 A woman is weaving a pine needle basket with kids, a man is repairing bicycles, a person is installing a mesh network near a wind turbine. Someone has finished laundry.
 

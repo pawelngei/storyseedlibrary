@@ -8,4 +8,4 @@ authors:
   - scandinavian101
 ---
 
-[Original on ArtStation](https://www.artstation.com/artwork/0l5BwV)
+[Oryginał na Artstation](https://www.artstation.com/artwork/0l5BwV)

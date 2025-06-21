@@ -8,7 +8,9 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/solarpunk-cafe-89516442)
+[Oryginał na Patreonie](https://www.patreon.com/posts/solarpunk-cafe-89516442)
+
+## Angielski opis
 
 This piece is dedicated to Slava Sakhnenko.
 
