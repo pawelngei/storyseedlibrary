@@ -3,7 +3,7 @@ title: "Odżywalne rolnictwo - pociąg ze zbożem - szkic"
 date: 2022-09-09
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "train", "transportation", "farming"]
+tags: ["illustration", "CC BY-SA 4.0", "horizontal", "train", "transport", "farming"]
 authors:
   - scandinavian101
 ---
