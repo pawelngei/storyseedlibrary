@@ -12,4 +12,4 @@ Illustrazione di uno degli episodi di Solarpunk Prompts, [Il Centro Comunitario]
 
 > Un centro comunitario, biblioteca o hub educativo, inizialmente costruito per aiutare lavoratori come i minatori di carbone a riqualificarsi e trovare altri lavori, è ora diventato un luogo per pellegrinaggi informali di gente alla ricerca del proprio ruolo nella vita e che accorre per imparare la storia da coloro che l'hanno vissuta.
 
-Basato sul [relativo seme narrativo](/seeds/the-community-center).
+Basato sul [relativo seme narrativo](/it/seeds/the-community-center).

@@ -12,4 +12,4 @@ Illustrazione per uno degli episodi di Solarpunk Prompts, [Gli Chef](https://pod
 
 Un gruppo di cuochi, dietologi e insegnanti viene scelto per creare e promuovere una cucina vegetariana equilibrata e gustosa in un mondo che attraversa lo shock culturale della carne a prezzi inaccessibili.
 
-Basato sul relativo [seme narrativo](/seeds/the-chefs).
+Basato sul relativo [seme narrativo](/it/seeds/the-chefs).

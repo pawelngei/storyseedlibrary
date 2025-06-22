@@ -13,6 +13,6 @@ Illustrazione per uno degli episodi di Solarpunk Prompts, [La Torre](https://pod
 
 > Una comunità si è appena trasferita in un nuovo condominio: sostenibile, interamente in legno e climaticamente controllato, pianificato per aiutarli a vivere insieme a stretto contatto. Per alcuni è un sogno diventato realtà, per altri è un grande salto, ma tutti hanno a che fare col trauma di aver perso le proprie precedenti case in alluvioni, incendi e programmi di trasferimento. Mentre gli adulti affrontano le proprie emozioni, i bambini sono i primi a correre in giro ed esplorare le meraviglie della nuova casa.
 
-Basato sul [relativo seme narrativo](/seeds/the-tower).
+Basato sul [relativo seme narrativo](/it/seeds/the-tower).
 
 L'illustrazione è una collaborazione tra The Lemonaut (lineart, personaggi, colori) e Scandinavian101 (architettura, ricerche sulle costruzioni in legno).

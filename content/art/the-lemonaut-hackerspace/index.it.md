@@ -14,4 +14,4 @@ Illustrazione per uno degli episodi di Solarpunk Prompts, [La Comunità Disabile
 
 > Un hackerspace in una città che ancora rifiuta l'abbandono delle proprie convinzioni mentre il resto del mondo cambia. Attivisti, tecnologi, educatori e inventori provano a mostrare alle comunità del luogo che è possibile vivere diversamente, mentre battibeccano su quale piano d'azione sia il migliore.
 
-Basato sui relativi semi narrativi: [l'hackerspace](/seeds/the-hackerspace) e [la comunità disabile](/seeds/the-disabled-community).
+Basato sui relativi semi narrativi: [l'hackerspace](/it/seeds/the-hackerspace) e [la comunità disabile](/it/seeds/the-disabled-community).
