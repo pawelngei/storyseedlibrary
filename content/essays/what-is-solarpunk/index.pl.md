@@ -16,4 +16,4 @@ Więcej możesz dowiedzieć się także z [solarpunk.pl](https://solarpunk.pl/):
 
 - [Manifest Solarpunka](https://solarpunk.pl/manifesty/manifest-solarpunka/)
 - [Notatki do Manifestu](https://solarpunk.pl/manifesty/notatki-do-manifestu/)
-- [Soczewki i Fundamenty](https://soczewski.alxd.org), esej Kuratora tej Biblioteki
+- [Soczewki i Fundamenty](https://soczewki.alxd.org), esej Kuratora tej Biblioteki
