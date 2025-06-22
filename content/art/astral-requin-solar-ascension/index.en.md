@@ -1,6 +1,7 @@
 ---
 title: "Solar Ascension"
 date: 2019-08-06
+publishDate: 2025-04-29
 draft: false
 description: ""
 tags: ["illustration", "CC BY-NC-ND 3.0", "horizontal", "fantastical"]

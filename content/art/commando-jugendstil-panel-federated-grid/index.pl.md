@@ -1,6 +1,7 @@
 ---
 title: "Czym jest zdystrybuowana sieć elektryczna?"
 date: 2023-11-16
+publishDate: 2025-06-01
 draft: false
 description: ""
 tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "wind turbine", "city"]

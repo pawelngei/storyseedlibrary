@@ -1,6 +1,7 @@
 ---
 title: "Pasywna szklarnia na wczesną wiosnę"
 date: 2023-11-15
+publishDate: 2025-04-29
 draft: false
 description: ""
 tags: [ "photobash", "CC BY 4.0", "horizontal", "greenhouse", "snow"]

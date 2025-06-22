@@ -1,6 +1,7 @@
 ---
 title: "How does a solarpunk city exchange goods?"
 date: 2023-04-16
+publishDate: 2025-06-01
 draft: false
 description: ""
 tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "infrastructure", "transport"]

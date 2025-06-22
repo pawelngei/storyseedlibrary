@@ -1,6 +1,7 @@
 ---
 title: "Nasiona Oporu"
 date: 2021-08-02
+publishDate: 2025-04-29
 draft: false
 description: ""
 tags: ["illustration", "CC BY 4.0", "vertical", "symbolism"]

@@ -1,6 +1,7 @@
 ---
 title: "EKOBÓJSTWO Sp. z o.o. - Zwycięstwo"
 date: 2020-04-15
+publishDate: 2025-04-29
 draft: false
 description: ""
 tags: ["illustration", "CC BY 4.0", "vertical", "symbolism"]

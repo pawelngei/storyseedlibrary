@@ -1,6 +1,7 @@
 ---
 title: "The Floating Village"
 date: 2022-11-14
+publishDate: 2025-04-29
 draft: false
 description: ""
 tags: ["illustration", "CC BY-SA 4.0", "vertical", "sea", "infrastructure", "reclaimed structure"]

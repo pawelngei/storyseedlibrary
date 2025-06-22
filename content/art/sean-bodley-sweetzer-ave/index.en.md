@@ -1,6 +1,7 @@
 ---
 title: "Sweetzer Ave. Carbon-Negative Concept Art"
 date: 2020-08-09
+publishDate: 2025-04-28
 draft: false
 description: ""
 tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "solar", "cooperation", "city"]
