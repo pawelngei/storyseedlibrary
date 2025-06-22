@@ -59,6 +59,12 @@ name = "...Kuratorze"
 url = "https://alxd.org/"
 weight = 10
 
+[[main]]
+pre = "rss"
+url = "/index.xml"
+identifier = "someRSShere"
+weight = 60
+
 [[footer]]
 none = "none"
 
