@@ -2,72 +2,66 @@
 none = "none"
 
 [[main]]
-name = "Art"
+name = "Ilustracje"
 pageRef = "art"
 identifier = "3yRSzr3A8F"
 weight = 10
 
 [[main]]
-name = "Seeds"
+name = "Zalążki"
 pageRef = "seeds"
 identifier = "3yRSzr3A8D"
 weight = 20
 
 [[main]]
-name = "Art Collab 2025"
-pageRef = "/pages/andrewisms-art-collab-2025"
-identifier = "3yRGzr3A8D"
-weight = 25
-
-[[main]]
-name = "More"
+name = "Więcej"
 weight = 30
 
 [[main]]
-parent = "More"
-name = "Tags"
+parent = "Więcej"
+name = "Tagi"
 pageRef = "tags"
 identifier = "24BZL6Odw6"
 weight = 30
 
 [[main]]
-parent = "More"
-name = "Authors"
+parent = "Więcej"
+name = "Autorzy"
 pageRef = "authors"
 identifier = "LD7z6Qopgw"
 weight = 40
 
 [[main]]
-name = "About"
+name = "O..."
 weight = 50
 
 [[main]]
-parent = "About"
-name = "The Library"
+parent = "O..."
+name = "...Bibliotece"
 pageRef = "/pages/about"
 weight = 1
 
 [[main]]
-parent = "About"
-name = "How to Contribute?"
+parent = "O..."
+name = "Jak się przyłączyć?"
 pageRef = "/pages/contribute"
 weight = 2
 
 [[main]]
-parent = "About"
-name = "Solarpunk Prompts Podcast"
+parent = "O..."
+name = "Podcast Solarpunk Prompts"
 url = "https://podcast.tomasino.org/@SolarpunkPrompts"
 weight = 3
 
 [[main]]
-parent = "About"
-name = "The Curator"
+parent = "O..."
+name = "...Kuratorze"
 url = "https://alxd.org/"
 weight = 10
 
 [[main]]
 pre = "rss"
-url = "/index.xml"
+url = "/pl/index.xml"
 identifier = "someRSShere"
 weight = 60
 
@@ -75,7 +69,7 @@ weight = 60
 none = "none"
 
 [[footer]]
-name = "How to Contribute?"
+name = "Jak się przyłączyć?"
 pageRef = "/pages/contribute"
 identifier = "Wz0vblbVYr"
 weight = 9_999
