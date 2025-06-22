@@ -2,7 +2,7 @@
 title: "Honora"
 ---
 
-Sviluppatore di videogiochi e pittore. Sogna di farcela come artista di fumetti.
+Sviluppatrice di videogiochi e pittore. Sogna di farcela come artista di fumetti.
 
 - [Blog](https://honora.neocities.org/)
 - [Mastodon](https://mastodon.art/@NiwlCraft/)

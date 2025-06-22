@@ -2,7 +2,7 @@
 title: "Jacob Coffin"
 ---
 
-Sci-fi writer with a passion for land conservation, reuse, and human rights not being rolled back.
+Scrittore di fantascienza con la passione per la conservazione ambientale, il riutilizzo e i diritti umani che non vengono ritirati.
 
 - [Wordpress](https://jacobcoffinwrites.wordpress.com/)
 - [Mastodon](https://writing.exchange/@jacobcoffin)
