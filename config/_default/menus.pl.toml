@@ -61,7 +61,7 @@ weight = 10
 
 [[main]]
 pre = "rss"
-url = "/index.xml"
+url = "/pl/index.xml"
 identifier = "someRSShere"
 weight = 60
 
