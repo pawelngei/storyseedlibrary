@@ -1,9 +1,10 @@
 ---
 title: "Sapere è Potere"
 date: 2024-04-02
+publishDate: 2025-05-02
 draft: false
 description: ""
-tags: ["illustrazione", "CC BY-NC-SA 4.0", "quadrato", "biblioteca", "infrastrutture", "solare"]
+tags: ["illustration", "CC BY-NC-SA 4.0", "square", "library", "infrastructure", "solar"]
 authors:
   - "solhaelan"
 ---

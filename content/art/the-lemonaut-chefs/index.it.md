@@ -1,9 +1,10 @@
 ---
 title: "Gli Chef"
 date: 2024-07-31
+publishDate: 2025-04-29
 draft: false
 description: ""
-tags: ["illustrazione", "CC BY-SA 4.0", "verticale", "persone", "cibo", "media"]
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "food", "media"]
 authors:
   - "thelemonaut"
 ---

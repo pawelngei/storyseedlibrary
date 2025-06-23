@@ -1,9 +1,10 @@
 ---
 title: "Giornata Riparazione Protesi all'Hackerspace"
 date: 2024-11-20
+publishDate: 2025-04-29
 draft: false
 description: ""
-tags: ["illustrazione", "CC BY-SA 4.0", "orizzontale", "persone", "disabilità", "technologia", "biblioteca", "economia", "cooperazione"]
+tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "disability", "technology", "library", "economy", "cooperation"]
 authors:
   - "thelemonaut"
 ---

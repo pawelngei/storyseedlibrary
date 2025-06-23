@@ -1,9 +1,10 @@
 ---
 title: "Steppa Ucraina"
 date: 2023-06-06
+publishDate: 2025-05-13
 draft: false
 description: ""
-tags: ["illustrazione", "CC BY-SA 4.0", "verticale", "infrastrutture", "solare", "rovine"]
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "infrastructure", "solar", "ruins"]
 authors:
   - "thelemonaut"
 ---

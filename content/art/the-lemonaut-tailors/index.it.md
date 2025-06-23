@@ -1,9 +1,10 @@
 ---
 title: "I Sarti"
 date: 2024-08-26
+publishDate: 2025-04-29
 draft: false
 description: ""
-tags: ["illustrazione", "CC BY-SA 4.0", "verticale", "persone", "artigianato", "Africa", "disabilità"]
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "crafts", "Africa", "disability"]
 authors:
   - "thelemonaut"
 ---
