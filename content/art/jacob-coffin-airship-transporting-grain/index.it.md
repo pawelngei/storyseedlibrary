@@ -1,6 +1,7 @@
 ---
 title: "Aeronave per il Trasporto del Grano"
 date: 2023-11-03
+publishDate: 2025-04-29
 draft: false
 description: ""
 tags: [ "photobash", "CC BY 4.0", "vertical", "airship", "transport", "food"]
@@ -12,7 +13,7 @@ authors:
 
 # Descrizione Originale:
 
-A quick photobash based on a comment about combining airship mooring masts with screw conveyors/screw elevators similar to those used by grain silos on my last airship post. I had these ideas in my head of how the mast could look, and figured it was worth a small detour. It might not be practical, but I'm pleased with how it came out. This was a quick one, the zoomed out scenes often are. (I have been told by a farmer that a loading elevator (the kind with a chain of buckets) would fit better). 
+A quick photobash based on a comment about combining airship mooring masts with screw conveyors/screw elevators similar to those used by grain silos on my last airship post. I had these ideas in my head of how the mast could look, and figured it was worth a small detour. It might not be practical, but I'm pleased with how it came out. This was a quick one, the zoomed out scenes often are. (I have been told by a farmer that a loading elevator (the kind with a chain of buckets) would fit better).
 
 I talked it over with the folks on slrpnk.net here and feel like there's a definite place for grain and silos in a solarpunk world. Grain plays a huge role in feeding our society and seems to act as a kind of strategic food reserve - so it seems like even a solarpunk society with a focus on local agriculture and balancing their production to limit waste may want the means/surplus to provide for their global neighbors in hard times.
 

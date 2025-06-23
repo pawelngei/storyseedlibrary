@@ -1,9 +1,10 @@
 ---
 title: "Ascensione Solare"
 date: 2019-08-06
+publishDate: 2025-04-29
 draft: false
 description: ""
-tags: ["illustrazion", "CC BY-NC-ND 3.0", "orizzontale", "fantastico"]
+tags: ["illustration", "CC BY-NC-ND 3.0", "horizontal", "fantastical"]
 authors:
  - astralrequin
 ---
@@ -15,7 +16,3 @@ authors:
 Questa è la mia opera per il concorso [Atomhawk](atomhawk.com/solarpunk)! Il tema era il Solarpunk, e ho deciso di partecipare perché lo adoro e credo che debba essere sottolineato!
 
 In questa storia, l'umanità ha abbandonato le vaste, irregolari città ed è ascesa verso i cieli, portando con sé fabbriche e fattorie e permettendo alla Terra di rigenerare i terreni sterili causati dall'urbanizzazione sregolata. Le nuove ecopoli e veicoli galleggiano sopra un mare artificiale di plasma che somiglia a un oceano boreale delle storie fantasy.
-
-
-
-

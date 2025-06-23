@@ -1,11 +1,10 @@
 ---
 title: "Città Rimodernata"
 date: 2025-04-29
+publishDate: 2025-06-07
 draft: false
 description: ""
-tags: ["illustrazione", "CC BY 4.0", "verticale", "città", "persone", "trasporti"]
+tags: ["illustration", "CC BY 4.0", "vertical", "city", "people", "transport"]
 authors:
  - dustinjacobus
 ---
-
-

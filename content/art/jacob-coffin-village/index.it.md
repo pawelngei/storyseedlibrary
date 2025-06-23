@@ -1,6 +1,7 @@
 ---
 title: "Il Villaggio"
 date: 2023-12-21
+publishDate: 2025-04-29
 draft: false
 description: ""
 tags: [ "photobash", "CC BY 4.0", "horizontal", "farming", "forest"]
@@ -50,7 +51,7 @@ Recreation:
 
 - Public amphitheater – one of the only man-made structures on the flood plane.
 
-- The billboard in the foreground is part of a project inside the setting, where they’ve replaced any advertizements on the remaining billboards with artwork, just as a sort of public outdoor art gallery. I wanted to emphasize that this is a society that puts up art for its own sake and to contrast that with our world and its endless advertisements. 
+- The billboard in the foreground is part of a project inside the setting, where they’ve replaced any advertizements on the remaining billboards with artwork, just as a sort of public outdoor art gallery. I wanted to emphasize that this is a society that puts up art for its own sake and to contrast that with our world and its endless advertisements.
 
 - Under the tree canopy there’d be parks, playgrounds, and other third places.
 
@@ -100,19 +101,19 @@ Power sources:
 
 - Not visible from here:
 
-Under the canopy/ 
+Under the canopy/
 
-- Food forests 
+- Food forests
 
-- Parks 
+- Parks
 
 - Playgrounds
 
-Inside the buildings: 
+Inside the buildings:
 
-- Places of worship 
+- Places of worship
 
-- Cafeterias 
+- Cafeterias
 
 - Other third places
 
