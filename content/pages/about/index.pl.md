@@ -23,3 +23,9 @@ Jeżeli szukasz pomysłu na opowiadanie osadzone w realistycznej  przyszłości 
 ---
 
 Logo Biblioteki Zalążków Opowieści zostało stworzone przez wspaniałą Natalię Vish!
+
+---
+
+Tłumaczenia autorstwa:
+
+- Polskie - [Paweł 'alxd' Ngei](/pl/authors/alxd)
