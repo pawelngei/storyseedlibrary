@@ -1,5 +1,5 @@
 ---
-title: "Odpad czy zasób?"
+title: "Odpad czy surowiec?"
 date: 2023-06-16
 publishDate: 2025-06-01
 draft: false
@@ -12,7 +12,7 @@ series_order: 4
 ---
 
 **Pytanie**: 
-Odpad czy zasób?
+Odpad czy surowiec?
 
 **Odpowiedź po angielsku**:
 The insane production rhythms of the Late Stage are a thing of the past, but coffee remains one of the favourite beverages of the solarpunk city.
