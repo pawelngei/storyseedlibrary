@@ -14,49 +14,55 @@ identifier = "3yRSzr3A8D"
 weight = 20
 
 [[main]]
-name = "Więcej"
+name = "Przeglądaj"
 weight = 30
 
 [[main]]
-parent = "Więcej"
+parent = "Przeglądaj"
 name = "Tagi"
 pageRef = "tags"
 identifier = "24BZL6Odw6"
 weight = 30
 
 [[main]]
-parent = "Więcej"
-name = "Autorzy"
+parent = "Przeglądaj"
+name = "Autorów"
 pageRef = "authors"
 identifier = "LD7z6Qopgw"
 weight = 40
 
 [[main]]
-name = "O..."
+name = "Więcej o..."
 weight = 50
 
 [[main]]
-parent = "O..."
+parent = "Więcej o..."
 name = "...Bibliotece"
 pageRef = "/pages/about"
 weight = 1
 
 [[main]]
-parent = "O..."
-name = "Jak się przyłączyć?"
-pageRef = "/pages/contribute"
+parent = "Więcej o..."
+name = "...Solarpunku"
+url = "/pl/essays/what-is-solarpunk"
 weight = 2
 
 [[main]]
-parent = "O..."
-name = "Podcast Solarpunk Prompts"
+parent = "Więcej o..."
+name = "...podkaście Solarpunk Prompts"
 url = "https://podcast.tomasino.org/@SolarpunkPrompts"
 weight = 3
 
 [[main]]
-parent = "O..."
-name = "...Kuratorze"
+parent = "Więcej o..."
+name = "...kuratorze"
 url = "https://alxd.org/"
+weight = 4
+
+[[main]]
+parent = "Więcej o..."
+name = "Jak się przyłączyć?"
+pageRef = "/pages/contribute"
 weight = 10
 
 [[main]]
