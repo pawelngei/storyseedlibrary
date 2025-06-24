@@ -22,7 +22,7 @@ For anyone stuck looking for a story idea, good conflict or tension in a realist
 
 ---
 
-The beautiful logo of the Story Seed Library was created by the awesome Natalia Vish!
+The beautiful logo of the Story Seed Library was created by the awesome [Natalia Vish](https://mas.to/@karafuto)!
 
 ---
 

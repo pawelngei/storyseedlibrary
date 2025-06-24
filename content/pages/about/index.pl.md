@@ -22,7 +22,7 @@ Jeżeli szukasz pomysłu na opowiadanie osadzone w realistycznej  przyszłości 
 
 ---
 
-Logo Biblioteki Zalążków Opowieści zostało stworzone przez wspaniałą Natalię Vish!
+Logo Biblioteki Zalążków Opowieści zostało stworzone przez wspaniałą [Natalię Vish](https://mas.to/@karafuto)!
 
 ---
 
