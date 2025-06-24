@@ -15,10 +15,10 @@ Ogromne dzięki za zainteresowanie dołączeniem do Biblioteki!
 Naszym celem jest prezentowanie ilustracji które:
 
 - Przedstawiają wizję lepszego świata w kontekście Zmian Klimatu
-- Są wizją bliskiej przyszłości bez "magicznych" technologii - niezależnie od tego, czy miałyby być zasilane nanorobotami, czy smoczą krwią
-- Skupiają się na ludziach, społecznościach i cywilizacji żyjącej w równoadze z ekosystemami - nie tylko ruinach i dziczy.
+- Są wizją bliskiej przyszłości bez „magicznych” technologii - niezależnie od tego, czy miałyby być zasilane nanorobotami, czy smoczą krwią
+- Skupiają się na ludziach, społecznościach i cywilizacji żyjącej w równowadze z ekosystemami - nie tylko na ruinach i dziczy.
 
-Nie akceptujemy ilustracji wykonanych przez AI ani z pomocą AI (nawet, jeżeli to tylko tekstura).
+Nie akceptujemy ilustracji wykonanych przez AI ani z pomocą AI (nawet jeżeli to tylko tekstura).
 
 Jeżeli chcesz podzielić się swoją pracą z Biblioteką, {{< cloakemail display="skontaktuj się z nami" address="storyseedlibrary@alxd.org" >}} przysyłając:
 
@@ -31,10 +31,10 @@ Jeżeli chcesz podzielić się swoją pracą z Biblioteką, {{< cloakemail dis
 Jeżeli to Twój pierwszy raz i nie masz jeszcze profilu w Bibliotece, potrzebujemy także:
 
 - Twojego imienia / pseudonimu
-- Jednolinijkowego opisu - może zawierać zaimki i Twój kraj / języki
-- Listy linków które możemy umieścić na Twoim profilu, jak social media, portale z dotacjami, etc.
+- Jednolinijkowego opisu - może zawierać zaimki, Twój kraj i języki
+- Listy linków, które możemy umieścić na Twoim profilu - jak social media, portale z dotacjami etc.
 
-Jeżeli chcesz, możesz [zatruć](https://nightshade.cs.uchicago.edu/whatis.html) swoją pracę, aby była trudniejsza do "zjedzenia" przez sieci neuronowe - nie jest to jednak wymóg (ani rekomendacja). Jako Kurator biblioteki wierzę, że najlepszy sposób na walkę ze "sztuką" tworzoną przez AI jest tworzenie celowych i spójnych symboli - do czego AI nie jest i nie będzie zdolne. Jeżeli zamiast tego będziemy skupiać się na zatrudwaniu datasetów, by nie dać skopiować swojego stylu - przegramy z korporacjami, które stać na rozgryzienie ich przez użycie znacznie większej mocy obliczeniowej.
+Jeżeli chcesz, możesz [zatruć](https://nightshade.cs.uchicago.edu/whatis.html) swoją pracę, aby była trudniejsza do "zjedzenia" przez sieci neuronowe - nie jest to jednak wymóg (ani rekomendacja). Jako Kurator Biblioteki wierzę, że najlepszy sposób na walkę ze "sztuką" tworzoną przez AI to tworzenie celowych i spójnych symboli - do czego AI nie jest i nie będzie zdolne. Jeżeli zamiast tego będziemy skupiać się na zatruwaniu datasetów, by nie dać skopiować swojego stylu, przegramy z korporacjami, które stać na rozgryzienie ich przez użycie znacznie większej mocy obliczeniowej.
 
 ## Dla deweloperów
 

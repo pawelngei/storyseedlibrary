@@ -28,4 +28,4 @@ The beautiful logo of the Story Seed Library was created by the awesome [Natalia
 
 Translations credit:
 
-- Polish - [Paweł 'alxd' Ngei](/authors/alxd)
+- Polish - [Paweł 'alxd' Ngei](/authors/alxd), edited by [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
