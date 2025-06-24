@@ -10,7 +10,7 @@ This page is heavily based on a modified [blowfish](https://blowfish.page/) them
 
 ## Contributing
 
-Please install Hugo (`v0.145.0`) and try previewing your changes with `hugo serve -w` before you make a Pull Request!
+Please install Hugo (specifically version [`0.145.0`](https://github.com/gohugoio/hugo/releases/tag/v0.145.0)) and try previewing your changes with `hugo serve -w` before you make a Pull Request!
 
 ### Adding Authors
 
