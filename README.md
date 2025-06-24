@@ -80,7 +80,15 @@ url: 'czym-jest-solarpunk'
 
 #### Translating Tags
 
-To translate a Tag (without implementing new ones), just create a catalog with a tag name, like `city` - and inside place an `_index.[LANGUAGE_CODE].md` containing just:
+Please don't modify the English tags associated with each article, like:
+
+```yaml
+tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "farming", "waste"]
+```
+
+If you do, they will lose synchronization with their counterparts in other languages.
+
+To translate a Tag correctly, just create a catalog with a tag name in `content/tags/`, like `city` - and inside place an `_index.[LANGUAGE_CODE].md` containing just:
 
 ```yaml
 ---
