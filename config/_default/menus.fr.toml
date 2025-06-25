@@ -1,0 +1,87 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Illustration"
+pageRef = "art"
+identifier = "3yRSzr3A8F"
+weight = 10
+
+[[main]]
+name = "Graines"
+pageRef = "seeds"
+identifier = "3yRSzr3A8D"
+weight = 20
+
+[[main]]
+name = "Collaboration artistique 2025"
+pageRef = "/pages/andrewisms-art-collab-2025"
+identifier = "3yRGzr3A8D"
+weight = 25
+
+[[main]]
+name = "Plus"
+weight = 30
+
+[[main]]
+parent = "Plus"
+name = "Tags"
+pageRef = "tags"
+identifier = "24BZL6Odw6"
+weight = 30
+
+[[main]]
+parent = "Plus"
+name = "Auteur.ice.s"
+pageRef = "authors"
+identifier = "LD7z6Qopgw"
+weight = 40
+
+[[main]]
+name = "À propos"
+weight = 50
+
+[[main]]
+parent = "À propos"
+name = "La Bibliothèque"
+pageRef = "/pages/about"
+weight = 1
+
+[[main]]
+parent = "À propos"
+name = "Solarpunk"
+url = "/essays/what-is-solarpunk"
+weight = 2
+
+[[main]]
+parent = "À propos"
+name = "Podcast Solarpunk Prompts"
+url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+weight = 3
+
+[[main]]
+parent = "À propos"
+name = "Le conservateur"
+url = "https://alxd.org/"
+weight = 4
+
+[[main]]
+parent = "À propos"
+name = "Comment contribuer ?"
+pageRef = "/pages/contribute"
+weight = 10
+
+[[main]]
+pre = "rss"
+url = "/index.xml"
+identifier = "someRSShere"
+weight = 60
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Comment contribuer ?"
+pageRef = "/pages/contribute"
+identifier = "Wz0vblbVYr"
+weight = 9_999
