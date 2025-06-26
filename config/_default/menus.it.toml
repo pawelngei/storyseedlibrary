@@ -7,17 +7,17 @@ pageRef = "art"
 identifier = "3yRSzr3A8F"
 weight = 10
 
-[[main]]
-name = "Semi Narrativi"
-pageRef = "seeds"
-identifier = "3yRSzr3A8D"
-weight = 20
+# [[main]]
+# name = "Semi Narrativi"
+# pageRef = "seeds"
+# identifier = "3yRSzr3A8D"
+# weight = 20
 
-[[main]]
-name = "Art Collab 2025"
-pageRef = "/pages/andrewisms-art-collab-2025"
-identifier = "3yRGzr3A8D"
-weight = 25
+# [[main]]
+# name = "Art Collab 2025"
+# pageRef = "/pages/andrewisms-art-collab-2025"
+# identifier = "3yRGzr3A8D"
+# weight = 25
 
 [[main]]
 name = "Altro"
@@ -41,17 +41,17 @@ weight = 40
 name = "Contenuti"
 weight = 50
 
-[[main]]
-parent = "Contenuti"
-name = "La Biblioteca"
-pageRef = "/pages/about"
-weight = 1
+# [[main]]
+# parent = "Contenuti"
+# name = "La Biblioteca"
+# pageRef = "/pages/about"
+# weight = 1
 
-[[main]]
-parent = "Contenuti"
-name = "Come contribuire?"
-pageRef = "/pages/contribute"
-weight = 2
+# [[main]]
+# parent = "Contenuti"
+# name = "Come contribuire?"
+# pageRef = "/pages/contribute"
+# weight = 2
 
 [[main]]
 parent = "Contenuti"

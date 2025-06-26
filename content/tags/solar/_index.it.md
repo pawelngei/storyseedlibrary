@@ -1,3 +1,3 @@
 ---
-title:"Pannelli Solari"
+title: "Pannelli Solari"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Solarpunk Art"
+title: "Opere Solarpunk"
 draft: false
 description: "Una galleria di opere Solarpunk liberamente utilizzabili sotto licenze aperte"
 slug: "art"
