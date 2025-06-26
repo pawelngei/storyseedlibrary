@@ -1,5 +1,5 @@
 ---
-title: "Sustainable abundance"
+title: "Abbondanza sostenibile"
 date: 2023-08-16
 publishDate: 2025-06-01
 draft: false

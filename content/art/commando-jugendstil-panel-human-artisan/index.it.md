@@ -1,5 +1,5 @@
 ---
-title: "Human = Artisan"
+title: "Umano = Artigiano"
 date: 2023-12-16
 publishDate: 2025-06-01
 draft: false

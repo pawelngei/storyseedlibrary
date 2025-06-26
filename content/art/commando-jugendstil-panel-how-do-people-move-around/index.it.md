@@ -1,5 +1,5 @@
 ---
-title: "How do people move around the solarpunk city?"
+title: "Come ci si sposta nella città solarpunk?"
 date: 2023-03-16
 publishDate: 2025-06-01
 draft: false

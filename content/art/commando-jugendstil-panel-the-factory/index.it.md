@@ -1,5 +1,5 @@
 ---
-title: "The Factory"
+title: "Una Fabbrica Solarpunk"
 date: 2024-01-16
 publishDate: 2025-06-01
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "What does sustainable mobility mean in the solarpunk city?"
+title: "Cosa vuol dire mobilità sostenibile nella città solarpunk?"
 date: 2023-05-16
 publishDate: 2025-06-01
 draft: false

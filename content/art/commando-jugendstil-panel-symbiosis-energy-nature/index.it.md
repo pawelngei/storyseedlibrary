@@ -1,5 +1,5 @@
 ---
-title: "Symbiosis between energy and nature"
+title: "Simbiosi tra natura ed energia"
 date: 2023-10-16
 publishDate: 2025-06-01
 draft: false
