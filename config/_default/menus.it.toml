@@ -1,0 +1,81 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Opere"
+pageRef = "art"
+identifier = "3yRSzr3A8F"
+weight = 10
+
+[[main]]
+name = "Semi Narrativi"
+pageRef = "seeds"
+identifier = "3yRSzr3A8D"
+weight = 20
+
+[[main]]
+name = "Art Collab 2025"
+pageRef = "/pages/andrewisms-art-collab-2025"
+identifier = "3yRGzr3A8D"
+weight = 25
+
+[[main]]
+name = "Altro"
+weight = 30
+
+[[main]]
+parent = "Altro"
+name = "Tag"
+pageRef = "tags"
+identifier = "24BZL6Odw6"
+weight = 30
+
+[[main]]
+parent = "Altro"
+name = "Autori"
+pageRef = "authors"
+identifier = "LD7z6Qopgw"
+weight = 40
+
+[[main]]
+name = "Contenuti"
+weight = 50
+
+[[main]]
+parent = "Contenuti"
+name = "La Biblioteca"
+pageRef = "/pages/about"
+weight = 1
+
+[[main]]
+parent = "Contenuti"
+name = "Come contribuire?"
+pageRef = "/pages/contribute"
+weight = 2
+
+[[main]]
+parent = "Contenuti"
+name = "Solarpunk Prompts Podcast"
+url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+weight = 3
+
+[[main]]
+parent = "Contenuti"
+name = "Il Curatore"
+url = "https://alxd.org/"
+weight = 10
+
+[[main]]
+pre = "rss"
+url = "/it/index.xml"
+identifier = "someRSShere"
+weight = 60
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Come contribuire?"
+pageRef = "/pages/contribute"
+identifier = "Wz0vblbVYr"
+weight = 9_999
