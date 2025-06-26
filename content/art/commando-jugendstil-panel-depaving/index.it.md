@@ -12,13 +12,14 @@ series_order: 5
 ---
 
 **Domanda:**
-Deasfaltare: come coltivare frutta e verdura nella città solarpunk?
+Deasfaltare: come si coltiva nella città solarpunk?
 
 **Risposta:**
-Oggi le città sono soffocate da parcheggi, autostrade a più corsie, garage e pompe di benzina. Cosa succederà a queste tossiche reliquie del passato nella città solarpunk? Saranno riqualificate e restituite alle comunità!
+Le città di oggi sono zeppe di parcheggi, stradoni multi-corsia, autorimesse, stazioni di rifornimento. Che fine fanno nella città solarpunk tutte queste reliquie di un passato tossico? Vengono bonificate e recuperate per la collettività!
 
-I residenti si riuniscono in gruppi di lavoro autorganizzati e, con l'aiuto di picconi e palanchini, rimuovono l'asfalto per scoprire il suolo sotterrato. Giardinieri, permaculturisti e rinaturalizzatori si affrettano con carretti carichi di compost regalati dai vicini e trasformano questi non-luoghi in giardini, aiuole e habitat rigogliosi per invertebrati, uccelli e piccoli mammiferi. Persino i contenitori di gasolio delle pompe di benzina possono essere riutilizzati, una volta riappropriati. Ora sono cisterne d'acqua per la stagione secca, che si riempiono lentamente durante l'autunno e l'inverno grazie ai sistemi di raccolta idrica.
+I cittadini si uniscono in squadre di lavoro auto-organizzate e, con l'aiuto di piccozze e piedi di porco, strappano via l'asfalto, rivelando il terreno sottostante. Giardinieri ed esperti di permacoltura e biodiversità accorrono con carriole e carriole di compost donato dagli abitanti del rione e trasformano i non-luoghi in giardini, orti e spazi di biodiversità per invertebrati, uccelli e piccoli mammiferi.
 
-Dove solo le automobili osavano scorazzare, ora c'è un'angolo di prateria, una foresta alimentare o un'aiuola in cui i vicini possono piantare cibi locali e sani. Nei paraggi, un gruppo di giovani volontari si arrampicano su un furgone (elettrico, con batterie al sodio) dalla Gilda dei Rinaturalizzatori. Partono per deasfaltare le corsie dell'Autostrada A1, ormai quasi in disuso, per trasformarla nel parco lineare più lungo d'Europa.
+Persino le cisterne del benzinaio si possono riutilizzare, una volta bonificate. Ora sono riserve di acqua per la stagione secca che vengono piano piano riempite in inverno grazie a sistemi di raccolta dell'acqua. Dove c'erano solo macchine, ora c'è una mini prateria, o una food forest, o un orto dove coltivare cibo sano e locale.
 
-Ma non c'è da temere! Rimangono abbastanza superfici disponibili per biciclette, carrozzine, passeggini, monopattini e pedoni, e persino per le poche auto e furgoni ancora in circolazione. La differenza è che le città non sono più costruite per le automobili: sono solo ospiti.
+Poco più in là, una squadra di volontari sta salendo su un furgoncino elettrico della Gilda del Rewilding. Vanno ad aiutare a depavimentare la maggior parte delle corsie della autostrada A1, ormai praticamente in disuso, e trasformarla nel più grande parco lineare in Europa.
+Ma non vi preoccupate, ci sono abbastanza superfici asfaltate per biciclette, sedie a rotelle, passeggini, monopattini, pedoni e anche per le poche autovetture ancora in circolazione. La differenza è che ora la città non è più costruita intorno alle auto: sono solo ospiti.

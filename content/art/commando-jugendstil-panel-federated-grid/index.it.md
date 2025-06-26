@@ -12,13 +12,15 @@ series_order: 9
 ---
 
 **Domanda:**
-Cos'è una Rete Federata?
+Cosa sono le reti federate?
 
 **Risposta:**
-Cosa succede alla città solarpunk quando la rete energetica viene colpita da eventi climatici estremi o altri disastri naturali? In breve: non molto.
+Che cosa succede nella città solarpunk quando la rete energetica viene colpita da un evento climatico avverso o da un altro disastro? La risposta breve è: non molto.
 
-La società solarpunk ha imparato la lezione dagli errori del Tardo Periodo (blackout lunghi settimane, assenza di servizio per mesi in alcuni casi) e ha ripensato totalmente il proprio approccio alle forniture energetiche. Quanto alle comunicazioni, non esiste più una Rete Nazionale ma una Rete Federata. Ispirata alla natura, la Rete Federata è frattale. Ogni quartiere, villaggio e gruppo di case ha la propria rete, nella quale tutti sono sia produttori che consumatori, e queste reti sono connesse all'interno di una regione, e poi ancora all'interno di una bioregione, e così via. L'aspetto migliore è che reti adiacenti possono sostenersi a vicenda in caso di imprevisti.
+La società solarpunk ha imparato dagli errori dello Stadio Terminale (blackout durati settimane intere, forniture interrotte a volte per mesi) e ha ripensato il suo approccio all'approvvigionamento energetico dalle fondamenta. Come per le comunicazioni, non si parla più della Rete Nazionale, ma della Rete Federata. Ispirata alla Natura, la Rete Federata è frattale. Ogni quartiere, paesino o agglomerato di case ha la sua rete, dove tutti sono sia produttori che consumatori, e queste reti sono in rete tra loro a livello regionale, e ancora a livello nazionale e via discorrendo. E la cosa migliore è che reti vicine si possono aiutare a vicenda, nel caso qualcosa dovesse succedere.
 
-Una grandinata straordinaria ha danneggiato i pannelli solari? Una bufera invernale ha abbattuto delle pale eoliche? Un terremoto ha sradicato i pali dell'alta tensione? Le reti vicine forniscono energia in avanzo finché i ripari non sono conclusi, e serve molto meno di un tempo. La maggior parte dei residenti ha una formazione di base sul mantenimento degli impianti solari e sui mulini domestici, e i Gruppi di Sovranità Energetica dedicati possono intervenire nei casi più complessi. Non ci sono più bast*rdi che ridono al telefono al solo pensiero di quanti soldi possono spillare facendo pagare i ripari, né odissee lunghe decenni di famiglie bloccate in tendopoli o regioni che si fanno la lotta per l'accesso alle risorse.
+Una grandinata eccezionale distrugge i pannelli solari? Un tifone sradica le turbine eoliche? Un terremoto abbatte i fili dell'alta tensione? Le reti vicine sopperiscono fino alla fine dei lavori di ripristino, e ci vuole molto meno tempo di quanto ci volesse una volta: la maggior parte della popolazione ha almeno un po' di addestramento sulla manutenzione di impianti fotovoltaici o eolici domestici e speciali gruppi di sovranità energetica sono pronti ad intervenire nel momento del bisogno.
 
-La società solarpunk ha imparato che di fronte alle conseguenze delle follie del Tardo Periodo o agli imperativi della Natura, le uniche risposte sensate sono solidarietà e collaborazione.
+Non ci sono più b******i che ridono al telefono al pensiero dei soldi che faranno con la ricostruzione, né odissee decennali di famiglie parcheggiate nei prefabbricati, né recriminazioni di una regione contro l'altra.
+
+La società solarpunk ha imparato che di fronte alle conseguenze della scelleratezza dello Stadio Terminale e alle necessità della Natura le uniche risposte sensate sono la collaborazione e la solidarietà.

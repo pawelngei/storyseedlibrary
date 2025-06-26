@@ -11,14 +11,14 @@ series: ["Commando Jugendstil's Panels"]
 series_order: 12
 ---
 
-**Topic**:
-E domani? L'Alba.
+**Domanda:**
+E domani? L'Aurora.
 
-**Descrizione**:
-Finora vi abbiamo raccontato come una città solarpunk potrebbe funzionare, come vivrebbe e come affronterebbe i propri problemi. Abbiamo parlato di trasporti pubblici ed energia pulita, abbondanza e natura, ma ora è arrivato il momento di unire tutti i fili. Riunirci e iniziare a lavorare insieme.
+**Risposta:**
+Fino ad ora vi abbiamo raccontato di come funziona la città solarpunk, di come vive e di come affronta i problemi. Vi abbiamo parlato di trasporti pubblici ed energia pulita, di abbondanza e natura, ma ora è il momento di mettere tutto insieme. Di metterci tutti insieme, e darci da fare.
 
-Una città in cui chiunque può vivere una vita dignitosa, confortevole e significativa è una città dove il primato dell'"Economia" su ogni altra cosa è stato smantellato, in cui le genti si uniscono per aiutarsi a vicenda nel trovare soluzioni condivise, dove la "Tecnologia" non è un feticcio usato per controllare le altre persone e la natura ma solo uno strumento tra tanti, che va usato con giudizio. Una città in cui le risorse non vengono arraffate e accumulate dai soliti noti, ma condivise tra tutti equamente ed eticamente. Una città in cui ciò che importa, l'unica cosa che importa davvero, è avere cura del prossimo, della natura e degli spazi urbani.
+Una città dove tutti possano vivere una buona vita, dignitosa, confortevole e ricca di significato è una città dove il primato dell’ “Economia” su tutto il resto è stato smantellato, dove le persone si uniscono per aiutarsi l’un l’altra e trovare soluzioni condivise, dove la “Tecnologia” non è un feticcio con cui controllare le persone e la natura, ma uno strumento tra gli altri, da usare in modo appropriato, dove le risorse non vengono accaparrate dai soliti, ma condivise fra tutti equamente, dove quello che conta, l’unica cosa che conta veramente, è prendersi cura delle persone, della natura e degli spazi urbani.
 
-Una città in cui piccole serre nomadi e giardini urbani mobili possono coesistere con idrovolanti solari e l'acqua pulita con spazi sociali verdeggianti.
+Una città dove piccole serre e orti nomadi galleggianti possono convivere con idrovolanti alimentati dall'energia del Sole, con acqua pulita e con spazi verdi e di socialità.
 
-Un tempo non c'erano città del genere, e non c'è garanzia che un giorno ce ne saranno. Ma se uniamo i nostri sforzi, se teniamo duro e lottiamo insieme, un giorno vedremo l'alba di questa splendida città.
+Non c’era una volta una città così, e non c’è garanzia che un giorno ci sarà, ma se uniamo i nostri sforzi, perseveriamo e lottiamo insieme, un giorno arriverà l’aurora di questa splendida città.

@@ -12,10 +12,14 @@ series_order: 2
 ---
 
 **Domanda:**
-Come scambia beni la città solarpunk, con altre comunità affini e intorno al mondo?
+Come fa la città solarpunk a scambiare beni con altre comunità solarpunk in giro per il mondo?
 
 **Risposta:**
-The members of an Ethical Purchasing Group (EPG) get their heads together and send a purchase request directly to consortia of small producers, who prepare the orders and get in touch with transport cooperatives for shipment. Federated platforms help EPGs and producers to keep in touch and plan regular and ad-hoc shipments in the most effective and efficient way. Sailing ships, traditionally built or high-tech, ply the routes of the Mediterranean, hopping from port to port to load and unload all sorts of goods. They belong to cooperatives who collect shipments directly from local producers. Once in port, the crews unload the goods on cargo trains which carry them towards regional exchange centres and cargo railyards.
+I membri di un gruppo di acquisto si mettono d'accordo e mandano una richiesta diretta ai consorzi produttori, che mettono insieme gli ordini e contattano le cooperative di trasporto per la spedizione. Piattaforme federate aiutano GAS e consorzi di produttori a tenersi in contatto e pianificare spedizioni regolari e occasionali nel modo più efficiente ed efficace.
 
-Here, local cooperatives load them on cargo filobus, which use green energy directly from the federated mains to carry them to various neighbourhoods, towns and villages on their route. Delegates from the EPGs go fetch their purchases from designated cargo bus stops, on their cargo bikes, electric or not, or with carts, wheelbarrows and whatever else is at hand, and bring them to the EPG meeting hall, where they are distributed among all members. In turn, local producers hand over their goods to the transport cooperatives, so that they can start their trip in the reverse direction towards communities near and far.
-Exchanges are planned to be fair and equal from the outset.
+Navi a vela, high tech o tradizionali, solcano il Mediterraneo, portando carichi di porto in porto. Appartengono a cooperative che raccolgono spedizioni dai produttori locali.
+Giunte in porto, le navi scaricano i beni su treni merci che le trasportano verso centri regionali di scambio e scali merci. Qui cooperative locali li caricano su filobus da trasporto che usano energia direttamente dalla rete federata per portarli in quartieri, paesini e villaggi del circondario.
+
+I gruppi di acquisto solidale vanno a ritirare i loro acquisiti alle fermate prestabilite, in sella alle loro bici da carico, spesso a pedalata assistita, o con carrelli, carriole e quant'altro. Produttori locali consegnano a loro volta i loro ordini alle cooperative di trasporto in modo che facciano il viaggio inverso alla volta di comunità vicine e lontane.
+
+Ogni scambio è equo e solidale di default.

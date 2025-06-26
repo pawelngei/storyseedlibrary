@@ -11,12 +11,13 @@ series: ["Commando Jugendstil's Panels"]
 series_order: 1
 ---
 
-**Question**:
-How do people move around the solarpunk city?
+**Domanda:**
+Come ci si sposta nella città solarpunk?
 
-**Answer**:
-With public transportation which has been enormously expanded. Private transportation is mostly limited to adapted vehicles for special mobility needs, and vehicles are available through shared ownership schemes.
+**Risposta:**
+Con i mezzi di trasporto pubblico, che sono stati grandemente potenziati. I mezzi privati sono essenzialmente ridotti alle persone con difficoltà di movimento o sono disponibili in affitto.
 
-It is concert season in the solarpunk city and Webby has decided to go to the Auditorium on her Isetta EV, specially adapted for people with her mobility needs. It can be boarded through a ramp, and the steering, which features an extra wheel to control brakes and accelerator,  can be moved out of the way to allow Webby to board and disembark seamlessly. Strictly speaking, the car is not just hers... It is part of a dedicated car-sharing scheme, managed through a municipalized distributed ownership programme.
+È periodo di concerti nella città solarpunk e Webby ha deciso di raggiungere l'Auditorium a bordo della sua Isetta elettrica, convertita apposta per persone che hanno le sue esigenze. Oltre ad includere una rampa, è possibile spostare lateralmente lo sterzo, che ha un doppio volante per controllare freni ed acceleratore.
+Intendiamoci, l’automobile non è soltanto sua… È infatti parte di un programma di affitto dedicato, gestito dal programma di proprietà distribuita del comune.
 
-Next to her, Diego, a sight-impaired musician, follows the orange path painted on the floor towards the Auditorium: the sensors in his next-gen walking stick can tell him where to turn and how far it is.
+Accanto a lei Diego, musicista non vedente, segue la banda arancione dipinta per terra che lo porterà all’Auditorium: i sensori nel suo bastone di ultima generazione sanno dirgli che la destinazione è vicina.
