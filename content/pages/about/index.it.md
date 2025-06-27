@@ -23,3 +23,10 @@ Per chiunque sia bloccato e cerca idee per le proprie storie, un buon conflitto 
 ---
 
 Il meraviglioso logo della Biblioteca dei Semi Narrativi è stato realizzato dalla fantastica Natalia Vish!
+
+---
+
+Tradotto da:
+
+- Italiano - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
+- Polacco - [Paweł 'alxd' Ngei](/authors/alxd), edited by [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
