@@ -48,4 +48,4 @@ There's also a good section on [how to attribute adaptations](https://wiki.creat
 
 ---
 
-If you have any questions, please refer to the [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) webiste and the text of the licenses - this page is just a handy guide with links!
+If you have any questions, please refer to the [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) website and the text of the licenses - this page is just a handy guide with links!

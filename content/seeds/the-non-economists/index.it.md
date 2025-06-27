@@ -1,5 +1,5 @@
 ---
-title: "The Non-Economists"
+title: "I Non-Economisti"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,9 +9,9 @@ authors:
   - "alxd"
 ---
 
-> A small team of researchers is woken up by their notification inboxes exploding: their mundane and unexciting report might have just started an economic war between multiple regions and communities. In a world with tightly-controlled carbon budgets, the production, use and recycling of every product is a subject of LCA, or a LifeCycle Assessment. A bad result might change the design, or move the production to another region, with potential political consequences. How will the researchers deal with their newly acquired (in)fame? Will they trust their analysis, buckle under pressure, or decide to play politics?
+> Un piccolo team di ricercatori si sveglia con le caselle di posta in fiamme: il loro report noioso e di routine potrebbe aver innescato una guerra economica tra varie regioni e comunità. In un mondo di budget carbonici strettamente controllati, produzione, uso e riciclo di ogni prodotto è oggetto di un LCA, o Life Cycle Assessment. Un cattivo risultato può cambiarne il design o spostare la produzione in una regione diversa, con potenziali conseguenze politiche. Come faranno i ricercatori ad affrontare la loro nuova nomea? Si fideranno delle proprie analisi, capitoleranno sotto la pressione o decideranno di lanciarsi nei giochi politici?
 
-## Raw Research Notes
+## Testo Originale delle Note:
 
 What we have then - whether in terms of Carbon Credits, LCAs or other aspects - is a question how to structure a system to make sense and be unhackable.
 
