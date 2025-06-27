@@ -2,7 +2,7 @@ disabled = false
 languageCode = "it"
 languageName = "Italian"
 weight = 1
-title = "Story Seed Library"
+title = "Biblioteca dei Semi Narrativi"
 
 [params]
 displayName = "IT"
