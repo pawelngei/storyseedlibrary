@@ -1,5 +1,5 @@
 ---
-title: "E domani? L'Alba."
+title: "E domani? L'Aurora."
 date: 2024-02-16
 publishDate: 2025-06-01
 draft: false

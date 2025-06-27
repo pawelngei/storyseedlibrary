@@ -1,5 +1,5 @@
 ---
-title: "Benvenuti alla Story Seed Library!"
+title: "Benvenuti alla Biblioteca dei Semi Narrativi!"
 description: "Una biblioteca di opere e semi narrativi Solarpunk per aiutarvi a immaginare un futuro climatico migliore!"
 ---
 

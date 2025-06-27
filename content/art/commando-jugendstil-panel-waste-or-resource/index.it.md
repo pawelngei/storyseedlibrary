@@ -1,5 +1,5 @@
 ---
-title: "Rifiuto o risorsa?"
+title: "Rifiuto o Risorsa?"
 date: 2023-06-16
 publishDate: 2025-06-01
 draft: false
