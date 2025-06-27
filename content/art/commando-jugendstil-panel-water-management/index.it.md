@@ -1,5 +1,5 @@
 ---
-title: "Water management, the solarpunk way"
+title: "Gestione Idrica Solarpunk"
 date: 2023-09-16
 publishDate: 2025-06-01
 draft: false

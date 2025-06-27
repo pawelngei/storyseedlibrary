@@ -1,5 +1,5 @@
 ---
-title: "Cos'è una Rete Federata?"
+title: "Cosa sono le reti federate?"
 date: 2023-11-16
 publishDate: 2025-06-01
 draft: false
