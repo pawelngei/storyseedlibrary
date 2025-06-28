@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "fr"
+languageName = "Français"
+weight = 1
+title = "Bibliothèque de graines d'histoires"
+
+[params]
+displayName = "FR"
+isoCode = "fr"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Une bibliothèque d'art solarpunk et de graines d'histoires, visions d'un futur climatique optimiste."
+logo = "img/sitelogo.png"
