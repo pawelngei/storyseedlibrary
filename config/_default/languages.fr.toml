@@ -2,7 +2,7 @@ disabled = false
 languageCode = "fr"
 languageName = "Français"
 weight = 1
-title = "Bibliothèque de graines d'histoires"
+title = "Bibliothèque de Graines-Histoires"
 
 [params]
 displayName = "FR"
