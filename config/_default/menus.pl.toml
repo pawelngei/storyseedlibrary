@@ -32,6 +32,17 @@ identifier = "LD7z6Qopgw"
 weight = 40
 
 [[main]]
+name = "Wydarzenia"
+weight = 45
+
+[[main]]
+parent= "Wydarzenia"
+name = "Art Collab 2025 [ENG]"
+url = "/pages/andrewisms-art-collab-2025"
+identifier = "3yRGzr3A8D"
+weight = 10
+
+[[main]]
 name = "Więcej o..."
 weight = 50
 
