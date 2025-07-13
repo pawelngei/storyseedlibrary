@@ -84,4 +84,10 @@ none = "none"
 name = "How to Contribute?"
 pageRef = "/pages/contribute"
 identifier = "Wz0vblbVYr"
-weight = 9_999
+weight = 1
+
+[[footer]]
+name = "Contact Us"
+url = "storySeedLibrary@alxd.org"
+identifier = "contactUs"
+weight = 2

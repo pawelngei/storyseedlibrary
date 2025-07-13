@@ -78,4 +78,10 @@ none = "none"
 name = "Jak się przyłączyć?"
 pageRef = "/pages/contribute"
 identifier = "Wz0vblbVYr"
-weight = 9_999
+weight = 1
+
+[[footer]]
+name = "Kontakt"
+url = "storySeedLibrary@alxd.org"
+identifier = "contactUs"
+weight = 2
