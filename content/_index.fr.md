@@ -1,11 +1,11 @@
 ---
-title: "Bienvenue à la Bibliothèque de graines d'histoires !"
+title: "Bienvenue à la Bibliothèque de Graines Histoires !"
 description: "Une bilbiothèque d'illustrations solarpunk et de graines d'histoires pour imaginer un futur climatique meilleur !"
 ---
 
 Bienvenue dans une bibliothèque d'[illustration](/fr/art) solarpunk et de [graines d'histoires](/fr/seeds) - pour imaginer un futur climatique meilleur dans lequel l'humanité apprend à vivre de manière durable sur Terre.
 
-Si tu n'as jamais entendu parler du Solarpunk auparavant, consulte notre courte [presentation](/fr/essays/what-is-solarpunk) !
+Si tu n'as jamais entendu parler du Solarpunk auparavant, consulte notre courte [présentation](/fr/essays/what-is-solarpunk) !
 
 Si tu cherches des illustrations pour un projet, jette un œil à notre section sur : [quelles illustrations puis-je utiliser ?](/fr/pages/which-art-can-i-use/)
 

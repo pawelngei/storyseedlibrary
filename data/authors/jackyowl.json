@@ -1,0 +1,10 @@
+{
+  "name": "Jacky OWL",
+  "image" : "img/jo.jpeg",
+  "bio": "he/her/they/them | solarpunk hacker and creator | 3D hobbyist | Music player | SSL translator (fr) | France",
+  "social": [
+      { "pencil": "https://jacky-owl.fr/" },
+      {"Youtube": "https://www.youtube.com/@Jacky0wl"},
+      {"Linkedin": "https://www.linkedin.com/in/jacky-owl/"}
+  ]
+}

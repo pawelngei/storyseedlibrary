@@ -14,12 +14,6 @@ identifier = "3yRSzr3A8D"
 weight = 20
 
 [[main]]
-name = "Collaboration artistique 2025"
-pageRef = "/pages/andrewisms-art-collab-2025"
-identifier = "3yRGzr3A8D"
-weight = 25
-
-[[main]]
 name = "Plus"
 weight = 30
 
@@ -36,6 +30,17 @@ name = "Auteur.ice.s"
 pageRef = "authors"
 identifier = "LD7z6Qopgw"
 weight = 40
+
+[[main]]
+name = "Événements"
+weight = 45
+
+[[main]]
+parent= "Événements"
+name = "Collaboration artistique 2025"
+pageRef = "/pages/andrewisms-art-collab-2025"
+identifier = "3yRGzr3A8D"
+weight = 10
 
 [[main]]
 name = "À propos"
@@ -85,3 +90,9 @@ name = "Comment contribuer ?"
 pageRef = "/pages/contribute"
 identifier = "Wz0vblbVYr"
 weight = 9_999
+
+[[footer]]
+name = "Contactez-nous"
+url = "storySeedLibrary@alxd.org"
+identifier = "contactUs"
+weight = 2

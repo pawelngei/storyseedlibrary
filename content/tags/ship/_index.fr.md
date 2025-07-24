@@ -1,3 +1,3 @@
 ---
-title: "bateau"
+title: "Navire"
 ---
