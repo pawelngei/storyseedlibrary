@@ -10,7 +10,21 @@ This page is heavily based on a modified [blowfish](https://blowfish.page/) them
 
 ## Contributing
 
-Please install Hugo (specifically version [`0.145.0`](https://github.com/gohugoio/hugo/releases/tag/v0.145.0)) and try previewing your changes with `hugo serve -w` before you make a Pull Request!
+### Installation and development
+
+After cloning the repository, please run:
+
+```bash
+git submodule sync --recursive
+```
+
+To build the site, please install specifically Hugo [`0.145.0`](https://github.com/gohugoio/hugo/releases/tag/v0.145.0). After that, to preview your changes:
+
+```bash
+hugo serve -w
+```
+
+Sometimes related pages (like authors, tags) might not update automatically. You can force the update by running `hugo serve` in another console, or stopping the `-w` one, building statically, then restarting `-w`.
 
 ### Adding Authors
 
