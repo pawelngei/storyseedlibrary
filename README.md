@@ -72,7 +72,7 @@ To add a new tag:
 To add a new language, as described in the [blowfish documentation](https://blowfish.page/docs/configuration/#language-and-i18n):
 
 1. Add `config/_default/languages.[LANGUAGE CODE].toml`
-2. Add `config/_default/manus.[LANGUAGE CODE].toml`
+2. Add `config/_default/menus.[LANGUAGE CODE].toml`
 
 Fill them to match the `en` versions of the files.
 
