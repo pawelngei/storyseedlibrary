@@ -15,7 +15,8 @@ This page is heavily based on a modified [blowfish](https://blowfish.page/) them
 After cloning the repository, please run:
 
 ```bash
-git submodule sync --recursive
+git submodule init --recursive
+git submodule update --recursive
 ```
 
 To build the site, please install specifically Hugo [`0.145.0`](https://github.com/gohugoio/hugo/releases/tag/v0.145.0). After that, to preview your changes:
@@ -25,6 +26,12 @@ hugo serve -w
 ```
 
 Sometimes related pages (like authors, tags) might not update automatically. You can force the update by running `hugo serve` in another console, or stopping the `-w` one, building statically, then restarting `-w`.
+
+Then every time the theme updates, you'll need to run:
+
+```bash
+git submodule update --recursive
+```
 
 ### Adding Authors
 
