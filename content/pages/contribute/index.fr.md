@@ -1,5 +1,5 @@
 ---
-title: "How to Contribute?"
+title: "Comment contribuer ?"
 date: 2025-04-27
 draft: false
 description: ""

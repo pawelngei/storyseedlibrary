@@ -1,5 +1,5 @@
 ---
-title: "Which art can I use?"
+title: "Quelle œuvre puis-je utiliser ?"
 date: 2025-05-03
 draft: false
 description: ""
