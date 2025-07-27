@@ -12,6 +12,8 @@ showEdit: false
 layoutBackgroundHeaderSpace: false
 cardView: true
 cardViewScreenWidth: true
+images:
+- ../featured.jpg
 ---
 
 Looking for visions of a better climate future, where our civilization lives in harmony with the ecosystems? Tired of the endless AI-generated pictures of skyscrapers with trees on top?
