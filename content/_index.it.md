@@ -1,6 +1,8 @@
 ---
 title: "Benvenuti alla Biblioteca dei Semi Narrativi!"
 description: "Una biblioteca di opere e semi narrativi Solarpunk per aiutarvi a immaginare un futuro climatico migliore!"
+images:
+ - featured.it.jpg
 ---
 
 Benvenuti alla biblioteca di [opere](/it/art) e [semi narrativi](/it/seeds/) Solarpunk per aiutarvi a immaginare un futuro climatico migliore, nel quale l'uomo (re)impara a vivere in simbiosi con la Terra.
