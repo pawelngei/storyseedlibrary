@@ -30,3 +30,4 @@ Tradotto da:
 
 - Italiano - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
 - Polacco - [Paweł 'alxd' Ngei](/authors/alxd), edited by [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
+- Francese - [Jacky OWL](/authors/jackyowl)

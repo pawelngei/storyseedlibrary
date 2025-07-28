@@ -30,3 +30,4 @@ Tłumaczenia autorstwa:
 
 - Polskie - [Paweł 'alxd' Ngei](/pl/authors/alxd), korekta [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
 - Włoskie - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
+- Francuskie - [Jacky OWL](/authors/jackyowl)
