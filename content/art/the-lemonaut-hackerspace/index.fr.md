@@ -15,7 +15,7 @@ Une illustration pour deux épisodes distincts de Solarpunk Prompts, [The Disabl
 
 > Un hackerspace se trouve dans une ville qui s'accroche encore à ses propres habitudes alors que le reste du monde change. Des activistes, des technologues, des inventeurs et des éducateurs essaient de montrer aux communautés qui les entourent qu'il est possible de vivre différemment, tout en se disputant activement pour savoir quel plan est le meilleur.
 
-Basé sur les graines de l'histoire : [le hackerspace](/seeds/le-hackerspace) et [la communauté des handicapés](/seeds/la-communauté-des-handicapés).
+Basé sur les graines de l'histoire : [le hackerspace](/fr/seeds/le-hackerspace) et [la communauté des handicapés](/fr/seeds/la-communauté-des-handicapés).
 
 
 > Traduction non-inclusive via [DeepL](https://www.deepl.com/translator)

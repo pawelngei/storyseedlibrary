@@ -14,19 +14,19 @@ En fonction de la nature de ton projet, tu peux utiliser les licences suivantes 
 
 ## Projet commercial
 
-tu peux utiliser les œuvres [CC BY 4.0](/tags/cc-by-4.0/) simplement en mentionnant le nom de l'artiste. Tu n'es pas tenu de l'informer de ton utilisation, mais il est considéré comme courtois de le faire.
+tu peux utiliser les œuvres [CC BY 4.0](/fr/tags/cc-by-4.0/) simplement en mentionnant le nom de l'artiste. Tu n'es pas tenu de l'informer de ton utilisation, mais il est considéré comme courtois de le faire.
 
-Les œuvres [CC0](/tags/cc0) sont considérées comme appartenant au domaine public. Tu n'es même pas tenu de mentionner le nom de l'auteur, mais si celui-ci est connu, nous t'encourageons à le faire !
+Les œuvres [CC0](/fr/tags/cc0) sont considérées comme appartenant au domaine public. Tu n'es même pas tenu de mentionner le nom de l'auteur, mais si celui-ci est connu, nous t'encourageons à le faire !
 
-Si tu ne modifies pas l'œuvre (par exemple en l'intégrant à un collage), tu peux également utiliser la licence [CC BY-ND 4.0](/tags/cc-by-nd-4.0/) ! Pour en savoir plus sur ce qu'est une modification / adaptation / remix, clique [ici](https://guides.lib.uw.edu/bothell/creativecommons/adapt).
+Si tu ne modifies pas l'œuvre (par exemple en l'intégrant à un collage), tu peux également utiliser la licence [CC BY-ND 4.0](/fr/tags/cc-by-nd-4.0/) ! Pour en savoir plus sur ce qu'est une modification / adaptation / remix, clique [ici](https://guides.lib.uw.edu/bothell/creativecommons/adapt).
 
-Si tu modifies l'œuvre, tu peux également utiliser [CC BY-SA 4.0](/tags/cc-by-sa-4.0/), mais tu dois publier ton remix sous la même licence. N'hésites pas à nous contacter, nous l'hébergerons peut-être également sur la page de la Bibliothèque !
+Si tu modifies l'œuvre, tu peux également utiliser [CC BY-SA 4.0](/fr/tags/cc-by-sa-4.0/), mais tu dois publier ton remix sous la même licence. N'hésites pas à nous contacter, nous l'hébergerons peut-être également sur la page de la Bibliothèque !
 
 ## Projet non commercial
 
-Si ton projet est non commercial, tu peux également utiliser librement les licences [CC BY 4.0](/tags/cc-by-4.0/) et [CC BY-NC 4.0](/tags/cc-by-nc-4.0/) !
+Si ton projet est non commercial, tu peux également utiliser librement les licences [CC BY 4.0](/fr/tags/cc-by-4.0/) et [CC BY-NC 4.0](/fr/tags/cc-by-nc-4.0/) !
 
-[CC BY-ND 4.0](/tags/cc-by-nd-4.0/) et [CC BY-SA 4.0](/tags/cc-by-sa-4.0/) fonctionnent de la même manière que celles décrites ci-dessus, mais tu peux également utiliser leurs versions non commerciales, [CC BY-NC-ND 4.0](/tags/cc-by-nc-nd-4.0/) et [CC BY-NC-SA 4.0](/tags/cc-by-nc-sa-4.0/). Nous avons également des œuvres publiées sous la version précédente de la licence, [CC BY-NC-ND 3.0](/tags/cc-by-nc-nd-3.0/) !
+[CC BY-ND 4.0](/fr/tags/cc-by-nd-4.0/) et [CC BY-SA 4.0](/fr/tags/cc-by-sa-4.0/) fonctionnent de la même manière que celles décrites ci-dessus, mais tu peux également utiliser leurs versions non commerciales, [CC BY-NC-ND 4.0](/fr/tags/cc-by-nc-nd-4.0/) et [CC BY-NC-SA 4.0](/fr/tags/cc-by-nc-sa-4.0/). Nous avons également des œuvres publiées sous la version précédente de la licence, [CC BY-NC-ND 3.0](/fr/tags/cc-by-nc-nd-3.0/) !
 
 ## Bonnes pratiques pour créditer les artistes
 

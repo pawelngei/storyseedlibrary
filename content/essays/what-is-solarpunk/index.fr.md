@@ -10,10 +10,10 @@ authors:
 
 Si tu n'as pas encore entendu parler de ce mouvement et genre par le passé, [Andrewism](https://www.youtube.com/@Andrewism/) a créé une des meilleures courtes-introductions que j'ai jamais vu :
 
-{{< youtubeLite id="u03hoO3QueM" label="What is Solarpunk (2025)" >}}
+{{< youtubeLite id="5CVxq54P7m8" label=" Le Solarpunk : construire un imaginaire écolo-optimiste " >}}
 
 Tu peux aussi aller jeter un oeil (ou deux):
 
-- [Un Manifeste Solarpunk](https://www.re-des.org/a-solarpunk-manifesto/)
+- [Un Manifeste Solarpunk](https://www.re-des.org/es/un-manifest-solarpunk-francais/)
 - [Notes vers un manifeste](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)
-- [Loupes et Fondations](https://lenses.alxd.org),un essai rédigé par ton serviteur, le conservateur de la BGH
+- [Loupes et Fondations](https://lenses.alxd.org), un essai rédigé par ton serviteur, le conservateur de la BGH

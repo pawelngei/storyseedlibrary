@@ -8,4 +8,4 @@ Les travaux ci-dessous sont une sélection d'illustrations créées pour la coll
 >
 > Le but de ce projet est d'enjoindre tous.te.-un.e-chacun.e à collaborer ensemble, partager des idées et de s'inspirer mutuellement via nos oeuvres ! Il ne s'agit pas là d'un concours - il n'y a ni prix ni gagnants, excepté de tout ce que nous apprenons les un.e.s des autres et des visions d'un monde meilleur que nous créons ! 
 
-Tu peux lire plus à propos de cette initiative sur sa [page d'événement](/pages/andrewisms-art-collab-2025/). Tous les travaux sont disponibles sur [le tumbler d'Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning).
+Tu peux lire plus à propos de cette initiative sur sa [page d'événement](/fr/pages/andrewisms-art-collab-2025/). Tous les travaux sont disponibles sur [le tumbler d'Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning).

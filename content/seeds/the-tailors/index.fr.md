@@ -13,4 +13,4 @@ authors:
 
 - [Épisode du podcast Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tailors)
 - [Transcription](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tailors)
-- [Illustration](/art/the-lemonaut-tailors/)
+- [Illustration](/fr/art/the-lemonaut-tailors/)
