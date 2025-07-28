@@ -1,0 +1,35 @@
+---
+title: "Chantier aéronaval au petit matin"
+date: 2023-11-01
+publishDate: 2025-04-29
+draft: false
+description: ""
+tags: [ "photobash", "CC BY 4.0", "horizontal", "airship", "transport", "desert"]
+authors:
+ - jacobcoffin
+---
+
+[Original sur Wordpress](https://jacobcoffinwrites.wordpress.com/2023/11/01/airshipyard-in-early-morning-photobash/)
+
+Un autre coup d'œil sur les parties plus industrielles de ce futur solarpunk. Celui-ci a été inspiré par la montagne de vêtements absolument massive qui a été déversée, toute neuve et invendue, dans le désert d'Atacama au Chili (https://www.aljazeera.com/gallery/2021/11/8/chiles-desert-dumping-ground-for-fast-fashion-leftovers). Produit de l'industrie de la mode rapide de notre société et de la complexité de nos chaînes d'approvisionnement, une énorme quantité d'énergie et d'eau est gaspillée pour produire ces vêtements, une autre énergie est gaspillée pour les expédier, et une autre encore est dépensée pour les transporter dans le désert où ils étouffent le paysage et l'écosystème sous des matériaux synthétiques bon marché.
+
+L'un des objectifs principaux de cette série est de montrer une société institutionnellement axée sur la réutilisation, plutôt que sur l'extraction et la production. Une société qui pense plus loin que nous, qui produit ce dont elle a besoin et qui réfléchit soigneusement à la façon d'utiliser, de réutiliser et de reconvertir ce qu'elle produit. Une société où la richesse des produits utilisables que nous jetons actuellement est traitée comme une ressource naturelle à trouver et à échanger entre les peuples engagés dans le nettoyage millénaire. J'espère que dans cet avenir, l'industrie de la fast fashion est morte depuis longtemps, et que la demande de ses produits, quelle qu'elle soit, peut être satisfaite en utilisant l'absurde stock de vêtements produits inutilement et entassés dans le désert le plus aride du monde.
+
+Ce qui m'amène à l'autre objectif de mon photobash. J'ai envie de faire une scène avec des dirigeables depuis la discussion que nous avons eue ici : https://slrpnk.net/post/3123093. En fait, je vais probablement en faire plusieurs. Bien qu'ils soient relativement peu utilisés, la conception des dirigeables a énormément progressé au cours des cent dernières années. L'amélioration des matériaux leur a permis de prendre des formes plus efficaces, et l'amélioration des moteurs, des batteries et des systèmes informatiques les a rendus beaucoup plus faciles à contrôler. En lisant des articles sur les dirigeables historiques, j'ai été frappé par le risque qu'il y avait à faire presque n'importe quoi avec eux, mais surtout à atterrir - ce qui nécessitait souvent des équipes au sol ("équipes d'atterrissage") composées de centaines d'hommes qui, à la force des muscles, tiraient l'engin jusqu'au sol. En revanche, les dirigeables modernes peuvent se poser directement sur le sol.
+
+Ils ont également un très bon potentiel en tant que système en boucle fermée : Si tu recouvrais le sommet d'un dirigeable de panneaux solaires, tu aurais une capacité de production importante, surtout au-dessus des nuages (les panneaux solaires fonctionnent mieux dans le froid). Tu pourrais l'utiliser pour faire fonctionner des moteurs électriques, et l'énergie excédentaire pourrait être utilisée pour produire de l'hydrogène qui servirait à la fois de sustentateur et de carburant. Pour cela, il suffit d'avoir de l'eau, qui constitue également un excellent lest.
+
+L'hélium est une autre option, mais c'est une ressource limitée qui, si j'ai bien compris, nécessite des forages pour être obtenue.
+
+Les dirigeables pourraient ouvrir des possibilités vraiment intéressantes : s'ils n'ont pas la vitesse d'un avion à réaction, ils ont plus de capacité et moins besoin de carburant. Bien qu'ils n'aient pas la capacité d'un porte-conteneurs, ils sont beaucoup plus rapides et consomment beaucoup moins de carburant. Ils peuvent également voler au-dessus de la terre, ce qui signifie qu'ils peuvent atteindre toutes sortes d'endroits que les navires ne peuvent pas atteindre, et éviter les longs détours autour des continents. En gros, les porte-conteneurs peuvent peut-être transporter plus, mais ils ne sont pas aussi bons pour aller de Boston à Seattle, et ils sont nuls pour aller à Kansas City. De plus, les dirigeables peuvent agir comme des grues volantes, en soulevant des objets volumineux tels que des éoliennes ou des bâtiments assemblés, en passant par-dessus des obstacles et en se rendant dans des endroits où les routes ou les trains ne pourraient tout simplement pas les transporter.
+
+Pour l'aménagement de ce chantier aéronaval, j'ai décidé que bien que les dirigeables modernes puissent simplement atterrir sur le sol, le processus de défrichage et de construction d'une aire d'atterrissage est suffisamment destructeur pour que cette société donne la priorité aux mâts d'amarrage à faible impact pour les dirigeables en attente, et construise juste assez d'aires d'atterrissage pour correspondre à leur capacité de chargement. Ce n'est certainement pas parce que les [mâts d'amarrage](https://fr.wikipedia.org/wiki/M%C3%A2t_d%27amarrage), avec les dirigeables qui tournent autour de leur sommet dans le vent, sont extrêmement cool. Ou parce que les tours métalliques laides renforcent certains thèmes avec lesquels j'ai joué, en essayant de montrer que même dans un futur solarpunk ambitieux, il y aura des endroits qui ne seront pas *esthétiques*, mais où les conceptions utilitaires et pratiques seront les plus sensées, et pourront avoir leur propre beauté.
+
+J'ai également inclus un hangar à dirigeables massif, car j'ai pensé que même un petit chantier aéronaval comme celui-ci pourrait avoir besoin d'une capacité de maintenance et d'un abri pour les dirigeables endommagés qui s'échouent par mauvais temps. Je ne suis pas sûr.e qu'ils puissent entretenir la variété d'embarcations actuellement amarrées, mais j'espère qu'avec la technologie moderne, ils pourront y arriver. J'imagine que les principaux chantiers de dirigeables seraient situés dans les grandes villes, et que ces dirigeables ont déjà déposé des cargaisons depuis leurs propres points d'origine, et qu'ils sont ici pour collecter des vêtements de l'ancien monde et des matériaux fabriqués à partir de vêtements.
+
+Les dirigeables eux-mêmes sont pour la plupart tirés de modèles et de prototypes modernes, avec des panneaux solaires ajoutés à leur sommet. J'aime particulièrement ceux comme la Baleine volante en haut à droite, qui peut apparemment fonctionner comme une grue volante et treuiller sa cargaison directement dans la soute sans atterrir.
+
+Une fois ce nettoyage terminé, les tours d'amarrage et les bâtiments peuvent être partiellement démontés et transportés jusqu'au prochain endroit à l'aide des dirigeables eux-mêmes. Avec un peu de chance, il ne restera que les pieds des tours et une dalle de béton dans le désert avec une plaque indiquant quelque chose comme : "À cet endroit, les entreprises de l'ancien monde ont fait un gâchis impardonnable. Et des générations de gens ont travaillé dur pour le nettoyer."
+
+
+

@@ -1,6 +1,8 @@
 ---
 title: "Witaj w Bibliotece Zalążków Opowieści!"
 description: "Biblioteka Solarpunkowych ilustracji i zalążków opowieści stworzonych, łatwiej móc sobie wyobrazić lepszą przyszłość klimatyczną!"
+images:
+ - featured.pl.jpg
 ---
 
 Witaj w bibliotece solarpunkowych [ilustracji](/pl/art) i [zalążków opowieści](/pl/seeds/), stworzonych, by łatwiej móc sobie wyobrazić odżywalną przyszłość, w której ludzkość nauczyła się współistnieć z planetą.

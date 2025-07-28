@@ -21,7 +21,7 @@ This will also lead to faction wars, both in terms of ideology and economics. Ev
 
 The bribes don't need to be financial. They can be prestige, acceptance by a faction, or whatever else.
 
-This prompt ties in with the Miners, The Moonshot and many others.
+This prompt ties in with [the Miners](/seeds/the-miners), [The Moonshot](/seeds/the-moonshot) and many others.
 
 Let's look for a story in it though:
 

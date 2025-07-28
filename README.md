@@ -10,7 +10,28 @@ This page is heavily based on a modified [blowfish](https://blowfish.page/) them
 
 ## Contributing
 
-Please install Hugo (specifically version [`0.145.0`](https://github.com/gohugoio/hugo/releases/tag/v0.145.0)) and try previewing your changes with `hugo serve -w` before you make a Pull Request!
+### Installation and development
+
+After cloning the repository, please run:
+
+```bash
+git submodule init --recursive
+git submodule update --recursive
+```
+
+To build the site, please install specifically Hugo [`0.145.0`](https://github.com/gohugoio/hugo/releases/tag/v0.145.0). After that, to preview your changes:
+
+```bash
+hugo serve -w
+```
+
+Sometimes related pages (like authors, tags) might not update automatically. You can force the update by running `hugo serve` in another console, or stopping the `-w` one, building statically, then restarting `-w`.
+
+Then every time the theme updates, you'll need to run:
+
+```bash
+git submodule update --recursive
+```
 
 ### Adding Authors
 
@@ -51,7 +72,7 @@ To add a new tag:
 To add a new language, as described in the [blowfish documentation](https://blowfish.page/docs/configuration/#language-and-i18n):
 
 1. Add `config/_default/languages.[LANGUAGE CODE].toml`
-2. Add `config/_default/manus.[LANGUAGE CODE].toml`
+2. Add `config/_default/menus.[LANGUAGE CODE].toml`
 
 Fill them to match the `en` versions of the files.
 
