@@ -1,6 +1,8 @@
 ---
 title: "Bienvenue à la Bibliothèque de Graines Histoires !"
 description: "Une bilbiothèque d'illustrations solarpunk et de graines d'histoires pour imaginer un futur climatique meilleur !"
+images:
+ - featured.fr.jpg
 ---
 
 Bienvenue dans une bibliothèque d'[illustration](/fr/art) solarpunk et de [graines d'histoires](/fr/seeds) - pour imaginer un futur climatique meilleur dans lequel l'humanité apprend à vivre de manière durable sur Terre.
