@@ -7,7 +7,7 @@ description: ""
 tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "infrastructure", "transport"]
 authors:
  - commandojugendstil
-series: ["Commando Jugendstil's Panels"]
+series: ["Panneaux du Commando Jugendstil"]
 series_order: 2
 ---
 

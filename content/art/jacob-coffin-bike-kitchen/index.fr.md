@@ -1,0 +1,40 @@
+---
+title: "Une serre creusée et une cuisine à vélo"
+date: 2024-08-14
+publishDate: 2025-04-29
+draft: false
+description: ""
+tags: [ "photobash", "CC BY 4.0", "horizontal"]
+authors:
+ - jacobcoffin
+---
+
+# Une serre creusée et une cuisine à vélo derrière une maison de maître reconvertie par Jacob Coffin
+
+Cela fait un petit moment que je n'ai pas posté l'un de ces articles. J'ai travaillé à l'écriture d'une campagne( ?) d'un module d'aventure( ?) pour le TTRPG solarpunk Totalement Automatisé ! (que j'espère publier librement et gratuitement sur leurs canaux dans quelques mois) et cela a pris beaucoup de mon temps créatif dernièrement. C'est la première fiction solarpunk que j'ai écrite, et elle inclut presque tous les concepts de décor avec lesquels j'ai joué dans les cartes postales.
+
+(Au cas où tu te poserais la question, il s'agit d'une sorte d'aventure de chasse au trésor, où les joueur.euse.s sont en quête de plusieurs tonnes de déchets industriels déversés illégalement, qui sont utiles à la production de géopolymères. Au cours de leur enquête, iel.le.s exploreront une ville en grande partie abandonnée qui est en train d'être déconstruite et réensauvagée, parleront aux habitant.e.s et aux équipes de travail, et espéreront élucider un meurtre mystérieux perdu dans le passé chaotique de la région au cours de la guerre climatique mondiale qui s'est déroulée 60 ans auparavant)
+
+Quoi qu'il en soit, j'ai suffisamment avancé pour pouvoir commencer à photographier certains des lieux que les joueur.euse.s pourraient décider de visiter (en commençant par cette cuisine à vélo dans le village où le jeu commence).
+
+Dans ma carte postale sur la déconstruction des "McMansions" (ou maisons de maîtres) pour récupérer les matériaux de construction et réensauvager la terre, quelques personnes ont évoqué la possibilité de réutiliser les bâtiments. Cela faisait un moment que j'avais ce concept en tête, mais j'avais du mal à trouver comment rendre une scène qui montrait tout ce que je voulais qu'elle montre.
+
+J'ai fini par utiliser à peu près toutes les idées que j'avais pour ces scènes dans le village de départ de la campagne (une communauté planifiée qui a réaffecté une enclave de richesse abandonnée et son terrain de golf pour en faire des logements communautaires, des ateliers et une forêt nourricière). Cela signifie que je peux mettre en place des photobashs d'endroits spécifiques au sein de ce village, ce qui me semble plus réalisable.
+
+Voici donc le premier de la série. Il montre un peu d'un manoir réaménagé, mais se concentre surtout sur l'ancienne cour arrière. Le patio en béton a été enlevé, les grandes pelouses et le terrain de golf voisin sont devenus de véritables forêts, et des chemins publics ont été aménagés jusqu'à la maison. Le pool-house a été transformé en coopérative de vélos, et la piscine a été convertie en serre creuse ou Walipini.
+
+En général, lorsque tu te retrouves avec une vieille piscine dont tu ne veux plus, les options qui s'offrent à toi sont les suivantes : la démolir et combler le trou, simplement combler la piscine, la convertir en étang naturel, ou (ce qui est peut-être la réponse la moins courante) construire l'une de ces structures. Celle que tu choisiras dépendra probablement de tes objectifs, de la qualité de la structure et de la profondeur de ta nappe phréatique. Si elle est trop haute, elle peut soulever une piscine vide comme un bateau en béton, ou causer d'autres dommages structurels. Mais si les circonstances s'y prêtent et que la piscine est intacte après avoir été abandonnée et vide pendant de nombreuses années déjà, elle peut valoir la peine d'être réutilisée.
+
+Il existe de magnifiques photos solarpunk en ligne de [versions réelles](https://www.urbangardensweb.com/2017/08/26/transform-disused-swimming-pool-garden/) de ce type de piscine, dont l'échelle est bien plus grande que celle que j'ai décrite ici. Cela ressemble plus aux anciennes fosses à ananas, ou à une version sophistiquée des [tranchées à agrumes](https://solar.lowtechmagazine.com/2020/04/fruit-trenches-cultivating-subtropical-plants-in-freezing-temperatures/). Qui sait, peut-être qu'iel.le.s ont même découpé une partie du sol pour pouvoir planter dans la terre en dessous.
+
+La partie hors sol de la serre est soutenue par une berme de terre/un lit surélevé destiné à l'aider à maintenir une température constante. Les murs de soutènement de la plate-bande étagée sont faits de [béton réimposé et brisé (parfois appelé urbanite)](https://slrpnk.net/post/11909269), provenant probablement de la terrace de concert qui a été remplacée par des copeaux de bois pour une meilleure perméabilité à l'eau. Quelques plantes d'ombre comme la rhubarbe et la menthe ont été plantées sur la pente arrière, et une tonnelle de raisin a été construite au-dessus. Des pois de senteur poussent sur le côté, là où il y a plus de lumière. Des framboises et des fleurs sauvages poussent autour du reste de la petite cour.
+
+Dans le fond de la scène, un ancien pool-house a été transformé en cuisine à vélo, un des endroits où les joueur.euse.s pourront se procurer des moyens de transport.
+
+Un réseau de chemins a été construit tout au long du village, de la forêt nourricière et de la région au-delà. Même la ville que les joueur.euse.s exploreront est parsemée de petits sentiers et de chemins que les habitant.e.s ont construits au lieu d'essayer de maintenir un réseau complet de routes pavées. Cela a été inspiré par le réseau de sentiers de l'arrière-pays de ma ville natale, et par la réduction de la taille du réseau de transport décrit dans cet article, afin qu'il puisse être entretenu. Certaines routes existent toujours parce qu'elles sont utiles, mais d'autres ont été emportées par les eaux et n'ont jamais été réparées parce qu'aucun.e des habitant.e.s actuel.e.s n'en a besoin, tandis que de nouveaux sentiers traversent des propriétés où personne n'a vécu depuis des dizaines d'années.
+
+Les bâtiments sont peints avec des peintures murales colorées. C'est toujours un défi pour moi dans ces photobashes. J'aime l'idée d'une société qui fait de l'art partout pour son propre bien et j'espère qu'une société solarpunk abandonnerait un peu l'obsession de la valeur des propriétés et décorerait tout, des bâtiments aux machines, dans toutes sortes de styles. Il peut s'agir d'art populaire ayant des racines historiques, comme les [peintures murales zapistes](https://danestrom.com/the-zapatista-murals-of-oventic-mexico/), de panneaux sculptés sur des armoires, de gravures sur des outils, de sculptures en métal, ou de je ne sais quoi encore. L'embellissement n'a pas de valeur commerciale mais sert à l'expression personnelle et à la transmission de messages. Les sujets et le contenu varieraient donc beaucoup.
+
+Je pense qu'il y a un peu de punk là-dedans, dans le fait de refuser de peindre ou de décorer en pensant à la valeur de revente, comme si ta maison était un produit pour les autres plutôt que ta propre maison.
+
+J'essaie donc d'inclure des peintures murales, des sculptures et d'autres décorations dans mon art solarpunk. Malheureusement, j'ai aussi découvert que dans mes cartes postales, où les bâtiments font généralement partie d'un arrière-plan encombré, les peintures murales peuvent agir comme un [camouflage éblouissant](https://en.wikipedia.org/wiki/Dazzle_camouflage), ce qui rend difficile de savoir ce qui se passe exactement. Je suis donc encore en train de découvrir ce qui fonctionne et ce qui ne fonctionne pas. (Idéalement, je veux que le contenu de la peinture murale soit clair tout en permettant de reconnaître et de comprendre facilement le bâtiment et les objets qui y sont attachés (plantes, panneaux solaires, autres technologies). C'est un défi et c'est quelque chose que je pourrais revoir un jour. J'ai essayé une version où la peinture murale de la cuisine à vélo était faite de pièces de vélo silhouettées, mais cela ressemblait moins à un travail de peinture sur un bâtiment, alors j'ai opté pour le mandala pour plus de clarté pour l'instant.

@@ -2,7 +2,7 @@
 title: "Jacob Coffin"
 ---
 
-Ecrivain de science-fiction avec une passion pour la conservation des des terres, la réutilisation, et éviter le détricottement des Droits Humains.
+Ecrivain.e de science-fiction avec une passion pour la conservation des des terres, la réutilisation, et éviter le détricottement des Droits Humains.
 
 - [Wordpress](https://jacobcoffinwrites.wordpress.com/)
 - [Mastodon](https://writing.exchange/@jacobcoffin)
