@@ -4,7 +4,7 @@ date: 2024-08-16
 publishDate: 2025-08-03
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-ND 4.0", "horizontal", "farming", "people", "animals", "fantastical"]
+tags: ["illustration", "CC BY-NC-ND 4.0", "horizontal", "2024-wat", "farming", "people", "animals", "fantastical"]
 authors:
  - yuuna-maiko
 ---
