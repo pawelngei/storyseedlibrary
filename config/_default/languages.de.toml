@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "de"
+languageName = "Deutsch"
+weight = 1
+title = "Saatgutbibliothek der Geschichten"
+
+[params]
+displayName = "DE"
+isoCode = "de"
+rtl = false
+dateFormat = "2. Januar 2006"
+description = "Eine Bibliothek für Solarpunk Kunst, Story-Ideen und Visionen einer optimistischen Klimazukunft."
+logo = "img/sitelogo.png"
