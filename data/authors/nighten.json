@@ -1,0 +1,9 @@
+{
+  "name": "Nighten (Nathan Guilhot)",
+  "image" : "img/nighten.jpg",
+  "bio": "French artist living in Poland drawing detailed illustration about nature, cities, and hope 🌿",
+  "social": [
+      { "pencil": "https://nighten.fr/" },
+      { "wand-magic-sparkles": "https://gallery.nighten.fr/" }
+  ]
+}
