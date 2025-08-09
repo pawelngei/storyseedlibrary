@@ -25,7 +25,7 @@ image = "img/sitelogo.png"
 [homepage]
 layout = "background"
 showRecent = true
-showRecentItems = 3
+showRecentItems = 6
 showMoreLink = false
 showMoreLinkDest = "/posts/"
 cardView = true
