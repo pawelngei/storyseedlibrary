@@ -10,4 +10,4 @@ authors:
 ---
 
 
-<a href="full_resolution_print.png" target="_blank">Wersja PNG</a> jest również dostępna dla osób chcących wydrukować tą ilustrację - bądź potrzebujących kanału alfa.
+<a href="/art/jacob-coffin-civil-defense-poster/full_resolution_print.png"  btarget="_blank">Wersja PNG</a> jest również dostępna dla osób chcących wydrukować tą ilustrację - bądź potrzebujących kanału alfa.

@@ -9,5 +9,5 @@ authors:
  - jacobcoffin
 ---
 
-Si tu souhaites l'imprimer ou utiliser le canal alpha, une <a href="full_resolution_print.png" target="_blank">version PNG</a> est également disponible.
+Si tu souhaites l'imprimer ou utiliser le canal alpha, une <a href="/art/jacob-coffin-civil-defense-poster/full_resolution_print.png" target="_blank">version PNG</a> est également disponible.
 
