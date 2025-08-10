@@ -1,0 +1,98 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "UA Art"
+pageRef = "art"
+identifier = "3yRSzr3A8F"
+weight = 10
+
+[[main]]
+name = "UA Seeds"
+pageRef = "seeds"
+identifier = "3yRSzr3A8D"
+weight = 20
+
+[[main]]
+name = "More"
+weight = 30
+
+[[main]]
+parent = "More"
+name = "Tags"
+pageRef = "tags"
+identifier = "24BZL6Odw6"
+weight = 30
+
+[[main]]
+parent = "More"
+name = "Authors"
+pageRef = "authors"
+identifier = "LD7z6Qopgw"
+weight = 40
+
+[[main]]
+name = "Events"
+weight = 45
+
+[[main]]
+parent= "Events"
+name = "Art Collab 2025"
+pageRef = "/pages/andrewisms-art-collab-2025"
+identifier = "3yRGzr3A8D"
+weight = 10
+
+[[main]]
+name = "About"
+weight = 50
+
+[[main]]
+parent = "About"
+name = "The Library"
+pageRef = "/pages/about"
+weight = 1
+
+[[main]]
+parent = "About"
+name = "Solarpunk"
+url = "/essays/what-is-solarpunk"
+weight = 2
+
+[[main]]
+parent = "About"
+name = "Solarpunk Prompts Podcast"
+url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+weight = 3
+
+[[main]]
+parent = "About"
+name = "The Curator"
+url = "https://alxd.org/"
+weight = 4
+
+[[main]]
+parent = "About"
+name = "How to Contribute?"
+pageRef = "/pages/contribute"
+weight = 10
+
+[[main]]
+pre = "rss"
+url = "/index.xml"
+identifier = "someRSShere"
+weight = 60
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "How to Contribute?"
+pageRef = "/pages/contribute"
+identifier = "Wz0vblbVYr"
+weight = 1
+
+[[footer]]
+name = "Contact Us"
+url = "storySeedLibrary@alxd.org"
+identifier = "contactUs"
+weight = 2

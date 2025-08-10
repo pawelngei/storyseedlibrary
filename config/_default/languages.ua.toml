@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "ua"
+languageName = "Українська"
+weight = 1
+title = "Бібліотека із зернятками історій"
+
+[params]
+displayName = "UA"
+isoCode = "ua"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Бібліотека соларпанкових історій."
+logo = "img/sitelogo.png"

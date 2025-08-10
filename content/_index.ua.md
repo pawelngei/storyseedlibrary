@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Story Seed Library!"
+title: "Welcome to Бібліотека із зернятками історій!"
 description: "A library of Solarpunk art and story seeds helping you imagine a better climate future!"
 ---
 
