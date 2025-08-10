@@ -1,14 +1,14 @@
 ---
-title: "Welcome to Бібліотека із зернятками історій!"
-description: "A library of Solarpunk art and story seeds helping you imagine a better climate future!"
+title: "Ласкаво просимо до Бібліотеки із зернятками історій!"
+description: "Бібліотека з соларпанковими ілюстраціями та зернятками історій, які допоможуть вам уявити краще кліматичне майбутнє!"
 ---
 
-Welcome to a library of Solarpunk [art](/art) and [story seeds](/seeds) - helping you imagine a better climate future in which humanity learns how to sustainably live on Earth.
+Ласкаво просимо до бібліотеки соларпанкових [ілюстрацій](/art) та [зерняток історій](/seeds), створених, аби допомогти вам уявити краще кліматичне майбутнє, в якому людство навчилося жити в гармонії з планетою.
 
-If you haven't heard about Solarpunk before, check out our short [introduction](/essays/what-is-solarpunk)!
+Якщо ви вперше чуєте про соларпанк, ознайомтесь з нашим коротким [вступом](/essays/what-is-solarpunk)!
 
-If you're looking for art for your project, check out our [which art can I use](/pages/which-art-can-i-use/) section!
+Якщо ви шукаєте ілюстрації для вашого проєкту, продивіться розділ [Які зображення я можу використовувати?](/pages/which-art-can-i-use/)!
 
-![The Community Center by the Lemonaut](cover.jpg "[The Community Center](/art/the-lemonaut-community-center/) CC BY-SA 4.0 [The Lemonaut](/authors/thelemonaut)")
+![Громадський центр за авторством The Lemonaut](cover.jpg "[Громадський центр](/art/the-lemonaut-community-center/) CC BY-SA 4.0 [The Lemonaut](/authors/thelemonaut)")
 
-All the materials on this page are free to use under a respective [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) license - unless noted otherwise. Have fun browsing!
+Усі матеріали на цій сторінці доступні за відповідною ліцензією [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/), якщо не вказано інше. Приємного перегляду!
