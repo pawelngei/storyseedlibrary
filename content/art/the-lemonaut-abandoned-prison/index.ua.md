@@ -1,5 +1,5 @@
 ---
-title: "Abandoned prison in New Spark"
+title: "Покинута в'язниця у Новій Іскрі"
 date: 2023-03-03
 publishDate: 2025-05-13
 draft: false
@@ -9,8 +9,8 @@ authors:
   - "thelemonaut"
 ---
 
-> What to do with prisons no longer in use? Some places restructure them to serve a different purpose, others turn them into reminders of the cruelty of the past. This is sort of that. After being wrecked just a smidgeon, the place wasn't maintained, but left to the elements and the reckless - it's now an overgrown relic full of graffiti and murals, and regularly visited by those who aren't scared of decaying stairs and shaky railings. It's a bit controversial among local adults, some arguing it should be cleaned up, others that it's an appropriate bit of risk for the younglings who need a bit of danger to feel alive. Some might still be feeling nostalgic for the times they hung around these moss-covered walls.
+> > Що робити з в'язницями, які більше не використовуються? Хтось реконструює їх для інших цілей, інші перетворюють на нагадування про жорстокість минулого. Це щось на зразок останнього. Після того, як будівля була ну зовсім трошечки зруйнована, її не ремонтували, а залишили напризволяще. Зараз це зарослий релікт, повний графіті та муралів. Місце регулярно відвідують ті, хто не боїться розвалених сходів і хитких поручнів. Це викликає суперечки серед місцевих дорослих: одні вважають, що його слід прибрати, інші — що це прийнятний ризик для молодих людей, яким потрібно трохи небезпеки, щоб почуватися живими. Деякі, можливо, досі ностальгують за часами, коли вони проводили час в цих порослих мохом стінах.
 >
-> New generations are taught about the historical meaning of the site. As a result, coming there often fills one with a sense of both dread and a desire to unleash, to bring freedom into a space that was built to take it away. Teens aren't known to be very respectful, but the atmosphere and local legends do force at least a slight change of attitude in the visitors.
+> Нові покоління навчають про історичне значення цього місця. В результаті, прихід сюди часто наповнює людину почуттям тривожності і бажанням вивільнитися, привнести свободи в цей простір, який був побудований, щоб її забрати. Підлітки не відомі своєю повагою, але атмосфера і місцеві легенди змушують відвідувачів хоча б трохи змінити своє ставлення.
 
-The illustration is set in a small fictional town of New Spark.
+Місце дії ілюстрації — вигадане містечко Нова Іскра.
