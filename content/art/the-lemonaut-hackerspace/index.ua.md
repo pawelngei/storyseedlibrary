@@ -1,5 +1,5 @@
 ---
-title: "A prosthesis maintenance day at the hackerspace"
+title: "День обслуговування протезів у хакерспейсі"
 date: 2024-11-20
 publishDate: 2025-04-29
 draft: false
@@ -9,10 +9,10 @@ authors:
   - "thelemonaut"
 ---
 
-An illustration for two separate Solarpunk Prompts episodes, [The Disabled Community](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-disabled-community) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Disabled-Community)] and [The Hackerspace](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-hackerspace) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Hackerspace)]. Two halves representing the cover arts for each of the episodes connect in the wider version above.
+Ілюстрація до двох окремих епізодів подкасту Solarpunk Prompts, [Спільнота людей з інвалідністю](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-disabled-community) [[транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Disabled-Community)] та [Хакерспейс](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-hackerspace) [[транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Hackerspace)]. Дві половини, що представляють обкладинки для кожного з епізодів, з'єднуються у ширшій версії вище.
 
-> A community of people with disabilities share their best tricks on how to deal with a harsh world not made for them. A lot of what they share remains unspoken, for every one knows the pain and the challenges they face.
+> Спільнота людей з інвалідністю ділиться своїми найкращими порадами про те, як жити в суворому світі, який не створений для них. Багато з того, що вони поділяють, залишається несказаним, адже кожен знає про біль і виклики, з якими вони стикаються.
 
-> A hackerspace sits within a city still clinging to their own ways while the rest of the world changes. Activists, technologists, inventors and educators trying to show the communities around them that it’s possible to live differently, while actively squabbling over whose plan is the best.
+> Хакерспейс розташований у місті, яке досі тримається за свої традиції, тоді як решта світу змінюється. Активісти, технологи, винахідники та освітяни намагаються показати оточуючим громадам, що можна жити інакше, водночас активно сперечаючись, чий план є найкращим.
 
-Based on the story seeds: [the hackerspace](/seeds/the-hackerspace) and [the disabled community](/seeds/the-disabled-community).
+Засновано на наступних зернятках історій: [хакерспейс](/seeds/the-hackerspace) та [спільнота людей з інвалідністю](/seeds/the-disabled-community).

@@ -1,5 +1,5 @@
 ---
-title: "The Community Center"
+title: "Громадський центр"
 date: 2024-07-05
 publishDate: 2025-04-29
 draft: false
@@ -9,8 +9,8 @@ authors:
   - "thelemonaut"
 ---
 
-An illustration to one of the Solarpunk Prompts episodes, [The Community Center](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-community-center) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Community-Center)]:
+Ілюстрація до одного з епізодів подкасту Solarpunk Prompts, [Громадський центр](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-community-center) [[транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Community-Center)]:
 
-> A community center, library, or educational hub, initially set up to help people like coal miners re-specialize and find other jobs, has now became a place for unofficial “pilgrimages” of people striving to find their role in life and learn history from those who lived it.
+> Громадський центр, бібліотека або освітній центр, спочатку створений для того, щоб допомогти таким людям, як шахтарі, перекваліфікуватися і знайти іншу роботу, тепер став місцем неофіційних «паломництв» людей, які прагнуть знайти своє місце в житті і дізнатися про історію від тих, хто її пережив.
 
-Based on the [story seed](/seeds/the-community-center).
+Засновано на цьому [зернятку історії](/seeds/the-community-center).

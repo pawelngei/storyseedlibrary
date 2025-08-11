@@ -1,5 +1,5 @@
 ---
-title: "The Canteen"
+title: "Їдальня"
 date: 2023-10-11
 publishDate: 2025-04-29
 draft: false
@@ -9,8 +9,7 @@ authors:
   - "thelemonaut"
 ---
 
-An illustration to one of the Solarpunk Prompts episodes, [The Canteen](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-canteen) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Canteen)]:
+Ілюстрація до одного з епізодів подкасту Solarpunk Prompts, [Їдальня](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-canteen) [[транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Canteen)]:
 
-> A canteen in an isolated scientific or environmental outpost, where scientists, engineers, cooks and maintenance staff show each other their human face, while still remembering the importance of their role here and the harsh conditions of the outside. For example: cleaning the plastic from the oceans, measuring the polar ice levels, etc.
-
-Based on the [story seed](/seeds/the-canteen).
+> Їдальня на ізольованій станції, пов’язаної з екологічними чи іншими спостереженнями, де вчені, інженери, кухарі та технічний персонал показують один одному своє людське обличчя, не забуваючи при цьому про важливість своєї ролі тут і суворі умови назовні. Наприклад: очищення океанів від пластику, вимірювання рівня полярних льодів тощо.
+Засновано на цьому [зернятку історії](/seeds/the-canteen).

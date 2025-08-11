@@ -1,5 +1,5 @@
 ---
-title: "Youth dorm in New Spark"
+title: "Гуртожиток для молоді у Новій Іскрі"
 date: 2023-03-03
 publishDate: 2025-05-13
 draft: false
@@ -9,12 +9,12 @@ authors:
   - "thelemonaut"
 ---
 
-> A place where young people can go live if they want to have more independence from their elders and try to figure themselves out. It's not a place of complete isolation from society, but a sort of refuge. Nobody is forced to live here, and it's not tied to any one institution like a school or college. Older people are still allowed to enter and hang around, but are asked to respect the social norms outlined by the residents.
+> Місце, куди молоді люди можуть переїхати, якщо хочуть бути більш незалежними від старших і краще зрозуміти себе. Це не місце повної ізоляції від суспільства, а свого роду прихисток. Ніхто нікого не змушує тут жити, і це місце не пов'язане з жодною установою, як-от школа чи університет. Старші люди все ще можуть заходити сюди і проводити тут час, але їх просять поважати соціальні норми, встановлені мешканцями.
 > 
-> One apartment can often have at least two people living in it, but some prefer to have their personal space. When a person feels they've outgrown the dorm or that others need it more than them right now, they can move out - and clean the place up for the next resident. There's lots of history in these walls, in every nonsensical graffiti, crooked piece of pottery in the kitchens, and the inside jokes passed down from one generation to the next.
+> В одній квартирі часто можуть проживати щонайменше дві людини, але деякі воліють мати особистий простір. Коли людина відчуває, що вона переросла гуртожиток або що інші зараз потребують його більше, ніж вона, вона може виїхати — і прибрати приміщення для наступного мешканця. У цих стінах, у кожному безглуздому графіті, кривому шматку кераміки на кухні та внутрішніх жартах, що передаються з покоління в покоління, є багато історії.
 > 
-> The dorm is (meant to be) shaped as a hexagon, forming an open space so light can enter through the middle. There's shared kitchens, a place to do arts and crafts, a gym, a mess hall, a laundromat, a ground-level bathroom (in addition to the ones in the apartments), both an elevator and stairs. The whole place is wheelchair-accessible and each apartment has the necessary accommodations.
+> Гуртожиток має форму шестикутника, утворюючи відкритий простір, щоб світло могло проникати у внутрішній дворик. Тут є спільні кухні, місце для занять мистецтвом і рукоділлям, тренажерний зал, їдальня, пральня, туалет на першому поверсі (і в квартирах), ліфт і сходи. Все приміщення пристосоване для крісел колісних, і кожна квартира має необхідні зручності для людей з інвалідністю.
 > 
-> Before a person goes to live in such a dorm, their community makes sure they know basic safety rules. They likely already know how to cook at least a few types of meals, do laundry and dishes, practice hygiene, understand safe sex practices, know how to clean stuff, do basic first aid, things like that. At least once a year, drills are organized to make sure everyone knows what to do and how to help each other in an emergency. The rest is left up to them to decide.
+> Перш ніж хтось переїжджає в такий гуртожиток, їхня спільнота переконується, що він/вона знає основні правила безпеки. Ймовірно, молода людина вже вміє готувати принаймні кілька здорових страв, прати білизну та мити посуд, дотримуватися гігієни, розуміє правила безпечного сексу, знає, як прибирати, надавати першу допомогу тощо. Принаймні раз на рік проводиться тренування, щоб переконатися, що всі знають, що робити і як допомагати один одному в екстрених ситуаціях. Решта питань залишається на розсуд молодої громади.
 
-The illustration is set in a small fictional town of New Spark.
+Місце дії ілюстрації — вигадане містечко Нова Іскра.
