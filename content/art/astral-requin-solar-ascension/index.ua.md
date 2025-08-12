@@ -1,5 +1,5 @@
 ---
-title: "Solar Ascension"
+title: "Сонячне Вознесіння"
 date: 2019-08-06
 publishDate: 2025-04-29
 draft: false
@@ -11,12 +11,8 @@ authors:
 
 [Original on DeviantArt](https://www.deviantart.com/astral-requin/art/Solar-Ascension-808565337)
 
-## Original Description
+## Оригінальний опис
 
-This is my submission for the Atomhawk contest atomhawk.com/solarpunk! The theme was Solarpunk, I just decided to participate because I love this theme and I believe it should be emphasized!
+Це моя заявка на участь у конкурсі Atomhawk - atomhawk.com/solarpunk! Темою був Соларпанк, тому я вирішив взяти участь, тому що я люблю цю тему і вважаю, що вона повинна бути підкреслена!
 
-In this story, mankind has abandoned its vast irregular cities and ascended the heavens, taking with it industries and farms, allowing the earth to regenerate the steril soil caused by urban sprawl. The new eco cities and vehicles float above an artificial sea of plasma that makes it look like a boreal ocean that seems to come from fantasy tales.
-
-
-
-
+У цій історії людство покинуло свої величезні неправильні міста і піднялося в небеса, забравши з собою промисловість і ферми, дозволивши землі регенерувати безплідний ґрунт, спричинений розростанням міст. Нові еко-міста та транспортні засоби парять над штучним морем плазми, що робить його схожим на бореальний океан, який, здається, прийшов з фантастичних казок.
