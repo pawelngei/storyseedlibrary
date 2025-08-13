@@ -2,7 +2,7 @@
 title: "Jacky (or Jackie) OWL"
 ---
 
-he/her/they/them | solarpunk hacker and creator | 3D hobbyist | Music player | SSL translator (fr) | France
+вона/її/вони/їх | хакерка-соларпанк та мисткиня | 3D моделюю як гобі | Граю музику | Перекладачка Бібліотеки (Фр) | Франція
 
 - [Youtube](https://www.youtube.com/@Jacky0wl)
 - [Linkedin](https://www.linkedin.com/in/jacky-owl/)

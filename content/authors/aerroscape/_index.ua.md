@@ -2,7 +2,7 @@
 title: "Aerroscape"
 ---
 
-he/him | Artist  //  Professional  //  Digital Art | Germany
+він/його | Художник  //  Професіонал  //  Комп'ютерне мистецтво | Німеччина
 
 - [Homepage](https://www.aerroscape.de/)
 - [Facebook](https://www.facebook.com/aerroscape/)

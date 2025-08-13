@@ -2,7 +2,7 @@
 title: 'Katarzyna "PannaN" Witerscheim'
 ---
 
-she/her | Freelance illustrator
+вона/її | Ілюстраторка-фрилансерка
 
 - [Homepage](http://panna-n.com/)
 - [Facebook](https://www.facebook.com/pannanARTS/)

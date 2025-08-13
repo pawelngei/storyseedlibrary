@@ -2,7 +2,7 @@
 title: "Astral Requin"
 ---
 
-Artist  //  Hobbyist  //  Digital Art
+Художник  //  Аматор  //  Комп'ютерне мистецтво
 
 - [DeviantArt](https://www.deviantart.com/astral-requin)
 

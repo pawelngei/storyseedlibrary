@@ -2,7 +2,7 @@
 title: "Commando Jugendstil"
 ---
 
-Public art, stories, illustrations, community projects
+Публічне мистецтво, історії, ілюстрації, громадські проекти
 
 - [Instagram](https://www.instagram.com/commandojugendstil/)
 - [Facebook](https://www.facebook.com/CJugendstil/)

@@ -2,7 +2,7 @@
 title: "Sean Bodley"
 ---
 
-he/him | creating Climate Change Concept Art
+він/його | створює концепт-арти про зміни клімату
 
 - [Homepage](https://seanbodley.com/)
 - [Patreon](https://www.patreon.com/seanbodley)

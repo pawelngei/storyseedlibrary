@@ -2,7 +2,7 @@
 title: "ELAkidd"
 ---
 
-ELAkidd (they/them) is a bilingual queer artist who grew up in China and is currently a university student in Boston.
+ELAkidd (вони/їх) — квір-художни_ця білінгвал, що виросли у Китаї і зараз є студент_кою університету в Бостоні.
 
 - [Carrd](https://elakidd.carrd.co/)
 - [Instagram](https://www.instagram.com/takokidd/)

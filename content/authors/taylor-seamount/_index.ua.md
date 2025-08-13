@@ -2,7 +2,7 @@
 title: "Taylor Seamount"
 ---
 
-I'm a solarpunk landscape painter imagining regenerative futures for my community in Santa Cruz, CA, USA. (she/they)
+Я художниця соларпанкових пейзажів, що уявляє екологічно стійке майбутнє для своєї громади в Санта-Крус, Каліфорнія, США. (вона/вони)
 
 - [Homepage](http://taylorseamount.com/)
 - [Instagram](https://www.instagram.com/taylorseamount/)
