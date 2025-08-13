@@ -1,5 +1,5 @@
 ---
-title: "Solarpunk Technology and Nature together"
+title: "Соларпанкові — технології та природа разом"
 date: 2024-03-25
 publishDate: 2025-05-05
 draft: false

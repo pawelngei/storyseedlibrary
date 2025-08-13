@@ -1,5 +1,5 @@
 ---
-title: "The Awakening"
+title: "Пробудження"
 date: 2025-04-29
 publishDate: 2025-06-07
 draft: false

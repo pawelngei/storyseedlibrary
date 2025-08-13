@@ -1,5 +1,5 @@
 ---
-title: "Retrofitted City"
+title: "Модернізоване місто"
 date: 2025-04-29
 publishDate: 2025-06-07
 draft: false

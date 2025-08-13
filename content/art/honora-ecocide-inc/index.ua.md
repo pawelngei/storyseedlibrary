@@ -1,5 +1,5 @@
 ---
-title: "ECOCIDE Inc. - Victory"
+title: "Екоцид Inc. - Перемога"
 date: 2020-04-15
 publishDate: 2025-04-29
 draft: false
@@ -9,11 +9,12 @@ authors:
  - honora
 ---
 
-[Original on ArtStation](https://efflam.artstation.com/projects/Dx0KkR)
+[Оригінал на ArtStation](https://efflam.artstation.com/projects/Dx0KkR)
 
-See more behind the scenes, post your own activist art WIPs for feedback and paint-overs in the Artists vs Extinction discord and FB group!
-Invite link: https://discord.gg/5nQVgSf
-This artwork "Victory" by Efflam Mercier is Licensed under CC-BY 4.0, feel free to remix/reuse in any capacity as long as you credit appropriately :)
+Дізнайтеся більше про те, що відбувається за лаштунками, публікуйте свої власні активістські малюнки для отримання зворотного зв’язку та коментарів у групі Artists vs Extinction на Дискорді та у Фейсбуці!
+Посилання для запрошення: https://discord.gg/5nQVgSf
+Ця робота «Перемога» Ефлама Мерсьє ліцензована під CC-BY 4.0, ви можете вільно перероблювати/використовувати її в будь-якому вигляді, за умови, що ви вкажете автора оригіналу :)
 
-This artwork is also available as a print, (I guess you might have to wait a bit for delivery since this is not essential business):
+Ця робота також доступна у вигляді принту (можливо, доведеться трохи почекати на доставку, оскільки це не життєво необхідний товар):
 https://www.artstation.com/prints/art_poster/7VB1/ecological-resistance-symbol#art_poster_size_12x18
+

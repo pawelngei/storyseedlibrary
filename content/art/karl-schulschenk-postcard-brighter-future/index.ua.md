@@ -1,5 +1,5 @@
 ---
-title: "Postcard from a brighter future"
+title: "Листівка зі світлішого майбутнього"
 date: 2022-07-02
 publishDate: 2025-05-08
 draft: false

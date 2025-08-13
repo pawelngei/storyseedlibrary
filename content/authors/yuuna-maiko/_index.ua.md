@@ -2,9 +2,9 @@
 title: "Yuuna Maiko"
 ---
 
-I’m an illustrator and comic/manga artist.
+Я ілюстраторка та коміксистка/манґака.
 
-The solarpunk imagination is taking on a growing role in our cultural landscape, and I believe it’s essential to promote a hopeful vision of the future — one in which humans live in harmony with their environment.
+Соларпанкова уява відіграє дедалі більшу роль у нашому культурному ландшафті, і я вважаю, що надзвичайно важливо просувати оптимістичне бачення майбутнього, в якому люди живуть у гармонії зі своїм середовищем.
 
 - [Homepage](https://yuuna-maiko.my.canva.site/yuuna-maiko?fbclid=PAZXh0bgNhZW0CMTEAAadvrs1EFcyhtWzo8AQqdU7RF4J-sy-CCd7sQfn1VFLcQwCFOEwUoI43EvFdUQ_aem_XaN9Cyoj398v0qs_c7Ad1Q)
 - [Instagram](http://www.instagram.com/yuuna_maiko/)
