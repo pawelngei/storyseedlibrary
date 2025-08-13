@@ -1,5 +1,5 @@
 ---
-title: "And tomorrow? Sunrise."
+title: "А що завтра? Світанок."
 date: 2024-02-16
 publishDate: 2025-06-01
 draft: false
@@ -11,14 +11,14 @@ series: ["Commando Jugendstil's Panels"]
 series_order: 12
 ---
 
-**Topic**: 
-And tomorrow? Sunrise.
+**Тема**: 
+А що завтра? Світанок.
 
-**Description**:
-Up until now we told you how a solarpunk city may work, how it would live and how it would face its problems. We spoke about public transports and clean energy, abundance and nature, but now is the time to bring it all together. Bring us all together and get to work.
+**Опис**:
+Дотепер ми все розповідали вам про те, як може працювати соларпанк-місто, як воно житиме і як стикатиметься зі своїми проблемами. Ми говорили про громадський транспорт і чисту енергію, достаток і природу. Та зараз настав час скомбінувати все це воєдино, тож візьмемось до роботи разом!
 
-A city where everyone could live a good life, worthy, comfortable and meaningful is a city where the primacy of "Economy" over everything else has been dismantled, where people unite to help each other find shared solutions, where "Technology" isn't a fetish used to control people and nature, but just a tool among the others, to be used properly. A city where resources aren't grabbed and hoarded by the usual suspects, but shared among everyone equally and ethically. A city where what matters, the only thing that really matters, is caring about others, about nature and urban spaces.
+Місто, в якому кожен міг би жити добре, гідно, комфортно та осмислено - це місто, де демонтовано примат "Економіки" над усім іншим, де люди об'єднуються, щоб допомагати один одному знаходити спільні рішення, де "Технології" не є фетишем, що використовується для контролю над людьми та природою, а лише інструментом серед інших, який потрібно використовувати належним чином. Місто, де ресурси не хапають і не накопичують ті, кого зазвичай підозрюють, а ділять між усіма порівну і з дотриманням етичних норм. Місто, в якому головне, єдине, що дійсно має значення, - це турбота про інших, про природу та міський простір.
 
-A city where small nomadic glasshouses and floating urban gardens can coexist with sun-powered seaplanes, and with clean water and green social spaces.
+Місто, де маленькі кочові оранжереї та плавучі міські сади можуть співіснувати з гідролітаками на сонячних батареях, з чистою водою та зеленими соціальними просторами.
 
-Once there wasn't a city like that - and there is no guarantee that one day there will be - but if we join our efforts, if we endure and fight together, one day we will see the dawn over this splendid city.
+Колись такого міста не було - і немає жодних гарантій, що колись буде, - але якщо ми об'єднаємо наші зусилля, якщо ми будемо терпіти і боротися разом, одного дня ми побачимо світанок над цим чудовим містом.
