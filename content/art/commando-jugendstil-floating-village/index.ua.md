@@ -9,4 +9,4 @@ authors:
  - commandojugendstil
 ---
 
-Спершу ілюстрація була зроблена на замовлення для Соларпанк статті для журану [Liberal Debatt](https://www.liberaldebatt.se/)  яка лишилась неопублікованою. Але між тим вона була представлена в декількох інших газетах, наприклад як польска [Gazeta Wyborcza](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html).
+Ілюстрація була зроблена для статті про Соларпанк на замовлення журналу [Liberal Debatt](https://www.liberaldebatt.se/), проте стаття лишилась неопублікованою. Але між тим вона була представлена в декількох інших газетах, як-от у польскій [Gazeta Wyborcza](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html).
