@@ -1,5 +1,5 @@
 ---
-title: "What does sustainable mobility mean in the solarpunk city?"
+title: "Що є екологічне пересування у соларпанковому місті?"
 date: 2023-05-16
 publishDate: 2025-06-01
 draft: false
@@ -11,12 +11,12 @@ series: ["Commando Jugendstil's Panels"]
 series_order: 3
 ---
 
-**Question**: 
-What does sustainable mobility mean in the solarpunk city?
+**Питання**: 
+Що є екологічне пересування у соларпанковому місті?
 
-**Answer**:
-In the solarpunk city, private cars have become an exception rather than the rule, and their numbers no longer justify the spaces they had taken. The citizens transform parking lots, junctions and roads into spaces for nature and community. In Milan, the people re-open the Navigli and the other canals which had made the city prosper in the Middle Ages and which had been covered in the 50s and 60s to make space for cars.
+**Відповідь**:
+У місті соларпанк приватні автомобілі стали радше винятком, ніж правилом, і їхня кількість більше не виправдовує місця, які вони займали. Мешканці перетворюють парковки, перехрестя та дороги на простори для природи та спільноти. У Мілані люди знову відкривають Навільї та інші канали, які принесли місту процвітання в Середньовіччі і які були засипані в 50-60-х роках, щоб звільнити місце для автомобілів.
 
-Emys Orbicularis is a solar-powered water bus. She is named after one of the species of freshwater turtles that can be found in Italy, with which she shares a certain resemblance because of its shell, made of solar panels. Water buses like this ply the waters, bringing travellers, workers and students across the city. With a little bit of patience, one can get to Pavia, the Lakes and the Po, on a boat or along the long-distance cycle paths, fully equipped to welcome all travellers.
+Emys Orbicularis - це водний автобус на сонячних батареях. Він названий на честь одного з видів прісноводних черепах, що мешкають в Італії, з яким він має певну схожість завдяки панциру, виготовленому з сонячних батарей. Такі водні автобуси курсують по воді, перевозячи мандрівників, робітників і студентів по всьому місту. Маючи трохи терпіння, можна дістатися до Павії, озер і річки По на човні або по міжміських велосипедних доріжках, повністю обладнаних, щоб вітати всіх мандрівників.
 
-People travel without haste, and without emissions.
+Люди подорожують без поспіху та шкідливих викидів.
