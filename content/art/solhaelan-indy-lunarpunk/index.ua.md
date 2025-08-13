@@ -1,5 +1,5 @@
 ---
-title: "Indy Lunarpunk"
+title: "Лунарпанк в Індіанаполісі"
 date: 2023-04-03
 publishDate: 2025-05-02
 draft: false
@@ -9,6 +9,4 @@ authors:
   - "solhaelan"
 ---
 
-## Angielski opis
-
-This piece imagines a near-future (or alternate-present) Indianapolis without light pollution, where the illumination sources are all shifted toward the red end of the spectrum to avoid the disruption of circadian rythyms and chiropteran flight patterns, and where folk dance and sing under the stars and the streetlights, which are made to look like Canada lilies (Lilium canadense).
+Цей малюнок уявляє Індіанаполіс найближчого майбутнього (або альтернативного сьогодення) без світлового забруднення, де джерела освітлення зміщені в бік червоного кінця спектру, щоб уникнути порушення циркадних ритмів і характеру польоту кажанів, і де люди танцюють і співають під зорями та вуличними ліхтарями, обрамленими на кшталт канадських лілій (Lilium canadense).
