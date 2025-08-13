@@ -1,5 +1,5 @@
 ---
-title: "Solarpunk Anarchy"
+title: "Соларпанкова анархія"
 date: 2024-05-10
 publishDate: 2025-04-28
 draft: false
@@ -9,7 +9,7 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/solarpunk-with-103968472)
+[Оригінал на Патреоні](https://www.patreon.com/posts/solarpunk-with-103968472)
 
 One of my heroes Charlie Munger said that "If you don't destroy one of your most closely held ideas each year, then you're not learning enough."
 

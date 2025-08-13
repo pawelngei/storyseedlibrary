@@ -1,5 +1,5 @@
 ---
-title: "Solarpunk Cafe"
+title: "Соларпанкове кафе"
 date: 2023-09-19
 publishDate: 2025-04-28
 draft: false
@@ -9,12 +9,12 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/solarpunk-cafe-89516442)
+[Оригінал на Патреоні](https://www.patreon.com/posts/solarpunk-cafe-89516442)
 
-This piece is dedicated to Slava Sakhnenko.
+Цей твір присвячений Славі Сахненку.
 
-Thank you Slava for requesting a depiction of [these characters living city life in Nittany City](https://www.patreon.com/posts/look-what-i-100-84231823).
+Дякую, Славо, за замовлення зображення [цих персонажів, які живуть міським життям у Ніттані-Сіті](https://www.patreon.com/posts/look-what-i-100-84231823).
 
-Let me know what you think of the painting, I'm debating about creating a time-lapse of the process!
+Дайте знати, що ви думаєте про картину. Я розмірковую над тим, щоб створити таймлапс процесу її створення!
 
-Characters and faces are especially difficult for me, so this painting definitely pushed my limits. I almost gave up half way through because I couldn't figure out faces, but I got them to a good place :)
+Персонажі та обличчя для мене особливо складні, тому ця картина точно вивела мене за межі моїх можливостей. Я майже здався на півдорозі, бо не міг розібратися з обличчями, але в підсумку все вийшло добре :)
