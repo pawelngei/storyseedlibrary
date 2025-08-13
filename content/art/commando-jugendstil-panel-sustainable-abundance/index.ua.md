@@ -1,5 +1,5 @@
 ---
-title: "Sustainable abundance"
+title: "Сталий достаток"
 date: 2023-08-16
 publishDate: 2025-06-01
 draft: false
@@ -11,18 +11,18 @@ series: ["Commando Jugendstil's Panels"]
 series_order: 6
 ---
 
-**Topic**: 
-Sustainable abundance
+**Тема**: 
+Сталий достаток
 
-**Description**:
-Every year between April and November the solarpunk city is transformed. Flowers, fruits and crops of all sorts appear on balconies and terraces and community allotments, in flower beds and even on bush shelters sometimes. Maybe the city is not quite self-sufficient food-wise, and lives in strict symbiosis with the countryside that surrounds it, but during the right season it still gets hit with waves of abundance.
+**Опис**:
+Щороку з квітня по листопад соларпанк-місто перевтілюється. На балконах і терасах, на присадибних ділянках, на клумбах, а іноді навіть на укриттях для кущів з'являються квіти, фрукти та всілякі врожаї. Можливо, місто не зовсім самодостатнє в продовольчому плані і живе в тісному симбіозі з сільською місцевістю, яка його оточує, але у відповідний сезон в ньому все рівно відбуваються приливи достатку.
 
-The residents celebrate the fresh produce. They organize open-air feasts in gardens and orchards, centred on strawberries, tomatoes or courgettes, each in its season, but for the most part there is more fresh food that can be consumed, even through repeated parties.
-The residents then gather again in the community centres of each neighbourhood and pull out pressure cookers, autoclaves, drying lattices and driers, and a truly astonishing quantity of glass jars, and work together for days on end, sometimes weeks, turning that cornucopia into jams, preserves and conserves of all kind.
-Garlic braids, chili garlands and dried tomato mosaics, laid out on lattices adorn every building, and the shelves of the community pantries groan under the weight of hundreds of glass jars, all duly labelled.
-All around educators and childcare volunteers help the young ones take part in the proceedings, or keep them occupied while their adults work.
-Someone even plays the guitar to entertain the workers. It is basically a party all over again.
-Nearby a group of fiber artists uses peels, seeds and other off-cuts to make pigments and dye yarn made from hemp, flax and nettles.
-Compost piles grow taller and fatter with new material. By the time Spring comes around again, it will be ready to nurture new harvests.
+Мешканці святкують з'явище свіжих продуктів. Вони влаштовують бенкети під небом в садах і городах, присвячені полуницям, помідорам чи кабачкам, кожен у свій сезон, але здебільшого свіжої їжі залишається більше, ніж є змога спожити, навіть після повторних вечірок.
+Потім мешканці знову збираються в громадських центрах кожного району, дістають скороварки, автоклави, сушильні решітки та сушарки, а також справді вражаючу кількість скляних банок, і працюють разом кілька днів поспіль, іноді тижнями, перетворюючи цей ріг достатку на джеми, варення та всілякі консервації.
+Часникові коси, гірлянди з перцю чилі та мозаїка з в'ялених помідорів, викладені на решітках, прикрашають кожну будівлю, а полиці громадських комор скриплять під вагою сотень скляних банок, кожна з яких належним чином етикетована.
+Навколо вихователі та волонтери допомагають малечі брати участь у заходах, або ж займають їх, поки дорослі працюють.
+Хтось навіть грає на гітарі, щоб розважити робітників. По суті, це вже знову вечірка.
+Неподалік група художників-волонтерів використовує лушпиння, насіння та інші відходи для виготовлення пігментів і фарбування пряжі з конопель, льону та кропиви.
+Компостні купи стають вищими і товстішими з новим матеріалом. Коли знову прийде весна, вони будуть готові до нових врожаїв.
 
-In the solarpunk city abundance is never wasted, it is shared with everyone.
+У соларпанковому місті достаток ніколи не втрачений - ним діляться з усіма.
