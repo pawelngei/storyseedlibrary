@@ -1,5 +1,5 @@
 ---
-title: "The Chefs"
+title: "Кухарі"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,8 +9,8 @@ authors:
   - "alxd"
 ---
 
-> A group of cooks, dietitians, and teachers are tasked with both creating and promoting well-rounded and tasty vegetarian cuisine in a world living through the culture shock of no affordable meat.
+> Група кухарів, дієтологів та викладачів має завдання створювати і просувати збалансовану та смачну вегетаріанську кухню у світі, який переживає культурний шок від відсутності доступного м'яса.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-chefs)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Chefs)
-- [Illustration](/art/the-lemonaut-chefs/)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-chefs)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Chefs)
+- [Ілюстрація](/art/the-lemonaut-chefs/)

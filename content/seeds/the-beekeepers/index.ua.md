@@ -1,5 +1,5 @@
 ---
-title: "The Beekeepers"
+title: "Бджоляри"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> A team of environmentalists and neural network researchers are training new bee-like AIs by having them coexist with the animal populations of a local ecosystem, calling themselves “the beekeepers”.
+> Команда захисників довкілля та дослідників нейромереж тренують штучний інтелект, заснований на поведінці бджіл, випустивши його у місцеву екосистему, аби він вчився співіснувати із справжніми тваринами. Команда зве себе «бджолярами»
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-beekeepers)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Beekeepers)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-beekeepers)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Beekeepers)

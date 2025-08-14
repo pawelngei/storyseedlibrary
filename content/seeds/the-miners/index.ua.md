@@ -1,5 +1,5 @@
 ---
-title: "The Miners"
+title: "Гірники"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> A powerful co-op of rare earth miners, who long ago fought their owners and won, now face a new challenge: how to avoid becoming like them, knowing that without their work very few people will be able to produce electronics.
+> Потужний кооператив гірників, що видобувають рідкісноземельні мінерали, який колись давно боровся зі своїми власниками і переміг, тепер стикається з новим викликом: як не стати такими, як ці колишні власники, знаючи, що без гірничої праці дуже мало хто зможе виробляти електроніку.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-miners)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Miners)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-miners)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Miners)

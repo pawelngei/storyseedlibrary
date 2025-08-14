@@ -1,5 +1,5 @@
 ---
-title: "The Tower"
+title: "Дерев'яний житловий будинок"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,8 +9,8 @@ authors:
   - "alxd"
 ---
 
-> A community is freshly moved into a new, wooden, sustainable, climate-controlled tower designed to help them be close to each other and live communally. For some it is a dream come true, for others it is a culture shock, but everyone is struggling with the trauma of losing their old homes to floods, fires and relocation programs. While the adults deal with their emotions, children are quick to run around and explore the wonders of their new home.
+> Громада нещодавно переїхала до нової, дерев'яної, екологічної вежі з клімат-контролем, яка була спроектована, щоб допомогти їм зблизитись і жити спільно. Комусь це ідеально підходить, а для інших це — культурний шок, але всі вони борються з травмою втрати своїх старих будинків через повені, пожежі та програми переселення. Поки дорослі борються зі своїми емоціями, діти біжать досліджувати дива свого нового дому.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tower)
-- [Illustration](/art/the-lemonaut-tower/)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tower)
+- [Ілюстрація](/art/the-lemonaut-tower/)

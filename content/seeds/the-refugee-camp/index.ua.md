@@ -1,5 +1,5 @@
 ---
-title: "The Refugee Camp"
+title: "Табір біженців"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> There is a full-fledged town built from a refugee camp which was set up there two decades ago. The inhabitants speak their own creole, a mix of more than five languages, and have very shaky relationships with their neighboring communities or states, each of which considers it a lawless territory and might be plotting to take over.
+> З табору біженців, який був створений там двадцять років тому, виросло повноцінне місто. Жителі розмовляють власним суржиком, який є сумішшю більш ніж п'яти мов, і мають дуже нестабільні відносини з сусідніми громадами або державами, кожна з яких вважає це територію беззаконною, і можливо навіть планує її захоплення.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-refugee-camp)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Refugee-Camp)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-refugee-camp)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Refugee-Camp)

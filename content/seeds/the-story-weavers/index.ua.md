@@ -1,5 +1,5 @@
 ---
-title: "The Story Weavers"
+title: "Ткачі історій"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,4 +9,4 @@ authors:
   - "alxd"
 ---
 
-> A community of writers, dreaming of a better future, struggling to find words to express the hope they so desperately need. They feel like children lost in thick fog, calling to each other, so happy when they find someone who shares their vision - and with each new one, the fog is getting thinner and more people can see them. Some day, they will all see the sun.
+> Спільнота письменників, які мріють про краще майбутнє, намагається знайти слова, щоб висловити надію, якої вони так відчайдушно потребують. Вони відчувають себе як діти, загублені в густому тумані, які кличуть інших і радіють, коли знаходять когось, хто поділяє їхнє бачення. З кожним новим членом туман стає все рідшим, і все більше людей можуть бачити один одного. Настане день, коли вони всі побачать сонце.

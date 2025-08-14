@@ -1,5 +1,5 @@
 ---
-title: "The Reservists"
+title: "Резервісти"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,40 +9,40 @@ authors:
   - "alxd"
 ---
 
-> As a disaster strikes, completely overwhelming several communities, a group of friends is called back into service as first responders. Each of their lives took a different path since the Service, but as they scramble to remember their training - as flood control, epidemic trackers, trauma psychologists or radio technicians - they feel like one unit again. Meeting new kids, straight from the mandatory training everyone goes through - will they become their mentors, or struggle opening up to greenhorns?
+> Коли стається катастрофа, яка повністю руйнує кілька громад, групу друзів знову викликають на службу в якості групи швидкого реагування. Після служби життя кожного з них пішло різними шляхами, але, намагаючись згадати своє навчання — як фахівці з боротьби з повенями, епідеміологи, психологи-травматологи чи радіотехніки — вони знову відчувають себе єдиним колективом. Зустрівши нових хлопців, які щойно пройшли обов'язкове навчання, чи стануть вони їхніми наставниками, чи їм буде складно відкритися новачкам?
 
-## Raw Research Notes
+## Нередаговані дослідницькі нотатки
 
-There is A LOT of baggage coming with the idea of a military service, the indocrination of the military, nationalism, destroying the individualism, discriminating against queer people, hiding sexual abuse etc. Let's acknowledge that and instead of "re-forging existing militaries" (as is episode #11) let's focus on something else: life after service.
+Ідея військової служби тягне за собою БАГАТО проблем: військову індоктринацію, агресивний націоналізм, знищення індивідуалізму, дискримінацію ЛГБТ-спільноти, приховування сексуального насильства тощо. Давайте визнаємо це і замість «перебудови нинішніх збройних сил» (як у епізоді № 11) зосередимося на чомусь іншому: на житті після служби.
 
-Let's imagine that after finishing high school, but before going to the University, every person in our society goes through 2 years of training and climate service. It doesn't matter what gender they are, or if they are disabled: they get assigned to a specialization and they learn how to help their community and society in some way. They can be first responders, they can be electricians, logisticians, kindergardeners, forest rangers, flood experts od epidemic effort coordinators. They are not professionals - of course, they can align their careers along their training - but they are the "service members".
+Уявімо, що після закінчення середньої школи, але перед вступом до університету, кожна людина в нашому суспільстві проходить 2 роки навчання та служби з питань клімату. Не має значення, якої вони статі або чи мають вони інвалідність: їм призначають спеціалізацію, і вони вчаться, як допомогти своїй громаді та суспільству. Вони можуть бути рятувальниками, електриками, логістами, вихователями в дитячих садках, лісниками, експертами з повеней або координаторами боротьби з епідеміями. Вони не є професіоналами — хоча, звичайно, вони можуть узгодити свою кар'єру з отриманою підготовкою, — вони є «членами служби».
 
-This gives people their first skillset, but at the same time assures that everyone in a given region can help in case of a catastrophe. In case of a given kind of help needed, people with the right expertise are called for, no matter where in life are they now - whether hairdressers, engineers or politicians.
+Це дає людям перші навички, але водночас гарантує, що кожен у певному регіоні може допомогти у разі катастрофи. За необхідності певного виду допомоги, людей з відповідним досвідом викликають незалежно від того, хто вони зараз — чи то перукарі, інженери чи політики.
 
-They were equal once, within their "unit", and they will be equal once more, standing at the flood embankments.
+Колись вони були рівними у своєму «підрозділі», і знову стануть рівними, стоячи у підніжжя протипаводкових насипів.
 
-What's important, this prompt is not set DURING their initial training and service (as per #11), but years after, when people are mobilized again.
+Важливо, ця історія не відбувається ПІД ЧАС їхнього початкового навчання та служби (згідно з одинадцятим епізодом), а через роки, коли люди знову мобілізуються.
 
-This gives us A LOT in terms of worldbuilding:
+В плані розкриття світу, це дає нам багато:
 
-- Everyone has been through a similar experience. This gives them a friend-group for life, some more empathy for people from vastly different paths of life, but can also result in some tribalism.
-  - Are there sports teams or political factions based on the "service groups"? The Firemen versus The Radio Guys?
-- Instead of being indoctrinated into patriotism and nationalism, our service members share a bond of saving lives and helping others in their own way. They might bring a lot of different and conflicting ideologies to the table, but this is something that connects them all.
-- As with current military reservists, people will be called for trainings once every year, or several years. If they weren't a group of friends and a small community then, they probably will be.
-- What in case of a drama? If Casey told Tom she really hates them, can they work well together under a lot of pressure, during a cataclysm? There must be some procedures in place for that!
-- Will they naturally navigate to live close together, potentially making the whole social structure more fragile? The service members are supposed to be spread more-or-less uniformly in each region!
-- In our Solarpunk world we want to imagine full transparency, so no "buying easier spots" in a team. Everyone gets a specialization along their skills and limitations and everyone is equal.
-- How does a mobilization look like? What if someone is sick, pregnant, or cannot leave their position - for example at the power plant?
-- From a very human side: how does mobilization look like? Is it a thrill, "me and my friends are going to save some asses?"
+- Всі пройшли через подібний досвід. Це дає їм групу друзів на все життя, більше співчуття до людей з абсолютно різних життєвих шляхів, але також може призвести й до певної надмірної групової лояльності.
+- Чи існують спортивні команди або політичні угрупування, засновані на «групах служб»? Пожежники проти радіотехніків?
+- Замість одержимості патріотизмом і націоналізмом, наші військовослужбовці об'єднані спільним прагненням рятувати життя і допомагати іншим по-своєму. Вони можуть мати багато різних і суперечливих ідеологій, але це те, що їх усіх об'єднує.
+- Як і в випадку з нинішніми військовими резервістами, людей будуть викликати на навчання раз на рік або раз на кілька років. Якщо вони тоді не були групою друзів і невеликою спільнотою, то, ймовірно, стануть ними.
+- А що, якщо трапиться якась драма? Якщо Марина скаже Сергію, що вона його ненавидить, чи зможуть вони добре працювати разом під великим тиском, під час катастрофи? Для таких випадків мають бути передбачені певні процедури!
+- Чи будуть групи друзів-службовців природно прагнути жити поруч, що може зробити всю соціальну структуру більш крихкою? Військовослужбовці повинні бути розподілені більш-менш рівномірно по кожному регіону!
+- У нашому соларпанковому світі ми хочемо уявити повну прозорість, а отже в команді не буде можливості «купити легше положення». Кожен отримує спеціалізацію відповідно до своїх навичок і обмежень, і всі є рівними.
+- Як виглядає мобілізація? Що робити, якщо хтось захворів, вагітна або не може залишити своє місце роботи, наприклад, на електростанції?
+- З дуже людської точки зору: як виглядає мобілізація? Чи це емоційно збуджує, «я і мої друзі зараз врятуємо купу людей»?
 
-While there might be a lot to explain in this prompt, I think the story itself would be really fun and enjoyable both to write and read. The action, the dramatism is right there, and it's full of potential "flashbacks" to regular lives in a Solarpunk world.
+Хоча тут потрібно багато пояснень, я думаю, що сама історія була б дійсно цікавою і приємною як для написання, так і для читання. Дія, драматизм вже є, і вона сповнена потенційних «спогадів» про звичайне життя в соларпанковому світі.
 
-### Service Members vs Volunteers
+### Службовці чи волонтери
 
-The focus on this prompt can go both ways and I think both are equally interesting. The first is the mandated Service that a lot of people might not like, as it's "too authoritarian", while the latter is just Volunteering, which assumes that people got the necessary training on their own (like https://en.wikipedia.org/wiki/Icelandic_Association_for_Search_and_Rescue or Volunteer Firefighters).
+Ця тема може розглядатися з двох боків, і я вважаю, що обидва вони однаково цікаві. Перший — це обов'язкова служба, яка може не подобатися багатьом людям, оскільки вона «занадто авторитарна», а другий — це просто волонтерство, яке передбачає, що люди самостійно пройшли необхідне навчання (як наприклад, Ісландська асоціація з пошуку та рятування [ICE-SAR](https://en.wikipedia.org/wiki/Icelandic_Association_for_Search_and_Rescue) або як пожежники-волонтери).
 
-The very heart of the prompt is people who are leading normal lives until they are called for help - and their social dynamics, since it's what creates the story. Emphasizing how volunteering works right now could help the listeners imagine that, but I also think that imagining a huge cultural shift where everybody shares this experience is important.
+Суть цієї історії полягає в тому, щоб показати людей, які ведуть звичайне життя, поки їх не покличуть на допомогу, а також їхні соціальні взаємодії, оскільки саме це і створює історію. Підкреслення того, як зараз працює волонтерство, може допомогти слухачам уявити все це, але я також вважаю, що важливо уявити й величезну культурну зміну, завдяки якій всі можуть поділитися цим досвідом.
 
-### Generational Shift
+### Зміна поколінь
 
-An interesting aspect of the story would be the first year / generation of the Reservists and how alien, oppressive the program might feel - set against the culture 20+ years later, where it's normalized, and everyone shares the duty / responsibility of the Service.
+Цікавим аспектом історії може бути перший рік / покоління резервістів і те, наскільки чужою та гнітючою може здаватися ця програма спочатку — це сприйняття можна порівняти з культурою, що склалася через 20 років, де це стало нормою і де кожен несе обов'язки / відповідальність за службу.

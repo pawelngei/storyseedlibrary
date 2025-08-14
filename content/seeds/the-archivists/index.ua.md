@@ -1,5 +1,5 @@
 ---
-title: "The Archivists"
+title: "Архівісти"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> A community of archivists, cartographers, or Wikipedians is fighting to save as much unwritten lore and knowledge as they can, before the old generation passes away. They’re not hired by any organization or university, but connected by their love for the folk tales and belief that the natural medicine might be worth researching today.
+> Спільнота архівістів, картографів, або вікіпедистів бореться за збереження якомога більшого обсягу знань, допоки старше покоління все ще живе. Вони не працюють на жодну організацію чи університет — їх поєднує любов до народних переказів та віра в те, що природні ліки все ж варто достеменно вивчити сьогодні.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-archivists)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Archivists)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-archivists)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Archivists)
