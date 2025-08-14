@@ -1,5 +1,5 @@
 ---
-title: "Water management, the solarpunk way"
+title: "Управління водними ресурсами, по-соларпанківськи"
 date: 2023-09-16
 publishDate: 2025-06-01
 draft: false
@@ -11,17 +11,17 @@ series: ["Commando Jugendstil's Panels"]
 series_order: 7
 ---
 
-**Topic**: 
-Water management, the solarpunk way
+**Тема**: 
+Управління водними ресурсами, по-соларпанківськи
 
-**Description**:
-Hard, impermeable surfaces have their uses, to allow bicycles, wheelchairs, strollers and yes, even the few surviving cars, all electric and with sodium batteries, to roll around undisturbed, but with weather patterns freely cycling between drought and torrential rain, the solarpunk city has had to transform, to become permeable and rethink its relationship with water.
-Gardens and food growing spaces are designed around water harvesting and redirect the rain towards cisterns, ponds and other water reservoirs, which are used to water the plants in the try season. Drains and grey water pipes are directly connected to filtration systems. Used water is recovered and used again and again and again.
+**Опис**:
+Тверді, непроникні поверхні мають своє застосування, дозволяючи велосипедам, колісними кріслами, дитячим коляскам і навіть небагатьом залишившимся автомобілям, повністю електричним і з натрієвими батареями, безперешкодно пересуватися. Але з погодними умовами, що вільно змінюють один одного від посухи до проливних дощів, соларпанкове місто було змушене трансформуватися, стати проникним і переосмислити свої взаємини з водою.
+Сади і місця для вирощування продуктів харчування спроектовані таким чином, щоб збирати воду і перенаправляти дощ до цистерн, ставків та інших водойм, які використовуються для поливу рослин у сезон дозрівання. Водостоки та каналізаційні труби безпосередньо під'єднані до систем фільтрації. Використана вода відновлюється і використовується знову і знову, і знову, і знову.
 
-There is no need to worry about contamination from human waste. Excrement is no longer dumped in the waterways like in the Late Stage, but are composted into sterility and used for agriculture, a natural, endlessly renewable fertilizer which has helped replace chemical fertilizers. Even urine has its uses, as Vespasian said, and is employed as a mordant for dying and tanning processes, or, diluted, as plant fertilizer.
+Не потрібно турбуватися про забруднення відходами життєдіяльності людини. Екскременти більше не скидають у водойми, як на Пізній стадії, а компостують до стерильності і використовують у сільському господарстві, як природне, нескінченно поновлюване добриво, яке допомогло замінити хімічні еквіваленти. Навіть сеча має своє застосування, як казав Веспасіан, і використовується як протрава для фарбування і дублення, або, в розведеному вигляді, як добриво для рослин.
 
-Low-lying skateparks become pools or ponds for part of the year, much to the chagrin of skaters, who have to make do with SUP-ing and kayaking in the newly reopened medieval canals or in the old seaplane landing strip. And even there, they have to share their space with permaculturists: chinampas, a traditional growing technique invented by the Aztecs which entails the construction of floating islets of vegetation on which to grow crops or keep poultry, have become extremely popular recently and dot most waterways.
-In Summer, when there is enough water, the residents flock to the re-forested banks of the nearby rivers for a swim.
+Низинні скейтпарки на частину року стають басейнами або ставками, на превеликий жаль для скейтерів, яким доводиться задовольнятися катанням на дошці для серфінгу та каякінгу у нещодавно відкритих середньовічних каналах або на старій злітно-посадковій смузі для гідролітаків. І навіть там їм доводиться ділити простір з пермакультуристами: чинампи, традиційна техніка вирощування, винайдена ацтеками, що передбачає будівництво плавучих острівців рослинності, на яких вирощують сільськогосподарські культури або утримують домашню птицю, останнім часом стали надзвичайно популярними і заполонили більшість водних шляхів.
+Влітку, коли води достатньо, мешканці стікаються до засаджених лісом берегів довколишніх річок, щоб скупатися.
 
-Thanks to the drastic reduction in intensive animal agriculture and industrial runoff, the waters are crystal clear and teeming with life: dragonflies, frogs, fish, waterbirds, and even grass snakes which, though harmless, never fail to cause a panic among the beachgoers.
-The solarpunk city has remembered that water is life and lives its life accordingly.
+Завдяки різкому скороченню інтенсивного тваринництва та промислових стоків, води стали кришталево чистими і кишать життям: бабки, жаби, риби, водоплавні птахи і навіть трав'яні змії, які, хоч і нешкідливі, але не перестають викликати паніку серед відпочивальників.
+Соларпанк-місто пам'ятає, що вода - це життя, і живе його відповідно.
