@@ -1,5 +1,5 @@
 ---
-title: "Solar Cooking Class"
+title: "Лекція по готуванню на сонячній пічці"
 date: 2025-06-30
 publishDate: 2025-07-13
 draft: false
@@ -8,6 +8,6 @@ authors:
  - lindsbrown
 ---
 
-[Original on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solar_Cooking_Class_-_Solarpunk_Art_Collab_2025.jpg)
+[Оригінал на Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solar_Cooking_Class_-_Solarpunk_Art_Collab_2025.jpg)
 
-For the theme, "Life of Learning”, I wanted to show a solar cooking demonstration held in an urban garden. For this demonstration, people are totally free to come and go as they please, with no age-restrictions. In addition to learning how the solar cooker works, the kids are also learning how to identify herbs—especially really aggressive ones like peppermint that make a fantastic tea and always needs thinning out. :)
+До теми «Життя, сповнене навчання» я хотіла показати демонстрацію сонячного приготування їжі, яка проводиться в міському саду. На цю демонстрацію люди можуть приходити, коли забажають, і вона не має жодних вікових обмежень. Окрім того, що діти дізнаються, як працює сонячна піч, вони також вчаться розпізнавати трави, особливо такі агресивні, як перцева м'ята, з якої готують чудовий чай і яку завжди потрібно розбавляти. :)

@@ -1,14 +1,15 @@
 ---
-title: "Story Seeds"
+title: "Зернятка історій"
 draft: false
-description: "A gallery of free-to-use Solarpunk art under open licenses"
+description: "Галерея соларпанкових зображень, вільних до використання під відкритими ліцензіями"
 slug: "seeds"
 images:
 - ../featured.jpg
 ---
 
-Story Seeds are short, one-paragraph descriptions of a Solarpunk community, place or situation with some dramatic tension already baked in - ready to kickstart your writing!
+Зернятка Історій — короткі, одноабзацні описи соларпанкової спільноти, місця або ситуації з певною драматичною напругою, створені, щоб допомогти вам розпочати писати!
 
-Be sure to also check out the [podcast](https://podcast.tomasino.org/) based on them!
+Не забудьте послухати [подкаст](https://podcast.tomasino.org/), який на них заснований!
+
 
 <br>

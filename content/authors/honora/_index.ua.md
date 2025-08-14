@@ -2,7 +2,7 @@
 title: "Honora"
 ---
 
-GameDev and Painter, Learning sculpture. Dreaming of making it as a comic book artist.
+Розробниця ігор і художниця, вчуся скульптурі. Мрію стати коміксисткою.
 
 - [Blog](https://honora.neocities.org/)
 - [Mastodon](https://mastodon.art/@NiwlCraft/)

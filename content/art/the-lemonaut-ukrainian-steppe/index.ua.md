@@ -1,5 +1,5 @@
 ---
-title: "Ukrainian Steppe"
+title: "Український степ"
 date: 2023-06-06
 publishDate: 2025-05-13
 draft: false
@@ -9,8 +9,8 @@ authors:
   - "thelemonaut"
 ---
 
-Originally a submission to Andrewism's [Solarpunk Art Collab 2023](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions), the illustration depicts a temperate grassland in Ukraine.
+Ілюстрація, створена для [Solarpunk Art Collab 2023](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions), що його проводив ютубер Andrewism, на якій — український степ.
 
-> The region depicted is the Ukrainian steppe (Temperate Grasslands biome). It's a rapidly disappearing region, as most of the land gets turned into crop fields or forest to provide profit with little regard for the ecosystem. At the top part of the drawing is a bus stop in the rural area near a maize field. Ukraine grows a lot of maize, mostly to provide feed for the meat industry, so rewilding it back into a grassland would be a great way to help achieve degrowth and heal the environment. Also fertilizer use often leads to eutrophication - the green puddle to the left is a small example of that. The country's ecosystems are also being wrecked by the Russian invasion. Helping the land recover from both profit-oriented industry and war is undoubtedly an important step towards Solarpunk.
+> На малюнку зображено українську степову зону (біом помірних степів). Вона швидко зникає, оскільки більшу частину земель перетворюють на сільськогосподарські угіддя або ліси з метою отримання прибутку, не зважаючи на екосистему. У верхній частині малюнка зображено автобусну зупинку в сільській місцевості поблизу кукурудзяного поля. В Україні вирощують багато кукурудзи, переважно для забезпечення кормом м'ясної промисловості, тому повернення її до степового стану було б чудовим способом сприяти дезросту та оздоровленню навколишнього середовища. Крім того, використання добрив часто призводить до евтрофікації — зелена калюжа ліворуч є невеликим прикладом цього. Екосистеми країни також руйнуються через російське вторгнення. Допомога землі у відновленні як від промисловості, орієнтованої на прибуток, так і від війни є, безсумнівно, важливим кроком на шляху до соларпанку.
 > 
-> The bus stop is now a pleasant little space to pass the time when getting from one place to the next. It's even got a small solar-powered community fridge and some wall art in the traditional Petrykivka style.
+> Автобусна зупинка тепер є місцем, де можна перепочити на шляху з одного місця в інше. Там навіть є невеликий громадський холодильник, що працює на сонячній енергії, та петриківський розпис на стінах.

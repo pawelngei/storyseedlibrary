@@ -18,7 +18,7 @@ What we have then - whether in terms of Carbon Credits, LCAs or other aspects - 
 
 One solution would be maximum transparency and treating the whole LCA process: the knowledge base, algorithms, specific decisions as a wiki, where everybody can look into and comment. How much can we offload on citizen scientists and citizen economists, however?
 
-This will also lead to faction wars, both in terms of ideology and economics. Every decision will have consequences - and even without layers of red tape and sleazy CEOs people can be rallied to vote against something important. What if the calculations show that - for example - India should not produce steel, which could be picked up by another, much smaller country? The sheer population and number of votes can out-weight it! Will they then vote on a flawed calculation method, led by a demagogue?
+This will also lead to faction wars, both in terms of ideology and economics. Every decision will have consequences - and even without layers of red tape and sleazy CEOs people can be rallied to vote against something important. What if the calculations show that - for example - India should not produce steel, which could be picked up by another, much smaller country? The sheer population and number of votes can out-weigh it! Will they then vote on a flawed calculation method, led by a demagogue?
 
 The bribes don't need to be financial. They can be prestige, acceptance by a faction, or whatever else.
 

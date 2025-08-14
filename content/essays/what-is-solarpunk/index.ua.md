@@ -1,19 +1,19 @@
 ---
-title: "What is Solarpunk?"
+title: "Що таке соларпанк?"
 date: 2025-04-27
 draft: false
-description: "An intro to Solarpunk as a genre and as a movement"
+description: "Вступ до соларпанку як жанру та руху"
 showAuthorBottom: true
 authors:
   - "alxd"
 ---
 
-If you haven't heard about this movement and genre before, [Andrewism](https://www.youtube.com/@Andrewism/) created one of the best short intros out there:
+Якщо ви раніше не чули про цей рух і жанр, [Andrewism](https://www.youtube.com/@Andrewism/) створив одне з найкращих коротких ознайомчих відео до цієї теми:
 
 {{< youtubeLite id="u03hoO3QueM" label="What is Solarpunk (2025)" >}}
 
-You could also check out:
+Також ви можете переглянути:
 
 - [A Solarpunk Manifesto](https://www.re-des.org/a-solarpunk-manifesto/)
 - [Notes toward a manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)
-- [Lenses and Foundations](https://lenses.alxd.org), an essay by yours truly, the curator of SSL
+- [Lenses and Foundations](https://lenses.alxd.org), есей, написаний мною, куратором Бібліотеки

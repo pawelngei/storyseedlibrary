@@ -1,5 +1,5 @@
 ---
-title: "The Non-Economists"
+title: "Не-економісти"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,34 +9,35 @@ authors:
   - "alxd"
 ---
 
-> A small team of researchers is woken up by their notification inboxes exploding: their mundane and unexciting report might have just started an economic war between multiple regions and communities. In a world with tightly-controlled carbon budgets, the production, use and recycling of every product is a subject of LCA, or a LifeCycle Assessment. A bad result might change the design, or move the production to another region, with potential political consequences. How will the researchers deal with their newly acquired (in)fame? Will they trust their analysis, buckle under pressure, or decide to play politics?
+> Невелика група дослідників прокидається від напливу повідомлень у своїх поштових скриньках: їхній буденний і нецікавий звіт, можливо, щойно розпочав економічну війну між кількома регіонами та громадами. У світі, де суворо контролюються викиди вуглецю, виробництво, використання та переробка кожного продукту піддається LCA, або Екологічній оцінці життєвого циклу. Поганий результат може змінити дизайн або перенести виробництво в інший регіон, що може мати політичні наслідки. Як дослідники впораються зі своєю новоздобутою (не)славою? Чи довірятимуть вони своїм аналізам, піддадуться тиску або вирішать грати в політику?
 
-## Raw Research Notes
+## Нередаговані дослідницькі нотатки
 
-What we have then - whether in terms of Carbon Credits, LCAs or other aspects - is a question how to structure a system to make sense and be unhackable.
+Тож, незалежно від того, чи йдеться про вуглецеві кредити, Екологічну оцінку життєвого циклу (LCA) чи інші аспекти, перед нами стоїть питання, як структурувати систему, щоб вона була логічною і такою, яку неможливо зламати.
 
-One solution would be maximum transparency and treating the whole LCA process: the knowledge base, algorithms, specific decisions as a wiki, where everybody can look into and comment. How much can we offload on citizen scientists and citizen economists, however?
+Одним із рішень могла б бути максимальна прозорість та розгляд усього процесу LCA: бази знань, алгоритмів, конкретних рішень тощо у форматі вікі, яку кожен може переглянути та прокоментувати. Однак, скільки ми можемо покласти на плечі непрофесійних науковців та економістів-аматорів?
 
-This will also lead to faction wars, both in terms of ideology and economics. Every decision will have consequences - and even without layers of red tape and sleazy CEOs people can be rallied to vote against something important. What if the calculations show that - for example - India should not produce steel, which could be picked up by another, much smaller country? The sheer population and number of votes can out-weight it! Will they then vote on a flawed calculation method, led by a demagogue?
+Це також призведе до фракційних воєн, як в ідеологічному, так і в економічному плані. Кожне рішення матиме наслідки — і навіть без бюрократичних перешкод та нечесних гендиректорів люди можуть об'єднатися, щоб проголосувати проти чогось важливого. Що, якщо розрахунки покажуть, що, наприклад, Індія не має виробляти сталь, адже її змогла б виробляти інша, набагато менша країна? Чисельність населення та кількість голосів можуть тут переважити! Чи будуть вони тоді голосувати за недосконалий метод розрахунку на чолі з демагогом?
 
-The bribes don't need to be financial. They can be prestige, acceptance by a faction, or whatever else.
+Хабарі не обов'язково мають бути фінансовими. Це може бути престиж, прийняття фракцією або щось інше.
 
-This prompt ties in with [the Miners](/seeds/the-miners), [The Moonshot](/seeds/the-moonshot) and many others.
+Ця тема пов’язана також з [Гірниками](/seeds/the-miners), [Амбіційним проєктом](/seeds/the-moonshot) та багатьма іншими.
 
-Let's look for a story in it though:
+Але давайте пошукаємо в цьому історію:
 
-Let's imagine a group of LCA scientists who just published just another analysis, being abruptly woken by their notification inboxes exploding. They were just launched on the front  lines of a faction war, where their report was the "last straw" and might now contribute do a huge societal change, removing whole sectors of economy from one region of the world into another. Do they trust their work? Will they buckle under pressure? It's a good opportunity to walk the reader through how the LCA process looks like.
+Уявімо групу вчених, що займаються Екологічною оцінкою життєвого циклу (LCA), які щойно опублікували черговий аналіз, і раптом прокинулися від напливу повідомлень у своїх поштових скриньках. Вони опинилися на передовій фракційної війни, в якій їхній звіт став «останньою краплею» і тепер може сприяти величезним суспільним змінам, перемістивши цілі сектори економіки з одного регіону світу в інший. Чи довіряють вони результатам своєї діяльності? Чи витримають вони тиск? Це хороша нагода розповісти читачам, як виглядає процес LCA.
 
-Consider the world to be more anarchist, less hierarchical, where a lot of decisions are consensus-based and a subject of public debate, flames and online brigading. The scientists behind this report are now celebrities, widely known, whether they want it or not. If you want to cite a book with similar themes, you can go with LX Beckett's "Gamechanger" or "Dealbreaker", where the popular support for eco-policies is one of the most important plots of both novels.
+Уявіть собі світ, який є більш анархічним, менш ієрархічним, де багато рішень приймаються на основі консенсусу і є предметом публічних дебатів, суперечок та онлайн-навал. Вчені, які стоять за цим звітом, тепер є знаменитостями, широко відомими — хочуть вони цього, чи ні. Якщо ви бажаєте навести приклад книги з подібною тематикою, можете обрати «Gamechanger» або «Dealbreaker» за авторством Л. Х. Бекетт, де підтримка екологічної політики з боку населення є одним з найважливіших сюжетних моментів обох романів.
 
-Let's remember that more and more LCA processes are not just about energy and material, but are trying to count-in the uncountable, the effects on human happiness and labour practices. Yes, we could move the industry to China, but the general economic effect will produce X more tons of CO2, even if the factories will be more efficient.
+Давайте не забувати, що все більше процесів LCA стосуються не тільки енергії та матеріалів. В їх рамках намагаються врахувати те, що неможливо звести до цифри, а саме вплив на щастя людей та трудові практики. Так, ми могли б перенести виробництво до Китаю, але загальний економічний ефект призведе до збільшення викидів CO2 на X тонн, навіть якщо заводи будуть більш ефективними.
 
-Original notes:
+Перші нотатки:
 
-- If they aren’t careful, they could become like the economists of the past centuries, worshiping a mathematical model and a paradigm, instead of continuously testing it.
-- Struggles of morality are ongoing in solarpunk
+- Якщо вони не будуть обережними, вони можуть стати схожими на економістів минулих століть, які поклонялися математичній моделі та парадигмі, замість того, щоб постійно її перевіряти.
+- У соларпанку триває моральна боротьба
 
-Sources:
+Джерела:
 
 - https://en.wikipedia.org/wiki/Life-cycle_assessment
-- We can throw in the https://globalcarbonreward.org/ and let's say, "good faith", non-blockchain carbon counting systems. We WILL need one.
+- Також закину сюди https://globalcarbonreward.org/ і ще, скажемо так, "добросовісні" системи підрахунку викидів вуглецю, не засновані на блокчейні. Нам БУДЕ потрібна подібна система.
+

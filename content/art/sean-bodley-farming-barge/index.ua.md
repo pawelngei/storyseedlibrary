@@ -1,5 +1,5 @@
 ---
-title: "Farming Barge"
+title: "Ферми на баржі"
 date: 2023-02-01
 publishDate: 2025-04-28
 draft: false
@@ -9,8 +9,8 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/painted-farming-78049477)
+[Оригінал на Патреоні](https://www.patreon.com/posts/painted-farming-78049477)
 
-I hope you enjoy the coloring of the Farming Barge. 
+Сподіваюся, вам подобається розфарбована версія.
 
-I recorded the process and will be putting together a full time-lapse video to show the process. Maybe I'll even do a few different coloring passes (stormy at night, high noon, etc) on top of this colored version.
+Я записав процес і збираюся змонтувати таймлапс, щоб показати весь процес. Можливо, я навіть зроблю кілька різних варіантів забарвлення (буря вночі, полудень тощо) на додаток до цієї кольорової версії.

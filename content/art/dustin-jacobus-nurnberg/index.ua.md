@@ -1,5 +1,5 @@
 ---
-title: "Green street in Nürnberg (Germany)"
+title: "Зелена вулиця в Нюрнбергу (Німеччина)"
 date: 2025-04-29
 publishDate: 2025-06-07
 draft: false

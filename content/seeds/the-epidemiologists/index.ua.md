@@ -1,5 +1,5 @@
 ---
-title: "The Epidemiologists"
+title: "Епідеміологи"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> A collective of doctors, epidemiologists and educators is researching new pandemic threats and trying to convince multiple communities that they need to vaccinate and change their behaviors without using violence or direct power.
+> Колектив лікарів, епідеміологів та педагогів досліджує нові пандемічні загрози і намагається переконати декілька громад, що їм варто зробити щеплення і змінити свою поведінку, і не використовує при цьому насилля або владний тиск.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-epidemiologists)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Epidemiologists)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-epidemiologists)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Epidemiologists)

@@ -1,5 +1,5 @@
 ---
-title: "Sci Phi Journal: Geodesic Dome"
+title: "Журнал Sci Phi: Геодезичний купол"
 date: 2025-04-29
 publishDate: 2025-06-07
 draft: false

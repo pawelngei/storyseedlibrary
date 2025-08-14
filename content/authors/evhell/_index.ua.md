@@ -2,7 +2,7 @@
 title: "Evhell"
 ---
 
-(french, she/her) Senior developer during the day, comics artist at night, Evhell loves creating stories mixing tech, pop culture and human relationships. She uses gouache and digital art, and sometimes has fun mixing them!
+(француженка, вона/її) Старша розробниця вдень, художниця коміксів вночі, Evhell любить створювати історії, в яких поєднуються технології, поп-культура та людські стосунки. Вона використовує гуаш та цифрове мистецтво, а іноді з задоволенням поєднує їх!
 
 - [Homepage](https://www.evhell.fr/)
 - [Instagram](https://www.instagram.com/evhell.fr/)

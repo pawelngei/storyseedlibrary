@@ -1,5 +1,5 @@
 ---
-title: "Container Ship"
+title: "Контейнеровоз"
 date: 2025-05-02
 publishDate: 2025-05-09
 draft: false
@@ -9,4 +9,4 @@ authors:
   - scandinavian101
 ---
 
-[Original on ArtStation](https://www.artstation.com/artwork/nJOPb1)
+[Оригінал на ArtStation](https://www.artstation.com/artwork/nJOPb1)

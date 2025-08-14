@@ -1,5 +1,5 @@
 ---
-title: "A Harvest of Knowledge"
+title: "Жнива знань"
 date: 2024-08-16
 publishDate: 2025-08-03
 draft: false
@@ -9,7 +9,7 @@ authors:
  - yuuna-maiko
 ---
 
-In the heart of a lush orchard, a grandfather shares his knowledge with his granddaughter, showing her how an apple-harvesting robot works.
-Perched on the back of a gentle yak, the child listens with wonder, her eyes sparkling with curiosity.
+У самому серці пишного фруктового садку дідусь ділиться своїми знаннями з онукою, показуючи їй, як працює робот для збору яблук.
+Сидячи на спині лагідного яка, дитина слухає пояснення з захопленням, а її очі блищать від цікавості.
 
-This sunlit scene highlights a gentle transmission of knowledge between generations, where nature, technology, and humanity coexist in harmony.
+Ця сонячна сцена зображає турботливу передачу знань між поколіннями, та гармонійне співіснування між природою, людством і технологіями.

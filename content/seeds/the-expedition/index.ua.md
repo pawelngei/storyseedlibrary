@@ -1,5 +1,5 @@
 ---
-title: "The Expedition"
+title: "Експедиція"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,8 +9,8 @@ authors:
   - "alxd"
 ---
 
-> A group of doctors and engineers from a Global South country are sent on a mission in the North, helping the specialists there live in the world after The Great Internet Collapse, where the AIs will no longer make suggestions and the Clouds can’t calculate the load bearing strength of a pillar.
+> Група лікарів та інженерів з глобального Півдня вирушає на місію на Північ, аби допомогти місцевим спеціалістам жити у світі, що застав Великого Інтернетного Колапсу, в якому ШІ вже нікому нічого не підказуватиме, а Хмара не зможе прорахувати несучу здатність мосту.
 
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-expedition)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Expedition)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-expedition)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Expedition)

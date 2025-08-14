@@ -1,7 +1,7 @@
 ---
-title: "Solarpunk Art"
+title: "Ілюстрації"
 draft: false
-description: "A gallery of free-to-use Solarpunk art under open licenses"
+description: "Галерея соларпанкових зображень, вільних до використання під відкритими ліцензіями"
 slug: "art"
 tags: []
 showDate: false
@@ -16,10 +16,10 @@ images:
 - ../featured.jpg
 ---
 
-Looking for visions of a better climate future, where our civilization lives in harmony with the ecosystems? Tired of the endless AI-generated pictures of skyscrapers with trees on top?
+Шукаєте бачення кращого кліматичного майбутнього, де наша цивілізація живе в гармонії з екосистемами? Втомилися від нескінченних зображень обліплених деревами хмарочосів, згенерованих штучним інтелектом?
 
-Below you'll find a selection of works from several great artists - no AI, only human creativity and sweat. They're all licensed under [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) and can be used in your projects.
+Нижче ви знайдете добірку робіт кількох чудових художників — жодного штучного інтелекту, лише людська творчість і праця. Усі вони підпадають під ліцензію [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/), і ви можете їх використовувати у ваших проєктах.
 
-Please make sure to check the details of the license and credit the artist!
+Будь ласка, обов'язково перевірте деталі ліцензії та вказуйте ім'я автора!
 
 </BR>

@@ -1,5 +1,5 @@
 ---
-title: "Seeds of Resistance"
+title: "Зернятка опору"
 date: 2021-08-02
 publishDate: 2025-04-29
 draft: false
@@ -9,6 +9,6 @@ authors:
  - honora
 ---
 
-[Original on ArtStation](https://efflam.artstation.com/projects/3dOnwA)
+[Оригінал на ArtStation](https://efflam.artstation.com/projects/3dOnwA)
 
-Inspired by protesters, journalists, academics, and organizers of the climate movement. Millions of activists in the streets, thousands risking and losing their lives to stop extraction in the global South. The ecological transition cannot be stopped from growing, but billions will be invested in delay tactics. This movement will have to be kinder than ever before, it will have to think in systems, protect the seeds of resistance until together we gather the courage to lead an entire civilization beyond extractivism.
+Зображення, натхнене протестувальниками, журналістами, науковцями та організаторами кліматичного руху. Мільйони активістів на вулицях, тисячі ризикують і втрачають життя, щоб зупинити видобуток корисних копалин у країнах глобального Півдня. Екологічний перехід не можна зупинити, але мільярди будуть інвестовані в тактики затягування часу. Цей рух повинен бути добрішим, ніж будь-коли раніше, він повинен мислити системно, захищати насіння опору, поки ми разом не наберемося сміливості, щоб вивести всю цивілізацію за межі експлуатації нашої планети.

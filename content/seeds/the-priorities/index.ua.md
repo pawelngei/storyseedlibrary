@@ -1,5 +1,5 @@
 ---
-title: "The Priorities"
+title: "Приорітети"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,30 +9,30 @@ authors:
   - "alxd"
 ---
 
-> A team of architects and civil engineers working on future-proofing their community need to make a hard decision. They are trying to prioritize the threats, but it’s a gamble trying to balance effectiveness and accessibility. They could make sure that one block won’t get flooded, but another district would need to wait.
+> Команда архітекторів та інженерів-будівельників, які працюють над забезпеченням майбутнього своєї громади, має прийняти важке рішення. Вони намагаються визначити пріоритетність загроз, але це ризикована справа — намагатися збалансувати ефективність та доступність. Вони можуть убезпечити один квартал від повені, але тим часом інший район доведеться залишити без уваги.
 
-## Raw Research Notes
+## Нередаговані дослідницькі нотатки
 
-Continuing the architecture and infrastructure again, this time from the perspective of the architects. This can be a pre-solarpunk or solarpunk endeavor, shown as more reactionary in the chaos of everything, or more of a "good practice" after decades of notes and hard decisions already made.
+Продовжуючи тему архітектури та інфраструктури, цього разу з точки зору архітекторів. Це може бути перед-соларпанк або соларпанк, що проявляється як більш реакційний підхід у хаосі всього, що відбувається, або як «належна практика» після десятиліть накопичених нотаток і важких рішень, що вже були прийняті.
 
-This is NOT a crisis response team. The flood, the headwave, the hurricane are not here yet. You are to make them less threatening, not start evacuating people right now.
+Це НЕ команда реагування на кризові ситуації. Повінь, аномальна спека, ураган ще не відбулися. Вони повинні зменшити загрозу цих явищ, а не починати евакуацію людей прямо зараз.
 
-- The "accessibility" means three things: access of an average citizen to the infrastructure (a shelter maybe?), access of poorer / less fortunate residents to protenctions in their district, and of course access of the disabled citizens to things they need, as wheelchair-bound people will really struggle with knee-high floods.
-- Will this mean abandoning districts and forcible relocations, or worse, climate ghettos?
-- Assuming the team has access to all the required data, scientists, meteorologists, city archives: how many different kinds of climate threats can they protect us from? What will help with heatwaves, what with floods, hurricanes?
-- What prices are considered too steep to pay? Are we going to surrender historical sites, places of remembrance? Are we okay with destroying a flood shaft and flooding a nature reserve to protect the population?
-- How does the background of the team members play into that? Who already lives in a "safe", sutstainable tower, radiating pride and confidence, who clings to their family house in the suburbs, who cannot afford leaving a dangerous building which will not survive the next cataclysm?
-- What time-scale are we talking about? Are we okay with cheaper protections that will last a year, are we going for 5 years, a decade, or more?
-- How do we communicate it to the population, not to appear as despots choosing one group over another?
-- What if we fail, what if we prepared for a flood and an unexpected heatwave rolls over, killing thousands? How do team members deal with guilt, do they accept the blame? Deny it?
+- «Доступність» означає три речі: доступ пересічного громадянина до інфраструктури (можливо, до укриття?), доступ бідніших/менш забезпечених мешканців до засобів захисту в їхньому районі і, звичайно, доступ громадян з інвалідністю до речей, які їм потрібні, оскільки люди на кріслах колісних будуть мати великі труднощі під час повеней, що досягають рівня колін.
+- Чи означатиме це покидання районів і примусове переселення, або, ще гірше, кліматичні гетто?
+- Припускаючи, що команда має доступ до всіх необхідних даних, вчених, метеорологів, міських архівів: від скількох різних видів кліматичних загроз вони можуть нас захистити? Що допоможе в разі спеки, що в разі повеней, ураганів?
+- Яку ціну можна вважати занадто високою? Чи збираємося ми відмовитися від історичних пам'яток, місць пам'яті? Чи згодні ми знищити протипаводковий канал і затопити природний заповідник, щоб захистити населення?
+- Як на це впливає походження членів команди? Хто вже живе в «безпечній», екостійкій високоповерхівці, випромінюючи гордість і впевненість, хто тримається за свій сімейний будинок у передмісті, хто не може дозволити собі покинути небезпечну будівлю, яка не витримає наступного катаклізму?
+- Про який часовий проміжок йдеться? Чи влаштовують нас дешевші засоби захисту, які прослужать рік, чи ми прагнемо забезпечити захист на 5 років, десятиліття або більше?
+- Як повідомити про це населенню, щоб не виглядати деспотами, які віддають перевагу одній групі над іншою?
+- Що буде, якщо ми провалимося, якщо ми підготувалися до повені, а натомість настане несподівана спека, яка вб'є тисячі людей? Як члени команди впораються з почуттям провини, чи приймуть вони на себе відповідальність? Чи заперечуватимуть її?
 
-Original notes:
+Перші нотатки:
 
-- A good book on the social infrastructure and the challenges of urban planning: https://www.goodreads.com/en/book/show/37707827 , with some tl;dr in https://99percentinvisible.org/episode/palaces-for-the-people/
+- Хороша книга про соціальну інфраструктуру та виклики, що їх становить містобудування: https://www.goodreads.com/en/book/show/37707827, та її стислий виклад https://99percentinvisible.org/episode/palaces-for-the-people/
 
-Sources:
+Джерела:
 
 - https://reasonstobecheerful.world/waal-river-flooding-project/
 - https://www.preventionweb.net/news/germany-2021-floods-10-recommendations-resilience
 - https://www.bloomberg.com/news/features/2021-12-18/how-hamburg-learned-to-live-with-rising-water
-- https://www.archdaily.com/993434/can-architecture-and-urban-planning-fight-back-against-climate-change has some sources, but also a lot of "fake" solutions
+- https://www.archdaily.com/993434/can-architecture-and-urban-planning-fight-back-against-climate-change тут є кілька джерел, але також багато "фальшивих" рішень

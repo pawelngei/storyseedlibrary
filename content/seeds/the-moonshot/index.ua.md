@@ -1,5 +1,5 @@
 ---
-title: "The Moonshot"
+title: "Амбіційний проєкт"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> A group of scientists, environmentalists, and politicians, such as lobbyists to the UN, are analyzing the footprints of the solar panels and windmills around the world, trying to answer the question: is sending a rocket to the moon and back to get a tonne of moon soil the best thing we can do in the middle of a climate crisis? Is moon helium fusion the best way forward?
+> Група вчених, екологів та політиків, таких як лобісти ООН, аналізують вплив сонячних панелей та вітряків на навколишнє середовище по всьому світу, намагаючись відповісти на питання: чи є запуск ракети на Місяць і назад для отримання тонни місячного ґрунту найкращим, що ми можемо зробити в умовах кліматичної кризи? Чи є ядерний синтез гелію на Місяці найкращим шляхом уперед?
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-moonshot)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Moonshot)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-moonshot)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Moonshot)

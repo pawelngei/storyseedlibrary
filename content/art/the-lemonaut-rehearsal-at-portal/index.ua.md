@@ -1,5 +1,5 @@
 ---
-title: "Rehearsal at Portal"
+title: "Репетиція біля Порталу"
 date: 2025-07-01
 publishDate: 2025-07-13
 draft: false
@@ -9,7 +9,9 @@ authors:
   - "thelemonaut"
 ---
 
-For this, I was aiming to show both one person teaching another, and also doing so across national lines without having to travel all the way across the world, since reducing travel to cut down on emissions by using these sorts of "portals" is a suggestion I've seen. With one girl in Kenya, the other in Ukraine, they - and other people who come to these spaces, which are meant to be community centers or something akin to that - can connect on a regular basis, form relationships, and teach each other things. In this case it's dance - the Chakacha dance from Mombasa, meant to be danced by women only.
-
-The wall art on the left is inspired by a mask made by Cyrus Kabiru, a Kenyan artist that crafts intricate masks out of discarded materials, and the hairstyle is similar to one in a Thandiwe Muriu photograph. The wall art on the right side of the screen is based on the paintings of Maria Prymachenko, a renowned Ukrainian artist who lived in the 20th century.
+> Метою ілюстрації було показати, як одна людина навчає іншу, і робить це, не перетинаючи національних кордонів і не подорожуючи по всьому світу, адже існують пропозиції скоротити кількість міжнаціональних рейсів, щоб зменшити викиди в атмосферу, і замінити подорожі літаком чи автомобілем на спілкування через такі «портали».
+>
+> Одна дівчина живе в Кенії, інша в Україні, і вони — серед людей, які приходять до цих просторів, розміщених зокрема у громадських центрах, щоб спілкуватися, знаходити друзів зі всього світу, навчатися та вчити інших. У цьому випадку кенійська дівчина вчить українку танцю чакача з Момбаси, який дозволено танцювати лише жінкам.
+>
+> Настінний малюнок зліва натхнений маскою, створеною Сайрусом Кабіру, кенійським митцем, який виготовляє вигадливі маски зі сміття, а зачіска схожа на ту, що на фотографії Тандіве Муріу. Настінні малюнки справа засновані на картинах Марії Примаченко.
 

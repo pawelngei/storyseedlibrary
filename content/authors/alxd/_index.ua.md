@@ -2,7 +2,7 @@
 title: "Paweł 'alxd' Ngei"
 ---
 
-he/them | solarpunk hacker | the curator of SSL | Poland
+він/вони | хакер-соларпанк | куратор Бібліотеки | Польща
 
 - [Homepage](https://alxd.org/)
 - [Mastodon](https://writing.exchange/@alxd)

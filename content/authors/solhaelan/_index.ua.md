@@ -1,4 +1,4 @@
 ---
 title: "SolHaelan"
 ---
-she/her | Illustrator and propagandist
+вона/її | ілюстраторка та пропагандистка

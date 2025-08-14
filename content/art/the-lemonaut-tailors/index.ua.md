@@ -1,5 +1,5 @@
 ---
-title: "The Tailors"
+title: "Кравці"
 date: 2024-08-26
 publishDate: 2025-04-29
 draft: false
@@ -9,8 +9,8 @@ authors:
   - "thelemonaut"
 ---
 
-An illustration to one of the Solarpunk Prompts episodes, [The Tailors](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tailors) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-tailors)]:
+Ілюстрація до одного з епізодів подкасту Solarpunk Prompts, [Кравці](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tailors) [[транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-tailors)]:
 
-> A new Tailor joins a community which has lacked one for years. In a world of distributed manufacturing tailors are no longer just artisans, but educators, material and sustainability experts, fashion designers and translators of cultures, making sure no garment offends others when traveling. Seeing that they’re much less traditional than their predecessor, will they be accepted by the community? Which bold statement surprised everybody?
+> Новий кравець приєднується до спільноти, яка роками не мала такого фахівця. У світі розподіленого виробництва кравці вже не є лише майстрами, а й викладачами, експертами з матеріалів та екологічної стійскості, модними дизайнерами та перекладачами культур, які дбають про те, щоб жоден одяг не ображав інших під час подорожей. З огляду на те, що цей новий кравець набагато менш традиційний, ніж його/її попередники, чи прийме його спільнота? Який сміливий крок новенького здивував усіх?
 
-Based on the [story seed](/seeds/the-tailors).
+Засновано на цьому [зернятку історії](/seeds/the-tailors).

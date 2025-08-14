@@ -1,5 +1,5 @@
 ---
-title: "The Electronics Graveyard"
+title: "Кладовище електроніки"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> A shantytown sits next to an electronic waste site in the Global South, where the electronics are remixed, remade and cannibalized to repair and maintain the local hospital. It’s parts are needed as no Northerner will ever come with newly-milled replacements. The town slowly evolves into their own version of Shenzhen, a hub of innovation and production, one where all knowledge is shared and all kinds of crazy inventions are born.
+> Десь на глобальному Півдні стоять нетрі, побудовані біля сміттєзвалища, куди скидають електронні відходи. Викинуту електроніку перероблюють та пускають на лагодження пристроїв у місцевій лікарні. Ці запчастини необхідні, адже жоден житель Півночі не з’явиться тут із новенькими. Містечко повільно еволюціонує у своєрідну версію китайського Шеньчженю, осередок інновації та виробництва, де усі діляться знаннями один з одним і де народжуються химерні винаходи.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-electronics-graveyard)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Electronics-Graveyard)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-electronics-graveyard)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Electronics-Graveyard)

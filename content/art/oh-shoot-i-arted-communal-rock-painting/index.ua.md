@@ -1,5 +1,5 @@
 ---
-title: "Communal Rock Painting"
+title: "Спільне фарбування каменів"
 date: 2025-06-29
 publishDate: 2025-07-13
 draft: false
@@ -9,6 +9,6 @@ authors:
  - oh-shoot-i-arted
 ---
 
-sometimes learning happens spontaneously - like in this town where a group of people decided to paint some rocks and stones and add them to the other ones on the side of the road :]
+Іноді навчання відбувається спонтанно — як у цьому містечку, де група людей вирішила розфарбувати кілька каменів і додати їх до інших, що лежали на узбіччі дороги :]
 
-they didn't quite bring enough brushes - but that's a very solvable problem with a makerspace right there
+Вони не принесли достатньо пензлів, але це проблема, яку легко вирішити, маючи під рукою мейкерспейс.

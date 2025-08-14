@@ -1,5 +1,5 @@
 ---
-title: "Solarpunk Anarchy"
+title: "Соларпанкова анархія"
 date: 2024-05-10
 publishDate: 2025-04-28
 draft: false
@@ -9,38 +9,38 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/solarpunk-with-103968472)
+[Оригінал на Патреоні](https://www.patreon.com/posts/solarpunk-with-103968472)
 
-One of my heroes Charlie Munger said that "If you don't destroy one of your most closely held ideas each year, then you're not learning enough."
+Один з моїх кумирів, Чарлі Мангер, сказав: «Якщо ви щороку не руйнуєте одне зі своїх найглибших переконань, то ви не вчитеся достатньо».
 
-Well, I've learned a lot by listening to Andrew Sage on his YouTube channel: https://www.youtube.com/@Andrewism
+Що ж, я багато чого навчився, слухаючи Ендрю Сейджа на його Ютьюб каналі: https://www.youtube.com/@Andrewism
 
-(FYI We collaborated on a previous piece about [How to Build a Solarpunk City](/art/sean-bodley-solarpunk-city/).)
+(До речі, ми співпрацювали над попереднім малюнком про те [Як побудувати соларпанкове місто](/art/sean-bodley-solarpunk-city/).)
 
-First off, I had a blast creating this vibrant picture with Andrew. I hope you enjoy the close up details and I'll share the process down below :)
+Спершу я хочу сказати, що отримав величезне задоволення від створення цього яскравого малюнку разом з Ендрю. Сподіваюсь, вам сподобаються деталі крупним планом, а також нижче я поділюся процесом створення :)
 
-But first, Anarchy, or Free Association as he describes in the video that this picture is for,
+Та спочатку про анархію, або вільне об'єднання, як він це описує у відео, для якого призначене це зображення.
 
-Without getting too complex, I started asking myself "What would make Free Association/Anarchy really possible"
+Якщо не вдаватися сильно у подробиці, я почав думати над питанням: «Що зробило б вільне об'єднання/анархію дійсно можливим?»
 
-Since I already believe that:
+Оскільки я вже вірю, що:
 
-A. People are inherently collaborative overall
+А. Люди загалом схильні до співпраці,
 
-B. Trust is a key part of human nature,
+Б. Довіра є ключовою частиною людської природи,
 
-C. Creativity emerges from combinations of freedom and constraints:
+В. Творчість виникає з поєднання свободи та обмежень:
 
-With that said, I believe that governments are formed as the path of least resistance to solve all of the problems we face. Most governments aren't created on the spot, they evolve over a long time. There are also many many people who would gladly sacrifice freedom for security.
+З огляду на це, я вважаю, що уряди утворюються як шлях найменшого опору для вирішення всіх проблем, з якими ми стикаємося. Більшість урядів не створюються миттєво, вони еволюціонують протягом тривалого часу. Є також багато людей, які з радістю пожертвували б свободою заради безпеки.
 
-So thinking on this, I believe that the most free societies will be possible in:
+Отже, якщо взяти це до уваги, я вважаю, що найбільш вільні суспільства будуть можливі в:
 
-1. A nearly scarcity-free world
+1. Світі, майже позбавленому дефіциту
 
-2. A rewards based society, very little punishment, very good rewards.
+2. Суспільстві, заснованому на винагородах, з мінімальними покараннями та дуже хорошими винагородами.
 
-Both of these ideas tie into Solarpunk. I believe humanity's ability to survive climate change is linked to our ability to problem solve creatively and collaboratively, under pressure.
+Обидві ці ідеї пов'язані з соларпанком. Я вірю, що здатність людства вижити в умовах кліматичних змін пов'язана з нашою здатністю творчо і спільно вирішувати проблеми в умовах тиску.
 
-That's it! I don't have any solutions of how to get there, but I really enjoyed thinking about these topics and I've definitely changed my mind on Anarchy more than I expected to.
+Ось і все! Я не маю жодних пропозицій щодо того, як цього досягти, але мені дуже сподобалося розмірковувати над цими темами, і я точно змінив свою думку про анархію більше, ніж очікував.
 
-Thanks again to Andrew for inspiring the work and art directing throughout.
+Ще раз дякую Ендрю за натхнення та арт-дирекцію протягом усього процесу.

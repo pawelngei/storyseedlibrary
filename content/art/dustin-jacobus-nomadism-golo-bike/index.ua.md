@@ -1,5 +1,5 @@
 ---
-title: "Nomadism: Golo bike"
+title: "Кочівництво: Велосипед GoLo"
 date: 2025-04-29
 publishDate: 2025-06-07
 draft: false
@@ -9,4 +9,4 @@ authors:
  - dustinjacobus
 ---
 
-- Solarpunk nomads
+- Соларпанкові кочовики
