@@ -1,5 +1,5 @@
 ---
-title: "Waste or resource?"
+title: "Відходи чи ресурс?"
 date: 2023-06-16
 publishDate: 2025-06-01
 draft: false
@@ -11,16 +11,21 @@ series: ["Commando Jugendstil's Panels"]
 series_order: 4
 ---
 
-**Question**: 
-Waste or resource?
+**Питання**: 
+Відходи чи ресурс?
 
-**Answer**:
+**Відповідь**:
 The insane production rhythms of the Late Stage are a thing of the past, but coffee remains one of the favourite beverages of the solarpunk city.
 Its citizens meet for a chat over a cappuccino and a croissant, or discuss the management of the commons in their civic centres, helped along by thermoses of filter coffee and trays of food provided by the food sovereignty groups. Espresso, cappuccino, Turkish coffee, coffee masala, bubble coffee, and what have you, in the solarpunk city it is truly a transcultural phenomenon.
 
-But what is to be done with the exhaust grounds?
-In the solarpunk city there is no concept of waste or garbage. Everything is a resource that should be used wisely to the benefit of nature and community.
-Every day, teams of workers from the local permaculture groups do the rounds of bars, restaurants and community kitchens on their cargo bikes collecting food scraps for their compost heaps. Since they have special uses, coffee and a few other materials are collected separately, following a shared calendar together with individual quotas and collection schemes to enable all participants to benefit.
-In the communal mushroom farms, built in the basements of most condos throughout the city, experienced mushroom growers from the food sovereignty groups use prodigious amounts of grounds as a substrate for growing a cornucopia of different kinds of mushrooms to put on the tables of their fellow citizens.
-Eaten fresh in risottos and stir-frys, dried or turned into vegan substitutes of bacon and jerky, mushrooms provide sustainable, local protein for the solarpunk city, as well as construction biomaterials, vegan leather and pharmaceuticals.
-The humble coffee grounds, useful for mushrooms and an incredible variety of other plants, are also a load-bearing element of the city's sustainable strategy.
+Шалені виробничі ритми пізнього етапу залишилися в минулому, але кава залишається одним з найулюбленіших напоїв соларпанкового міста.
+Його мешканці зустрічаються, щоб поспілкуватися за чашкою капучино з круасаном або обговорити управління спільним майном у громадських центрах, де їм допомагають термоси з фільтрованою кавою та таці з їжею, надані групами продовольчого суверенітету. Еспресо, капучино, турецька кава, кава масала, бульбашкова кава і що завгодно - у соларпанк-місті це справді транскультурне явище.
+
+Але що робити із залишками кавового осаду?
+У соларпанковому місті немає поняття відходів чи сміття. Все є ресурсом, який слід використовувати з розумом на користь природи та громади.
+Щодня команди працівників місцевих пермакультурних груп на вантажних велосипедах об'їжджають бари, ресторани та громадські кухні, збираючи залишки їжі для компостних куп. Оскільки вони мають особливе призначення, кава та деякі інші матеріали збираються окремо, за спільним календарем, з індивідуальними сталими нормами та схемами збору, щоб усім учасникам була користь.
+На комунальних грибних фермах, побудованих у підвалах більшості квартир по всьому місту, досвідчені грибники з груп продовольчого суверенітету[^1] використовують величезну кількість землі як субстрат для вирощування різномаїття видів грибів, щоб поставити їх на стіл своїм співгромадянам.
+З'їдені свіжими в різотто і картоплі фрі, сушені або перетворені на веганські замінники бекону і в'яленого м'яса, гриби забезпечують екологічно чистим місцевим білком соларпанкове населення, а також будівельними біоматеріалами, веганською шкірою і фармацевтичними препаратами.
+Скромна кавова гуща, корисна для грибів та широкої варіації інших рослин, також є важливим елементом стратегії сталого розвитку міста.
+
+[^1]: Суверенітет - незалежне державне панування на власній території незалежне від міжнародних відносин.
