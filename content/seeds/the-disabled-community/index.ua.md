@@ -13,4 +13,4 @@ authors:
 
 - [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-disabled-community)
 - [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Disabled-Community)
-- [Ілюстрація](/art/the-lemonaut-hackerspace/)
+- [Ілюстрація](/ua/art/the-lemonaut-hackerspace/)

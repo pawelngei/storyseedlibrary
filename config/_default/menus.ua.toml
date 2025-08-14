@@ -31,16 +31,16 @@ pageRef = "authors"
 identifier = "LD7z6Qopgw"
 weight = 40
 
-[[main]]
-name = "Події"
-weight = 45
+# [[main]]
+# name = "Події"
+# weight = 45
 
-[[main]]
-parent= "Події"
-name = "Art Collab 2025 [ENG]"
-pageRef = "/pages/andrewisms-art-collab-2025"
-identifier = "3yRGzr3A8D"
-weight = 10
+# [[main]]
+# parent= "Події"
+# name = "Art Collab 2025 [ENG]"
+# pageRef = "/pages/andrewisms-art-collab-2025"
+# identifier = "3yRGzr3A8D"
+# weight = 10
 
 [[main]]
 name = "Більше про..."

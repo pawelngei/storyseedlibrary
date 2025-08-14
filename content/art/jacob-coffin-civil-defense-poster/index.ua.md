@@ -9,4 +9,4 @@ authors:
  - jacobcoffin
 ---
 
-If you would like to print it or use the alpha channel, a <a href="full_resolution_print.png" target="_blank">PNG version</a> is also available.
+If you would like to print it or use the alpha channel, a <a href="/art/jacob-coffin-civil-defense-poster/full_resolution_print.png" target="_blank">PNG version</a> is also available.
