@@ -1,5 +1,5 @@
 ---
-title: "Art Collab 2025: Life of Learning"
+title: "Художницький колаб 2025: Навчання протягом життя"
 date: 2025-04-30
 draft: false
 description: ""
@@ -9,73 +9,73 @@ authors:
   - alxd
 ---
 
-## This Edition Has Completed
+## Ця версія завершена
 
-Visit the [2025 Art Collab Tag](/tags/2025-collab/) to browse the selection of works submitted to our Library!
+Зазирніть у тег [Художницький колаб 2025](/tags/2025-collab/), щоб переглянути відібрані роботи, занесені до нашої Бібліотеки!
 
-## Original Description
+## Опис
 
-Welcome to the 2025 edition of the collaborative solarpunk art project! This year's theme is **Life of Learning**, focusing on education, teaching, mentorship and research in a better climate future!
+Ласкаво просимо до спільного соларпанкового арт-проєкту 2025 року! Тема цього року — «Навчання протягом життя». Вона присвячена освіті, викладанню, наставництву та дослідницькій діяльності у кращому кліматичному майбутньому!
 
-The goal of the project is to welcome everyone to collaborate together, share ideas and get inspired by each others' works! This is not a contest - there are no prizes and no winners, outside of everything we learn from each other and the visions of a better world we create!
+Мета проєкту — надати простір для співпраці, обміну ідеями та натхнення роботами один одного! Це не конкурс — тут немає переможців і призів, окрім того, що ми вчимося один в одного та разом створюємо бачення кращого світу!
 
 <br>
 
 {{< button href="https://discord.gg/HGF6xBhRya" target="_blank" >}}
-Join the Art Collab Discord
+Приєднатися до Discord серверу про Художницький колаб
 {{< /button >}}
 
-## Livestream
+## Пряма трансляція
 
 {{< youtube id="v724dRvTk-k" label=" Discussing Solarpunk Art 2025 w/ alxd " >}}
 
-[alxd's slides](https://slides.com/pawelngei/art-collab-2025)
+[Слайди alxd](https://slides.com/pawelngei/art-collab-2025)
 
-## Previous Collabs
+## Попередні колаби
 
-- [2024: Dreams of New Labor](https://andrew-ism.tumblr.com/post/770135694637236224/solarpunk-art-2024-new-dreams-of-labour) (and on [YouTube](https://www.youtube.com/watch?v=mRKt2ORY9bs))
-- [2023: Bioregions](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions) (and on [YouTube](https://www.youtube.com/watch?v=j3PZfXpY1og))
-- [2021 Art Collab](https://www.youtube.com/watch?v=IiK1MK44Or4)
+- [2024: Нові мрії про працю](https://andrew-ism.tumblr.com/post/770135694637236224/solarpunk-art-2024-new-dreams-of-labour) (та на [YouTube](https://www.youtube.com/watch?v=mRKt2ORY9bs))
+- [2023: Біорегіони](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions) (та на [YouTube](https://www.youtube.com/watch?v=j3PZfXpY1og))
+- [Художницький колаб 2021](https://www.youtube.com/watch?v=IiK1MK44Or4)
 
-## Submission Guidelines
+## Правила подання робіт
 
-- All entries must be submitted by or before **30th June 2025**.
-- Artists may submit as many pieces as they'd like. In fact, the more the merrier.
-- Artwork may be traditional or digital.
-- Traditional artwork must be digitally scanned, not photographed.
-- Artwork must not be AI-generated or contain AI elements (backgrounds, textures, etc...).
-- Artwork must be colourised.
-- Artwork may not depict anything of an NSFW nature.
-- All artwork must pertain to the theme "LIFE OF LEARNING" (see theme guidelines below)
-- Artwork must be submitted to the email address saint.whom@gmail.com with the email subject "SOLARPUNK ART 2025." A brief description of the work would be appreciated.
-- Submitted artwork should be submitted under [Creative Commons BY 4.0](/tags/cc-by-4.0) or [Creative Commons BY-SA 4.0](/tags/cc-by-sa-4.0). Yo can learn more about them [here](https://creativecommons.org/share-your-work/cclicenses/).
-- Submitted artwork may be included in a livestream on the main channel and video on the side channel, as well as being published on [Tumblr](https://andrew-ism.tumblr.com/) and on Story Seed Library. By submitting artwork, you consent to your work being shared in this manner with due credit. I reserve the right to decline submissions.
-- Artists should include what, if any, credit they would like to have included in the final showcase.
+- Усі роботи повинні бути подані до **30 червня 2025 року** включно.
+- Художники можуть подавати стільки робіт, скільки забажають. Насправді, чим більше, тим краще.
+- Роботи можуть бути намальовані на папері тощо або на комп’ютері.
+- Нецифрові роботи повинні бути відскановані в цифровому форматі, а не сфотографовані.
+- Роботи не повинні бути створені за допомогою штучного інтелекту або містити елементи штучного інтелекту (фони, текстури тощо).
+- Роботи мають бути розфарбованими.
+- Роботи не можуть зображати нічого, що має характер NSFW.
+- Усі твори мистецтва повинні стосуватися теми «НАВЧАННЯ ПРОТЯГОМ ЖИТТЯ» (див. вказівки щодо теми нижче).
+- Роботи необхідно надсилати на електронну адресу saint.whom@gmail.com із темою листа «SOLARPUNK ART 2025». Будемо вдячні за короткий опис роботи.
+- Надіслані роботи повинні бути подані під ліцензією [Creative Commons BY 4.0](/tags/cc-by-4.0) або [Creative Commons BY-SA 4.0](/tags/cc-by-sa-4.0). Більше інформації про ці ліцензії можна знайти [тут](https://creativecommons.org/share-your-work/cclicenses/).
+- Надіслані роботи можуть бути включені в пряму трансляцію на головному каналі та відео на другому каналі, а також опубліковані на [Tumblr](https://andrew-ism.tumblr.com/) та в Бібліотеці саджанців історій. Надсилаючи роботи, ви даєте згоду на їхнє поширення в такий спосіб із зазначенням авторства. Я залишаю за собою право відхиляти надіслані роботи.
+- Художники повинні вказати, які, якщо такі є, згадки вони хотіли б бачити в фінальній презентації.
 
-## Theme Guidelines
+## Правила щодо тематики
 
-- Artwork must depict people engaged in teaching and learning: literature, sciences, arts, trades, sports, crafts, cooking, husbandry, permaculture, social skills, and more.
-  - Consider settings within and outside the classroom or lecture hall. How do mentorships and apprenticeships look lke? Does practical learning happen in libraries, makerspaces and hackerspaces?
-  - Imagine how humanity, nature, and technology interact in your setting - and how it's different from today. 
-  - Think how different age groups interact in a setting where lifelong learning is the norm, not only in schools!
-  - Explore the role of research, non-exploitative peer review, and science education.
-  - What does [Citizen Science](https://en.wikipedia.org/wiki/Citizen_science) look like, when regular people care for and monitor the ecosystems around them?
-  - Education and learning is not only about your early life. Look at projects like the [University of the Third Age](https://en.wikipedia.org/wiki/University_of_the_Third_Age) - maybe there are even some in your area?
-  - To make people more aware of their surroundings, education and learning should happen within the context of local ecosystems. How can we encourage people to get involved in their own hometowns?
-  - Take a look at the [Story Seeds](/seeds/) and see if any of them inspire you!
-- Artwork must reflect some degree of human diversity. People of different racial and cultural backgrounds, genders and sexualities, abilities, ages, etc, should be included. Solarpunk is for the people. All the people.
-- Artwork may depict urban, semi-urban, and rural spaces, including interiors or exteriors.
-- Greenwashing is not solarpunk. Don't just change a single element about our current world, like adding trees or stained glass to unsustainable buildings. Think about subtler and more beautiful consequences of sustainability - like how making technology repairable can make everything more long-lasting and personalised.
-- Artwork should be a realistic vision of near-future, with no fantasy or far-future elements. We want to explore how humanity can change, not what magical technology can save us.
-- Please indicate in your submission what form(s) of education you are reimagining in your work. Try to venture outside the typical.
-- Further theme guidelines may be included as artist discussion ensues/clarifying questions are asked.
-- If you're seeking inspiration or explanation, consider Andrewism's videos on:
-  - [Solarpunk](https://youtu.be/u03hoO3QueM)
-  - [Solarpunk Cities](https://youtu.be/4UmU1dSe3n0)
-  - [How Anarchy Works](https://www.youtube.com/watch?v=lrTzjaXskUU)
-  - [What Anarchy Needs](https://www.youtube.com/watch?v=qkN_nQPpeSU)
-  - [Rethinking School](https://www.youtube.com/watch?v=9ZGYtHPtZwM)
+- Роботи повинні зображати людей, які займаються викладанням і навчанням: літературою, науками, мистецтвом, ремеслами, спортом, кулінарією, тваринництвом, пермакультурою, соціальними навичками тощо.
+- Розгляньте обставини як всередині, так і поза класною кімнатою або лекційною залою. Як виглядає наставництво та навчання? Чи відбувається практичне навчання в бібліотеках, майстернях та хакерспейсах?
+- Уявіть, як людство, природа та технології взаємодіють у вашому середовищі — і як це відрізняється від сьогодення. 
+- Подумайте, як різні вікові групи взаємодіють у середовищі, де навчання протягом усього життя є нормою, і не тільки в школах!
+- Поглибтеся у роль досліджень, не експлуататорського рецензування та наукової освіти.
+  - Як виглядає [громадянська наука](https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%BE%D0%BC%D0%B0%D0%B4%D1%8F%D0%BD%D1%81%D1%8C%D0%BA%D0%B0_%D0%BD%D0%B0%D1%83%D0%BA%D0%B0), коли звичайні люди піклуються про екосистеми навколо себе і стежать за ними?
+  - Освіта та навчання стосуються не тільки раннього віку. Подивіться на такі проекти, як [Університет третього віку](https://en.wikipedia.org/wiki/University_of_the_Third_Age) — можливо, такі є навіть у вашому регіоні?
+  - Щоб люди були більш свідомими про своє оточення, освіта та навчання повинні відбуватися в контексті місцевих екосистем. Як ми можемо заохотити людей долучатися до життя своїх рідних міст?
+  - Перегляньте [саджанці історій](/seeds/) і подивіться, чи є серед них щось, що вас надихає!
+- Твори мистецтва повинні відображати певну міру людської різноманітності. Повинні бути представлені люди різного етнічного, расового та культурного походження, статі та сексуальної орієнтації, здібностей, віку тощо. Соларпанк — для людей. Для всіх людей.
+- Твори мистецтва можуть зображати міські, напівміські та сільські простори, включаючи інтер'єри та екстер'єри.
+- [Грінвошинг](https://uk.wikipedia.org/wiki/%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BA%D0%B0%D0%BC%D1%83%D1%84%D0%BB%D1%8F%D0%B6) — це не соларпанк. Не варто змінювати лише один елемент нашого сучасного світу, наприклад, додавати дерева або вітражі до екологічно несталих будівель. Подумайте про більш тонкі та прекрасні наслідки сталого розвитку — наприклад, про те, як технологія, що піддається ремонту, може зробити все більш довговічним та персоналізованим.
+- Роботи повинні бути реалістичним баченням найближчого майбутнього, без елементів фантастики або далекого майбутнього. Ми хочемо дослідити, як може змінитися людство, а не те, яка магічна технологія може нас врятувати.
+- Будь ласка, вкажіть у своєму електронному листі, яку форму освіти ви переосмислюєте у своїй роботі. Спробуйте вийти за межі типового.
+- Подальші рекомендації щодо теми можуть бути додані в ході обговорення з художниками та відповідно з конкретизуючими питаннями.
+- Якщо ви шукаєте натхнення або пояснень, перегляньте відео Andrewism про:
+  - [Соларпанк](https://youtu.be/u03hoO3QueM)
+  - [Соларпанкові міста](https://youtu.be/4UmU1dSe3n0)
+  - [Як працює анархія](https://www.youtube.com/watch?v=lrTzjaXskUU)
+  - [Чого потребує анархія](https://www.youtube.com/watch?v=qkN_nQPpeSU)
+  - [Переосмислення школи](https://www.youtube.com/watch?v=9ZGYtHPtZwM)
 
 ---
 
-Background art [CC BY-SA 4.0 Sean Bodley](/art/sean-bodley-library-of-everything/)
+Зображення на фоні [CC BY-SA 4.0 Sean Bodley](/art/sean-bodley-library-of-everything/)

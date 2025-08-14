@@ -1,5 +1,5 @@
 ---
-title: "About the Story Seed Library"
+title: "Про Бібліотеку саджанців історій"
 date: 2025-04-28
 draft: false
 description: ""
@@ -8,26 +8,27 @@ authors:
   - alxd
 ---
 
-Among the flood of AI-generated content all over the Internet it's hard to imagine a coherent vision of a better future, especially one hopeful in the face of the Climate Catastrophe.
+Серед потоку контенту, згенерованого штучним інтелектом, що заполонив Інтернет, важко уявити собі цілісну картину кращого майбутнього, особливо таку, що дарує надію в умовах кліматичної катастрофи.
 
-I believe that to be able to create a sustainable civilization and stop destroying the planet we need to find a new story for ourselves. Such a story could only be crafted by humans, as no neural network is capable of creating coherent symbols for values absent from our mainstream, Western culture. We need new signposts, new [hieroglyphs](https://web.archive.org/web/20120410060017/http://www.worldpolicy.org/journal/fall2011/innovation-starvation) as Neal Stephenson called them:
+Я вірю, що для того, щоб створити екологічно стійку цивілізацію і припинити руйнування планети, нам потрібно знайти для себе нову історію. Таку історію можуть створити тільки люди, оскільки жодна нейронна мережа не здатна створити цілісні символи для цінностей, яких немає в нашій західній культурі. Нам потрібні нові вказівники, нові [ієрогліфи](https://web.archive.org/web/20120410060017/http://www.worldpolicy.org/journal/fall2011/innovation-starvation), як їх назвав Ніл Стівенсон:
 
-> Good SF supplies a plausible, fully thought-out picture of an alternate reality in which some sort of compelling innovation has taken place. A good SF universe has a coherence and internal logic that makes sense to scientists and engineers. Examples include Isaac Asimov’s robots, Robert Heinlein’s rocket ships, and William Gibson’s cyberspace. As Jim Karkanias of Microsoft Research puts it, such icons serve as hieroglyphs—simple, recognizable symbols on whose significance everyone agrees.
+> Хороша наукова фантастика надає правдоподібну, повністю продуману картину альтернативної реальності, в якій відбулися якісь захопливі інновації. Хороший науково-фантастичний світ має цілісність і внутрішню логіку, яка має сенс для вчених та інженерів. Прикладами можуть слугувати роботи Айзека Азімова, ракетні кораблі Роберта Гайнлайна та кіберпростір Вільяма Гібсона. Як каже Джим Карканіас із Microsoft Research, такі ікони слугують ієрогліфами — простими, впізнаваними символами, значення яких всі визнають.
 
-For the last few years I witnessed many well-meaning writers and academics try to write about a better climate future - be it under a name of Solarpunk or any other - and struggle to find art illustrating their work. It saddened me to see them turn to the most thoughtless AI-generated images, trees growing from concrete buildings - just to represent _something_.
+Протягом останніх кількох років я був свідком того, як багато доброзичливих письменників і науковців намагалися писати про краще кліматичне майбутнє — чи то під назвою «соларпанк», чи під будь-якою іншою — і намагалися знайти ілюстрації до своїх робіт. Мені було сумно бачити, як вони користалися найбезглуздішими зображеннями, створеними штучним інтелектом, — з деревами, що ростуть з бетонних будівель, — тільки для того, щоб зобразити _хоча б щось_.
 
-I hope that with this Library, thanks to the [artists](/authors/) who generously donated their [art](/art/) under copyleft licenses, we will be able to go towards meaningful symbols, planting them like signposts towards a better future.
+Я сподіваюся, що завдяки цій бібліотеці та [художникам](/authors/), які щедро віддали свої [роботи](/art/) під ліцензіями copyleft, ми зможемо рухатися в напрямку значущих символів, висаджуючи їх як вказівники до кращого майбутнього.
 
-For anyone stuck looking for a story idea, good conflict or tension in a realistic near-future setting, I hope that the [seeds](/seeds/) will kickstart their creativity. Be sure to also check out the [Solarpunk Prompts podcast](https://podcast.tomasino.org/@SolarpunkPrompts) by the awesome [tomasino](https://tomasino.org/) for even more writing inspirations!
-
----
-
-The beautiful logo of the Story Seed Library was created by the awesome [Natalia Vish](https://mas.to/@karafuto)!
+Для тих, хто застряг у пошуках ідеї для історії, хорошого конфлікту або напруги в реалістичному найближчому майбутньому, сподіваюся, що ці [саджанці](/seeds/) дадуть поштовх вашій творчості. Не забудьте також послухати [подкаст Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts) від чудового [tomasino](https://tomasino.org/), щоб отримати ще більше письменницького натхнення!
 
 ---
 
-Translations credit:
+Прекрасний логотип Бібліотеки саджанців історій був створений чудовою [Natalia Vish](https://mas.to/@karafuto)!
 
-- Polish - [Paweł 'alxd' Ngei](/authors/alxd), edited by [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
-- Italian - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
-- French - [Jacky OWL](/authors/jackyowl)
+---
+
+Перекладачі:
+
+- польська - [Paweł 'alxd' Ngei](/authors/alxd), редагувала [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
+- італійська - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
+- французька - [Jacky OWL](/authors/jackyowl)
+- українська [the lemonaut](/authors/thelemonaut), arg4ntum

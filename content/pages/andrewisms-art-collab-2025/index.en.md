@@ -33,7 +33,7 @@ Join the Art Collab Discord
 
 ## Previous Collabs
 
-- [2024: Dreams of New Labor](https://andrew-ism.tumblr.com/post/770135694637236224/solarpunk-art-2024-new-dreams-of-labour) (and on [YouTube](https://www.youtube.com/watch?v=mRKt2ORY9bs))
+- [2024: New Dreams of Labor](https://andrew-ism.tumblr.com/post/770135694637236224/solarpunk-art-2024-new-dreams-of-labour) (and on [YouTube](https://www.youtube.com/watch?v=mRKt2ORY9bs))
 - [2023: Bioregions](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions) (and on [YouTube](https://www.youtube.com/watch?v=j3PZfXpY1og))
 - [2021 Art Collab](https://www.youtube.com/watch?v=IiK1MK44Or4)
 

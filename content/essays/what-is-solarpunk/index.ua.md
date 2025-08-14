@@ -14,6 +14,6 @@ authors:
 
 Також ви можете переглянути:
 
-- [A Solarpunk Manifesto](https://www.re-des.org/a-solarpunk-manifesto/)
-- [Notes toward a manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)
-- [Lenses and Foundations](https://lenses.alxd.org), есей, написаний мною, куратором Бібліотеки
+- [Маніфест соларпанку](https://www.re-des.org/a-solarpunk-manifesto/)
+- [Нотатки до маніфесту](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)
+- [Лінзи та фундаменти](https://lenses.alxd.org), есей, написаний мною, куратором Бібліотеки

@@ -1,5 +1,5 @@
 ---
-title: "2024 Week and Art Contest"
+title: "2024 Конкурс «Тиждень мистецтва»"
 ---
 
-In 2024 the French [Week and Art Contest](https://www.weekandart.com/) held an edition dedicated to Solarpunk! You can see the submissions in their [gallery](https://galerie.weekandart.com/) (please choose 2024). The winners can be found on [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/).
+У 2024 році французький [конкурс «Тиждень мистецтва»](https://www.weekandart.com/) був присвячений соларпанку! Ви можете переглянути роботи, що брали участь у конкурсі, в їхній [галереї](https://galerie.weekandart.com/) (будь ласка, виберіть 2024 рік). Переможців можна знайти на [Instagram].(https://www.instagram.com/p/C8SeLL0qhGE/).
