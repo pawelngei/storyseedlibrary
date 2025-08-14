@@ -1,5 +1,5 @@
 ---
-title: "The Great Infrastructural Project"
+title: "Великий інфраструктурний проект"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> There is a small, rural town next to whom A Great Infrastructural Project was built. It was a dam, or a huge solar & wind power plant, or a gravitational battery, etc. Over time, the corporations and the government forgot about them and in order to avoid a catastrophe they need to work with unusual, driven activists who came from all over to help them.
+> Поруч із невеликим сільським містечком було збудовано Великий інфраструктурний проект. Це або гребля, або величезна сонячно/вітроелектростанція, або гравітаційна батарея тощо. Згодом корпорації та уряд забули про них, і пізніше, щоб уникнути катастрофи, їм довелося співпрацювати з незвичайними, цілеспрямованими активістами, які приїхали з усіх усюд, щоб допомогти їм.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-great-infrastructure-project)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Great-Infrastructural-Project)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-great-infrastructure-project)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Great-Infrastructural-Project)

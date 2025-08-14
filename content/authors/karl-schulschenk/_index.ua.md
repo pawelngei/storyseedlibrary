@@ -1,9 +1,9 @@
 ---
 title: "Karl Schulschenk"
-description: "kasch aka Karl Schulschenk is a South African Story Artist & Illustrator who is passionate about world-building and storytelling, and through his personal work explores the themes of Solarpunk, Afro-Futurism, regeneration and human connection"
+description: "kasch, він же Карл Шульшенк, — південноафриканський художник-ілюстратор, який захоплюється створенням світів і сторітелінгом. У своїх особистих роботах він досліджує теми соларпанку, афрофутуризму, регенерації та людських зв'язків"
 ---
 
-kasch aka Karl Schulschenk is a South African Story Artist & Illustrator who is passionate about world-building and storytelling, and through his personal work explores the themes of Solarpunk, Afro-Futurism, regeneration and human connection
+kasch, він же Карл Шульшенк, — південноафриканський художник-ілюстратор, який захоплюється створенням світів і сторітелінгом. У своїх особистих роботах він досліджує теми соларпанку, афрофутуризму, регенерації та людських зв'язків
 
 - [Homepage](https://www.karlschulschenk.com/)
 - [Instagram](https://www.instagram.com/karlschulschenk)

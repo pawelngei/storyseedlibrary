@@ -1,5 +1,5 @@
 ---
-title: "At the artists' market"
+title: "Митецький ярмарок"
 date: 2024-05-12
 publishDate: 2025-08-05
 draft: false
@@ -9,4 +9,4 @@ authors:
  - evhell
 ---
 
-[How it was made](https://www.evhell.fr/solarpunk-participation-au-weekandart/)
+[Творчий процес](https://www.evhell.fr/solarpunk-participation-au-weekandart/)

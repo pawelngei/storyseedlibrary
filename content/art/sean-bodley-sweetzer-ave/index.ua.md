@@ -1,5 +1,5 @@
 ---
-title: "Sweetzer Ave. Carbon-Negative Concept Art"
+title: "Світцер авеню - негативний вуглецевий слід"
 date: 2020-08-09
 publishDate: 2025-04-28
 draft: false
@@ -9,12 +9,12 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/sweetzer-ave-art-39995429)
+[Оригінал на Патреоні](https://www.patreon.com/posts/sweetzer-ave-art-39995429)
 
-I hope you enjoy this attempt to turn my concrete Los Angeles neighborhood into a live-in garden. 
+Сподіваюся, вам сподобається ця спроба перетворити мій бетонний мікрорайон Лос-Анджелеса на жилий сад.
 
-The goal of this assignment was to envision a Carbon Negative apartment building, based on the strategies laid out in the book [Visualizing Climate Change by Stephan Sheppard](https://www.routledge.com/Visualizing-Climate-Change-A-Guide-to-Visual-Communication-of-Climate/Sheppard/p/book/9781844078202?fbclid=IwAR1rm7HSaBGlMT8UXfysBTTKcv1y_s35cli93K2XMWkyw6dPo_WX-nIlHzM). Here is the [previous post](https://www.patreon.com/posts/36468066) highlighting my sources if you're curious.
+Метою цього завдання було створити проєкт житлового будинку з негативним вуглецевим слідом на основі стратегій, викладених у книзі Стефана Шеппарда [Visualizing Climate Change](https://www.routledge.com/Visualizing-Climate-Change-A-Guide-to-Visual-Communication-of-Climate/Sheppard/p/book/9781844078202?fbclid=IwAR1rm7HSaBGlMT8UXfysBTTKcv1y_s35cli93K2XMWkyw6dPo_WX-nIlHzM). Якщо вам цікаво, ось [попередній пост](https://www.patreon.com/posts/36468066), де я вказав свої джерела.
 
-There were so many aspects to tackle, I'm pretty exhausted from this illustration. There were a lot of challenges but your support helped me finish. 
+Було так багато аспектів, якими потрібно було зайнятися, що я дуже втомився від цієї ілюстрації. Було багато викликів, але ваша підтримка допомогла мені закінчити роботу.
 
-Once get some rest I really hope to do more of these, and would love to see designs of your neighborhood!
+Як тільки я трохи відпочину, дуже сподіваюся зробити ще більше таких робіт, а ще я з радістю подивлюся на дизайни вашого району!

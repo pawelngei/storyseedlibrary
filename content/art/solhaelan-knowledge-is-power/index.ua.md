@@ -1,5 +1,5 @@
 ---
-title: "Knowledge is Power"
+title: "Знання — це сила"
 date: 2024-04-02
 publishDate: 2025-05-02
 draft: false
@@ -9,4 +9,4 @@ authors:
   - "solhaelan"
 ---
 
-This Little Free Library (or Liberation Library, as the other term is copyrighted) has a green roof with Echinacea purpurea (Purple Coneflower) and Bignonia capreolata (Cross Vine) growing from it. It has a small hexagonal solar panel powering string lights in the interior (red, for the bats).
+Ця маленька безкоштовна бібліотека (або Бібліотека визволення, оскільки інший термін захищений авторським правом) має озеленений дах, на якому росте пурпурова ехінацея та лози бегонії. Вона має невелику шестикутну сонячну панель, яка живить гірлянди всередині (червоні, щоб не тривожити кажанів).

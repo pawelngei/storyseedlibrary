@@ -1,5 +1,5 @@
 ---
-title: "Redwood Highrise"
+title: "Багатоповерхівки серед секвої"
 date: 2024-12-20
 publishDate: 2025-08-09
 draft: false
@@ -9,4 +9,4 @@ authors:
  - taylor-seamount
 ---
 
-Dotted throughout a valley in the wild-urban interface of the Santa Cruz Mountains, are pods of high-rise buildings, blending homes, businesses, and community spaces. Tile mosaic murals lend the buildings extra protection against stray embers from regular prescribed burns on the forest floor. Between the structures, rows of hydroponic crops hang, while pumpkin vines climb sculptural trellises. Wildlife moves freely among the human infrastructure. Led by the reclamation of native food ways by indigenous people, the community manages and harvests the forest’s mushrooms, deer, salmon and herbs. Accessible walking paths meander through the valley, supplemented by a gondola system for transporting goods and passengers between pods. Select redwoods have been nurtured back to an old growth state, sequestering carbon and fostering a cool, wet micro-climate. The community’s decision to structure their forest home vertically mirrors the epiphyte ecosystem on the redwood canopy.
+По всій долині на межі дикої природи та міських територій гір Санта-Крус розкидані групи висотних будівель, в яких поєднуються житлові приміщення, громадські та комерційні простори. Мозаїчні фрески з плитки надають будівлям додатковий захист від жаринок, що злітають в повітря під час регулярних контрольованих підпалів лісової підстилки. Між будівлями висять ряди гідропонних культур, а гарбузові лози піднімаються по скульптурних трельяжах. Дикі тварини вільно пересуваються серед людської інфраструктури. Під керівництвом корінних народів, які відроджують традиційні способи харчування, громада управляє лісом і збирає гриби, полює на оленів, ловить лосось та пожинає трави. Долиною звиваються доступні пішохідні стежки, а для транспортування товарів і пасажирів між поселеннями використовується система гондол. Окремі секвої, відновлені до стану старовинного лісу, краще поглинають вуглець, і допомагають створити прохолодний, вологий мікроклімат. Рішення громади побудувати свій лісовий будинок вертикально відображає епіфітну екосистему на кронах секвоєвих дерев.

@@ -1,5 +1,5 @@
 ---
-title: "The moon doth shine as bright as day"
+title: "А місяць світить так яскраво, ніби день"
 date: 2025-04-29
 publishDate: 2025-06-07
 draft: false

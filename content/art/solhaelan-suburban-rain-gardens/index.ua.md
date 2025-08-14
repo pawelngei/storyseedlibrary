@@ -1,5 +1,5 @@
 ---
-title: "Suburban Rain Gardens"
+title: "Дощові садки у передмісті"
 date: 2023-06-07
 publishDate: 2025-05-02
 draft: false
@@ -9,15 +9,15 @@ authors:
   - "solhaelan"
 ---
 
-This digital painting depicts the Southern Great Lakes Ecoregion, within the Interior Plateau & Southern Great Lakes Forests Bioregion, within the Temperate Broadleaf and Mixed Forest Biome.
-I chose a suburban setting for this piece because I’ve not yet seen a Solarpunk artwork that features this. I’m aware of the problems with the suburbs, but it seems to me more sustainable to try to adapt them than to demolish them and start over. So instead of lawns I’ve depicted beds of native Indiana plants, including but not limited to:
+Ця картина зображає екорегіон Південних Великих озер, що знаходиться в біорегіоні Внутрішнього плато та лісів Південних Великих озер, в межах біому помірних широколистяних та змішаних лісів.
+Я вибрала передмістя як місце дії для цієї роботи, адже ще не бачила, щоб це було зображено на малюнках з соларпанковою тематикою. Я усвідомлюю проблеми передмість, але мені здається, що більш раціонально спробувати їх адаптувати, ніж зносити і починати все спочатку. Тому замість газонів я зобразив клумби з місцевими рослинами штату Індіана, серед яких, зокрема:
 
-- Amsonia Tabernaemontana (Eastern Bluestar)
-- Spartina Pectinata (Prairie Cordgrass)
-- Echinacea Purpurea (Purple Coneflower).
+- Амсонія табермонтана
+- Спартина гребешкова
+- Ехінацея пурпурова.
 
-The roofs of the houses are either white to help reflect heat, or green roofs. Some of the houses are equipped with solar panels on the south sides, and one is shown with a greenhouse on that side as well.
+Дахи будинків або білі, щоб відбивати тепло, або зелені. Деякі будинки обладнані сонячними панелями на південній стороні, і з тієї ж самої сторони одна з будівель має прибудовану теплицю.
 
-While perhaps not explicitly ecologically focused, I have shown there to be more art in this setting than is usually found in american suburbia. The sidewalk has a mural painted with hydrochromic paint, which only appears while it is raining. The houses are painted bright colors (white or greige is  considered ‘Normal’ ) and are occasionally decorated with murals.
+Хоча, можливо, це не є явно екологічним, я додала в це середовище більше творчих елементів, ніж зазвичай можна побачити в американських передмістях. На тротуарі є мурал, намальований гідрохромною фарбою, яка проявляється тільки під час дощу. Будинки пофарбовані в яскраві кольори (сьогодні білий або сірий вважаються «нормальними»), а стіни іноді прикрашені стінописами.
 
-This particular area is among the cloudiest in the so-called U.S.A. To reflect that, the weather is overcast and it is currently raining.
+Ця конкретна місцевість є однією з найбільш хмарних у так званих США, а отже це відображає похмура погода і дощ.

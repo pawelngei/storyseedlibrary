@@ -1,5 +1,5 @@
 ---
-title: "Desert Power - Bus"
+title: "Енергія пустелі - автобус"
 date: 2025-03-16
 publishDate: 2025-04-29
 draft: false
@@ -9,4 +9,4 @@ authors:
   - scandinavian101
 ---
 
-[Original on ArtStation](https://www.artstation.com/artwork/0l5BwV)
+[Оригінал на ArtStation](https://www.artstation.com/artwork/0l5BwV)

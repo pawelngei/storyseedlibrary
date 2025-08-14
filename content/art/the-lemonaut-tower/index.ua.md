@@ -1,5 +1,5 @@
 ---
-title: "The Tower"
+title: "Дерев'яний житловий будинок"
 date: 2024-09-05
 publishDate: 2025-04-29
 draft: false
@@ -10,10 +10,10 @@ authors:
   - "scandinavian101"
 ---
 
-An illustration to one of the Solarpunk Prompts episodes, [The Tower](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tower)]:
+Ілюстрація до одного з епізодів подкасту Solarpunk Prompts, [Вежа](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower) [[транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tower)]:
 
-> A community is freshly moved into a new, wooden, sustainable, climate-controlled tower designed to help them be close to each other and live communally. For some it is a dream come true, for others it is a culture shock, but everyone is struggling with the trauma of losing their old homes to floods, fires and relocation programs. While the adults deal with their emotions, children are quick to run around and explore the wonders of their new home.
+> Громада нещодавно переїхала до нової, дерев'яної, екологічної вежі з клімат-контролем, яка була спроектована, щоб допомогти їм зблизитись і жити спільно. Комусь це ідеально підходить, а для інших це — культурний шок, але всі вони борються з травмою втрати своїх старих будинків через повені, пожежі та програми переселення. Поки дорослі борються зі своїми емоціями, діти біжать досліджувати дива свого нового дому.
 
-Based on the [story seed](/seeds/the-tower).
+Засновано на цьому [зернятку історії](/seeds/the-tower).
 
-The illustration itself is a collaboration between The Lemonaut (lineart, characters, colors) and Scandinavian101 (architecture, wooden construction research).
+Зображення створене за співпраці художників The Lemonaut (лайн, персонажі, кольори) та Scandinavian101 (архітектура, дослідження дерев'яних конструкцій).

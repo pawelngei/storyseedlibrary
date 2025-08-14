@@ -1,5 +1,5 @@
 ---
-title: "How to build a Solarpunk City"
+title: "Як збудувати соларпанкове місто"
 date: 2023-03-09
 publishDate: 2025-04-28
 draft: false
@@ -9,11 +9,10 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/how-to-build-79790609)
+[Оригінал на Патреоні](https://www.patreon.com/posts/how-to-build-79790609)
 
-I'm thrilled to share this new artwork in collaboration with [Andrewism](https://www.patreon.com/saintdrew/posts) on his latest video [How to Build a Solarpunk City](https://www.youtube.com/watch?v=4UmU1dSe3n0&ab_channel=Andrewism).  
+Я дуже радий поділитися цим новим малюнком, що я створив у співпраці з [Andrewism](https://www.patreon.com/saintdrew/posts) для його останнього відео [How to Build a Solarpunk City](https://www.youtube.com/watch?v=4UmU1dSe3n0&ab_channel=Andrewism).  
 
-Go give it a watch, he covers many interesting topics and caveats of urban design.  I think you will enjoy this video very much!
+Підіть його перегляньте, він висвітлює багато цікавих тем та нюансів, пов’язаних з міським проєктуванням. Я думаю, вам це відео дуже сподобається!
 
-I hope you dig the finished painting above and close-ups.  
-
+Сподіваюсь, вам імпонуватиме готовий малюнок вище та його збільшені фрагменти.

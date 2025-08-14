@@ -1,5 +1,5 @@
 ---
-title: "Madame Yu Leading Guangchangwu"
+title: "Мадам Ю проводить гуанчанву"
 date: 2025-06-24
 publishDate: 2025-07-14
 draft: false
@@ -9,4 +9,4 @@ authors:
  - elakidd
 ---
 
-Guangchangwu, also known as Square Dance, is a communal dance activity done predominantly by elderly people in urban China, especially elderly women. Dancers would gather at a square in formation and follow one or multiple leaders to a choreographed dance. In this illustration, there is a variety of people participating in Guangchangwu, including people of various ages and people with physical disability. Presumably, there are both long-time practitioners and newcomers in the crowd, so there is a sort of learning that crosses age gaps and abilities happening here. In addition, the background includes a community center with a large signage that reads “cafeteria, fitness, library, barbershop”. The building next to it has signages that say “table tennis” and “tea”. In the foreground, the food truck is getting charged by a community battery. The mural to the left is a blessing said during the year of the lamb that roughly translates to “pleasant sensation in the air”. 
+Гуанчанву, також відомий як square dancing, — це колективний танець, яким займаються переважно літні люди в міських районах Китаю, особливо літні жінки. Танцюристи збираються на площі у формації та слідують за одним або кількома лідерами, виконуючи заздалегідь завчений танець. На цій ілюстрації зображено різних людей, які беруть участь у гуанчанву, включаючи людей різного віку та людей з інвалідністю. Імовірно, серед них є як досвідчені танцюристи, так і новачки, тому тут відбувається своєрідне навчання, яке долає вікові та фізичні бар'єри. На додаток до цього, на задньому плані зображено громадський центр з великим написом «кафетерій, фітнес, бібліотека, перукарня». На будівлі поруч є написи «настільний теніс» і «чай». На передньому плані фургон з їжею заряджається від громадського акумулятора. Стінопис ліворуч — це благословення, яке промовляють у рік барана і яке можна приблизно перекласти як «приємне відчуття в повітрі».

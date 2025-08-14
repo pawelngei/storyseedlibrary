@@ -1,5 +1,5 @@
 ---
-title: "Climate Resilience Yurt"
+title: "Кліматично стійка юрта"
 date: 2023-02-01
 publishDate: 2025-04-28
 draft: false
@@ -9,6 +9,6 @@ authors:
   - "seanbodley"
 ---
 
-[Original on Patreon](https://www.patreon.com/posts/climate-yurt-36972796)
+[Оригінал на Патреоні](https://www.patreon.com/posts/climate-yurt-36972796)
 
-Hey Patrons! I want to thank our newest patron Efflam for offering some critiques on the [original version of this design, the Drought Yurt](https://www.patreon.com/posts/35331381). He inspired me to develop it more
+Привіт, патрони! Я хочу подякувати нашому новому патрону Efflam за критичні зауваження щодо [оригінальної версії цього дизайну, «Юрта у посушливій місцевості»]. Він надихнув мене на подальший розвиток ідеї.

@@ -1,5 +1,5 @@
 ---
-title: "The world we built"
+title: "Світ, який ми збудували"
 date: 2025-08-04
 publishDate: 2025-08-05
 draft: false

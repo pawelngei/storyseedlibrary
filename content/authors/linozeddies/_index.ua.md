@@ -2,7 +2,7 @@
 title: "Lino Zeddies"
 ---
 
-Social developer, author, and transformation facilitator for a regenerative future
+Соціальний розробник, автор та фасилітатор трансформацій для екологічно стійкого майбутнього
 
 - [Homepage](https://linozeddies.de/)
 

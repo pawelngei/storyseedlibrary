@@ -1,5 +1,5 @@
 ---
-title: "Brigther Future - Suburbs Densification - Light"
+title: "Світліше майбутнє - ущільнення передмість - світла версія"
 date: 2025-03-16
 publishDate: 2025-04-29
 draft: false
@@ -9,8 +9,8 @@ authors:
   - scandinavian101
 ---
 
-[Original on ArtStation](https://www.artstation.com/artwork/WXzGWJ)
+[Оригінал на ArtStation](https://www.artstation.com/artwork/WXzGWJ)
 
-Since [higher-density cities are more sustainable](https://en.wikipedia.org/wiki/Urban_density#Sustainability), Solarpunk futures can see a lot of suburbs dismantled and the land given back to nature - or used for renewable energy generation. [[Read More](https://iopscience.iop.org/article/10.1088/1755-1315/362/1/012106)]
+Оскільки [міста з вищою щільністю населення є більш екостійкими](https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D1%81%D1%8C%D0%BA%D0%B0_%D1%89%D1%96%D0%BB%D1%8C%D0%BD%D1%96%D1%81%D1%82%D1%8C#%D0%A1%D1%82%D0%B0%D0%BB%D1%96%D1%81%D1%82%D1%8C), Оскільки [міста з вищою щільністю населення є більш екостійкими], у соларпанковому майбутньому це може передбачати знесення багатьох передмість і повернення землі природі — або використання її для виробництва відновлюваної енергії. [[Читати більше](https://iopscience.iop.org/article/10.1088/1755-1315/362/1/012106)]
 
-Densification projects are portrayed in some Solarpunk books, like LX Beckett's [Gamechanger](https://www.goodreads.com/book/show/43263243-gamechanger).
+Проекти по ущільненню населення описані в деяких книгах про соларпанк, як-от наприклад у книзі Л. X. Бекетт [Gamechanger](https://www.goodreads.com/book/show/43263243-gamechanger).

@@ -1,5 +1,5 @@
 ---
-title: "The Ship"
+title: "Судно"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> There is a modern cargo ship made with sails and solar panels, trying to replace the oil guzzlers of old and connect the world again. It is crewed by sailors old and young, engineers maintaining some experimental solutions, and some communities trying to travel in old container-houses. They have a lot on their plate.
+> Сучасне вантажне судно з вітрилами та сонячними батареями є спробою замінити старі кораблі, що неконтрольовано поглинали нафту та знову об’єднати світ. Екіпаж складається з моряків різного віку, інженерів, які намагаються підтримувати нові експериментальні рішення, та деяких спільнот, які випробовують подорожування в старих контейнерних будинках. У всіх них дуже багато справ.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-ship)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Ship)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-ship)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Ship)

@@ -1,5 +1,5 @@
 ---
-title: "The Experts"
+title: "Експерти"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> There is a community of very specialized experts. Only a handful exist in the whole world. They are normally hermits, focused on maintaining long-forgotten infrastructure. But their community exists across the internet. They consider themselves a family, even if each of them speaks a different language, and comes from a different culture. And once a blue moon they can even physically visit each other.
+> У світі майбутнього існує спільнота дуже спеціалізованих експертів. У всьому світі їх лише декілька. Зазвичай вони ведуть відлюдний спосіб життя, зосереджуючись на підтримці давно забутої інфраструктури. Але їхня спільнота існує по всьому Інтернету. Вони вважають себе родиною, навіть якщо кожен з них розмовляє іншою мовою і походить з іншої культури. І раз на раз вони навіть можуть відвідати один одного в реальному житті.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-experts)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Experts)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-experts)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Experts)

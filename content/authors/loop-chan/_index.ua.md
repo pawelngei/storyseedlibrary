@@ -1,9 +1,9 @@
 ---
 title: "Loop-chan"
-description: "Your resident squid comic artist"
+description: "Ваш місцевий коміксист-кальмар"
 ---
 
-Your resident squid comic artist
+Ваш місцевий коміксист-кальмар
 
 - [Twitter](https://x.com/fruitloop_chan)
 

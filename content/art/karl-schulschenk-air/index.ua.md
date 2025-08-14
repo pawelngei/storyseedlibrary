@@ -1,5 +1,5 @@
 ---
-title: "Air"
+title: "Повітря"
 date: 2023-07-02
 publishDate: 2025-05-08
 draft: false

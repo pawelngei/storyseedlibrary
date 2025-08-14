@@ -2,77 +2,77 @@
 none = "none"
 
 [[main]]
-name = "UA Art"
+name = "Ілюстрації"
 pageRef = "art"
 identifier = "3yRSzr3A8F"
 weight = 10
 
 [[main]]
-name = "UA Seeds"
+name = "Зернятка"
 pageRef = "seeds"
 identifier = "3yRSzr3A8D"
 weight = 20
 
 [[main]]
-name = "More"
+name = "Переглянути"
 weight = 30
 
 [[main]]
-parent = "More"
+parent = "Переглянути"
 name = "Tags"
 pageRef = "tags"
 identifier = "24BZL6Odw6"
 weight = 30
 
 [[main]]
-parent = "More"
-name = "Authors"
+parent = "Переглянути"
+name = "Авторів"
 pageRef = "authors"
 identifier = "LD7z6Qopgw"
 weight = 40
 
 [[main]]
-name = "Events"
+name = "Події"
 weight = 45
 
 [[main]]
-parent= "Events"
-name = "Art Collab 2025"
+parent= "Події"
+name = "Art Collab 2025 [ENG]"
 pageRef = "/pages/andrewisms-art-collab-2025"
 identifier = "3yRGzr3A8D"
 weight = 10
 
 [[main]]
-name = "About"
+name = "Більше про..."
 weight = 50
 
 [[main]]
-parent = "About"
-name = "The Library"
+parent = "Більше про..."
+name = "...Бібліотеку"
 pageRef = "/pages/about"
 weight = 1
 
 [[main]]
-parent = "About"
-name = "Solarpunk"
+parent = "Більше про..."
+name = "...Соларпанк"
 url = "/essays/what-is-solarpunk"
 weight = 2
 
 [[main]]
-parent = "About"
-name = "Solarpunk Prompts Podcast"
+parent = "Більше про..."
+name = "...Подкаст Solarpunk Prompts"
 url = "https://podcast.tomasino.org/@SolarpunkPrompts"
 weight = 3
 
 [[main]]
-parent = "About"
-name = "The Curator"
+parent = "Більше про..."
+name = "...Куратора"
 url = "https://alxd.org/"
 weight = 4
 
 [[main]]
-parent = "About"
-name = "How to Contribute?"
+parent = "Більше про..."
+name = "Як долучитись?"
 pageRef = "/pages/contribute"
 weight = 10
 
@@ -86,13 +86,13 @@ weight = 60
 none = "none"
 
 [[footer]]
-name = "How to Contribute?"
+name = "Як до вас долучитись?"
 pageRef = "/pages/contribute"
 identifier = "Wz0vblbVYr"
 weight = 1
 
 [[footer]]
-name = "Contact Us"
+name = "Написати нам"
 url = "storySeedLibrary@alxd.org"
 identifier = "contactUs"
 weight = 2

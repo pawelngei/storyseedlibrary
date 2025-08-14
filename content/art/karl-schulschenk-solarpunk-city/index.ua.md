@@ -1,5 +1,5 @@
 ---
-title: "Solarpunk City"
+title: "Соларпанкове місто"
 date: 2022-07-02
 publishDate: 2025-05-08
 draft: false

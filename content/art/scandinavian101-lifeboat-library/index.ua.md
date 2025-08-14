@@ -1,5 +1,5 @@
 ---
-title: "Lifeboat Library"
+title: "Бібліотека на рятувальному човні"
 date: 2025-07-08
 publishDate: 2025-07-13
 draft: false
@@ -9,4 +9,4 @@ authors:
   - scandinavian101
 ---
 
-Depicted is a settlement built on the remnants of an old, coastal town. The focal point is a lifeboat converted into a floating library. It serves as a way of cultural exchange between surrounding communities and a window into the world. This evening people gathered together to watch a movie screened on the boat's sail.
+На малюнку зображено поселення, побудоване на руїнах старого прибережного містечка. У центрі уваги — рятувальний човен, переобладнаний під плавучу бібліотеку. Він слугує засобом культурного обміну між сусідніми громадами та вікном у ширший світ. Цього вечора люди зібралися подивитись фільм, який показували на вітрилі човна.

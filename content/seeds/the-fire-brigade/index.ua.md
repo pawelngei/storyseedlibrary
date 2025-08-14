@@ -1,5 +1,5 @@
 ---
-title: "The Fire Brigade"
+title: "Пожежники"
 date: 2021-10-23
 draft: false
 description: ""
@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> There is a military unit which switched from tanks to firetrucks decades ago. Now they’re fighting climate disasters, being more engineers and firefighter than soldiers, which is a dream for some and a nightmare for others. The rookies, well-versed in the new reality are struggling to understand the language of the old officer, still clinging to the military jargon and ways.
+> Військова частина, яка кілька десятиліть тому перейшла з танків на пожежні машини, зараз бореться з кліматичними катастрофами. Тепер вони більше інженери та пожежники, ніж солдати, що для одних з них є мрією, а для інших — кошмаром. Новачки, добре обізнані з новою реальністю, намагаються розібрати мову старого офіцера, який все ще дотримується військового жаргону та традицій.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-fire-brigade)
-- [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Fire-Brigade)
+- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-fire-brigade)
+- [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Fire-Brigade)
