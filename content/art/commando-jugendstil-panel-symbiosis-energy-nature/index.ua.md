@@ -1,5 +1,5 @@
 ---
-title: "Symbiosis between energy and nature"
+title: "Симбіоз енергії та природи"
 date: 2023-10-16
 publishDate: 2025-06-01
 draft: false
@@ -11,19 +11,22 @@ series: ["Панелі Commando Jugendstil"]
 series_order: 8
 ---
 
-**Topic**: 
-Symbiosis between energy and nature
+**Тема**: 
+Симбіоз енергії та природи
 
-**Description**:
-Upon crossing the countryside surrounding the solarpunk city on a bike, a boat or a train, a visitor from our world would feel a bit disconcerted.
-Where are the monocultures that once upon a time spread as far as the eye could see? And what are all those solar panels doing there? And most of all, who let the sheep out in the olive grove?
+**Опис**:
+Перетинаючи сільську місцевість навколо соларпанк міста на велосипеді, човні або поїзді, гість з нашого світу відчув би себе дещо розгубленим.
+Куди поділися монокультури, які колись простягалися так далеко, наскільки сягало око? І що там роблять усі ці сонячні батареї? І найголовніше - хто випустив овець в оливковий гай?
 
-Agroecology techniques have replaced for the most part the industrial agriculture paradigm of the Late Stage. 
-Fields are no longer "flat factories" meant to extract resources, but fully realized eco-systems which support biodiversity as well as human wellbeing.
-Concepts like food forests and agro-silvo-pastoralism are very popular, people talk about them at the bar, as much as once they talked about the stock exchange.
-Climate adaptation has changed farmers' habits: some crops, no longer suitable to a hotter, more extreme climate, have been abandoned, while others have been introduced (bananas from Puglia and coffee from Sicily are now common sights).
+[Агроекологічні](https://uk.wikipedia.org/wiki/%D0%90%D0%B3%D1%80%D0%BE%D0%B5%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F) методи здебільшого замінили моделі індустріального сільського господарства Пізнього Етапу. 
+Поля більше не є "пласкими фабриками", призначеними для видобутку ресурсів, а повноцінними екосистемами, які підтримують біорізноманіття та добробут людей.
+Такі концепції, як харчові ліси та агро-сілво-пасторалізм[^1] дуже популярні, люди говорять про них у барі, так само, як колись говорили про фондові біржі.
+Адаптація до клімату змінила звички фермерів: від деяких культур, які більше не підходять для більш спекотного та екстремального клімату, відмовилися, а інші запровадили (банани з Апулії та кава з Сицилії тепер є загальними пам'ятками).
 
-To protect their precious crops from the Sun, some farmers have converted to agrosolar, installing solar panels between crop rows or shading the whole field. Some of these covers have curious shapes: the solar panels are arranged in a semi sphere.
-Berries, salad leaves, citrus fruits and tea (from Liguria, like pesto) are much happier, and rural communities have a source of energetic sovereignty without having to sacrifice either Nature or Agriculture.
+Щоб захистити свої дорогоцінні врожаї від сонця, деякі фермери перейшли на [агросоляризацію](https://uk.wikipedia.org/wiki/%D0%90%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D1%82%D0%B0%D1%97%D0%BA%D0%B0), встановлюючи сонячні панелі між рядами культур або затінюючи все поле. Деякі з цих накриттів мають цікаву форму: сонячні панелі розташовані у вигляді напівсфери.
+Ягоди, листя салату, цитрусові та чай (з Лігурії, як і песто) стали набагато щасливішими, а сільські громади отримали джерело енергетичної незалежності без необхідності жертвувати ні природою, ні сільським господарством.
 
-Now that profit is no longer the main decision-making factor, the solarpunk world is full of creative and innovative solutions.
+Тепер, коли прибуток більше не є основним фактором прийняття рішень, світ соларпанку сповнений креативних та інноваційних 
+рішень.
+
+[^1]: Агросільськогосподарська діяльність - це виробнича діяльність, яка поєднує скотарство (екстенсивне тваринництво на пасовищах) і сільське господарство в частково лісистому середовищі. Ця діяльність тісно поєднує ці три способи землекористування і може навіть поєднувати їх на одній ділянці.

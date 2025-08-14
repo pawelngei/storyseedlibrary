@@ -1,5 +1,5 @@
 ---
-title: "The Factory"
+title: "Фабрика"
 date: 2024-01-16
 publishDate: 2025-06-01
 draft: false
@@ -11,17 +11,17 @@ series: ["Панелі Commando Jugendstil"]
 series_order: 11
 ---
 
-**Topic**: 
-The Factory
+**Тема**: 
+Фабрика
 
-**Description**:
-In the solarpunk society there is a factory which doubles as a historic monument, whose story is taught in schools. In Italy the Just Transition, from the bottom up and mutualistic, started there. Abandoned by bosses and politicians after the latest industrial crisis, with the threat of redundancy over their heads, the workers occupied their factory and drew up an alternate industrial plan: out with car parts, in with cargo bikes and solar panels!
-And in this postcard from the future of the factory we can see how the workers installed their new state-of-the-art solar panels: they are flexible and can adapt to the organic shapes obtained over a cluster of small wind turbines.
-Zero-miles energy, from the Sun and from the wind.
+**Опис**:
+У соларпанковому суспільстві є фабрика, яка одночасно є історичною пам'яткою, розвиток минулих подій якої вивчають у школах. В Італії план "Справедливий перехід" - громадський і мутуалістичний, розпочався саме в ній. Покинуті босами і політиками після останньої промислової кризи, під загрозою звільнення, робітники зайняли свою фабрику і розробили альтернативний промисловий план: геть автозапчастини, натомість - вантажні велосипеди і сонячні батареї!
+А на цій листівці з майбутнього заводу ми бачимо, як робітники встановлюють нові надсучасні сонячні панелі: вони гнучкі і можуть адаптуватися до органічних форм, здобутих під скупченням невеликих вітрогенераторів.
+Це все - місцевовиробнича енергія, видобувна від сонця та вітру.
 
-With the help of activists and organizations, the workers gathered the starting capital, set up a cooperative and got on with their plan. Following their example, tens of other factories realized that they too could do without bosses. Work for everyone, social value and a society wholly transformed: together, workers and activists overturned the course of the battle and won a better future for all of us.
+За допомогою активістів та організацій робітники зібрали стартовий капітал, створили кооператив і приступили до реалізації свого плану. За їхнім прикладом десятки інших фабрик зрозуміли, що теж можуть обійтися без босів. Робота для всіх, соціальна цінність і суспільство, що повністю трансформувалося: разом робітники та активісти переломили хід битви і вибороли краще майбутнє для всіх нас.
 
-This sounds like it's a story from the future, but it is not: the GKN Factory Collective needs your help right now to implement its Just Transition plan. Read the full story and become a member of the cooperative with a contribution at the website www.insorgiamo.org/100x10-000/
+Це звучить ніби це історія з далекого майбутнього, але це не так: колектив заводу GKN потребує вашої допомоги вже зараз, щоб реалізувати свій план "Справедливий перехід". Прочитайте повну версію історії та станьте членом кооперативу, зробивши свій внесок на сайті www.insorgiamo.org/100x10-000/
 
-Spread the word wherever people of conscience are.
-Tomorrow's history is made today: solarpunk is a verb for rising!
+Розповідайте про це скрізь, де є свідомі люди.
+Завтрашня історія твориться сьогодні: соларпанк - це заклик для підйому!

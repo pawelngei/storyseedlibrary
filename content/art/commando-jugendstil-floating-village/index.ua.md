@@ -1,5 +1,5 @@
 ---
-title: "The Floating Village"
+title: "Селище На Воді"
 date: 2022-11-14
 publishDate: 2025-04-29
 draft: false
@@ -9,5 +9,4 @@ authors:
  - commandojugendstil
 ---
 
-Originally commissioned in 2022 for a Solarpunk article in [Liberal Debatt](https://www.liberaldebatt.se/) magazine which never got published. In the meantime it was featured in several other newspapers, like the Polish [Gazeta Wyborcza](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html).
-
+Ілюстрація була зроблена для статті про Соларпанк на замовлення журналу [Liberal Debatt](https://www.liberaldebatt.se/), проте стаття лишилась неопублікованою. Але між тим вона була представлена в декількох інших газетах, як-от у польскій [Gazeta Wyborcza](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html).

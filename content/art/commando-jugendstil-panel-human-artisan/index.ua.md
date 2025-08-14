@@ -1,5 +1,5 @@
 ---
-title: "Human = Artisan"
+title: "Людина = Ремісник"
 date: 2023-12-16
 publishDate: 2025-06-01
 draft: false
@@ -11,19 +11,19 @@ series: ["Панелі Commando Jugendstil"]
 series_order: 10
 ---
 
-**Topic**: 
-Human = Artisan
+**Тема**: 
+Людина = Ремісник
 
-**Description**:
-The solarpunk society of the future also celebrates important festivities.
-To tell the truth, people celebrate an even greater number of them.
-Since frantic productivism has been abandoned, everybody has much more time to socialize and relax.
-It is December now, and people get ready to celebrate a variety of festivals: Hanukkah, Yule, Christmas, Kwanzaa - the more, the merrier.
-The solarpunk city is a hive of activity: some people decorate their houses and neighborhoods, some prepare enough food to feed a small army for the community banquets and, clearly, some think of the presents.
+**Опис**:
+Соларпанкове суспільство майбутнього також відзначає важливі свята.
+Справді, люди святкують навіть більшу їх кількість.
+Оскільки від шаленої продуктивності відмовилися, у всіх з'явилося набагато більше часу на спілкування та відпочинок.
+Зараз грудень, і люди готуються до святкування різноманітних фестивалів: Ханука, Йоль, Різдво, Кванза - чим більше, тим веселіше.
+Соларпанк-місто - це вулик активності: хтось прикрашає свої будинки та околиці, хтось готує їжу, якої вистачить на малу армію для громадських бенкетів і, звісно, хтось думає про подарунки.
 
-Unlike in the Late Stage, people don't feel pressured to show off by spending tons of money to secure the latest gadgets and fashion. People take their time to create something.
-Here Ginny puts together a necklace for her grandmother out of foraged material from the local woods. There, Marcello is in the zone, spins some yarn while headbanging to power metal: a friend has given him some wool from the commune's alpacas, and he wants to give it to his boyfriend, a veritable knitting fiend.
-Lori, instead, doesn't have much talent for handcrafts, but for the best part of the year they have accumulated LETS credits by looking after pets and children and modelling for life drawing classes. Now they have enough to barter them with a consortium of artisans and have them make a pair of Oleatex boots for their little sister.
+На відміну від Пізньої Стадії, люди не відчувають тиску, щоб показати себе, витрачаючи купу грошей на найновіші гаджети та моду. Люди не поспішають створювати щось.
+Тут Джінні плете намисто для своєї бабусі з підручних матеріалів, знайдених у місцевому лісі. Ось Марчелло глибоко занурений у діло, пряде пряжу під пауер-метал: друг дав йому трохи вовни з альпаки, і він хоче подарувати її своєму хлопцеві, справжньому фанату в'язання.
+Лорі, натомість, не має особливого хисту до рукоділля, але більшу частину року вони накопичували [кредити LETS](https://uk.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D0%BC%D1%96%D1%81%D1%86%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%BC%D1%96%D0%BD%D1%83_%D1%82%D0%B0_%D1%82%D0%BE%D1%80%D0%B3%D1%96%D0%B2%D0%BB%D1%96), доглядаючи за домашніми тваринами, дітьми та моделюючи на уроках малювання з натури. Тепер вони мають достатньо кредитів, щоб обміняти їх з співтовариством ремісників і попросити їх зробити пару черевиків з олеатексу для своєї молодшої сестрички.
 
-People have learned that who they are is not what they own or how much they spend and that love shows better through time and care than through money.
-People celebrate and create leisurely, savouring the process as much as the results.
+Люди зрозуміли, що вони не визначаються тим, чим володіють чи скільки витрачають, і що любов краще проявляється у часі та турботі, ніж у грошах.
+Люди святкують і творять не поспішаючи, насолоджуючись як процесом, так і результатом.

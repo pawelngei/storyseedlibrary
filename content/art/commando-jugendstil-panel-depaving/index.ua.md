@@ -1,5 +1,5 @@
 ---
-title: "Depaving: how to grow fruits and vegetables in the solarpunk city?"
+title: "Озеленення: як вирощувати овочі та фрукти в соларпанковому місті?"
 date: 2023-07-16
 publishDate: 2025-06-01
 draft: false
@@ -11,20 +11,16 @@ series: ["Панелі Commando Jugendstil"]
 series_order: 5
 ---
 
-**Question**: 
-Depaving: how to grow fruits and vegetables in the solarpunk city?
+**Питання**: 
+Озеленення: як вирощувати овочі та фрукти в соларпанковому місті?
 
-**Answer**:
-Today cities are crammed with parking lots, multi-lane speedways, garages and gas stations.
-What will happen to these toxic relics of the past in the solarpunk city?
-They will be reclaimed and returned to the community!
+**Відповідь**:
+Сьогодні міста переповнені парковками, багатосмуговими автострадами, гаражами та заправками. Що станеться з цими токсичними пережитками минулого в соларпанковому місті? Вони будуть рекультивовані та повернені громаді!
 
-Residents band together in self-organized work teams and, with the help of crowbars and pickaxes, rip out the tarmac, revealing the ground underneath.
-Gardeners, permaculture experts and rewilders rush in with cartloads of compost, donated by the neighbours and turn non-places into gardens, allotments and biodiverse habitats for invertebrates, birds and small mammals.
-Even the fuel tanks of the gas stations can be reused, once reclaimed. Now they are water reservoirs for the dry season, which fill up slowly during autumn and winter thanks to water harvesting systems.
+Мешканці об'єднуються в самоорганізовані робочі бригади і за допомогою ломів та кирок здирають асфальт, вивільняючи землю під ним.
+Садівники, експерти з пермакультури та ревайлдери поспішають з возами компосту, подарованого сусідами, і перетворюють не-місця на сади, присадибні ділянки та біорізноманітні місця проживання для безхребетних, птахів і дрібних ссавців. Навіть паливні баки автозаправних станцій після рекультивації можна використовувати повторно. Тепер вони є резервуарами для води на сухий сезон, які повільно наповнюються протягом осені та зими завдяки системам збору води.
 
-Where only cars dared to roll, now there is a pocket meadow, or a food forest, or an allotment where the neighbours can plant local, healthy food.
-Nearby, a group of young volunteers are climbing on a van (electric, with sodium batteries) from the Rewilding Guild. They are off to depave most of the lanes of the A1 motorway, now almost disused, and turn it into Europe's longest linear park.
-But fear not! There are enough paved surfaces for bicycles, wheelchairs, baby strollers, scooters and pedestrians, and even for the few cars and vans still in use.
+Там, де раніше наважувалися їздити лише автомобілі, тепер — невеличка галявина, чи то харчовий ліс, чи то ділянка, де сусіди можуть висаджувати місцеву, здорову їжу.
+Неподалік група молодих волонтерів забирається на фургон (електричний, з натрієвими акумуляторами) від Гільдії ревайлдингу. Вони їдуть, щоб розчистити більшість смуг автостради А1, яка зараз майже не використовується, і перетворити її на найдовший лінійний парк у Європі. Але не хвилюйтеся! Тут достатньо асфальтованих поверхонь для велосипедів, крісел колісних, дитячих колясок, скутерів і пішоходів, і навіть для тих кількох автомобілів і фургонів, які все ще використовуються.
 
-The difference is that now cities are no longer built around cars: they are merely guests.
+Різниця в тому, що зараз міста більше не будуються навколо автомобілів: вони в них лише гості.

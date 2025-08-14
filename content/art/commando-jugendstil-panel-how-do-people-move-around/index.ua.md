@@ -1,5 +1,5 @@
 ---
-title: "How do people move around the solarpunk city?"
+title: "Як люди пересуваються соларпанковим містом?"
 date: 2023-03-16
 publishDate: 2025-06-01
 draft: false
@@ -11,12 +11,12 @@ series: ["Панелі Commando Jugendstil"]
 series_order: 1
 ---
 
-**Question**: 
-How do people move around the solarpunk city?
+**Питання**: 
+Як люди пересуваються соларпанковим містом?
 
-**Answer**: 
-With public transportation which has been enormously expanded. Private transportation is mostly limited to adapted vehicles for special mobility needs, and vehicles are available through shared ownership schemes.
+**Відповідь**: 
+За допомогою громадського транспорту, який значно розширився. Приватний транспорт здебільшого обмежується пристосованими транспортними засобами для людей з інвалідністю, а транспортні засоби доступні через схеми спільного володіння.
 
-It is concert season in the solarpunk city and Webby has decided to go to the Auditorium on her Isetta EV, specially adapted for people with her mobility needs. It can be boarded through a ramp, and the steering, which features an extra wheel to control brakes and accelerator,  can be moved out of the way to allow Webby to board and disembark seamlessly. Strictly speaking, the car is not just hers... It is part of a dedicated car-sharing scheme, managed through a municipalized distributed ownership programme. 
+У місті соларпанків зараз концертний сезон, і Веббі вирішила поїхати на виставу на своєму електромобілі Isetta EV, спеціально пристосованому для людей з обмеженими фізичними можливостями. На нього можна увійти через пандус, а рульове управління, яке має додаткове кермо для керування гальмами та акселератором, можна відсунути вбік, щоб Веббі могла безперешкодно заїжджати та виходити з нього. Строго кажучи, автомобіль не тільки її... Він є частиною спеціальної схеми спільного користування автомобілями, що управляється за допомогою муніципальної програми розподіленої власності.
 
-Next to her, Diego, a sight-impaired musician, follows the orange path painted on the floor towards the Auditorium: the sensors in his next-gen walking stick can tell him where to turn and how far it is.
+Поруч з нею Дієго, музикант з порушеннями зору, йде помаранчевою доріжкою, намальованою на підлозі, до глядацької зали: датчики в його тростині нового покоління підказують йому, де повернути і як далеко до неї йти.
