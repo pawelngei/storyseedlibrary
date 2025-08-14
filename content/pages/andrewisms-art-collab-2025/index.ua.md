@@ -11,7 +11,7 @@ authors:
 
 ## This Edition Has Completed
 
-Visit the [2025 Art Collab Tag](/tags/2025-collab/) to browse the selection of works submitted to our Library!
+Visit the [2025 Art Collab Tag](/ua/tags/2025-collab/) to browse the selection of works submitted to our Library!
 
 ## Original Description
 
@@ -48,7 +48,7 @@ Join the Art Collab Discord
 - Artwork may not depict anything of an NSFW nature.
 - All artwork must pertain to the theme "LIFE OF LEARNING" (see theme guidelines below)
 - Artwork must be submitted to the email address saint.whom@gmail.com with the email subject "SOLARPUNK ART 2025." A brief description of the work would be appreciated.
-- Submitted artwork should be submitted under [Creative Commons BY 4.0](/tags/cc-by-4.0) or [Creative Commons BY-SA 4.0](/tags/cc-by-sa-4.0). Yo can learn more about them [here](https://creativecommons.org/share-your-work/cclicenses/).
+- Submitted artwork should be submitted under [Creative Commons BY 4.0](/ua/tags/cc-by-4.0) or [Creative Commons BY-SA 4.0](/ua/tags/cc-by-sa-4.0). Yo can learn more about them [here](https://creativecommons.org/share-your-work/cclicenses/).
 - Submitted artwork may be included in a livestream on the main channel and video on the side channel, as well as being published on [Tumblr](https://andrew-ism.tumblr.com/) and on Story Seed Library. By submitting artwork, you consent to your work being shared in this manner with due credit. I reserve the right to decline submissions.
 - Artists should include what, if any, credit they would like to have included in the final showcase.
 
@@ -62,7 +62,7 @@ Join the Art Collab Discord
   - What does [Citizen Science](https://en.wikipedia.org/wiki/Citizen_science) look like, when regular people care for and monitor the ecosystems around them?
   - Education and learning is not only about your early life. Look at projects like the [University of the Third Age](https://en.wikipedia.org/wiki/University_of_the_Third_Age) - maybe there are even some in your area?
   - To make people more aware of their surroundings, education and learning should happen within the context of local ecosystems. How can we encourage people to get involved in their own hometowns?
-  - Take a look at the [Story Seeds](/seeds/) and see if any of them inspire you!
+  - Take a look at the [Story Seeds](/ua/seeds/) and see if any of them inspire you!
 - Artwork must reflect some degree of human diversity. People of different racial and cultural backgrounds, genders and sexualities, abilities, ages, etc, should be included. Solarpunk is for the people. All the people.
 - Artwork may depict urban, semi-urban, and rural spaces, including interiors or exteriors.
 - Greenwashing is not solarpunk. Don't just change a single element about our current world, like adding trees or stained glass to unsustainable buildings. Think about subtler and more beautiful consequences of sustainability - like how making technology repairable can make everything more long-lasting and personalised.
@@ -78,4 +78,4 @@ Join the Art Collab Discord
 
 ---
 
-Background art [CC BY-SA 4.0 Sean Bodley](/art/sean-bodley-library-of-everything/)
+Background art [CC BY-SA 4.0 Sean Bodley](/ua/art/sean-bodley-library-of-everything/)
