@@ -1,5 +1,5 @@
 ---
-title: "Which art can I use?"
+title: "Які ілюстрації я можу використати?"
 date: 2025-05-03
 draft: false
 description: ""
@@ -8,44 +8,44 @@ authors:
   - alxd
 ---
 
-If you haven't used Creative Commons licenses before, please check out their [handy guide](https://creativecommons.org/share-your-work/cclicenses/) to different licenses.
+Якщо ви раніше не стикалися з ліцензіями Creative Commons, будь ласка продивіться [інформацію про них](https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%97_Creative_Commons#%D0%9B%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%97_Creative_Commons).
 
-Depending on what is the character of your project, you can use the following ones:
+Залежно від характеру вашого проєкту, ви можете скористатися роботами під такими ліцензіями:
 
-## Commercial Project
+## Коменційний проєкт
 
-You can use [CC BY 4.0](/ua/tags/cc-by-4.0/) art just by crediting the artist. You don't need to notify them about your use, but it's considered polite to do so.
+Скористатися зображеннями [CC BY 4.0](/tags/cc-by-4.0/) можна, просто вказавши автора. Ви не зобов'язані повідомляти його/її про це, але це вважається ввічливим.
 
-[CC0](/ua/tags/cc0) works are considered public domain - you don't even need to credit the author, but if one is known - we encourage you to do so!
+Роботи [CC0](/tags/cc0) вважаються суспільним надбанням — навіть не потрібно вказувати автора, але якщо вам відомо, хто створив роботу — ми заохочуємо вас це зробити!
 
-If you don't modify the work (for example by making it a part of a collage), you can also use the [CC BY-ND 4.0](/ua/tags/cc-by-nd-4.0/) license! You can read more about what is a modification / adaptation / remix [here](https://guides.lib.uw.edu/bothell/creativecommons/adapt).
+Якщо ви не змінюєте роботу (наприклад, не використовуєте її як частину колажу), ви також можете використовувати роботи під ліцензію [CC BY-ND 4.0](/tags/cc-by-nd-4.0/)! Більше про те, що таке модифікація / адаптація / ремікс, ви можете прочитати [тут](https://guides.lib.uw.edu/bothell/creativecommons/adapt).
 
-If you do modify the artwork, you can also use [CC BY-SA 4.0](/ua/tags/cc-by-sa-4.0/), but you need to release your remix under the same license. Feel free to reach out to us - maybe we'll host it on the Library page as well!
+Якщо ви змінюєте ілюстрацію, ви також можете використовувати її, якщо вона під ліцензією [CC BY-SA 4.0](/tags/cc-by-sa-4.0/), але вам потрібно опублікувати свій ремікс під тією ж ліцензією. Не соромтеся звертатися до нас — можливо, ми розмістимо його на сторінці бібліотеки!
 
-## Non-commercial Project
+## Некомерційний проєкт
 
-If your project is non-commercial, you can freely use [CC BY 4.0](/ua/tags/cc-by-4.0/) and [CC BY-NC 4.0](/ua/tags/cc-by-nc-4.0/) as well!
+Якщо ваш проєкт є некомерційним, ви можете спокійно використовувати роботи під ліцензією [CC BY 4.0](/tags/cc-by-4.0/), і [CC BY-NC 4.0](/tags/cc-by-nc-4.0/) теж!
 
-[CC BY-ND 4.0](/ua/tags/cc-by-nd-4.0/) and [CC BY-SA 4.0](/ua/tags/cc-by-sa-4.0/) work the same way as described above, but you can also use their non-commercial versions, [CC BY-NC-ND 4.0](/ua/tags/cc-by-nc-nd-4.0/) and [CC BY-NC-SA 4.0](/ua/tags/cc-by-nc-sa-4.0/). We also have some art released under the previous version of the license, [CC BY-NC-ND 3.0](/ua/tags/cc-by-nc-nd-3.0/)!
+[CC BY-ND 4.0](/tags/cc-by-nd-4.0/) та [CC BY-SA 4.0](/tags/cc-by-sa-4.0/) працюють так само, як описано вище, але ви також можете скористатися їх некомерційними версіями, [CC BY-NC-ND 4.0](/tags/cc-by-nc-nd-4.0/) і [CC BY-NC-SA 4.0](/tags/cc-by-nc-sa-4.0/). А ще ми маємо кілька робіт під попередньою версією ліцензії, [CC BY-NC-ND 3.0](/tags/cc-by-nc-nd-3.0/)!
 
-## Best Practices Crediting Artists
+## Найкращі практики в зазначенні авторства
 
-You've chosen the art you want to use, now what?
+Отже, ви вибрали ілюстрацію, якою ви бажаєте скористатись. А що тепер?
 
-Creative Commons Wiki has a good article on the [recommended practices for attribution](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution):
+Creative Commons Wiki має чудову статтю з [рекомендаціями щодо атрибуції](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution) (англ.):
 
-> Whenever you are reusing CC licensed works, we recommend that the attribution include the Title, Author, Source, and License. This is true whether you’re sharing the work as-is or if you have made an adaptation. To remember these attribution elements, it’s helpful to think of the acronym: TASL.
+> Кожного разу, коли ви повторно використовуєте твори, ліцензовані за ліцензією CC, ми рекомендуємо вказувати в атрибуції назву, автора, джерело та ліцензію. Це стосується як випадків, коли ви поширюєте твір у незміненому вигляді, так і випадків, коли ви зробили його адаптацію. Щоб запам'ятати ці елементи атрибуції, корисно запам'ятати абревіатуру НАДЛ.
 
-> Title: What is the name of the work?
+> Назва: Як робота називається?
 >
-> Author: Who allows you to use the work?
+> Автор: Хто дозволяє вам використовувати цю роботу?
 >
-> Source: Where can people find the work?
+> Джерело: Де можна знайти цю роботу?
 >
-> License: How can you use the work?
+> Ліцензія: Як можна використовувати цю роботу?
 
-There's also a good section on [how to attribute adaptations](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution#This_is_a_great_attribution_for_when_you_have_created_an_adaptation).
+Також є й корисний розділ, що показує, [як надавати атрибуцію адаптації](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution#This_is_a_great_attribution_for_when_you_have_created_an_adaptation) (англ.).
 
 ---
 
-If you have any questions, please refer to the [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) website and the text of the licenses - this page is just a handy guide with links!
+Якщо в вас виникли питання, будь ласка зверніться до сайту [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) або статті на [Вікіпедії](https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%97_Creative_Commons#%D0%9B%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%97_Creative_Commons). Ця сторінка — лише зручний гайд із посиланнями.

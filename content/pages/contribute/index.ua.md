@@ -1,5 +1,5 @@
 ---
-title: "How to Contribute?"
+title: "Як долучитись до вас?"
 date: 2025-04-27
 draft: false
 description: ""
@@ -8,36 +8,36 @@ authors:
  - alxd
 ---
 
-## For Artists
+## Якщо ви художник
 
-Thank you for your interest in contributing to the Library!
+Дякуємо за ваш інтерес до співпраці з Бібліотекою!
 
-We want to feature art which:
+Ми приймаємо роботи, які:
 
-- Shows a visions of a better world acknowledging Climate Change
-- Is set in a near-future with no "magical" technologies, whether powered by nanorobots or dragon blood
-- Features humans, communities and civilization living in balance with the ecosystems - not just the wilderness and ruins.
+- показують бачення кращого світу, що визнає кліматичні зміни;
+- зображають події, що відбуваються у недалекому майбутньому без «чарівних» технологій, чи то нанороботів, чи то драконячої крові;
+- показують людей, спільноти та цивілізації, що живуть у гармонії з екосистемами, а не просто дику природу та руїни.
 
-We do not accept AI art or art created with the use of AI (even if it's just a texture).
+Ми не приймаємо роботи, згенеровані ШІ або такі, що містять згенерований ШІ контент (навіть якщо це просто текстура).
 
-If you'd like to submit your art to the Library, please {{< cloakemail display="contact me" address="storyseedlibrary@alxd.org" >}} with:
+Якщо ви хотіли б надіслати ваші роботи до Бібліотеки, будь ласка {{< cloakemail display="надішліть мені листа" address="storyseedlibrary@alxd.org" >}} з:
 
-- The title of your work
-- The description of your work
-- A high resolution version of the image
-- A specific license chosen ([license picker](https://creativecommons.org/choose/) and [overview](https://creativecommons.org/share-your-work/cclicenses/))
-- Link to your own page / gallery where you confirm the license of your work
+- Назвою вашої роботи
+- Описом вашої роботи
+- Файлом з вашою роботою у високій якості
+- Конкретною лізенцією Creative Commons ([допомога у виборі](https://uk.wikipedia.org/wiki/%D0%9B%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%97_Creative_Commons#%D0%9B%D1%96%D1%86%D0%B5%D0%BD%D0%B7%D1%96%D1%97_Creative_Commons))
+- Посиланням на вашу сторінку в соцмережах / галерею, аби підтвердити ваше авторство та ліцензію
 
-If it's your first time, please also provide:
+Якщо ви надсилаєте роботи вперше, також додайте:
 
-- Your name / pseudonym / how you'd like to be credited as
-- A one-line description of yourself, maybe with pronouns and country / languages
-- A list of links you'd like us to display, including your page, socials, patron / payment portals
+- Ваше їм'я / псевдонім / як ви хочете щоб вас підписали
+- Короткий опис про себе — не довше рядку, за бажанням займенники та вашу країну / мови
+- Список посилань на ваші соціальні мережі, сторінки для донату тощо, які будуть висвітлені біля вашого профлію
 
-You can [glaze](https://nightshade.cs.uchicago.edu/whatis.html) your work with some AI poison if you choose, but it's not a requirement (or a recommendation). I strongly believe that the best way to challenge AI art is to create intentional works with symbols AI is not - and will not be - capable of. If we fight on its rules, computational power against computational power, we will eventually lose.
+Ви можете скористатися [glaze](https://nightshade.cs.uchicago.edu/whatis.html), аби «отруїти» свої роботи проти ШІ, якщо захочете, але це не є обов'язковою вимогою (або рекомендацією). Я твердо переконаний, що найкращий спосіб кинути виклик ШІ контенту — це створювати продумані роботи з символами, які ШІ не здатний і ніколи не буде здатний створити. Якщо ми будемо воювати за його правилами, обчислювальною потужністю проти обчислювальної потужності, ми в кінцевому підсумку програємо.
 
-## For Developers
+## Якщо ви розробник
 
-If you're interested in contributing to this website, you can make a pull request to the repository on [Codeberg](https://codeberg.org/alxd/storyseedlibrary) or [Github](https://github.com/pawelngei/storyseedlibrary)! Alternatively, you can contact me on [Mastodon](https://writing.exchange/@alxd) or by {{< cloakemail display="email" address="storyseedlibrary@alxd.org" >}}!
+Якщо ви зацікавлені у співпраці з Бібліотекою, ви можете надіслати запит на додавання до репозиторію на [Codeberg](https://codeberg.org/alxd/storyseedlibrary) чи [Github](https://github.com/pawelngei/storyseedlibrary)! Як варіант, ви також можете зв'язатися зі мною через [Mastodon](https://writing.exchange/@alxd) або написати мені {{< cloakemail display="на електронну пошту" address="storyseedlibrary@alxd.org" >}}!
 
 
