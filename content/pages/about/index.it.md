@@ -31,4 +31,4 @@ Tradotto da:
 - Italiano - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
 - Polacco - [Paweł 'alxd' Ngei](/it/authors/alxd), edited by [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
 - Francese - [Jacky OWL](/it/authors/jackyowl)
-- Ucraina - [the lemonaut](/it/authors/thelemonaut), arg4ntum
+- Ucraino - [the lemonaut](/it/authors/thelemonaut), arg4ntum
