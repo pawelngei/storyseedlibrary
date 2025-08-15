@@ -14,19 +14,19 @@ A seconda dello scopo del vostro progetto, potete usare le seguenti:
 
 ## Progetto Commerciale
 
-Potete usare le opere [CC BY 4.0](/tags/cc-by-4.0/) semplicemente citando l'artista. Non dovete necessariamente informarli se lo fate, ma è considerato educato farlo.
+Potete usare le opere [CC BY 4.0](/it/tags/cc-by-4.0/) semplicemente citando l'artista. Non dovete necessariamente informarli se lo fate, ma è considerato educato farlo.
 
-Le opere [CC0](/tags/cc0) sono considerate dominio pubblico: non dovete nemmeno menzionare l'artista, ma se esså è notå vi incoraggiamo a farlo!
+Le opere [CC0](/it/tags/cc0) sono considerate dominio pubblico: non dovete nemmeno menzionare l'artista, ma se esså è notå vi incoraggiamo a farlo!
 
-Se non modificate l'opera (ad esempio rendendola parte di un collage), potete usare anche le licenze [CC BY-ND 4.0](/tags/cc-by-nd-4.0/)! Potete leggere di più in merito a cosa conta come modifica/adattamento/remix [qui](https://guides.lib.uw.edu/bothell/creativecommons/adapt) (in inglese).
+Se non modificate l'opera (ad esempio rendendola parte di un collage), potete usare anche le licenze [CC BY-ND 4.0](/it/tags/cc-by-nd-4.0/)! Potete leggere di più in merito a cosa conta come modifica/adattamento/remix [qui](https://guides.lib.uw.edu/bothell/creativecommons/adapt) (in inglese).
 
-Se invece modificate l'opera, potete usare anche le [CC BY-SA 4.0](/tags/cc-by-sa-4.0/), ma dovete applicare la stessa licenza all'opera modificata. Non esitate a contattarci: portemmo inserirla nella Biblioteca!
+Se invece modificate l'opera, potete usare anche le [CC BY-SA 4.0](/it/tags/cc-by-sa-4.0/), ma dovete applicare la stessa licenza all'opera modificata. Non esitate a contattarci: portemmo inserirla nella Biblioteca!
 
 ## Progetto Non Commerciale
 
-Se il vostro progetto non è commerciale, potete liberamente usare [CC BY 4.0](/tags/cc-by-4.0/) e [CC BY-NC 4.0](/tags/cc-by-nc-4.0/).
+Se il vostro progetto non è commerciale, potete liberamente usare [CC BY 4.0](/it/tags/cc-by-4.0/) e [CC BY-NC 4.0](/it/tags/cc-by-nc-4.0/).
 
-[CC BY-ND 4.0](/tags/cc-by-nd-4.0/) e [CC BY-SA 4.0](/tags/cc-by-sa-4.0/) funzionano esattamente come descritto sopra, ma potete usare anche le loro versioni non commerciali, [CC BY-NC-ND 4.0](/tags/cc-by-nc-nd-4.0/) e [CC BY-NC-SA 4.0](/tags/cc-by-nc-sa-4.0/). Abbiamo anche alcune opere rilasciate sotto la precedente versione della licenza, [CC BY-NC-ND 3.0](/tags/cc-by-nc-nd-3.0/)!
+[CC BY-ND 4.0](/it/tags/cc-by-nd-4.0/) e [CC BY-SA 4.0](/it/tags/cc-by-sa-4.0/) funzionano esattamente come descritto sopra, ma potete usare anche le loro versioni non commerciali, [CC BY-NC-ND 4.0](/it/tags/cc-by-nc-nd-4.0/) e [CC BY-NC-SA 4.0](/it/tags/cc-by-nc-sa-4.0/). Abbiamo anche alcune opere rilasciate sotto la precedente versione della licenza, [CC BY-NC-ND 3.0](/it/tags/cc-by-nc-nd-3.0/)!
 
 ## Buone pratiche di citazione degli artisti
 
