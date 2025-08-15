@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/10/16/solarpunk-cargo-ship/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2024/10/16/solarpunk-cargo-ship/)
 
 I’ve been wanting to do more scenes of solarpunk ships. Shipping underpins a huge amount of our society and I think building a more solarpunk world will mean changing it in some really interesting ways.
 

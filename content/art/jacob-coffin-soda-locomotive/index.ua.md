@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/04/12/another-quick-take-on-the-caustic-soda-locomotive-concept-modular-this-time/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2024/04/12/another-quick-take-on-the-caustic-soda-locomotive-concept-modular-this-time/)
 
 Another (very quick) take on the caustic soda locomotive concept based on t[his comment](https://slrpnk.net/comment/7782028) on my [last postcard](https://slrpnk.net/post/8409948) about what a version with swappable boilers might look like.
 

@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/04/07/caustic-soda-locomotive-stopped-at-a-solar-drying-station/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2024/04/07/caustic-soda-locomotive-stopped-at-a-solar-drying-station/)
 
 # Caustic Soda Locomotive Stopped at a Solar Drying Station
 

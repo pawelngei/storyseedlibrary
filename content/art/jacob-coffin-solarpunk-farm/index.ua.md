@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2025/02/10/buried-treasure-bob-johnsons-farm/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2025/02/10/buried-treasure-bob-johnsons-farm/)
 
 I’ve been working on some location art for the [solarpunk TTRPG campaign](https://jacobcoffinwrites.wordpress.com/2025/01/06/buried-treasure/). The farmer who lives here was a fan-favorite with my first group of players – he does a lot of work maintaining the meshnet for the mostly-abandoned town where the campaign takes place and he became good friends with the group’s hacker character.
 
