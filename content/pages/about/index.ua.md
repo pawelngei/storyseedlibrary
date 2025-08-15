@@ -32,4 +32,4 @@ authors:
 - польська - [Paweł 'alxd' Ngei](/ua/authors/alxd), редагувала [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
 - італійська - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
 - французька - [Jacky OWL](/ua/authors/jackyowl)
-- українська [the lemonaut](/ua/authors/thelemonaut), arg4ntum
+- українська - [the lemonaut](/ua/authors/thelemonaut), arg4ntum
