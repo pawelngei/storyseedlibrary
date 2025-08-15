@@ -1,5 +1,5 @@
 ---
-title: "Амбіційний проєкт"
+title: "Місячна експедиція"
 date: 2021-10-23
 draft: false
 description: ""
