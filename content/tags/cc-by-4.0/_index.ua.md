@@ -1,10 +1,14 @@
 ---
 title: "CC BY 4.0"
-description: "All works licensed under CC BY 4.0"
+description: "Всі роботи охоплені ліцензією CC BY 4.0"
 ---
 
-This license enables reusers to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. CC BY includes the following elements:
+Ви можете вільно:
+- Поширювати — копіювати і розповсюджувати матеріал у будь-якому вигляді чи форматі для будь-яких цілей, навіть комерційних.
+- Змінювати — реміксувати, трансформувати, і брати матеріал за основу для будь-яких цілей, навіть комерційних.
 
-- BY: credit must be given to the creator.
+На наступних умовах:
+- **Зазначення Авторства** — Ви маєте вказати автора , розмістити посилання на ліцензію та вказати чи було внесено зміни до твору . Ви можете зробити це у будь-який розумний спосіб, але так, щоб не створювати враження стосовно того, що ліцензіар підтримує чи схвалює вас або ваше використання твору.
+- **Без додаткових обмежень** — Ви не можете висувати додаткові умови або застосовувати технологічні засоби захисту, що обмежують права інших на дії дозволені ліцензією.
 
-[[Read More](https://creativecommons.org/licenses/by/4.0/)]
+[[Читати більше](https://creativecommons.org/licenses/by/4.0/deed.uk)]

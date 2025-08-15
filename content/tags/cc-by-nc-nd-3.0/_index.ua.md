@@ -1,20 +1,15 @@
 ---
 title: "CC BY-NC-ND 3.0"
-description: "All works licensed under CC BY-NC-ND 3.0"
+description: "Всі роботи охоплені ліцензією CC BY-NC-ND 3.0"
 ---
 
-You are free to:
+Ви можете вільно:
+- Поширювати — копіювати і розповсюджувати матеріал у будь-якому вигляді чи форматі
 
-- **Share** — copy and redistribute the material in any medium or format 
+На наступних умовах:
+- **Зазначення Авторства** — Ви маєте вказати автора , розмістити посилання на ліцензію та вказати чи було внесено зміни до твору . Ви можете зробити це у будь-який розумний спосіб, але так, щоб не створювати враження стосовно того, що ліцензіар підтримує чи схвалює вас або ваше використання твору.
+- **Некомерційна** — Ви не можете використовувати матеріал для комерційних цілей .
+- **Без Похідних** — Якщо ви реміксуєте, трансформуєте матеріал, засновуєте свій твір на матеріалі, ви не можете розповсюджувати модифікований матеріал.
+- **Без додаткових обмежень** — Ви не можете висувати додаткові умови або застосовувати технологічні засоби захисту, що обмежують права інших на дії дозволені ліцензією.
 
-Under the following terms: 
-
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-- **NonCommercial** — You may not use the material for commercial purposes.
-
-- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
-
-- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-[[Read More](https://creativecommons.org/licenses/by-nc-nd/3.0/)]
+[[Читати більше](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.uk)]
