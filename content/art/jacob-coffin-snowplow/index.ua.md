@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/01/03/woodgas-plow-truck-filling-a-village-snow-vault/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2024/01/03/woodgas-plow-truck-filling-a-village-snow-vault/)
 
 This will likely be my last winter solarpunk scene for a bit – I want to focus on library economies next. This one is based on two different ideas recommended for the village scene, which I decided to combine in their own photobash.
 

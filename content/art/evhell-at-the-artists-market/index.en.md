@@ -10,3 +10,5 @@ authors:
 ---
 
 [How it was made](https://www.evhell.fr/solarpunk-participation-au-weekandart/)
+
+In this city, old-world skyscrapers blend with new high-rise buildings. This mix reflects the transition to a less consumerist and more human-centered lifestyle. The population, freed from excessive capitalism, has plenty of time to refocus on what really matters: community, inclusivity, ensuring everyone can live their lives to the fullest, and art. With these ideas in mind, I imagined this small scene of life in a creators' market.

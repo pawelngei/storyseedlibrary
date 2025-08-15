@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/01/16/library-economy-heavy-items-delivery-collections/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2024/01/16/library-economy-heavy-items-delivery-collections/)
 
 I’ve been wanting to do some scenes from a library economy for a while now, glad to finally get the chance.I’ve mentioned elsewhere that these postcards are a bit earlier in the solarpunk timeline than a lot of other works I know of in the genre. I like seeing the work in progress, the intermediate steps. Most solarpunk stuff I’ve read has climate disasters, wars, plagues, etc in its backstory. I set my stuff a bit closer to those events because I’m interested in what the earlier days of rebuilding look like.
 

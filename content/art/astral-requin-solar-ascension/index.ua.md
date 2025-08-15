@@ -9,7 +9,7 @@ authors:
  - astralrequin
 ---
 
-[Original on DeviantArt](https://www.deviantart.com/astral-requin/art/Solar-Ascension-808565337)
+[Оригінал на DeviantArt](https://www.deviantart.com/astral-requin/art/Solar-Ascension-808565337)
 
 ## Оригінальний опис
 

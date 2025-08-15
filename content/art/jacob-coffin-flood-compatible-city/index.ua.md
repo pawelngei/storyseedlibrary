@@ -9,9 +9,9 @@ authors:
  - jacobcoffin
 ---
 
-A version <a href="no_labels.jpg" target="_blank">without labels</a> is also available.
+A version <a href="/art/jacob-coffin-flood-compatible-city/no_labels.jpg" target="_blank">without labels</a> is also available.
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/09/26/flood-compatible-solarpunk-city-photobash/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2024/09/26/flood-compatible-solarpunk-city-photobash/)
 
 This is a little different from my other photobashes in that this one can’t really pass as a postcard. I ended up having so many things to include in the topic of flood-compatible cities that the only way to fit them all was to keep expanding the canvas. I think I have enough for a second picture (and possibly a third), but we’ll get to what’s missing in a moment.
 
