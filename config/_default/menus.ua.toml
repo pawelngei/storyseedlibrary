@@ -19,7 +19,7 @@ weight = 30
 
 [[main]]
 parent = "Переглянути"
-name = "Tags"
+name = "Теги"
 pageRef = "tags"
 identifier = "24BZL6Odw6"
 weight = 30

@@ -1,3 +1,3 @@
 ---
-title: "Трамвай"
+title: "Tramwaj"
 ---
