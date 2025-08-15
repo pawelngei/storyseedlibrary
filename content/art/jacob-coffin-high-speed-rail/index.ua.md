@@ -1,5 +1,5 @@
 ---
-title: "High Speed Rail"
+title: "Високошвидкісна залізниця"
 date: 2023-09-06
 publishDate: 2025-04-29
 draft: false
@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/09/06/high-speed-rail-photobash/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2023/09/06/high-speed-rail-photobash/)
 
 The second photobash in what I hope will be a series; a bit larger and more visually interesting than the first. I’ve started thinking of these as ‘postcards from a solarpunk future.’ They might not show the width and breadth of this world, but nice scenes of what this fictional solarpunk society would consider aspirational, or values worth showing off.
 

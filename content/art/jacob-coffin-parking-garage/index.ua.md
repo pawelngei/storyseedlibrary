@@ -1,5 +1,5 @@
 ---
-title: "Repurposed Parking Garage"
+title: "Перероблена автостоянка"
 date: 2023-09-11
 publishDate: 2025-04-29
 draft: false
@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/09/11/repurposed-parking-garage-photobash/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2023/09/11/repurposed-parking-garage-photobash/)
 
 Another postcard from a solarpunk future. Leaning further in on the postcard thing this time. This is kind of a mix of a traditional photobash and the style I’ve been using/making for a rural cyberpunk comic I’ve been working on but haven’t shared yet. The difference is that this time I kept the source images underneath the line art, and used them for the color, whereas with the comic, I convert each element to lines individually, then work with those (transforming, editing, drawing over them) and then color by hand underneath. As with the rest, it’s collaged together from images from all over the place, mostly textures.com, pexels, freepik, and of course, the lowes, amazon, and home depot websites, plus some screenshots of 3d models. I’ll disclose that I did use AI art for two elements of this one, I asked a friend’s midjourny bot to make the deer spraypaint mural, and the colorful mandala I used on the street car.
 

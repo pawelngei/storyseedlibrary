@@ -1,5 +1,5 @@
 ---
-title: "Ropeway Waystation"
+title: "Канатна станція"
 date: 2023-10-20
 publishDate: 2025-04-29
 draft: false
@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/10/20/ropeway-waystation-photobash/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2023/10/20/ropeway-waystation-photobash/)
 
 This is my second, slightly more serious photobash of a ropeway.
 

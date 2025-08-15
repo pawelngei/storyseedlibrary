@@ -1,5 +1,5 @@
 ---
-title: "Ropeway over a Seasonal Road - Winter"
+title: "Канатна дорога - Взимку"
 date: 2023-11-06
 publishDate: 2025-04-29
 draft: false
@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/11/06/ropeway-over-a-seasonal-road-winter/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2023/11/06/ropeway-over-a-seasonal-road-winter/)
 
 Made in response to this post: https://www.reddit.com/r/solarpunk/comments/17m5tr3/solarpunk_during_winter_and_late_fall/k7iv7p4/?context=3 – on the realization that there aren’t many examples of solarpunk art set in winter.
 

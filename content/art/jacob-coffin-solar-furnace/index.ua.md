@@ -1,5 +1,5 @@
 ---
-title: "Solar Furnace Steel Recycling"
+title: "Сонячна піч для плавлення сталі"
 date: 2023-09-15
 publishDate: 2025-04-29
 draft: false
@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2023/09/15/solar-furnace-steel-recycling-photobash/)
+[Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2023/09/15/solar-furnace-steel-recycling-photobash/)
 
 So this one is kind of different from most solarpunk art, but then I suppose that’s the goal of this series. It’s not a scene of a farm, or a homestead, or a city full of people gardening. But I think scenes like this might be necessary.
 

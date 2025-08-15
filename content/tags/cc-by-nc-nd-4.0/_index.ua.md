@@ -1,12 +1,15 @@
 ---
 title: "CC BY-NC-ND 4.0"
-description: "All works licensed under CC BY-NC-ND 4.0"
+description: "Всі роботи охоплені ліцензією CC BY-NC-ND 4.0"
 ---
 
-This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC-ND includes the following elements:
+Ви можете вільно:
+- Поширювати — копіювати і розповсюджувати матеріал у будь-якому вигляді чи форматі
 
-- BY: credit must be given to the creator.
-- NC: Only noncommercial uses of the work are permitted.
-- ND: No derivatives or adaptations of the work are permitted.
+На наступних умовах:
+- **Зазначення Авторства** — Ви маєте вказати автора , розмістити посилання на ліцензію та вказати чи було внесено зміни до твору . Ви можете зробити це у будь-який розумний спосіб, але так, щоб не створювати враження стосовно того, що ліцензіар підтримує чи схвалює вас або ваше використання твору.
+- **Некомерційна** — Ви не можете використовувати матеріал для комерційних цілей .
+- **Без Похідних** — Якщо ви реміксуєте, трансформуєте матеріал, засновуєте свій твір на матеріалі, ви не можете розповсюджувати модифікований матеріал.
+- **Без додаткових обмежень** — Ви не можете висувати додаткові умови або застосовувати технологічні засоби захисту, що обмежують права інших на дії дозволені ліцензією.
 
-[[Read More](https://creativecommons.org/licenses/by-nc-nd/4.0/)]
+[[Читати більше](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.uk)]

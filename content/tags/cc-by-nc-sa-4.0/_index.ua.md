@@ -1,12 +1,16 @@
 ---
 title: "CC BY-NC-SA 4.0"
-description: "All works licensed under CC BY-NC-SA 4.0"
+description: "Всі роботи охоплені ліцензією CC BY-NC-SA 4.0"
 ---
 
-This license enables reusers to copy, distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements
+Ви можете вільно:
+- Поширювати — копіювати і розповсюджувати матеріал у будь-якому вигляді чи форматі
+- Змінювати — реміксувати, трансформувати, і брати матеріал за основу
 
-- BY: credit must be given to the creator.
-- NC: Only noncommercial uses of the work are permitted.
-- SA: Adaptations must be shared under the same terms.
+На наступних умовах:
+- **Зазначення Авторства** — Ви маєте вказати автора , розмістити посилання на ліцензію та вказати чи було внесено зміни до твору . Ви можете зробити це у будь-який розумний спосіб, але так, щоб не створювати враження стосовно того, що ліцензіар підтримує чи схвалює вас або ваше використання твору.
+- **Некомерційна** — Ви не можете використовувати матеріал для комерційних цілей .
+- **Поширення На Тих Самих Умовах** — Якщо ви реміксуєте, трансформуєте матеріал, засновуєте свій твір на матеріалі, ви повинні розповсюджувати свої твори на умовах тієї ж ліцензії, що й оригінал.
+- **Без додаткових обмежень** — Ви не можете висувати додаткові умови або застосовувати технологічні засоби захисту, що обмежують права інших на дії дозволені ліцензією.
 
-[[Read More](https://creativecommons.org/licenses/by-nc-sa/4.0/)]
+[[Читати більше](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.uk)]
