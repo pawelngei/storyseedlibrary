@@ -9,7 +9,7 @@ authors:
  - jacobcoffin
 ---
 
-A version <a href="no_labels.jpg" target="_blank">without labels</a> is also available.
+A version <a href="/art/jacob-coffin-flood-compatible-city/no_labels.jpg" target="_blank">without labels</a> is also available.
 
 [Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/09/26/flood-compatible-solarpunk-city-photobash/)
 

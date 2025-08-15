@@ -2,7 +2,7 @@ disabled = false
 languageCode = "ua"
 languageName = "Українська"
 weight = 1
-title = "Бібліотека із зернятками історій"
+title = "Бібліотека саджанців історій"
 
 [params]
 displayName = "UA"

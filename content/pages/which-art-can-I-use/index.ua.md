@@ -44,7 +44,7 @@ Creative Commons Wiki має чудову статтю з [рекомендац�
 >
 > Ліцензія: Як можна використовувати цю роботу?
 
-Також є й корисний розділ, що показує, [як атрибувати адаптації](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution#This_is_a_great_attribution_for_when_you_have_created_an_adaptation) (англ.).
+Також є й корисний розділ, що показує, [як надавати атрибуцію адаптації](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution#This_is_a_great_attribution_for_when_you_have_created_an_adaptation) (англ.).
 
 ---
 
