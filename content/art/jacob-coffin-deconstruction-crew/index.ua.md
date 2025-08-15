@@ -1,5 +1,5 @@
 ---
-title: "Deconstruction crew"
+title: "Демонтажна бригада"
 date: 2024-05-03
 publishDate: 2025-04-29
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Airshipyard in early morning"
+title: "Порт дирижаблів на світанку"
 date: 2023-11-01
 publishDate: 2025-04-29
 draft: false

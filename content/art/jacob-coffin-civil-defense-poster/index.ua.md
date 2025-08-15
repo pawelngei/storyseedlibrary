@@ -1,5 +1,5 @@
 ---
-title: "Civil Defense Poster"
+title: "Плакат з цивільної оборони"
 date: 2024-03-22
 publishDate: 2025-04-29
 draft: false
@@ -9,4 +9,4 @@ authors:
  - jacobcoffin
 ---
 
-If you would like to print it or use the alpha channel, a <a href="/art/jacob-coffin-civil-defense-poster/full_resolution_print.png" target="_blank">PNG version</a> is also available.
+Якщо ви хочете роздрукувати цю роботу або потребуєте доступу до альфа каналу, є також <a href="/art/jacob-coffin-civil-defense-poster/full_resolution_print.png" target="_blank">PNG версія</a>.
