@@ -9,7 +9,7 @@ authors:
   - "thelemonaut"
 ---
 
-An illustration to one of the Solarpunk Prompts episodes, [The Tailors](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tailors) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-tailors)]:
+An illustration to one of the Solarpunk Prompts episodes, [The Tailors](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tailors) [[transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tailors)]:
 
 > A new Tailor joins a community which has lacked one for years. In a world of distributed manufacturing tailors are no longer just artisans, but educators, material and sustainability experts, fashion designers and translators of cultures, making sure no garment offends others when traveling. Seeing that they’re much less traditional than their predecessor, will they be accepted by the community? Which bold statement surprised everybody?
 
