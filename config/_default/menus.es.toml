@@ -66,7 +66,7 @@ weight = 3
 
 [[main]]
 parent = "Acerca de"
-name = "El Curador"
+name = "El Bibliotecario"
 url = "https://alxd.org/"
 weight = 4
 
