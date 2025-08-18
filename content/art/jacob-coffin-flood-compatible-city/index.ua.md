@@ -1,5 +1,5 @@
 ---
-title: "Flood Compatible City"
+title: "Потопостійке місто"
 date: 2024-09-25
 publishDate: 2025-04-29
 draft: false

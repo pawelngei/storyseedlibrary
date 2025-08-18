@@ -1,5 +1,5 @@
 ---
-title: "Ropeway over a Seasonal Road - Winter"
+title: "Канатна дорога - Взимку"
 date: 2023-11-06
 publishDate: 2025-04-29
 draft: false

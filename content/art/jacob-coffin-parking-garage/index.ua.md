@@ -1,5 +1,5 @@
 ---
-title: "Repurposed Parking Garage"
+title: "Перероблена автостоянка"
 date: 2023-09-11
 publishDate: 2025-04-29
 draft: false

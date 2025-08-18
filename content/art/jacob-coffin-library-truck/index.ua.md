@@ -1,5 +1,5 @@
 ---
-title: "Library Truck"
+title: "Бібліотечна вантажівка"
 date: 2024-01-16
 publishDate: 2025-04-29
 draft: false

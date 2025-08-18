@@ -1,5 +1,5 @@
 ---
-title: "Ropeway at Night"
+title: "Канатна дорога вночі"
 date: 2023-10-13
 publishDate: 2025-04-29
 draft: false

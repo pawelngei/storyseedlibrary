@@ -1,5 +1,5 @@
 ---
-title: "Tech Salvage Co-Op"
+title: "Кооператив з переробки технологій"
 date: 2023-08-25
 publishDate: 2025-04-29
 draft: false

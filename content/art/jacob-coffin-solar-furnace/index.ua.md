@@ -1,5 +1,5 @@
 ---
-title: "Solar Furnace Steel Recycling"
+title: "Сонячна піч для плавлення сталі"
 date: 2023-09-15
 publishDate: 2025-04-29
 draft: false

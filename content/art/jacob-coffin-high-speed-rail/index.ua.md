@@ -1,5 +1,5 @@
 ---
-title: "High Speed Rail"
+title: "Високошвидкісна залізниця"
 date: 2023-09-06
 publishDate: 2025-04-29
 draft: false

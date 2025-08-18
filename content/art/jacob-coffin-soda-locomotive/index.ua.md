@@ -1,5 +1,5 @@
 ---
-title: "Modular Caustic Soda Locomotive"
+title: "Модульний содовий локомотив"
 date: 2024-04-12
 publishDate: 2025-04-29
 draft: false

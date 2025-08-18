@@ -1,5 +1,5 @@
 ---
-title: "Ropeway Waystation"
+title: "Канатна станція"
 date: 2023-10-20
 publishDate: 2025-04-29
 draft: false

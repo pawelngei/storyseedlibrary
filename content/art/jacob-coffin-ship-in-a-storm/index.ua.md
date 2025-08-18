@@ -1,5 +1,5 @@
 ---
-title: "Ship in a Storm"
+title: "Судно під час шторму"
 date: 2024-08-20
 publishDate: 2025-04-29
 draft: false

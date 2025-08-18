@@ -9,7 +9,7 @@ authors:
   - "thelemonaut"
 ---
 
-Ілюстрація до одного з епізодів подкасту Solarpunk Prompts, [Кравці](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tailors) [[транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-tailors)]:
+Ілюстрація до одного з епізодів подкасту Solarpunk Prompts, [Кравці](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tailors) [[транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tailors)]:
 
 > Новий кравець приєднується до спільноти, яка роками не мала такого фахівця. У світі розподіленого виробництва кравці вже не є лише майстрами, а й викладачами, експертами з матеріалів та екологічної стійскості, модними дизайнерами та перекладачами культур, які дбають про те, щоб жоден одяг не ображав інших під час подорожей. З огляду на те, що цей новий кравець набагато менш традиційний, ніж його/її попередники, чи прийме його спільнота? Який сміливий крок новенького здивував усіх?
 

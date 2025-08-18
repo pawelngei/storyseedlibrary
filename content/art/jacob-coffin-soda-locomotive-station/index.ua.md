@@ -1,5 +1,5 @@
 ---
-title: "Caustic Soda Locomotive At A Station"
+title: "Содовий локомотив на станції"
 date: 2024-04-07
 publishDate: 2025-04-29
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Airship Transporting Grain"
+title: "Дирижабль, що перевозить зерно"
 date: 2023-11-03
 publishDate: 2025-04-29
 draft: false

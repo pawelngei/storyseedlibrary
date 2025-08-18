@@ -1,5 +1,5 @@
 ---
-title: "Passive Greenhouses in Early Spring"
+title: "Пасивна теплиця рано навесні"
 date: 2023-11-15
 publishDate: 2025-04-29
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Rural Village Streetcar"
+title: "Трамвай у сільській місцевості"
 date: 2025-03-23
 publishDate: 2025-04-29
 draft: false

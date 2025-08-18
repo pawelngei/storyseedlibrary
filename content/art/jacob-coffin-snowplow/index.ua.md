@@ -1,5 +1,5 @@
 ---
-title: "Woodgas Plow Truck Filling a Village Snow Vault"
+title: "Снігоприбирач на деревному газі заповнює снігосховище"
 date: 2024-01-03
 publishDate: 2025-04-29
 draft: false
