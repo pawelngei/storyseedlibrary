@@ -1,5 +1,5 @@
 ---
-title: "And tomorrow? Sunrise."
+title: "غدًا؟ ستطلعُ الشمس"
 date: 2024-02-16
 publishDate: 2025-06-01
 draft: false
@@ -11,14 +11,13 @@ series: ["Commando Jugendstil's Panels"]
 series_order: 12
 ---
 
-**Topic**: 
-And tomorrow? Sunrise.
+**العنوان**: غدًا؟ ستطلعُ الشمس
 
-**Description**:
-Up until now we told you how a solarpunk city may work, how it would live and how it would face its problems. We spoke about public transports and clean energy, abundance and nature, but now is the time to bring it all together. Bring us all together and get to work.
+**الوصف**: حتى الآن أخبرناكم كيف ستبدو مدينة ناجحة حيّة وفق مفهوم سولار پنك، وكيف ستَحيا هذه المدينة وتواجه مشكلاتها. تحدَّثنا عن النقل العام والطاقة النظيفة، والوفرة والطبيعة، لكن حان الوقت الآن لنجمع كل هذا معًا في صورة شاملة. فلنتحد معًا ونشرع في العمل!
 
-A city where everyone could live a good life, worthy, comfortable and meaningful is a city where the primacy of "Economy" over everything else has been dismantled, where people unite to help each other find shared solutions, where "Technology" isn't a fetish used to control people and nature, but just a tool among the others, to be used properly. A city where resources aren't grabbed and hoarded by the usual suspects, but shared among everyone equally and ethically. A city where what matters, the only thing that really matters, is caring about others, about nature and urban spaces.
+إنّ المدينة التي يستطيع فيها الجميع عيشَ حياةٍ طيبة، وكريمة ومريحة وذات معنى، هي مدينةٌ أزاحت "الاقتصاد" عن عرشه ولم يعد أولى أولوياتها، هي تلك المدينةُ حيث يضع الناس اليد في اليد لمساعدة بعضهم في إيجاد حلول مشتركة، هي المدينةُ حيثُ "التكنولوجيا" ليست صنماً يُستخدم للسيطرة على الناس والطبيعة، بل التكنولوجيا في مدينتنا هذه ليست إلا مجرد أداة من بين الأدوات الأخرى، تُسخَّر لخدمة الصالح العام ولا يُسخَّر الصالحُ العام لخدمتها. إنها مدينةٌ لا تُحتكر مواردها أو يحتجزها أولئك الذين اعتدنا منهم الطغيان والإجرام، بل هي مدينة تتقاسم مواردها بين الجميع بالتساوي والإنصاف ووفق ميزان الأخلاق. إنها مدينة كلّ الهمّ والأهمية فيها منصبةٌ مركَّزة على الاهتمام بالآخرين وبالطبيعة وبالمساحات الحضرية.
 
-A city where small nomadic glasshouses and floating urban gardens can coexist with sun-powered seaplanes, and with clean water and green social spaces.
+هي المدينة التي نرى فيها البيوت الزجاجية المتنقلة والحدائق الحضرية العائمة جنبًا لجنبٍ مع طائراتٍ بَحْريّة تعمل بالطاقة الشمسية، ومع مياه نظيفة ومساحات اجتماعية خضراء.
 
-Once there wasn't a city like that - and there is no guarantee that one day there will be - but if we join our efforts, if we endure and fight together, one day we will see the dawn over this splendid city.
+كان يا ما كان ليس ثمة مدينة مثل هذه في هذا الزمان! وما من ضمان بأنها ستخرج من حيّزِ العدم إلى نور الوجود في المستقبل؛ لكننا إن وحّدنا جهودنا، وصبرنا وكافحنا معًا، فذاتَ صباحٍ سنُسرٌّ برؤية خيوط أشعة الفجرِ تلمع فوق هذه المدينة المذهلة!
+

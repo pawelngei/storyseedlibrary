@@ -1,5 +1,5 @@
 ---
-title: "Solar Ascension"
+title: "ارتقاءٌ شمسيٌّ"
 date: 2019-08-06
 publishDate: 2025-04-29
 draft: false
@@ -9,14 +9,13 @@ authors:
  - astralrequin
 ---
 
-[Original on DeviantArt](https://www.deviantart.com/astral-requin/art/Solar-Ascension-808565337)
+[العمل الفنيّ الأصلي على موقع DeviantArt](https://www.deviantart.com/astral-requin/art/Solar-Ascension-808565337)
 
-## Original Description
+## الوصف الأصليّ للعمل الفنيّ
 
-This is my submission for the Atomhawk contest atomhawk.com/solarpunk! The theme was Solarpunk, I just decided to participate because I love this theme and I believe it should be emphasized!
+هذه هي مشاركتي في مسابقة آتوم هاوك atomhawk.com/solarpunk! تنتمي ثيمة العمل الفنيّ لنزعة سولار پنك Solarpunk، لم أشارك في المسابقة إلا لأنني أحب هذه الثيمة، وأؤمن أننا بحاجة لإبرازها أكثر!
 
-In this story, mankind has abandoned its vast irregular cities and ascended the heavens, taking with it industries and farms, allowing the earth to regenerate the steril soil caused by urban sprawl. The new eco cities and vehicles float above an artificial sea of plasma that makes it look like a boreal ocean that seems to come from fantasy tales.
-
+في هذه القصة، تخلت البشرية عن مدنها الضخمة العشوائية وارتقت إلى السماوات، آخذةً معها المصانع والمزارع، مما أتاح للأرض إحياء التربة العقيمة التي سبّبها الامتداد العمراني. تطفو المدن البيئية والمركبات الجديدة فوق بحر اصطناعي من الپلازما يجعلها تبدو محيطًا شماليًا ضاربًا في القِدَم يبدو وكأنه قادم من حكايات الخيال.
 
 
 
