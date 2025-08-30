@@ -18,7 +18,7 @@ What is a Federated Grid?
 What happens to the solarpunk city when the energy grid is hit by an adverse weather event or another natural disaster?
 To make a long story very short: not a lot.
 
-The solarpunk society has learned its lesson from the mistakes of the Late Stage (week-long blackouts, no service for months in some cases) and completely redesigned its approach to energy provisioning.
+The solarpunk society has learned its lesson from the mistakes of the Late Stage Capitalism (week-long blackouts, no service for months in some cases) and completely redesigned its approach to energy provisioning.
 As for communications, there is no longer a National Grid, but rather a Federated Grid.
 Inspired by Nature, the Federated Grid is fractal. Every neighbourhood, village or cluster of houses has its own grid, where everyone is both a producer and a consumer, and these networks are connected together within a region, and then again within a bioregion, and so on and so forth. And the best thing is that neighbouring networks can help each other, should something happen.
 
