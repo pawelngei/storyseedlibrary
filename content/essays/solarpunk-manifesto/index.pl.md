@@ -12,7 +12,7 @@ Manifest ten był pierwotnie opublikowany na stronie re-des.org, która zniknę�
 
 # Solarpunk
 
-_Przetłumaczone przez [Paweł Ngei](https://alxd.org/manifest-solarpunka-pl.html), Martyna Łysiakiewicz_
+_Przetłumaczone przez [Pawła Ngei](https://alxd.org/manifest-solarpunka-pl.html), Martynę Łysiakiewicz_
 
 ## Wstęp od tłumaczy
 
@@ -28,7 +28,7 @@ W ciągu ostatniej dekady wiele osób pisało o Solarpunku – głównie po roku
 
 Jako gatunek jest on jeszcze bardzo słabo zdefiniowany.
 
-Poniższy Manifest Solarpunka jest kreatywną re-adaptacją pomysłów i postulatów wielu autorów. Część z nich można znaleźć w[Solarpunk: a reference guide](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965)oraz[Solarpunk: Notes towards a manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)Adama Flynna.
+Poniższy Manifest Solarpunka jest kreatywną re-adaptacją pomysłów i postulatów wielu autorów. Część z nich można znaleźć w [Solarpunk: a reference guide](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965) oraz [Solarpunk: Notes towards a manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)Adama Flynna.
 
 ## Manifest Solarpunka
 
@@ -36,7 +36,7 @@ Solarpunk to ruch fikcji spekulatywnej, sztuki, mody i aktywizmu, próbujący od
 
 Estetyka Solarpunka to połączenie pięknego z praktycznym, dobrze zaprojektowanego z bujnie zielonym, jasnego i kolorowego z mocnym i ziemistym.
 
-Solarpunk może być bardzo utopijny, tylko trochę optymistyczny, może zajmować się codziennymi problemami napotkanymi na drodze do lepszego świata, ale nigdy nie będzie dystopijny. Kiedy nasz świat ulega kolejnym katastrofom, potrzebujemy wizji rozwiązań, a nie tylko kolejnych[ostrzeżeń](https://m1k3y.com/2016/04/25/cyberpunk-was-supposed-to-be-a-warning-remastered-from-the-grinding-be-archives/).
+Solarpunk może być bardzo utopijny, tylko trochę optymistyczny, może zajmować się codziennymi problemami napotkanymi na drodze do lepszego świata, ale nigdy nie będzie dystopijny. Kiedy nasz świat ulega kolejnym katastrofom, potrzebujemy wizji rozwiązań, a nie tylko kolejnych [ostrzeżeń](https://m1k3y.com/2016/04/25/cyberpunk-was-supposed-to-be-a-warning-remastered-from-the-grinding-be-archives/).
 
 Wizji jak rozkwitać bez paliw kopalnianych, jak sprawiedliwie zarządzać prawdziwymi niedoborami i dzielić się dostatkami – zamiast podtrzymywać pozory sztucznych bogactw i braków. Jak być lepszymi dla siebie nawzajem i dla planety którą wszyscy dzielimy.
 
@@ -76,7 +76,14 @@ Solarpunk jest jednocześnie wizją przyszłości, wnikliwą prowokacją, stylem
     
 17.  Solarpunk proponuje społeczną ewolucję prowadzącą nie tylko do tolerancji, ale jeszcze szerszej akceptacji i empatii.
     
-18.  Estetyka Solarpunka jest otwarta i wciąż ewoluuje. Na chwilę obecną jego największymi inspiracjami są: \* Swoboda XIX-wiecznego wieku żagli i życia na rubieżach – ale z rowerami! \* Kreatywne wykorzystanie już istniejącej infrastruktury, czasami z dość dziwnym, czasami niby-postapokaliptycznym efektem \* Technologia dopasowana do ludzi \* Art Nouveau \* Hayao Miyazaki \* Innowacyjność w stylu Jugaad i wynalazczość z Globalnego Południa \* Zaawansowane technologie z prostymi, eleganckimi interfejsami
+18.  Estetyka Solarpunka jest otwarta i wciąż ewoluuje. Na chwilę obecną jego największymi inspiracjami są:
+    - Swoboda XIX-wiecznego wieku żagli i życia na rubieżach – ale z rowerami!
+    - Kreatywne wykorzystanie już istniejącej infrastruktury, czasami z dość dziwnym, czasami niby-postapokaliptycznym efektem
+    - Technologia dopasowana do ludzi
+    - Art Nouveau
+    - Hayao Miyazaki
+    - Innowacyjność w stylu Jugaad i wynalazczość z Globalnego Południa
+    - Zaawansowane technologie z prostymi, eleganckimi interfejsami
     
 19.  Solarpunk chce odżywalnych miast budowanych i rewitalizowanych według zasad Nowej Urbanistyki, w zgodzie z naturą, z pieszymi stawianymi na pierwszym miejscu
     
