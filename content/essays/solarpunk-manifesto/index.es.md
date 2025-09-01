@@ -10,8 +10,6 @@ Este manifiesto se publicó originalmente en re-des.org, que desapareció de Int
 
 ---
 
-# Solarpunk
-
 Durante los últimos diez años, o más, muchas personas han escrito sobre solarpunk. Sobre todo después de 2014.
 
 No obstante el género no está claramente definido todavía.

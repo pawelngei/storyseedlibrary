@@ -10,8 +10,6 @@ Ce manifeste a été initialement publié sur re-des.org, qui a disparu d'Intern
 
 ---
 
-# Solarpunk
-
 _Traduit par Matthieu C._
 
 Beaucoup ont écrit à propos du Solarpunk durant les dernières décennies et en particulier depuis 2014, pourtant le genre n’est pas encore clairement défini.

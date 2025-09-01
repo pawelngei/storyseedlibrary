@@ -10,9 +10,6 @@ This manifesto was originally posted on re-des.org, which vanished from the Inte
 
 ---
 
-# Solarpunk
-
-
 Many people have written about Solarpunk during the last 10+ years. Mostly after 2014.
 
 The genre is not yet clearly defined.

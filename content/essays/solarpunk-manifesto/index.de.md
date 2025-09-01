@@ -10,8 +10,6 @@ Dieses Manifest wurde ursprünglich auf re-des.org veröffentlicht, das im Somme
 
 ---
 
-# Solarpunk
-
 _Übersetzt von Martin Schweizer_ _und Martin Ponweiser_
 
 Viele Leute haben in den letzten 10+ Jahren über Solarpunk geschrieben. Meistens nach 2014.

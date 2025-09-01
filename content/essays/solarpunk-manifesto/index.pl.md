@@ -10,8 +10,6 @@ Manifest ten był pierwotnie opublikowany na stronie re-des.org, która zniknę�
 
 ---
 
-# Solarpunk
-
 _Przetłumaczone przez [Pawła Ngei](https://alxd.org/manifest-solarpunka-pl.html), Martynę Łysiakiewicz_
 
 ## Wstęp od tłumaczy

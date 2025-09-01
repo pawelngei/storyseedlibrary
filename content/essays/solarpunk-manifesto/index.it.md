@@ -10,8 +10,6 @@ Questo manifesto è stato originariamente pubblicato su re-des.org, sito web sco
 
 ---
 
-# Solarpunk
-
 _Tradotto da Alessandro Ardovini e Andrea Ardovini_
 
 Nell’ultima decina d’anni, molte persone hanno scritto sul solarpunk. Soprattutto dopo il 2014.
