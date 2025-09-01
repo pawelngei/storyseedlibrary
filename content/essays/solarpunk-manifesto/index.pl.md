@@ -20,7 +20,7 @@ Solarpunk jest gatunkiem usiłującym zredefiniować nasze opowieści, wyjść p
 
 Po dłuższym zastanowieniu proponujemy więc nowe tłumaczenie:**trwalny**.
 
-**Aktualizacja 08.11.20**: Po kilku miesiącach dalszych dyskusji zdaliśmy sobie sprawę, że określenie _trwalny_ jest nieco zbyt statyczne dla dynamicznej równowagi ekologicznej. Znacznie lepsza może być**odżywalność**, za chorwackim terminem[održivost](https://sh.wiktionary.org/wiki/odr%C5%BEivost)i rosyjskim[ustoychivost’](https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C).
+**Aktualizacja 08.11.20**: Po kilku miesiącach dalszych dyskusji zdaliśmy sobie sprawę, że określenie _trwalny_ jest nieco zbyt statyczne dla dynamicznej równowagi ekologicznej. Znacznie lepsza może być **odżywalność**, za chorwackim terminem [održivost](https://sh.wiktionary.org/wiki/odr%C5%BEivost) i rosyjskim [ustoychivost’](https://en.wiktionary.org/wiki/%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C).
 
 # Solarpunk
 
