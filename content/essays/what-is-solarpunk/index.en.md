@@ -14,6 +14,6 @@ If you haven't heard about this movement and genre before, [Andrewism](https://w
 
 You could also check out:
 
-- [A Solarpunk Manifesto](https://www.re-des.org/a-solarpunk-manifesto/)
+- [A Solarpunk Manifesto](/essays/solarpunk-manifesto/)
 - [Notes toward a manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)
 - [Lenses and Foundations](https://lenses.alxd.org), an essay by yours truly, the curator of SSL

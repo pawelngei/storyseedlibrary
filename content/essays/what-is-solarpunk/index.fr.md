@@ -14,6 +14,6 @@ Si tu n'as pas encore entendu parler de ce mouvement et genre par le passé, [An
 
 Tu peux aussi aller jeter un oeil (ou deux):
 
-- [Un Manifeste Solarpunk](https://www.re-des.org/es/un-manifest-solarpunk-francais/)
+- [Un Manifeste Solarpunk](/fr/essays/solarpunk-manifesto/)
 - [Notes vers un manifeste](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)
 - [Loupes et Fondations](https://lenses.alxd.org), un essai rédigé par ton serviteur, le conservateur de la BGH
