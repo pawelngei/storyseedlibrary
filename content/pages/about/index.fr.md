@@ -30,3 +30,4 @@ Crédits de traduction :
 - Polonais - [Paweł 'alxd' Ngei](/fr/authors/alxd), modifié par [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
 - Italien - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
 - Français - [Jacky OWL](/fr/authors/jackyowl)
+- Ukrainienne - [the lemonaut](/fr/authors/thelemonaut), arg4ntum
