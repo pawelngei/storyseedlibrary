@@ -55,7 +55,7 @@ weight = 1
 [[main]]
 parent = "Acerca de"
 name = "Solarpunk"
-url = "/essays/what-is-solarpunk"
+url = "/es/essays/what-is-solarpunk"
 weight = 2
 
 [[main]]
@@ -78,7 +78,7 @@ weight = 10
 
 [[main]]
 pre = "rss"
-url = "/index.xml"
+url = "/es/index.xml"
 identifier = "someRSShere"
 weight = 60
 
