@@ -6,7 +6,7 @@ description: ""
 showAuthorBottom: true
 ---
 
-Este manifiesto se publicó originalmente en re-des.org, que desapareció de Internet en el verano de 2025.
+Este manifiesto se publicó originalmente en re-des.org, que desapareció de Internet en agosto de 2025.
 
 ---
 

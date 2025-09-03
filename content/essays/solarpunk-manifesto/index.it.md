@@ -6,7 +6,7 @@ description: ""
 showAuthorBottom: true
 ---
 
-Questo manifesto è stato originariamente pubblicato su re-des.org, sito web scomparso da Internet nell'estate del 2025.
+Questo manifesto è stato originariamente pubblicato su re-des.org, sito web scomparso da Internet nell'agosto 2025.
 
 ---
 

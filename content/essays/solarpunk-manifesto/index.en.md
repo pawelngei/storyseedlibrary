@@ -6,7 +6,7 @@ description: ""
 showAuthorBottom: true
 ---
 
-This manifesto was originally posted on re-des.org, which vanished from the Internet in summer 2025.
+This manifesto was originally posted on re-des.org, which vanished from the Internet in August 2025.
 
 ---
 
