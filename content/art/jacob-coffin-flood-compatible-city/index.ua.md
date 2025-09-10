@@ -1,5 +1,5 @@
 ---
-title: "Потопостійке місто"
+title: "Потоповитримне місто"
 date: 2024-09-25
 publishDate: 2025-04-29
 draft: false
@@ -9,71 +9,73 @@ authors:
  - jacobcoffin
 ---
 
-A version <a href="/art/jacob-coffin-flood-compatible-city/no_labels.jpg" target="_blank">without labels</a> is also available.
+Версія <a href="/art/jacob-coffin-flood-compatible-city/no_labels.jpg" target="_blank">без ярликів</a> також доступна.
 
 [Оригінал на Wordpress](https://jacobcoffinwrites.wordpress.com/2024/09/26/flood-compatible-solarpunk-city-photobash/)
 
-This is a little different from my other photobashes in that this one can’t really pass as a postcard. I ended up having so many things to include in the topic of flood-compatible cities that the only way to fit them all was to keep expanding the canvas. I think I have enough for a second picture (and possibly a third), but we’ll get to what’s missing in a moment.
+Цей сюжет дещо відрізняється від інших моїх фотобешів [^1] тим, що його не можна назвати листівкою. У мене з'явилося так багато речей на тему міст, витримких для затоплення, що єдиний спосіб вмістити їх усіх у кадр - це продовжувати розширювати полотно. Гадаю, у мене є достатньо матеріалу для другої картини (і, можливо, третьої), але ми ще повернемося до того, чого не вистачає.
 
-So awhile back, I stumbled on to this discussion on reddit about what solarpunk might look like in a wetland area (and what it’d mean for cities built in wetlands). I very much believe that solarpunk will look radically different based on location, with infrastructure, routines, fashion, etc, being carefully tailored to fit climate, local weather, and the available materials, so this really caught my attention.
+Тож нещодавно я натрапив на дискусію на reddit про те, як соларпанк може виглядати на водно-болотних угіддях (і що це означатиме для міст, побудованих на такій місцевості). Я дуже вірю, що соларпанк буде виглядати радикально по-різному в залежності від місця, з інфраструктурою, рутиною, модою тощо, ретельно пристосованими до клімату, місцевої погоди та доступних матеріалів, тому це дійсно привернуло мою увагу.
 
-That discussion lead to this one, and this one, then this one as well as this conversation back over there plus several good chats on the Fully Automated and Solarpunk Hub discords.
+Ця дискусія призвела до одної, іншої, і також до цієї розмови, плюс кілька інших гарних діалогів про розбіжності на Fully Automated і Solarpunk Hub discord-серверах.
 
-I received a ton of awesome input which I genuinely couldn’t have made this without. Most of the ideas here came from those talks. Even when people disagreed with each others’ suggestions, I tried to include them in the scene if I could make them fit.
+Я отримав безліч чудових порад, без яких не зміг би цього зробити. Більшість ідей тут з'явилися саме під час тих розмов. Навіть коли люди не погоджувалися з пропозиціями один одного, я намагався включити їх у сюжет, якщо міг зробити так, щоб вони були доречними.
 
-The basic idea is for this to be a city that expects to be flooded regularly. One where, if the water rises a few feet seasonally, everything stays basically the same, and if a huge storm rolls in and swamps the whole area, people grumble about it, but can mostly still go about their day (using things like elevated walkways). The lower portions of buildings are used for third place activities that can be packed up and removed when forecasts predict bad weather (like marketplaces) or which use sturdy, permanent structures which can be hosed clean later.
+Основна ідея полягає в тому, щоб це було місто, яке очікує регулярних затоплень. Таке, де, якщо вода сезонно піднімається на кілька футів, все залишається практично незмінним, а якщо насувається величезний шторм і затоплює всю територію, люди просто бурчать на це, та здебільшого можуть продовжувати займатися своїми справами (наприклаж як використовувати надземні пішохідні переходи). Нижні частини будівель використовуються для другорядних видів діяльності, які можна зібрати і перенести, коли прогнози передбачають погану погоду (наприклад, ринки) або для які зроблені з міцнтх стаціонарних конструкцій, які можна потім вимити зі шланга.
 
-There’s an argument to be made that the best answer to building cities in swamps is the simplest: don’t do it. And if you’ve failed that step, then you shouldn’t rebuild when whatever you build inevitably gets flooded.
+Існує аргумент, що є найкращим про будівництво міст на болотах: не робити цього. А якщо ви вже це зробили, то не варто відбудовувати те, що було, коли воно неминуче буде затоплено. 
 
-I think there’s a lot of reasons to push back on that. Most major cities are already built on waterways or on the coasts due to the value of those locations for shipping and industry. Some are already below seal level, others are likely to be in the future as climate change worsens. These places house millions of people, they represent home, historical legacies, and preserving them helps preserve the cultures and communities of the people who live there. Lots of cities are looking for answers to rising water, and I’d love to see what solarpunk versions look like.
+Я думаю, що є багато причин для того, щоб відмовитися від такого будівництва. Більшість великих міст вже побудовані на водних шляхах або на узбережжях через цінність цих місць для судноплавства та промисловості. Деякі з них вже знаходяться нижче рівня моря, інші, ймовірно, опиняться там у майбутньому, оскільки кліматичні зміни погіршуються. У цих місцях живуть мільйони людей, вони є домом, історичною спадщиною, і їхнє збереження допомагає зберегти культуру і спільноти людей, які там живуть. Багато міст шукають відповіді на проблему підняття рівня води, і мені б хотілося побачити, як виглядають соларпанкові версії.
 
-Sponge city tactics came up a lot in our discussions but we struggled to find ones that fit for a city (like New Orleans) which are at least partially located below sea level. If I expand the image to the left, I think I can definitely include a few, but generally, the water needs somewhere to go.
+Тактика "міста-губки" часто згадувалася в наших обговореннях, але ми намагалися знайти такі, що підходять для міст (таких як Новий Орлеан), які хоча б частково розташовані нижче рівня моря. Якщо я розширю зображення ліворуч, то думаю, що зможу включити декілька з них, але загалом, воді потрібно кудись витікати.
 
-That said, I think this scene fits a tight shot of a much larger take on sponge city tactics of slowing water and absorbing it where possible.
+Тим не менш, я вважаю, що цей сюжет підходить для більш великого кадру набагато ширшого зображення про тактику міста-губки, що сповільнює воду і поглинає її там, де це можливо.
 
-Our current society has spent a lot of resources on straightening rivers for shipping and building dams and levees to shunt extra water downstream, to make it the next town’s problem, rather than suffer floods themselves. Farmers don’t want their fields washed out or polluted with debris so they build more levees and so on and so forth.
+Наше сучасне суспільство витратило багато ресурсів на випрямлення річок для судноплавства та будівництво дамб і гребель, щоб відвести зайву воду вниз за течією, зробити її проблемою сусіднього міста, замість того, щоб самим страждати від повеней. Фермери не хочуть, щоб їхні поля були розмиті або забруднені сміттям, тому вони будують більше дамб і так далі воно продовжується.
 
-I think a solarpunk civilization might accept on some level that rivers are going to meander, they’re going to rise seasonally, and they’re going to flood the flood plains they’ve always washed over, and it might build with those expectations in mind. A solarpunk setting might adjust itself to coexist with the weather and floods rather than use huge infrastructure projects to try to keep them away.
+Я думаю, що соларпанкова цивілізація може на певному рівні прийняти, що річки будуть звиватися, сезонно підніматися і затоплювати заплави, і буде будувати з урахуванням цих очікувань. Соларпанк може пристосуватися до співіснування з погодою і повенями, замість того, щоб використовувати величезні інфраструктурні проекти, щоб намагатися утримати їх подалі.
 
-The admittedly thin backstory I’ve got in mind is that this was a city which frequently flooded, and where some of its lowest areas (possibly mostly abandoned already due to uninsured damages and unlivable conditions near the collapse) were ceded to the water but not surrendered altogether. People built some structures higher than the water is likely to reach, and everywhere else, they float on it in boats, float houses, or even large rafts which contain small neighborhoods. They farm locally using floating gardens, hydroponics, Chinampas, and more. This isn’t a pristine wetland that’s been colonized, but a flooded neighborhood which has been partially rewilded.
+Передісторія, яку я маю на увазі, є досить скупою: це було місто, яке часто затоплювало, і деякі з його найнижчих районів (можливо, здебільшого покинуті вже через незастраховані збитки та непридатні для життя умови поблизу обвалу) були віддані воді, але не здані повністю. Люди побудували деякі споруди вище, ніж може досягти вода, а в інших місцях вони плавають на човнах, плавучих будинках або навіть на великих плотах, які вміщують невеликі квартали. Вони займаються сільським господарством, використовуючи плавучі сади, гідропоніку, чинампас тощо. Це не незаймана водно-болотна угіддя, яку колонізували, а затоплена територія, яку частково ревайлдили.
 
-I pulled in a few different living-with-water concepts in for this one:
+Для цієї роботи я використав кілька різних концепцій "життя з водою":
 
- - The lifted buildings are an upscaled version of the lifted houses you can find  all along the US Gulf Coast, intended to survive storm surges and floods during hurricanes.
- - I based the covered upper walkway on the iron lace balconies found on some buildings in the New Orleans French Quarter. It’s not quite the ‘correct’ use of the design, since they don’t traditionally span from building to building, but I thought it’d be a nice reference. The goal here is that if the area really floods, and the ground level is unsafe to traverse, people still have a way to get around. For safety purposes, I figure each building needs a ladder on each road to access the upper level in an emergency. For accessibility, I included frequent, standardized elevators and 15 degree ramps.
- - I used this amphibious bus design because it looked more municipal than the DUKW style duckboats many cities have for recreational purposes. Credit to Cromlyngames for suggesting this idea (and then making this 3d model about it). I suspect the amphibious design would be harder to maintain than a normal bus because of the sealed hull, but perhaps some of the efficiencies and practice that come with a larger, standardized fleet would help.
- - Dutch-style floating houses (these exist all over the world but I referenced dutch ones while making this scene). These are just meant to be towed into place and parked. Unlike the houseboats which are more boat than house and can travel as they want.
- - A Bangkok-style water bus – the idea is that the flooded zone is likely somewhat shallow, with deeper waterways intended for transit between neighborhoods of floating houses, large rafts supporting small neighborhoods, and through rivers and canals in the dryer parts of the city. If I do another scene, I’ll try to include a transfer station where passengers can switch between boat and an elevated train.
- - Waterways with restored eelgrass for manatees. I wanted to show some of the work that’s been done restoring rivers in the US south.
- - Chinampa agricultural system (farming on artificial islands) this is a pretty ancient farming practice from Mexico and Central America, which is still in use in some areas, and I’m still learning about it. I’ve done my best to get the scale and composition of the design correct. Some of the trees might be a bit overlarge, but they wouldn’t be planted very densely.
+ - Підняті будівлі - це збільшена версія піднятих будинків, які можна знайти вздовж узбережжя Мексиканської затоки США, призначених для того, щоб витримати штормові припливи і повені під час ураганів.
+- Я взяв за основу криту верхню доріжку залізних мереживних балконів, які можна знайти на деяких будівлях у Французькому кварталі Нового Орлеана. Це не зовсім "правильне" використання дизайну, оскільки вони традиційно не простягаються від будівлі до будівлі, але я подумав, що це буде гарною відсилкою. Мета полягає в тому, що якщо район дійсно затопить, і рівень землі стане небезпечним для пересування, люди все одно матимуть можливість обійти його. З метою безпеки я вважаю, що кожна будівля повинна мати сходи на кожній дорозі для доступу до верхнього рівня в надзвичайних ситуаціях. Для доступності я передбачив часто розташовані стандартні ліфти та пандуси з кутом нахилу 15 градусів.
+ - Я використав цей дизайн автобуса-амфібії, тому що він виглядає більш муніципальним, ніж човни в стилі DUKW, які є в багатьох містах для рекреаційних цілей. Дякую Cromlyngames за те, що запропонували цю ідею (а потім створили цю 3D-модель). Я підозрюю, що амфібію буде важче обслуговувати, ніж звичайний автобус, через герметичний корпус, але, можливо, деяка ефективність і практика, які приходять з більшим, стандартизованим автопарком, допоможуть.
+ - Плавучі будинки в голландському стилі (вони існують по всьому світу, але я посилаюся на голландські, створюючи цю сцену). Вони призначені лише для того, щоб їх буксирували на місце і ставили на стоянку. На відміну від плавучих будинків, які більше схожі на човни, і можуть подорожувати, як їм заманеться.
+- Водний автобус у стилі Бангкока - ідея в тому, що затоплена зона, ймовірно, дещо мілководна, а більш глибокі водні шляхи призначені для транзиту між районами плавучих будинків, великих плотів, що підтримують невеликі райони, а також через річки і канали в більш сухих частинах міста. Якщо я буду робити іншу сцену, то спробую додати пересадочну станцію, де пасажири можуть пересісти з човна на надземний потяг.
+ - Водні шляхи з відновленою морською травою для ламантинів. В цьому я хотів частково показати роботу, зроблену для відновлення річок на півдні США.
+ - Система землеробства чинампа (землеробство на штучних островах) - це досить давня сільськогосподарська практика з Мексики та Центральної Америки, яка все ще використовується в деяких районах, і я все ще вивчаю її. Я доклав максимум зусиль, щоб отримати правильний масштаб і композицію дизайну. Деякі дерева можуть бути трохи завеликими, але вони не були посаджені дуже щільно.
 
-Other notes/elements included:
+Інші примітки/елементи:
 
- - There’s a Savonius wind turbine attached to one of the dolphins (poles) for the dock. I imagine this probably isn’t supposed to be there, since it could get in the way during a high flood, but perhaps there’s not much enforcement or its the subject of a disagreement.
- - Awnings and porches to shade windows and balconies and buildings. The simple solutions work.
- - The hospital in the background would need to be able to operate during a flood, and to have water access (possibly via canals) so that people with only boats can access it quickly, in addition to road access.
- - The climbing wall probably isn’t ideal, as you’d want open spaces between the pillars if the flood will have a current. This was kind of an art decision – I needed a type of tall, narrow third place to include that would demonstrate its use even with the bus in the way and that seemed like the best option I could think of. Climbing walls are often made with wood frames and plywood – this one would have to be able to survive submersion, so perhaps it’s made from thick sections of recycled plastic or something similar. My other plan was just some trees, to show that it was a park, but that wasn’t as clear.
+ - До одного з дельфінів (стовпів) причалу прикріплено вітрогенератор Савоніуса. Гадаю, його там не повинно бути, оскільки воно може заважати під час повені, але, можливо, за цим не дуже слідкують або ж це предмет суперечок.
+ - Навіси та ґанки для затінення вікон, балконів і будівель. Прості рішення теж працюють.
+ - Лікарня на задньому плані повинна бути здатна працювати під час повені і мати доступ до води (можливо, через канали), щоб люди, які мають лише човни, могли швидко дістатися до неї, на додаток до доступу по дорозі.
+ - Скеледром, мабуть, не ідеальний варіант, оскільки на випадок повені вам знадобляться відкриті проміжки між стовпами, якщо буде течія. Це було свого роду мистецьке рішення - мені потрібне було високе, вузьке третє місце, яке б демонструвало його використання навіть тоді, коли автобус стоїть на шляху, і це здавалося найкращим варіантом, який я міг придумати. Скеледроми часто роблять з дерев'яних рам і фанери - ця стіна повинна була б витримати занурення під воду, тож, можливо, вона зроблена з товстих секцій переробленого пластику або чогось подібного. Іншим моїм планом було просто кілька дерев, щоб показати, що це парк, але це було не так чітко.
 
-Speaking of third places, here’s some other ideas we had for third places you could have under these buildings. Presented in no particular order:
+Кажучи про треті місця, ось ще кілька запропонованих ідей для третіх місць під цими будівлями. Представлені в довільному порядку:
 
- - Tide pools and natural landscape features
- - Parks
- - Dog Parks
- - Meeting rooms
- - Lecture spots (could double as a bring-your-own-movie movie theater)
- - Squash courts
- - Playground (depending on the design)
- - Planetarium?
- - Speaker’s corners
- - Booths for food trucks or downstairs seating for a lifted cafeteria
- - Parkour course
- - Roller rink
- - Laser tag/paintball arena
- - Fresh water reserve tanks (firefighting, heat sinks, municipal cleaning as well as last reserve drinking water post major floods
- - Possibly storage for flood-tolerant stuff like scaffolding
+ - Приливні басейни та природні ландшафтні особливості
+ - Парки
+ - Парки для собак
+ - Конференц-зали
+ - Місця для лекцій (можуть бути використані як кінотеатри для перегляду фільмів)
+ - Сквош-корти (спорт)
+ - Дитячий майданчик (в залежності від дизайну)
+ - Планетарій?
+ - Куточки для спікерів
+ - Будки для фуд-траків або сидіння для підйомного кафетерію внизу
+ - Курс паркуру
+ - Роликовий каток
+ - Лазертаг / пейнтбольний майданчик
+ - Резервуари прісної води (для пожежогасіння, радіаторів, муніципального прибирання, а також для останнього резерву питної води після великих повеней)
+ - Можливе зберігання стійких до повеней матеріалів, таких як будівельні ліси.
+   
+Речі, які я хотів би включити наступного разу:
 
-Things I’d like to include next time:
+ - Плавучі райони в стилі плавучих островів Уроса на озері Тітікака (це займе чимало місця і потребуватиме більше читання)
+ - Пересадочна станція, де пасажири можуть пересісти з човна на фунікулер
+ - Аварійно-рятувальні машини-амфібії
 
- - Floating neighborhoods in the style of the floating islands of the Uros on Lake Titicaca (this would take a fair bit of space and a lot more reading)
- - A transfer station where passengers can switch between boat and an elevated train
- - Amphibious emergency vehicles
+[^1]: Фотобеш - цифровий колаж з фотографій.

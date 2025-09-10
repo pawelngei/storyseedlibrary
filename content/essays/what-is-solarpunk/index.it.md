@@ -14,6 +14,6 @@ Se non avete mai sentito parlare di questo genere e movimento prima, [Andrewism]
 
 Potete anche consultare i seguenti articoli (in inglese):
 
-- [A Solarpunk Manifesto](https://www.re-des.org/a-solarpunk-manifesto/)
+- [A Solarpunk Manifesto](/it/essays/solarpunk-manifesto/)
 - [Notes toward a manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)
 - [Lenses and Foundations](https://lenses.alxd.org), una riflessione dal curatore della Biblioteca dei Semi Narrativi

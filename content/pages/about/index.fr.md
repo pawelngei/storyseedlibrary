@@ -15,7 +15,7 @@ Je pense que pour pouvoir créer une civilisation durable et cesser de détruire
 
 Au cours des dernières années, j'ai vu de nombreux.es écrivain.e.s et universitaires bien intentionné.e.s tenter d'écrire au sujet d'un meilleur avenir climatique, que ce soit sous le nom de Solarpunk ou autre, et lutter pour trouver des illustrations pour leur travail. Cela m'a attristé de les voir se tourner vers les images les plus irréfléchies générées par l'IA, des arbres poussant sur des bâtiments en béton, juste pour représenter _quelque chose_.
 
-J'espère qu'avec cette Bibliothèque, grâce aux [artistes](/fr/authors/) qui ont généreusement fait don de leurs [œuvres](/fr/art/) sous licence libre, nous pourrons aller vers des symboles significatifs, les plantant comme des panneaux signalétiques vers un avenir meilleur.
+J'espère qu'avec cette Bibliothèque, grâce aux [artistes](/fr/authors/) qui ont généreusement fait don de leurs [œuvres](/fr/art/) sous [licence libre](/fr/pages/which-art-can-i-use/), nous pourrons aller vers des symboles significatifs, les plantant comme des panneaux signalétiques vers un avenir meilleur.
 
 Pour tous ceux qui sont à la recherche d'une idée d'histoire, d'un bon conflit ou d'une tension dans un cadre réaliste d'un futur proche, j'espère que ces [graines](/fr/seeds/) stimuleront leur créativité. N'oubliez pas de consulter également le [podcast Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts) de l'incroyable [tomasino](https://tomasino.org/) pour encore plus d'inspiration pour vos écrits !
 
