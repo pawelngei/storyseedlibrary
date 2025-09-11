@@ -16,7 +16,7 @@ Wierzę, że aby stworzyć [odżywalną](https://solarpunk.pl/manifesty/odzywal
 
 Przez ostatnich kilka lat spotkałem wielu pisarzy i akademików próbujących pisać o lepszej przyszłości klimatycznej - czy pod nazwą Solarpunka, czy jakąkolwiek inną - i mających duże problemy ze znalezieniem ilustracji do swoich prac. Ze smutkiem obserwowałem, ilu z nich decyduje się użyć najbardziej bezmyślnych obrazków stworzonych przez AI - jak drzewa wyrastające z betonowych wieżowców - aby tylko przekazać _jakikolwiek_ sens.
 
-Mam nadzieję, że dzięki wspaniałomyślności [artystów](/pl/authors/), którzy objęli swoje [prace](/pl/art) otwartymi licencjami, nasza Biblioteka będzie w stanie dostarczyć nam wszystkim wartościowych symboli, stawiając je niczym drogowskazy ku lepszej przyszłości.
+Mam nadzieję, że dzięki wspaniałomyślności [artystów](/pl/authors/), którzy objęli swoje [prace](/pl/art) [otwartymi licencjami](/pl/pages/which-art-can-i-use/), nasza Biblioteka będzie w stanie dostarczyć nam wszystkim wartościowych symboli, stawiając je niczym drogowskazy ku lepszej przyszłości.
 
 Jeżeli szukasz pomysłu na opowiadanie osadzone w realistycznej  przyszłości klimatycznej, z napięciem i konfliktem dramatycznym, nasze [zalążki](/pl/seeds) mogą pomóc Ci zacząć pisać. Jeżeli chcesz zanurzyć się w nie jeszcze głębiej, wraz z [tomasino](https://tomasino.org/) stworzyliśmy podcast [Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts) eksplorujący każdy z nich w 10-15 minut (w tej chwili tylko po angielsku).
 
@@ -30,4 +30,5 @@ Tłumaczenia autorstwa:
 
 - Polskie - [Paweł 'alxd' Ngei](/pl/authors/alxd), korekta [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
 - Włoskie - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
-- Francuskie - [Jacky OWL](/authors/jackyowl)
+- Francuskie - [Jacky OWL](/pl/authors/jackyowl)
+- Ukraińskie - [the lemonaut](/pl/authors/thelemonaut), arg4ntum

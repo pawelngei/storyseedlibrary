@@ -16,9 +16,9 @@ Credo che per giungere a una civiltà sostenibile e fermare la distruzione plane
 
 Negli ultimi anni ho visto molti scrittori e accademici con ottime intenzioni tentare di scrivere di un futuro climatico migliore (sia intenzionalmente Solarpunk che non) e faticare nel trovare opere per illustrare i propri lavori. È frustrante vederli ricorrere alle vuote immagini generate da IA con alberi che crescono da edifici di cemento, solo per rappresentare _qualcosa_.
 
-Spero che con questa Biblioteca, grazie agli [artisti](/authors/) che hanno generosamente donato la propria [arte](/art/) sotto licenze copyleft, saremo in grado di raggiungere simboli significativi, piantandoli come cartelli segnaletici verso un futuro migliore.
+Spero che con questa Biblioteca, grazie agli [artisti](/it/authors/) che hanno generosamente donato la propria [arte](/it/art/) sotto [licenze copyleft](/it/pages/which-art-can-i-use/), saremo in grado di raggiungere simboli significativi, piantandoli come cartelli segnaletici verso un futuro migliore.
 
-Per chiunque sia bloccato e cerca idee per le proprie storie, un buon conflitto o tensione in un'ambientazione realistica del futuro prossimo, spero che i [semi](/seeds/) riusciranno ad accendere la loro creatività. Non dimenticate di visitare il Podcast [Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts) (in inglese) del fantastico [tomasino](https://tomasino.org/) per altre ispirazioni di scrittura!
+Per chiunque sia bloccato e cerca idee per le proprie storie, un buon conflitto o tensione in un'ambientazione realistica del futuro prossimo, spero che i [semi](/it/seeds/) riusciranno ad accendere la loro creatività. Non dimenticate di visitare il Podcast [Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts) (in inglese) del fantastico [tomasino](https://tomasino.org/) per altre ispirazioni di scrittura!
 
 ---
 
@@ -29,5 +29,6 @@ Il meraviglioso logo della Biblioteca dei Semi Narrativi è stato realizzato dal
 Tradotto da:
 
 - Italiano - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
-- Polacco - [Paweł 'alxd' Ngei](/authors/alxd), edited by [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
-- Francese - [Jacky OWL](/authors/jackyowl)
+- Polacco - [Paweł 'alxd' Ngei](/it/authors/alxd), edited by [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
+- Francese - [Jacky OWL](/it/authors/jackyowl)
+- Ucraino - [the lemonaut](/it/authors/thelemonaut), arg4ntum

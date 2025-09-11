@@ -1,0 +1,94 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Ілюстрації"
+pageRef = "art"
+identifier = "3yRSzr3A8F"
+weight = 10
+
+[[main]]
+name = "Саджанці"
+pageRef = "seeds"
+identifier = "3yRSzr3A8D"
+weight = 20
+
+[[main]]
+name = "Переглянути"
+weight = 30
+
+[[main]]
+parent = "Переглянути"
+name = "Теги"
+pageRef = "tags"
+identifier = "24BZL6Odw6"
+weight = 30
+
+[[main]]
+parent = "Переглянути"
+name = "Авторів"
+pageRef = "authors"
+identifier = "LD7z6Qopgw"
+weight = 40
+
+[[main]]
+name = "Більше про..."
+weight = 50
+
+[[main]]
+parent = "Більше про..."
+name = "...Бібліотеку"
+pageRef = "/pages/about"
+weight = 1
+
+[[main]]
+parent = "Більше про..."
+name = "...Соларпанк"
+url = "/ua/essays/what-is-solarpunk"
+weight = 2
+
+[[main]]
+parent= "Більше про..."
+name = "...Художницький колаб 2025"
+pageRef = "/pages/andrewisms-art-collab-2025"
+identifier = "3yRGzr3A8D"
+weight = 3
+
+[[main]]
+parent = "Більше про..."
+name = "...Подкаст Solarpunk Prompts"
+url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+weight = 4
+
+[[main]]
+parent = "Більше про..."
+name = "...Куратора"
+url = "https://alxd.org/"
+weight = 5
+
+[[main]]
+parent = "Більше про..."
+name = "Як долучитись?"
+pageRef = "/pages/contribute"
+weight = 10
+
+[[main]]
+pre = "rss"
+url = "/index.xml"
+identifier = "someRSShere"
+weight = 60
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Як до вас долучитись?"
+pageRef = "/pages/contribute"
+identifier = "Wz0vblbVYr"
+weight = 1
+
+[[footer]]
+name = "Написати нам"
+url = "storySeedLibrary@alxd.org"
+identifier = "contactUs"
+weight = 2

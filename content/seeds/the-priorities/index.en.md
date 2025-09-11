@@ -15,7 +15,7 @@ authors:
 
 Continuing the architecture and infrastructure again, this time from the perspective of the architects. This can be a pre-solarpunk or solarpunk endeavor, shown as more reactionary in the chaos of everything, or more of a "good practice" after decades of notes and hard decisions already made.
 
-This is NOT a crisis response team. The flood, the headwave, the hurricane are not here yet. You are to make them less threatening, not start evacuating people right now.
+This is NOT a crisis response team. The flood, the heatwave, the hurricane are not here yet. You are to make them less threatening, not start evacuating people right now.
 
 - The "accessibility" means three things: access of an average citizen to the infrastructure (a shelter maybe?), access of poorer / less fortunate residents to protenctions in their district, and of course access of the disabled citizens to things they need, as wheelchair-bound people will really struggle with knee-high floods.
 - Will this mean abandoning districts and forcible relocations, or worse, climate ghettos?
