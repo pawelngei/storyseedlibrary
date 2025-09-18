@@ -6,7 +6,7 @@ description: ""
 showAuthorBottom: true
 ---
 
-Dieses Manifest wurde ursprünglich auf re-des.org veröffentlicht, das im Sommer 2025 aus dem Internet verschwunden ist.
+Dieses Manifest wurde ursprünglich auf re-des.org veröffentlicht, das im August 2025 aus dem Internet verschwunden ist.
 
 ---
 
