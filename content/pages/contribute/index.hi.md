@@ -23,8 +23,8 @@ authors:
 यदि आप अपनी कलाकृति कला पुस्तकालय में प्रस्तुत करना चाहते हैं, तो कृपया इन विवरणों के साथ  {{< cloakemail display="मुझसे संपर्क करें" address="storyseedlibrary@alxd.org" >}}:
 
 - आपकी कलाकृति का शीर्षक
-- The description of your work
 - आपकी कलाकृति का विवरण
+- इस छवि का उच्च रिज़ॉल्यूशन अनुवाद 
 - चयनित विशिष्ट लाइसेंस ([लाइसेंस चयनकर्ता](https://creativecommons.org/choose/) और [अवलोकन](https://creativecommons.org/share-your-work/cclicenses/))
 - अपने स्वयं के पृष्ठ/गैलरी के  लिंक करें जहाँ आप अपने कलाकृति के लाइसेंस की पुष्टि करते हैं
 
