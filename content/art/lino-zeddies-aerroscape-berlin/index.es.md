@@ -1,5 +1,5 @@
 ---
-title: "Friedrichstraße, Berlin - Utopia 2048"
+title: "Friedrichstraße, Berlín - Utopía 2048"
 date: 2023-05-06
 publishDate: 2025-04-29
 draft: false
