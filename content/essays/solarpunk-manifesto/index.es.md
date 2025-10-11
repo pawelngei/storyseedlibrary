@@ -1,5 +1,5 @@
 ---
-title: "Manifest Solarpunka"
+title: "Manifiesto Solarpunk"
 date: 2020-03-08
 draft: false
 description: ""
