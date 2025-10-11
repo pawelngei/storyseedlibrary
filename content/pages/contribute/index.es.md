@@ -1,5 +1,5 @@
 ---
-title: "Cómo Colaborar?" 
+title: "¿Cómo contribuir?" 
 date: 2025-04-27
 draft: false
 description: ""
