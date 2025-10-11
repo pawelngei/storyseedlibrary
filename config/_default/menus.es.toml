@@ -1,0 +1,98 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Arte"
+pageRef = "art"
+identifier = "3yRSzr3A8F"
+weight = 10
+
+[[main]]
+name = "Semillas"
+pageRef = "seeds"
+identifier = "3yRSzr3A8D"
+weight = 20
+
+[[main]]
+name = "Más"
+weight = 30
+
+[[main]]
+parent = "Más"
+name = "Etiquetas"
+pageRef = "tags"
+identifier = "24BZL6Odw6"
+weight = 30
+
+[[main]]
+parent = "Más"
+name = "Autores"
+pageRef = "authors"
+identifier = "LD7z6Qopgw"
+weight = 40
+
+[[main]]
+name = "Eventos"
+weight = 45
+
+[[main]]
+parent= "Eventos"
+name = "Colaboración artística 2025"
+pageRef = "/pages/andrewisms-art-collab-2025"
+identifier = "3yRGzr3A8D"
+weight = 10
+
+[[main]]
+name = "Acerca de"
+weight = 50
+
+[[main]]
+parent = "Acerca de"
+name = "La Biblioteca"
+pageRef = "/pages/about"
+weight = 1
+
+[[main]]
+parent = "Acerca de"
+name = "Solarpunk"
+url = "/es/essays/what-is-solarpunk"
+weight = 2
+
+[[main]]
+parent = "Acerca de"
+name = "Podcast Solarpunk Prompts"
+url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+weight = 3
+
+[[main]]
+parent = "Acerca de"
+name = "El Bibliotecario"
+url = "https://alxd.org/"
+weight = 4
+
+[[main]]
+parent = "Acerca de"
+name = "¿Cómo contribuir?"
+pageRef = "/pages/contribute"
+weight = 10
+
+[[main]]
+pre = "rss"
+url = "/es/index.xml"
+identifier = "someRSShere"
+weight = 60
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "¿Cómo contribuir?"
+pageRef = "/pages/contribute"
+identifier = "Wz0vblbVYr"
+weight = 1
+
+[[footer]]
+name = "Contacto"
+url = "storySeedLibrary@alxd.org"
+identifier = "contactUs"
+weight = 2

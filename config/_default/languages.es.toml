@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "es"
+languageName = "Español"
+weight = 1
+title = "Biblioteca de semillas de historias"
+
+[params]
+displayName = "ES"
+isoCode = "es"
+rtl = false
+dateFormat = "2 January 2006"
+description = "Una biblioteca de arte Solarpunk y semillas de historias, visiones de un futuro climático optimista."
+logo = "img/sitelogo.png"
