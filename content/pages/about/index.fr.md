@@ -31,3 +31,4 @@ Crédits de traduction :
 - Italien - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
 - Français - [Jacky OWL](/fr/authors/jackyowl)
 - Ukrainienne - [the lemonaut](/fr/authors/thelemonaut), arg4ntum
+- Espagnol - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)
