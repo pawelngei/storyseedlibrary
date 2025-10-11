@@ -15,7 +15,7 @@ One of my heroes Charlie Munger said that "If you don't destroy one of your most
 
 Well, I've learned a lot by listening to Andrew Sage on his YouTube channel: https://www.youtube.com/@Andrewism
 
-(FYI We collaborated on a previous piece about [How to Build a Solarpunk City](/art/sean-bodley-solarpunk-city/).)
+(FYI We collaborated on a previous piece about [How to Build a Solarpunk City](/es/art/sean-bodley-solarpunk-city/).)
 
 First off, I had a blast creating this vibrant picture with Andrew. I hope you enjoy the close up details and I'll share the process down below :)
 

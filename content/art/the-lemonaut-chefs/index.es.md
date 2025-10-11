@@ -13,4 +13,4 @@ An illustration to one of the Solarpunk Prompts episodes, [The Chefs](https://po
 
 > A group of cooks, dietitians, and teachers are tasked with both creating and promoting well-rounded and tasty vegetarian cuisine in a world living through the culture shock of no affordable meat.
 
-Based on the [story seed](/seeds/the-chefs).
+Based on the [story seed](/es/seeds/the-chefs).

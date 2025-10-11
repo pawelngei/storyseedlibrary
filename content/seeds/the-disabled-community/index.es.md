@@ -13,6 +13,6 @@ authors:
 
 - Episodio del podcast: [Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-disabled-community).
 - [Transcripción](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Disabled-Community) (en inglés).
-- [Ilustración](/art/the-lemonaut-hackerspace/).
+- [Ilustración](/es/art/the-lemonaut-hackerspace/).
 
 
