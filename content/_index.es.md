@@ -9,7 +9,7 @@ Bienvenides a una biblioteca de [arte](/es/art) Solarpunk y [semillas de histori
 
 Si nunca has oído hablar del movimiento Solarpunk, ¡echa un ojo a esta breve [introducción](/es/essays/what-is-solarpunk)!
 
-<!-- Si estás buscando recursos para tu proyecto, consulta la sección [qué ilustraciones puedo usar](/es/pages/which-art-can-i-use/). -->
+Si estás buscando recursos para tu proyecto, consulta la sección [qué ilustraciones puedo usar](/es/pages/which-art-can-i-use/).
 
 ![El centro comunitario por The Lemonaut](cover.jpg "[El centro comunitario](/es/art/the-lemonaut-community-center/) CC BY-SA 4.0 [The Lemonaut](/es/authors/thelemonaut)")
 
