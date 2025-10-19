@@ -31,16 +31,16 @@ pageRef = "authors"
 identifier = "LD7z6Qopgw"
 weight = 40
 
-# [[main]]
-# name = "Eventos"
-# weight = 45
+[[main]]
+name = "Eventos"
+weight = 45
 
-# [[main]]
-# parent= "Eventos"
-# name = "Colaboración artística 2025"
-# pageRef = "/pages/andrewisms-art-collab-2025"
-# identifier = "3yRGzr3A8D"
-# weight = 10
+[[main]]
+parent= "Eventos"
+name = "Colaboración artística 2025"
+pageRef = "/pages/andrewisms-art-collab-2025"
+identifier = "3yRGzr3A8D"
+weight = 10
 
 [[main]]
 name = "Acerca de"
