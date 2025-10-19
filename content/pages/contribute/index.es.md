@@ -28,7 +28,7 @@ Si estás interesade en enviar tu arte a la Biblioteca, por favor ponte en {{< c
 - Título de tu obra.
 - Descripción de tu obra.
 - Una versión en alta definición de la imagen.
-- Una licencia Creative Commons. Consulta esta [sección](es/pages/which-art-can-I-use) para más información. 
+- Una licencia Creative Commons. Consulta esta [sección](/es/pages/which-art-can-I-use) para más información. 
 - Enlace a tu página web o galería donde confirmes la licencia de tu obra.
 
 Si es tu primera contribución, por favor aporta también:

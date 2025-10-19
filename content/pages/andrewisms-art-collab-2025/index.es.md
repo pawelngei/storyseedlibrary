@@ -11,7 +11,7 @@ authors:
 
 ## Este evento ha finalizado
 
-Visita la etiqueta [Colaboración Artística 2025](es/tags/2025-collab/)
+Visita la etiqueta [Colaboración Artística 2025](/es/tags/2025-collab/)
 
 Visit the [2025 Art Collab Tag](/tags/2025-collab/) to browse the selection of works submitted to our Library!
 
