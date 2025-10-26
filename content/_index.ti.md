@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Story Seed Library!"
-description: "A library of Solarpunk art and story seeds helping you imagine a better climate future!"
+title: "እንቋዕ ናብ ቤተ መጻሕፍቲ ዘርኢ ዛንታ ብደሓን መጻእኩም!"
+description: "ዝሓሸ መጻኢ ክሊማ ክትሓስብ ዝሕግዘካ ቤተ-መጻሕፍቲ ሶላርፓንክ ስነ-ጥበብን ዘርኢ ዛንታን!"
 images:
  - featured.ti.jpg
 ---
