@@ -1,5 +1,5 @@
 ---
-title: "Communal Rock Painting"
+title: "ኮማዊ ስእሊ ከውሒ"
 date: 2025-06-29
 publishDate: 2025-07-13
 draft: false
