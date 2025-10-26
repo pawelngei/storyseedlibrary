@@ -12,7 +12,7 @@ layoutBackgroundHeaderSpace: false
 cardView: true
 cardViewScreenWidth: true
 images:
-- ../featured.ti.jpg
+- ../ti/featured.ti.jpg
 ---
 
 ስልጣነና ምስ ስነ-ህይወት ተሰማሚዑ ዝነብር ዝሓሸ መጻኢ ክሊማ ዝምልከት ራእያት ትደልዩ ዶ ኣለኹም? 
