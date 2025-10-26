@@ -33,3 +33,4 @@ Traducido por:
 - Francés - [Jacky OWL](/es/authors/jackyowl)
 - Ucraniano - [the lemonaut](/es/authors/thelemonaut), arg4ntum
 - Español - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [Colectivo La BUHO](https://labuho.org/)
+- Tigriña - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/nadaitgebremedhen)

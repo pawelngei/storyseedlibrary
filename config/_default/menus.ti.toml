@@ -1,0 +1,98 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "ጥበብ"
+pageRef = "art"
+identifier = "3yRSzr3A8F"
+weight = 10
+
+# [[main]]
+# name = "ዘርኢ"
+# pageRef = "seeds"
+# identifier = "3yRSzr3A8D"
+# weight = 20
+
+# [[main]]
+# name = "ተወሳኺ"
+# weight = 30
+
+# [[main]]
+# parent = "ተወሳኺ"
+# name = "Tags"
+# pageRef = "tags"
+# identifier = "24BZL6Odw6"
+# weight = 30
+
+# [[main]]
+# parent = "ተወሳኺ"
+# name = "Authors"
+# pageRef = "authors"
+# identifier = "LD7z6Qopgw"
+# weight = 40
+
+# [[main]]
+# name = "ፍጻመታት"
+# weight = 45
+
+# [[main]]
+# parent= "ፍጻመታት"
+# name = "Art Collab 2025"
+# pageRef = "/pages/andrewisms-art-collab-2025"
+# identifier = "3yRGzr3A8D"
+# weight = 10
+
+# [[main]]
+# name = "ብዝዕባ"
+# weight = 50
+
+# [[main]]
+# parent = "ብዝዕባ"
+# name = "The Library"
+# pageRef = "/pages/about"
+# weight = 1
+
+# [[main]]
+# parent = "ብዝዕባ"
+# name = "Solarpunk"
+# url = "/essays/what-is-solarpunk"
+# weight = 2
+
+# [[main]]
+# parent = "ብዝዕባ"
+# name = "Solarpunk Prompts Podcast"
+# url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+# weight = 3
+
+# [[main]]
+# parent = "ብዝዕባ"
+# name = "The Curator"
+# url = "https://alxd.org/"
+# weight = 4
+
+# [[main]]
+# parent = "ብዝዕባ"
+# name = "How to Contribute?"
+# pageRef = "/pages/contribute"
+# weight = 10
+
+[[main]]
+pre = "rss"
+url = "/index.xml"
+identifier = "someRSShere"
+weight = 60
+
+[[footer]]
+none = "none"
+
+# [[footer]]
+# name = "How to Contribute?"
+# pageRef = "/pages/contribute"
+# identifier = "Wz0vblbVYr"
+# weight = 1
+
+[[footer]]
+name = "Contact Us"
+url = "storySeedLibrary@alxd.org"
+identifier = "contactUs"
+weight = 2
