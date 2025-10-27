@@ -11,6 +11,6 @@ images:
 
 ንፕሮጀክትኩም ስነ-ጥበብ ትደልዩ እንተኾይንኩም፡ [ኣየናይ ስነ-ጥበብ ክጥቀም](/pages/which-art-can-i-use/) ከም ዝኽእል ዝብል ክፍሊና ርኣዩ!
 
-![ማእከል ማሕበረሰብ](cover.jpg "[ማእከል ማሕበረሰብ](/ti/art/the-lemonaut-community-center/) CC BY-SA 4.0 [እቲ ሊሞናውት](/authors/thelemonaut)")
+![ማእከል ማሕበረሰብ](cover.jpg "[ማእከል ማሕበረሰብ](/ti/art/the-lemonaut-community-center/) CC BY-SA 4.0 [እቲ ሊሞናውት](/ti/authors/thelemonaut)")
 
 ኩሎም ኣብዚ ገጽ ዘለዉ ንዋት ብመሰረት ፍቓድ [ክሪኤቲቭ ኮመንስ](https://creativecommons.org/share-your-work/cclicenses/) ክትጥቀሙሉ ነጻ እዮም - ካልእ ምልክት እንተዘይተገይሩሉ። ተዘናግዑ!
