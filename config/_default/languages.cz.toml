@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "cz"
+languageName = "Czech"
+weight = 1
+title = "Knihovna Semínek Příběhů"
+
+[params]
+displayName = "CZ"
+isoCode = "cz"
+rtl = false
+dateFormat = "2 Ledna 2006"
+description = "Knihovna solarpunkového umění a semínek příběhů pomáhající představám lepší klimatické budoucnosti."
+logo = "img/sitelogo.png"
