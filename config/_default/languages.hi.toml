@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "hi"
+languageName = "Hindi"
+weight = 1
+title = "कहानी बीज पुस्तकालय"
+
+[params]
+displayName = "HI"
+isoCode = "hi"
+rtl = false
+dateFormat = "2 January 2006"
+description = "सोलारपंक कला और कहानी के बीजों का पुस्तकालय, आशावादी जलवायु भविष्य के दर्शन।"
+logo = "img/sitelogo.png"
