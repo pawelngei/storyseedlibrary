@@ -72,7 +72,7 @@ weight = 10
 
 # [[main]]
 # parent = "ብዝዕባ"
-# name = "How to Contribute?"
+# name = "ብኸመይ ኣበርክቶ ንገብር?"
 # pageRef = "/pages/contribute"
 # weight = 10
 
@@ -85,11 +85,11 @@ weight = 60
 [[footer]]
 none = "none"
 
-# [[footer]]
-# name = "How to Contribute?"
-# pageRef = "/pages/contribute"
-# identifier = "Wz0vblbVYr"
-# weight = 1
+[[footer]]
+name = "ብኸመይ ኣበርክቶ ንገብር?"
+pageRef = "/pages/contribute"
+identifier = "Wz0vblbVYr"
+weight = 1
 
 [[footer]]
 name = "ንቤተ መጻሕፍቲ ዘርኢ ዛንታ የዛርቡ"
