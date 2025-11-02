@@ -9,7 +9,7 @@ images:
 
 ቅድሚ ሕጂ ብዛዕባ ሶላርፓንክ ዘይሰማዕኩም እንተኾይንኩም፡ ሓጺር [መእተዊና](/ti/essays/what-is-solarpunk) ርኣዩ!
 
-ንፕሮጀክትኩም ስነ-ጥበብ ትደልዩ እንተኾይንኩም፡ [ኣየናይ ስነ-ጥበብ ክጥቀም](/pages/which-art-can-i-use/) ከም ዝኽእል ዝብል ክፍሊና ርኣዩ!
+ንፕሮጀክትኩም ስነ-ጥበብ ትደልዩ እንተኾይንኩም፡ [ኣየናይ ስነ-ጥበብ ክጥቀም](/ti/pages/which-art-can-i-use/) ከም ዝኽእል ዝብል ክፍሊና ርኣዩ!
 
 ![ማእከል ማሕበረሰብ](cover.jpg "[ማእከል ማሕበረሰብ](/ti/art/the-lemonaut-community-center/) CC BY-SA 4.0 [እቲ ሊሞናውት](/ti/authors/thelemonaut)")
 
