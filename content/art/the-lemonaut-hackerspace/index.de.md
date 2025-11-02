@@ -19,7 +19,7 @@ Die beiden Cover für die Episoden nebeneinander gestellt verbinden sich zu der
 breiteren Version oben.
 
 > Eine Gemeinschaft von Menschen mit Behinderungen teilen ihre besten Tipps
-> um mit der harten Welt zurechzukommen, die nicht für sie gemacht ist.
+> um mit einer harten Welt zurechtzukommen, die nicht für sie gemacht ist.
 > Viel von dem, was sie verbindet, bleibt unausgesprochen, denn jeder kennt den
 > Schmerz und die Herausforderungen des Alltags.
 
