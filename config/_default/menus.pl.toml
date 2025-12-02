@@ -48,27 +48,33 @@ weight = 50
 
 [[main]]
 parent = "Więcej o..."
-name = "...Bibliotece"
+name = "Bibliotece"
 pageRef = "/pages/about"
 weight = 1
 
 [[main]]
 parent = "Więcej o..."
-name = "...Solarpunku"
+name = "Solarpunku"
 url = "/pl/essays/what-is-solarpunk"
 weight = 2
 
 [[main]]
 parent = "Więcej o..."
-name = "...podkaście Solarpunk Prompts"
-url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+name = "Manifeście"
+url = "/pl/essays/solarpunk-manifesto"
 weight = 3
 
 [[main]]
 parent = "Więcej o..."
-name = "...kuratorze"
-url = "https://alxd.org/"
+name = "podkaście Solarpunk Prompts"
+url = "https://podcast.tomasino.org/@SolarpunkPrompts"
 weight = 4
+
+[[main]]
+parent = "Więcej o..."
+name = "kuratorze"
+url = "https://alxd.org/"
+weight = 5
 
 [[main]]
 parent = "Więcej o..."

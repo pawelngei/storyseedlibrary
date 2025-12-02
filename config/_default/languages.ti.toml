@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "ti"
+languageName = "ትግርኛ"
+weight = 1
+title = "ቤተ መጻሕፍቲ ዘርኢ ዛንታ"
+
+[params]
+displayName = "TI"
+isoCode = "ti"
+rtl = false
+dateFormat = "2 January 2006"
+description = "ዝሓሸ መጻኢ ክሊማ ክትሓስብ ዝሕግዘካ ቤተ-መጻሕፍቲ ሶላርፓንክ ስነ-ጥበብን ዘርኢ ዛንታን!"
+logo = "img/sitelogo.png"

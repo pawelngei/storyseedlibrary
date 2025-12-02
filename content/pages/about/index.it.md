@@ -33,3 +33,4 @@ Tradotto da:
 - Francese - [Jacky OWL](/it/authors/jackyowl)
 - Ucraino - [the lemonaut](/it/authors/thelemonaut), arg4ntum
 - Spagnolo - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)
+- Tigrina - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/nadaitgebremedhen)

@@ -13,7 +13,7 @@ layoutBackgroundHeaderSpace: false
 cardView: true
 cardViewScreenWidth: true
 images:
-- ../featured.fr.jpg
+- ../fr/featured.fr.jpg
 ---
 
 À la recherche de visions d'un futur climatique meilleur, où notre civilisation vit en harmonie avec les écosystèmes ? Fatigué.e de toutes ces images générées par intelligence artificelle de grattes-ciels avec des arbres sur les toits ?

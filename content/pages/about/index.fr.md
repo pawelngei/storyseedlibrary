@@ -32,3 +32,4 @@ Crédits de traduction :
 - Français - [Jacky OWL](/fr/authors/jackyowl)
 - Ukrainienne - [the lemonaut](/fr/authors/thelemonaut), arg4ntum
 - Espagnol - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)
+- Tigrigna - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/nadaitgebremedhen)

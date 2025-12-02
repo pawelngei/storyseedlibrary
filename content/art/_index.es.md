@@ -13,7 +13,7 @@ layoutBackgroundHeaderSpace: false
 cardView: true
 cardViewScreenWidth: true
 images:
-- ../featured.es.jpg
+- ../es/featured.es.jpg
 ---
 
 ¿Estás buscando ideas de un futuro climático mejor, donde nuestra civilización vive en armonía con los ecosistemas? ¿Cansade de infinitas imágenes generadas por IA de rascacielos con árboles en el tejado?

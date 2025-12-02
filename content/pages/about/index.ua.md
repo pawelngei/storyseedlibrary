@@ -34,3 +34,4 @@ authors:
 - французька - [Jacky OWL](/ua/authors/jackyowl)
 - українська - [the lemonaut](/ua/authors/thelemonaut), arg4ntum
 - іспанська - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)
+- Тигринья - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/nadaitgebremedhen)

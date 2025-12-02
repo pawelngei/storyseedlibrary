@@ -1,6 +1,6 @@
 ---
 title: "Un Manifest Solarpunk"
-date: 2025-09-01
+date: 2019-10-12
 draft: false
 description: ""
 showAuthorBottom: true
