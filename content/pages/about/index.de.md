@@ -64,4 +64,6 @@ großartigen [Natalia Vish](https://mas.to/@karafuto)!
 - Italienisch -- [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
 - Französisch -- [Jacky OWL](/authors/jackyowl)
 - Ukrainisch -- [the lemonaut](/authors/thelemonaut), arg4ntum
+- Spanisch - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)
+- Tigrinisch - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/nadaitgebremedhen)
 - Deutsch -- [Tanners](https://toot.community/@TannersAndRodents)
