@@ -1,6 +1,6 @@
 ---
-title: "Manifest Solarpunka"
-date: 2020-03-08
+title: "Manifiesto Solarpunk"
+date: 2019-10-12
 draft: false
 description: ""
 showAuthorBottom: true

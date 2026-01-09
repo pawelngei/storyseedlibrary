@@ -32,3 +32,5 @@ Tłumaczenia autorstwa:
 - Włoskie - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
 - Francuskie - [Jacky OWL](/pl/authors/jackyowl)
 - Ukraińskie - [the lemonaut](/pl/authors/thelemonaut), arg4ntum
+- Hiszpański - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)
+- Tigrinia - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/nadaitgebremedhen)

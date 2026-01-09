@@ -13,7 +13,7 @@ layoutBackgroundHeaderSpace: false
 cardView: true
 cardViewScreenWidth: true
 images:
-- ../featured.it.jpg
+- ../it/featured.it.jpg
 ---
 
 Cerchi visioni di un futuro climatico migliore, in cui la nostra società vive in armonia con l'ambiente? Stancå delle ondate di immagini generate da IA con grattacieli e alberi?

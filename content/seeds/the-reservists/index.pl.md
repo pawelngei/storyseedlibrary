@@ -9,7 +9,7 @@ authors:
   - "alxd"
 ---
 
-> Gdy katastrofa naturalna paraliżuje kilka społeczności, grupa przyjaciół zostaje wezwana do służby jako służby ratunkowe. Życie każdego z nich potoczyło się inaczej od czasu Służby, ale postawieni w obliczu prawdziwego zagrożenia przypominają sobie szkolenia - walkę z powodziami, epidemiami, pracę psychologów traumy czy techników radiowych - i ponownie czują się jak jeden oddział. Czy gdy spotkają nowe pokolenie, świeżo po roku obowiązkowej służby, będą w stanie wejść w rolę doświadczonych mentorów?
+> Gdy katastrofa naturalna paraliżuje kilka społeczności, grupa przyjaciół zostaje postawiona w stan gotowości jako służby ratunkowe. Życie każdego z nich potoczyło się inaczej od czasu Powołania, ale postawieni w obliczu prawdziwego zagrożenia przypominają sobie szkolenia - walkę z powodziami, epidemiami, pracę psychologów traumy czy techników radiowych - i ponownie czują się jak jeden oddział. Czy gdy spotkają nowe pokolenie, świeżo po roku obowiązkowej służby, będą w stanie wejść w rolę doświadczonych mentorów?
 
 ## Notatki po angielsku
 

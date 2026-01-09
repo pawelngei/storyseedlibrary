@@ -13,7 +13,7 @@ layoutBackgroundHeaderSpace: false
 cardView: true
 cardViewScreenWidth: true
 images:
-- ../featured.pl.jpg
+- ../pl/featured.pl.jpg
 ---
 
 Szukacie wizji lepszej przyszłości klimatycznej, w których nasza cywilizacja nauczyła się koegzystować z ekosystemami wokół nas? Jesteście zmęczeni nawałem wygenerowanych przez AI obrazków wieżowców z drzewami na dachu?

@@ -13,7 +13,7 @@ layoutBackgroundHeaderSpace: false
 cardView: true
 cardViewScreenWidth: true
 images:
-- ../featured.jpg
+- ../ua/featured.jpg
 ---
 
 Шукаєте бачення кращого кліматичного майбутнього, де наша цивілізація живе в гармонії з екосистемами? Втомилися від нескінченних зображень, сповнених обліплених деревами хмарочосів, згенерованих штучним інтелектом?

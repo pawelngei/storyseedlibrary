@@ -32,3 +32,5 @@ Tradotto da:
 - Polacco - [Paweł 'alxd' Ngei](/it/authors/alxd), edited by [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
 - Francese - [Jacky OWL](/it/authors/jackyowl)
 - Ucraino - [the lemonaut](/it/authors/thelemonaut), arg4ntum
+- Spagnolo - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)
+- Tigrina - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/nadaitgebremedhen)
