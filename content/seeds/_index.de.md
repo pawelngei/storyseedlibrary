@@ -2,6 +2,7 @@
 title: "Saatgut für Geschichten"
 draft: false
 description: "A gallery of free-to-use Solarpunk art under open licenses"
+description: "Eine Gallerie gratis nutzbarer Solarpunk-Kunst unter freien Lizenzen"
 slug: "seeds"
 images:
 - ../featured.jpg

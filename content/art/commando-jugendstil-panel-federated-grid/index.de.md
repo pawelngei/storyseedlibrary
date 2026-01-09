@@ -18,10 +18,10 @@ Was ist ein föderiertes Netz?
 Was passiert in der Solarpunk-Stadt wenn das elektrische Netz von Schlechtwetterereignis oder einer Naturkatastrophe betroffen wird?
 Kurzgesagt: nicht viel.
 
-Die Gesellschaft der Solarpunk-Stadt hat ihre Lektion aus den Fehlern der _Spätphase_ gelernt (wochenlange Blackouts, machmal Monate) und ihre Herangehensweise zur Energieversorgung geändert.
+Die Gesellschaft der Solarpunk-Stadt hat ihre Lektion aus den Fehlern des _kapitalistischen Spätstadiums_ gelernt (wochenlange Blackouts, manchmal Monate) und ihre Herangehensweise zur Energieversorgung geändert.
 Für die Kommunikation gibt es kein nationales Netz mehr, sondern ein föderiertes Netz.
 Nach Vorbild der Natur ist das Netz fraktal. Jede Nachbarschaft, jedes Dorf oder Siedlung hat ihr eigenes Netz, in dem jeder gleichzeitig produziert und konsumiert, und diese Netzwerke sind regional vernetzt.
-Diese Vernetzungen sind wiederum überregional verbunden udn so weiter.
+Diese Vernetzungen sind wiederum überregional verbunden und so weiter.
 Und das Beste ist, dass Nachbarnetzwerke einander aushelfen können, sollte etwas passieren.
 
 Ein schlimmer Hagel hat die Photovoltaikanlage beschädigt? Ein Wintersturm hat einen Windpark niedergemäht?
