@@ -1,6 +1,8 @@
 ---
 title: "Wilkommen in der Saatgutbibliothek der Geschichten!"
 description: "Eine Bibliothek voller Solarpunk Kunst and erzählerischem Saatgut, damit du dir eine bessere Klimazukunft vorstellen kannst!"
+images:
+ - featured.de.jpg
 ---
 
 Willkommen in einer Bibliothek voller Solarpunk [Kunst](/de/art) und [erzählerischem Saatgut](/de/seeds) -- damit du dir eine bessere Klimazukunft vorstellen kannst, in der die Menschheit lernt nachhaltig auf der Erde zu leben.

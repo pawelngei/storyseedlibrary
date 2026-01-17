@@ -13,7 +13,7 @@ layoutBackgroundHeaderSpace: false
 cardView: true
 cardViewScreenWidth: true
 images:
-- ../featured.jpg
+- ../featured.de.jpg
 ---
 
 Suchst du nach Visionen einer besseren Klimazukunft, in der unsere Zivilisationen in Harmony mit der Umwelt lebt? Bist du der unzähligen KI-generierten Bilder von begrünten Wolkenkratzern müde?
