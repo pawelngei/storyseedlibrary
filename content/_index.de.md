@@ -9,6 +9,6 @@ Wenn du noch nie von Solarpunk gehört hast, schau dir unsere kurze [Einführung
 
 Wenn du auf der Suche nach Bilder für dein Projekt bist, schau dir an [welche Kunst du verwenden kannst](/de/which-art-can-i-use)!
 
-![The Community Center by the Lemonaut](cover.jpg "[Das Gemeinschaftszentrum](/it/art/the-lemonaut-community-center/) CC BY-SA 4.0 [The Lemonaut](/it/authors/thelemonaut)")
+![The Community Center by the Lemonaut](cover.jpg "[Das Gemeinschaftszentrum](/de/art/the-lemonaut-community-center/) CC BY-SA 4.0 [The Lemonaut](/de/authors/thelemonaut)")
 
 Alle Materialien auf dieser Seite sind frei verfügbar unter ihrer entsprechenden [Creative Commons](https://de.creativecommons.net/was-ist-cc/) Lizenz -- sofern nicht anders gekennzeichnet. Viel Spaß beim Stöbern!
