@@ -34,7 +34,7 @@ in der Bibliothek aus!
 ## Nicht-kommerzielle Projekte
 
 If your project is non-commercial, you can freely use [CC BY
-4.0](/tags/cc-by-4.0/) and [CC BY-NC 4.0](/tags/cc-by-nc-4.0/) as well!
+4.0](/de/tags/cc-by-4.0/) and [CC BY-NC 4.0](/de/tags/cc-by-nc-4.0/) as well!
 
 Wenn dein Projekt von nicht-kommerzieller Natur ist, kannst du neben [CC BY
 4.0](/de/tags/cc-by-4.0/) zusätzlich [CC BY-NC 4.0](/de/tags/cc-by-nc-4.0/) verwenden!

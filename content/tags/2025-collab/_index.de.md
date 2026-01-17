@@ -16,6 +16,6 @@ Kunst Collab entstanden sind, eine Kollaboration, die von der Saatgutbibliothek 
 > -- es gibt keine Preise oder Gewinner:innen, abgesehen davon, dass wir von
 > einander lernen, und die Vision einer besseren Welt, die wir gemeinsam erschaffen!
 
-Mehr zu dieser Initiative kann auf der [Eventseite](/pages/andrewisms-art-collab-2025/) gefunden werden. Alle Werke
+Mehr zu dieser Initiative kann auf der [Eventseite](/de/pages/andrewisms-art-collab-2025/) gefunden werden. Alle Werke
 sind auf dem [Tumblr von Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)
 zu finden.

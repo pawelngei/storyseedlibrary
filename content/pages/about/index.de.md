@@ -60,10 +60,10 @@ großartigen [Natalia Vish](https://mas.to/@karafuto)!
 
 Übersetzung:
 
-- Polnisch -- [Paweł 'alxd' Ngei](/authors/alxd), bearbeitet von [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
+- Polnisch -- [Paweł 'alxd' Ngei](/de/authors/alxd), bearbeitet von [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
 - Italienisch -- [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
-- Französisch -- [Jacky OWL](/authors/jackyowl)
-- Ukrainisch -- [the lemonaut](/authors/thelemonaut), arg4ntum
+- Französisch -- [Jacky OWL](/de/authors/jackyowl)
+- Ukrainisch -- [the lemonaut](/de/authors/thelemonaut), arg4ntum
 - Spanisch - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)
 - Tigrinisch - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/nadaitgebremedhen)
 - Deutsch -- [Tanners](https://toot.community/@TannersAndRodents)
