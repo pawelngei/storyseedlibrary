@@ -9,7 +9,7 @@ Willkommen in einer Bibliothek voller Solarpunk [Kunst](/de/art) und [erzähleri
 
 Wenn du noch nie von Solarpunk gehört hast, schau dir unsere kurze [Einführung](/de/essays/what-is-solarpunk) an!
 
-Wenn du auf der Suche nach Bilder für dein Projekt bist, schau dir an [welche Kunst du verwenden kannst](/de/which-art-can-i-use)!
+Wenn du auf der Suche nach Bilder für dein Projekt bist, schau dir an [welche Kunst du verwenden kannst](/de/pages/which-art-can-i-use)!
 
 ![The Community Center by the Lemonaut](cover.jpg "[Das Gemeinschaftszentrum](/de/art/the-lemonaut-community-center/) CC BY-SA 4.0 [The Lemonaut](/de/authors/thelemonaut)")
 
