@@ -34,3 +34,4 @@ Translations credit:
 - Ukrainian - [the lemonaut](/authors/thelemonaut), arg4ntum
 - Spanish - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)
 - Tigrinya - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/nadaitgebremedhen)
+- German - [Tanners](https://toot.community/@TannersAndRodents)
