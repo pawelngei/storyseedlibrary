@@ -8,3 +8,4 @@ I'm an Italian illustrator and comic artist who loves bringing to life worlds th
 - [Instagram](https://www.instagram.com/danieleturturici/)
 - [ArtStation](https://www.artstation.com/danieleturturici)
 - [Reddit](https://www.reddit.com/user/danieleturturici/)
+- [Patreon](https://www.patreon.com/danieleturturici)
