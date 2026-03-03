@@ -1,0 +1,20 @@
+---
+title: "The School of Athens 2050"
+date: 2019-06-01
+publishDate: 2025-12-11
+draft: false
+description: ""
+tags: ["illustration", "CC BY-NC-SA 4.0", "vertical", "people", "symbolism", "cooperation"]
+authors:
+ - commandojugendstil
+---
+
+The School of Athens 2050 is a vision of a possible future. It was realized for the spanish academic magazine of political ecology [Ecología Política](https://www.ecologiapolitica.info/), specifically for issue n°57 - [Las Artes Y La Ecología Política](https://issuu.com/entmediambient/docs/57_2019pkyxm), which focuses on the relationship between art and political ecology.
+
+In this case we imagined a new environment that is not rooted in any specific location in the world, instead, since it collects people involved with political ecology and art with different backgrounds from different corners of the globe, it’s a place that can exist anywhere and that can offer a sanctuary to each one of them.
+
+The structure that covers the characters is a solar gazebo made of coloured solar concentrators, a technology where panels are made of a semi-transparent material that channel photons towards the mini silicon solar panels that are installed on the sides of the concentrators. Usually the coloured version of these panels are a by-product and are discarded, but in this case we wanted to create a space that could spark ideas and boost moods, so we decided to make it as colorful as we could. The structure that sustains the panels would be made of recycled wooden beams, and the buildings in the distance represent a new approach to architecture, more connected with nature, hence the lotus and branches structures. In the distance you can also see a floating wind turbine, suggesting the adoption of a diffuse way of producing energy.
+
+The people are divided in several groups dedicated to different activities, all sharing the same purpose of merging art, nature and tech. So in the lower left corner we have the workshop of orange silk production, a new type of textile fibre obtained by the manufacturing of the cellulose contained in the orange peel. In this group of people you can see a lady using a portable loom and [William Morris](https://en.wikipedia.org/wiki/William_Morris), one of the founders of the Arts and Crafts and of the Socialist movements in the UK. He was also a writer, a publisher and an artist and in this composition he is bringing to the workshop the oranges from his farm.
+
+On the lower right corner there is the group working on 3D printing from recycled plastic. Next to them, a rubbish collector droid brings some source material to the group. Right above them there’s the group of activists, which also takes all the rest of the higher level of the stage. Among them you can see, from right to left: a reference to activist [Berta Cáceres](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres) and the pink boat that took her name in the Extinction Rebellion protests in London, roman senator [Lucio Sergio Catilina](https://en.wikipedia.org/wiki/Catiline), that was demonized by the roman establishment and proposed agrarian reform and debt jubilee, the founder of the movement of student strikes for climate [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg), a member of the [Standing Rock Sioux tribe](https://en.wikipedia.org/wiki/Standing_Rock_Sioux_Reservation), battling to protect their land from oil exploitation, and a member of the [Waorani Resistance](https://en.wikipedia.org/wiki/Waorani_people) in Ecuador, fighting to keep their land free from oil drilling. The last three characters are inspired by famous painting [The Fourth Estate](https://en.wikipedia.org/wiki/The_Fourth_Estate_(painting)), by Pellizza da Volpedo, while the whole composition is a tribute to masterpiece [The School of Athens](https://en.wikipedia.org/wiki/The_School_of_Athens) by [Raffaello](https://en.wikipedia.org/wiki/Raphael).
