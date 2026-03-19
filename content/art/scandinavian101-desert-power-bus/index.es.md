@@ -1,5 +1,5 @@
 ---
-title: "Energía en el desierto - Autobus"
+title: "Energía en el desierto - Autobús"
 date: 2025-03-16
 publishDate: 2025-04-29
 draft: false
