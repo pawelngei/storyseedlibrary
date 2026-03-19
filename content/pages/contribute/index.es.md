@@ -23,7 +23,7 @@ Queremos compartir arte que:
 
 No aceptamos arte hecho con IA o parcialmente generado con uso de IA (ni siquiera si solo es un fondo o textura).
 
-Si estás interesade en enviar tu arte a la Biblioteca, por favor ponte en {{< cloakemail display="contacto" address="storyseedlibrary@alxd.org" >}}, e incluye:
+Si estás interesade en enviar tu arte a la Biblioteca, por favor ponte en {{< cloakemail display="contacto" address="storyseedlibrary@alxd.org" >}} e incluye:
 
 - Título de tu obra.
 - Descripción de tu obra.
@@ -42,4 +42,4 @@ Puedes [proteger](https://nightshade.cs.uchicago.edu/whatis.html) tu obra con "v
 
 ## Para Desarrolladores
 
-Si te interesa contribuir a esta página web, puedes solicitar una pull request contra el repositorio en [Codeberg](https://codeberg.org/alxd/storyseedlibrary) o [Github](https://github.com/pawelngei/storyseedlibrary)! Otra alternativa es contactarme en [Mastodon](https://writing.exchange/@alxd) o por {{< cloakemail display="email" address="storyseedlibrary@alxd.org" >}}.
+Si te interesa contribuir a esta página web, puedes solicitar una pull request contra el repositorio en [Codeberg](https://codeberg.org/alxd/storyseedlibrary) o [Github](https://github.com/pawelngei/storyseedlibrary)! Otra alternativa es contactarme en [Mastodon](https://writing.exchange/@alxd) o por {{< cloakemail display="email" address="storyseedlibrary@alxd.org" >}}
