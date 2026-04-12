@@ -31,6 +31,10 @@ Join the Art Collab Discord
 
 [alxd's slides](https://slides.com/pawelngei/art-collab-2025)
 
+## Results
+
+- [2025: Life of Learning](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning) and on [YouTube](https://www.youtube.com/watch?v=sIgsf2Absi0)
+
 ## Previous Collabs
 
 - [2024: New Dreams of Labor](https://andrew-ism.tumblr.com/post/770135694637236224/solarpunk-art-2024-new-dreams-of-labour) (and on [YouTube](https://www.youtube.com/watch?v=mRKt2ORY9bs))
