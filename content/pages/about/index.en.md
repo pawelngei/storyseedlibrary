@@ -31,7 +31,7 @@ Translations credit:
 - Polish - [Paweł 'alxd' Ngei](/authors/alxd), edited by [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025
 - Italian - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]
 - French - [Jacky OWL](/authors/jackyowl)
-- Ukrainian - [the lemonaut](/authors/thelemonaut), arg4ntum
+- Ukrainian - [the lemonaut](/authors/thelemonaut), [arg4ntum](/pages/arg4ntum-weve-all-had-this-dream)
 - Spanish - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)
 - Tigrinya - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/nadaitgebremedhen)
 - German - [Tanners](https://toot.community/@TannersAndRodents)
