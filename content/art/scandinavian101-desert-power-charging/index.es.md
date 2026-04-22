@@ -1,5 +1,5 @@
 ---
-title: "Energía en el desierto: Recarga"
+title: "Energía en el desierto - Recarga"
 date: 2025-03-16
 publishDate: 2025-04-29
 draft: false
