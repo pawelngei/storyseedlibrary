@@ -21,7 +21,7 @@ Wir wollen Kunst austellen, die:
 Wir nehmen keine KI-Kunst oder Kunst, die mithilfe von KI erstellt wurde, an. (Auch wenn es nur eine Textur ist.)
 
 Wenn du deine Arbeit einreichen möchtest, bitte 
-{{< cloakemail display="kontaktiere mich" address="storyseedlibrary@alxd.org" >}} mit:
+{{< cloakemail display="kontaktiere mich" address="curator@storySeedLibrary.org" >}} mit:
 
 - dem Titel der Arbeit,
 - der Beschreibung deines Werks,
@@ -48,5 +48,5 @@ dann werden wir irgendwann verlieren.
 Wenn du zu dieser Website beitragen möchtest, kannst du einen Pull-Request
 im Repository auf [Codeberg](https://codeberg.org/alxd/storyseedlibrary) oder [Github](https://github.com/pawelngei/storyseedlibrary) machen!
 Alternativ kannst du mich auf [Mastodon](https://writing.exchange/@alxd) oder per {{< cloakemail
-display="E-Mail" address="storyseedlibrary@alxd.org" >}} erreichen.
+display="E-Mail" address="curator@storySeedLibrary.org" >}} erreichen.
 

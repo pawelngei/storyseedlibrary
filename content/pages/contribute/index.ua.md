@@ -20,7 +20,7 @@ authors:
 
 Ми не приймаємо роботи, згенеровані ШІ або такі, що містять згенерований ШІ контент (навіть якщо це просто текстура).
 
-Якщо ви хотіли б надіслати ваші роботи до Бібліотеки, будь ласка {{< cloakemail display="надішліть мені листа" address="storyseedlibrary@alxd.org" >}} з:
+Якщо ви хотіли б надіслати ваші роботи до Бібліотеки, будь ласка {{< cloakemail display="надішліть мені листа" address="curator@storySeedLibrary.org" >}} з:
 
 - Назвою вашої роботи
 - Описом вашої роботи
@@ -38,6 +38,6 @@ authors:
 
 ## Якщо ви розробник
 
-Якщо ви зацікавлені у співпраці з Бібліотекою, ви можете надіслати запит на додавання до репозиторію на [Codeberg](https://codeberg.org/alxd/storyseedlibrary) чи [Github](https://github.com/pawelngei/storyseedlibrary)! Як варіант, ви також можете зв'язатися зі мною через [Mastodon](https://writing.exchange/@alxd) або написати мені {{< cloakemail display="на електронну пошту" address="storyseedlibrary@alxd.org" >}}!
+Якщо ви зацікавлені у співпраці з Бібліотекою, ви можете надіслати запит на додавання до репозиторію на [Codeberg](https://codeberg.org/alxd/storyseedlibrary) чи [Github](https://github.com/pawelngei/storyseedlibrary)! Як варіант, ви також можете зв'язатися зі мною через [Mastodon](https://writing.exchange/@alxd) або написати мені {{< cloakemail display="на електронну пошту" address="curator@storySeedLibrary.org" >}}!
 
 

@@ -20,7 +20,7 @@ Naszym celem jest prezentowanie ilustracji które:
 
 Nie akceptujemy ilustracji wykonanych przez AI ani z pomocą AI (nawet jeżeli to tylko tekstura).
 
-Jeżeli chcesz podzielić się swoją pracą z Biblioteką, {{< cloakemail display="skontaktuj się z nami" address="storyseedlibrary@alxd.org" >}} przysyłając:
+Jeżeli chcesz podzielić się swoją pracą z Biblioteką, {{< cloakemail display="skontaktuj się z nami" address="curator@storySeedLibrary.org" >}} przysyłając:
 
 - Tytuł swojej pracy
 - Opis swojej pracy
@@ -40,4 +40,4 @@ Jeżeli chcesz, możesz [zatruć](https://nightshade.cs.uchicago.edu/whatis.html
 
 Jeżeli interesuje Cię pomóc w rozbudowie tej strony, możesz zrobić Pull Request do repozytorium na [Codebergu](https://codeberg.org/alxd/storyseedlibrary) lub [Githubie](https://github.com/pawelngei/storyseedlibrary)! W obu miejscach znajduje się dokumentacja opisująca szczegóły procesu.
 
-Możesz też skontaktować się ze mną na [Mastodonie](https://writing.exchange/@alxd) lub {{< cloakemail display="mailowo" address="storyseedlibrary@alxd.org" >}}!
+Możesz też skontaktować się ze mną na [Mastodonie](https://writing.exchange/@alxd) lub {{< cloakemail display="mailowo" address="curator@storySeedLibrary.org" >}}!

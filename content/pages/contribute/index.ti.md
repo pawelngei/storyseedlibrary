@@ -20,7 +20,7 @@ authors:
 
 ስነ-ጥበብ AI ወይ ብኣጠቓቕማ AI ዝተፈጥረ ስነ-ጥበብ (ዋላ’ውን ቅርጺ ጥራይ ይኹን) ኣይንቕበልን ኢና።
 
-ስነ-ጥበብኩም ናብ ቤተ-መጻሕፍቲ ከተቕርቡ ምስ እትደልዩ፡ እዚ ዝስዕብ {{< cloakemail display="ስደዱለይ" address="storyseedlibrary@alxd.org" >}}፤
+ስነ-ጥበብኩም ናብ ቤተ-መጻሕፍቲ ከተቕርቡ ምስ እትደልዩ፡ እዚ ዝስዕብ {{< cloakemail display="ስደዱለይ" address="curator@storySeedLibrary.org" >}}፤
 
 - ኣርእስቲ ስራሕካ
 - መግለጺ ስራሕካ
@@ -38,4 +38,4 @@ authors:
 
 ## ንደቨሎፐራት
 
-ኣብ’ዚ መርበብ ሓበሬታ’ዚ ኣበርክቶ ክትገብሩ ምስ እትደልዩ፡ ናብቲ ኣብ [ኮድበርግ](https://codeberg.org/alxd/storyseedlibrary) ወይ [ጊትሃብ](https://github.com/pawelngei/storyseedlibrary) ዝርከብ መኽዘን ፑል ሪኲስት ከተቕርቡ ትኽእሉ ኢኹም! ከም ኣማራጺ ድማ [ብማስቶዶን](https://writing.exchange/@alxd) ወይ {{< cloakemail display="ብኢመይል" address="storyseedlibrary@alxd.org" >}} ክትረኽቡኒ ትኽእሉ ኢኹም!
+ኣብ’ዚ መርበብ ሓበሬታ’ዚ ኣበርክቶ ክትገብሩ ምስ እትደልዩ፡ ናብቲ ኣብ [ኮድበርግ](https://codeberg.org/alxd/storyseedlibrary) ወይ [ጊትሃብ](https://github.com/pawelngei/storyseedlibrary) ዝርከብ መኽዘን ፑል ሪኲስት ከተቕርቡ ትኽእሉ ኢኹም! ከም ኣማራጺ ድማ [ብማስቶዶን](https://writing.exchange/@alxd) ወይ {{< cloakemail display="ብኢመይል" address="curator@storySeedLibrary.org" >}} ክትረኽቡኒ ትኽእሉ ኢኹም!
