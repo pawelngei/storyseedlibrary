@@ -37,10 +37,17 @@ weight = 45
 
 [[main]]
 parent= "Events"
+name = "Art Collab 2026"
+pageRef = "/pages/andrewisms-art-collab-2026"
+identifier = "3yRGzr3E3W"
+weight = 10
+
+[[main]]
+parent= "Events"
 name = "Art Collab 2025"
 pageRef = "/pages/andrewisms-art-collab-2025"
 identifier = "3yRGzr3A8D"
-weight = 10
+weight = 20
 
 [[main]]
 name = "About"
