@@ -21,14 +21,11 @@ The goal of the project is to welcome everyone to collaborate together, share id
 Join the Art Collab Discord
 {{< /button >}}
 
-<!-- ## Livestream
+## Livestream
 
-TO CHANGE
+{{< youtube id="tgA5AvoHcOc" label="Discussing Solapunk Disaster Response w/ alxd" >}}
 
-{{< youtube id="v724dRvTk-k" label=" Discussing Solarpunk Art 2025 w/ alxd " >}}
-
-[alxd's slides](https://slides.com/pawelngei/art-collab-2025) -->
-
+[Slides by alxd](https://slides.com/pawelngei/solarpunk-art-collab-2026-disasters/)
 
 ## Submission Guidelines
 
@@ -98,6 +95,7 @@ Finally, for the Disaster Relief, how can we step away from our colonial habits 
 - [Mutual Aid: Building Solidarity in This Crisis](https://www.goodreads.com/book/show/54654726-mutual-aid) by [Dean Spade](https://en.wikipedia.org/wiki/Dean_Spade)
 - [Palaces for the People](https://www.goodreads.com/book/show/37707827-palaces-for-the-people): How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life by [Eric Klinenberg](https://en.wikipedia.org/wiki/Eric_Klinenberg)
 - [Disaster Anarchism (An Argument Against Insurrection)](https://anarchoccultism.org/building-zion/disaster-anarchism-an-argument-against-insurrection) - an essay outlining that _"A sufficiently advanced disaster preparedness and response program is indistinguishable from a revolutionary counter-power"_.
+- [Technology as crystallized community](https://alxd.org/technology-as-crystallized-community.html) by alxd - an essay on how to talk about communities' agency over the tools they use.
 
 ### Fiction
 
@@ -113,9 +111,8 @@ Finally, for the Disaster Relief, how can we step away from our colonial habits 
 - [The Priorities](/seeds/the-priorities/)
 - [The Great Infrastructural Project](/seeds/the-great-infrastructural-project/)
 
-### Links
+### Andrevism videos
 
-  - [Art Collab 2026 Slides](https://slides.com/pawelngei/solarpunk-art-collab-2026-disasters/)
   - [What is Solarpunk](https://youtu.be/u03hoO3QueM)
   - [How to build a Solarpunk City](https://youtu.be/4UmU1dSe3n0)
   - [How Anarchy Works](https://www.youtube.com/watch?v=lrTzjaXskUU)
