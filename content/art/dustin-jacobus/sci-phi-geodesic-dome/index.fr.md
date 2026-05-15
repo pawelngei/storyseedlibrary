@@ -1,0 +1,15 @@
+---
+title: "Journal Sci Phi : Dôme géodésique"
+date: 2025-04-29
+publishDate: 2025-06-07
+draft: false
+description: ""
+tags: ["illustration", "CC BY 4.0", "vertical", "city", "transport", "airship", "people"]
+authors:
+ - dustinjacobus
+aliases:
+  - /fr/art/dustin-jacobus-sci-phi-geodesic-dome/
+---
+
+
+

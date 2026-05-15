@@ -1,0 +1,14 @@
+---
+title: "Sci Phi Journal: Ekowioska"
+date: 2025-04-29
+publishDate: 2025-06-07
+draft: false
+description: ""
+tags: ["illustration", "CC BY 4.0", "vertical", "people", "farming", "robots"]
+authors:
+ - dustinjacobus
+aliases:
+  - /pl/art/dustin-jacobus-sci-phi-ecovillage/
+---
+
+
