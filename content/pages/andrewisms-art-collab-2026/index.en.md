@@ -23,7 +23,7 @@ Join the Art Collab Discord
 
 ## Livestream
 
-{{< youtube id="tgA5AvoHcOc" label="Discussing Solapunk Disaster Response w/ alxd" >}}
+{{< youtube id="tgA5AvoHcOc" label="Discussing Solarpunk Disaster Response w/ alxd" >}}
 
 [Slides by alxd](https://slides.com/pawelngei/solarpunk-art-collab-2026-disasters/)
 

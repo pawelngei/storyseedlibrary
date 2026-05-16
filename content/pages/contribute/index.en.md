@@ -14,7 +14,7 @@ Thank you for your interest in contributing to the Library!
 
 We want to feature art which:
 
-- Shows a visions of a better world acknowledging Climate Change
+- Shows a vision of a better world acknowledging Climate Change
 - Is set in a near-future with no "magical" technologies, whether powered by nanorobots or dragon blood
 - Features humans, communities and civilization living in balance with the ecosystems - not just the wilderness and ruins.
 
