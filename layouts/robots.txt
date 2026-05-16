@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Content-Signal: search=yes,ai-train=no,ai-input=no
 Sitemap: {{ "sitemap.xml" | absURL }}
 
 User-agent: AI2Bot
