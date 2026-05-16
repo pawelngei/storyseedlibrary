@@ -11,3 +11,4 @@ rtl = false
 dateFormat = "2. January 2006"
 description = "Eine Bibliothek für Solarpunk Kunst, Story-Ideen und Visionen einer optimistischen Klimazukunft."
 logo = "img/sitelogo.png"
+images = ["/de/featured.de.jpg"]
