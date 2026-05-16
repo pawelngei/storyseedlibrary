@@ -8,5 +8,5 @@ tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "symbolism", "wind 
 authors:
   - "thelemonaut"
 aliases:
-  - /es/art/the-lemonaut-community-center/
+  - /es/art/the-lemonaut/community-center/
 ---

@@ -17,7 +17,7 @@ L'un de mes héros, Charlie Munger, a dit que "si tu ne détruis pas chaque ann�
 
 Eh bien, j'ai beaucoup appris en écoutant Andrew Sage sur sa chaîne YouTube : https://www.youtube.com/@Andrewism
 
-(FYI Nous avons collaboré sur un article précédent sur [Comment construire une ville solarpunk](/fr/art/sean-bodley-solarpunk-city/)
+(FYI Nous avons collaboré sur un article précédent sur [Comment construire une ville solarpunk](/fr/art/sean-bodley/solarpunk-city/)
 
 Tout d'abord, j'ai eu beaucoup de plaisir à créer cette image vibrante avec Andrew. J'espère que tu apprécieras les détails en gros plan et je partagerai le processus ci-dessous :)
 

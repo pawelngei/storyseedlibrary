@@ -82,4 +82,4 @@ Join the Art Collab Discord
 
 ---
 
-Background art [CC BY-SA 4.0 Sean Bodley](/art/sean-bodley-library-of-everything/)
+Background art [CC BY-SA 4.0 Sean Bodley](/art/sean-bodley/library-of-everything/)

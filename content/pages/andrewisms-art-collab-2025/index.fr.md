@@ -77,4 +77,4 @@ Rejoignez le Discord de la Collaboration Artistique
 
 ---
 
-Illustration d'arrière-plan [CC BY-SA 4.0 Sean Bodley](/fr/art/sean-bodley-library-of-everything/)
+Illustration d'arrière-plan [CC BY-SA 4.0 Sean Bodley](/fr/art/sean-bodley/library-of-everything/)

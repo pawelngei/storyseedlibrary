@@ -11,4 +11,4 @@ aliases:
   - /ua/art/jacob-coffin-civil-defense-poster/
 ---
 
-Якщо ви хочете роздрукувати цю роботу або потребуєте доступу до альфа каналу, є також <a href="/art/jacob-coffin-civil-defense-poster/full_resolution_print.png" target="_blank">PNG версія</a>.
+Якщо ви хочете роздрукувати цю роботу або потребуєте доступу до альфа каналу, є також <a href="/art/jacob-coffin/civil-defense-poster/full_resolution_print.png" target="_blank">PNG версія</a>.

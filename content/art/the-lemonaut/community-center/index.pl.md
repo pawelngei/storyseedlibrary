@@ -8,7 +8,7 @@ tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "symbolism", "wind 
 authors:
   - "thelemonaut"
 aliases:
-  - /pl/art/the-lemonaut-community-center/
+  - /pl/art/the-lemonaut/community-center/
 ---
 
 Ilustracja do odcinka podcastu Solarpunk Prompts, [The Community Center](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-community-center) [[transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Community-Center)]:

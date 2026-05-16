@@ -17,7 +17,7 @@ Charlie Munger, einer meiner Helden sagte einmal „Wenn du nicht jedes Jahr ein
 
 Nun, ich habe viel gelernt, während ich Andrew Sage auf seinem YouTube-Kanal zugehört habe: https://www.youtube.com/@Andrewism
 
-(Zur Info: wir haben schon mal zusammengearbeitet bei der Frage [Wie baut man eine Solarpunk-Stadt](/de/art/sean-bodley-solarpunk-city/).)
+(Zur Info: wir haben schon mal zusammengearbeitet bei der Frage [Wie baut man eine Solarpunk-Stadt](/de/art/sean-bodley/solarpunk-city/).)
 
 Zu Anfang sei gesagt, dass ich viel Spaß dabei hatte, dieses lebendige Bild mit Andrew zu gestalten.
 Ich hoffe, dir gefallen die kleinen Details und ich teile meinen Schaffensprozess unten mit euch :)

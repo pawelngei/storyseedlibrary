@@ -8,7 +8,7 @@ tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "symbolism", "wind 
 authors:
   - "thelemonaut"
 aliases:
-  - /de/art/the-lemonaut-community-center/
+  - /de/art/the-lemonaut/community-center/
 ---
 
 Eine Illustration zu einer der Solarpunk Prompts Episoden,

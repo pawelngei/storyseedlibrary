@@ -13,4 +13,4 @@ authors:
 
 - [Épisode du podcast Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-community-center)
 - [Transcription](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Community-Center)
-- [Illustration](/fr/art/the-lemonaut-community-center/)
+- [Illustration](/fr/art/the-lemonaut/community-center/)

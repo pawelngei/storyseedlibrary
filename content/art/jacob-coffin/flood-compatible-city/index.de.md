@@ -11,7 +11,7 @@ aliases:
   - /de/art/jacob-coffin-flood-compatible-city/
 ---
 
-Eine Version <a href="/art/jacob-coffin-flood-compatible-city/no_labels.jpg" target="_blank">ohne Beschriftung</a> ist auch verfügbar.
+Eine Version <a href="/art/jacob-coffin/flood-compatible-city/no_labels.jpg" target="_blank">ohne Beschriftung</a> ist auch verfügbar.
 
 [Original auf Wordpress](https://jacobcoffinwrites.wordpress.com/2024/09/26/flood-compatible-solarpunk-city-photobash/)
 
