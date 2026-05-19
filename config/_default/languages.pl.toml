@@ -11,3 +11,4 @@ rtl = false
 dateFormat = "2 January 2006"
 description = "Biblioteka solarpunkowych ilustracji i zalążków opowieści, wizji optymistycznej przyszłości klimatycznej."
 logo = "img/sitelogo.png"
+images = ["/pl/featured.pl.jpg"]

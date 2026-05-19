@@ -11,3 +11,4 @@ rtl = false
 dateFormat = "2 January 2006"
 description = "Бібліотека соларпанкового мистецтва та саджанців сторій з оптимістичним баченням кліматичного майбутьного."
 logo = "img/sitelogo.png"
+images = ["/ua/featured.ua.jpg"]

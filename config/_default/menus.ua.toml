@@ -89,6 +89,6 @@ weight = 1
 
 [[footer]]
 name = "Написати нам"
-url = "storySeedLibrary@alxd.org"
+url = "curator@storySeedLibrary.org"
 identifier = "contactUs"
 weight = 2

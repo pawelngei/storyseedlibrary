@@ -9,6 +9,6 @@ description: "Бібліотека з соларпанковими ілюстр�
 
 Якщо ви шукаєте ілюстрації для вашого проєкту, продивіться розділ [Які зображення я можу використовувати?](/ua/pages/which-art-can-i-use/)!
 
-![Громадський центр за авторством The Lemonaut](cover.jpg "[Громадський центр](/ua/art/the-lemonaut-community-center/) CC BY-SA 4.0 [The Lemonaut](/ua/authors/thelemonaut)")
+![Громадський центр за авторством The Lemonaut](cover.jpg "[Громадський центр](/ua/art/the-lemonaut/community-center/) CC BY-SA 4.0 [The Lemonaut](/ua/authors/thelemonaut)")
 
 Усі матеріали на цій сторінці доступні за відповідною ліцензією [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/), якщо не вказано інше. Приємного перегляду!

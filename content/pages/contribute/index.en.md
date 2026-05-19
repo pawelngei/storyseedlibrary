@@ -14,13 +14,13 @@ Thank you for your interest in contributing to the Library!
 
 We want to feature art which:
 
-- Shows a visions of a better world acknowledging Climate Change
+- Shows a vision of a better world acknowledging Climate Change
 - Is set in a near-future with no "magical" technologies, whether powered by nanorobots or dragon blood
 - Features humans, communities and civilization living in balance with the ecosystems - not just the wilderness and ruins.
 
 We do not accept AI art or art created with the use of AI (even if it's just a texture).
 
-If you'd like to submit your art to the Library, please {{< cloakemail display="contact me" address="storyseedlibrary@alxd.org" >}} with:
+If you'd like to submit your art to the Library, please {{< cloakemail display="contact me" address="curator@storySeedLibrary.org" >}} with:
 
 - The title of your work
 - The description of your work
@@ -38,6 +38,6 @@ You can [glaze](https://nightshade.cs.uchicago.edu/whatis.html) your work with s
 
 ## For Developers
 
-If you're interested in contributing to this website, you can make a pull request to the repository on [Codeberg](https://codeberg.org/alxd/storyseedlibrary) or [Github](https://github.com/pawelngei/storyseedlibrary)! Alternatively, you can contact me on [Mastodon](https://writing.exchange/@alxd) or by {{< cloakemail display="email" address="storyseedlibrary@alxd.org" >}}!
+If you're interested in contributing to this website, you can make a pull request to the repository on [Codeberg](https://codeberg.org/alxd/storyseedlibrary) or [Github](https://github.com/pawelngei/storyseedlibrary)! Alternatively, you can contact me on [Mastodon](https://writing.exchange/@alxd) or by {{< cloakemail display="email" address="curator@storySeedLibrary.org" >}}!
 
 

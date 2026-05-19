@@ -79,4 +79,4 @@ authors:
 
 ---
 
-Зображення на фоні [CC BY-SA 4.0 Sean Bodley](/art/sean-bodley-library-of-everything/)
+Зображення на фоні [CC BY-SA 4.0 Sean Bodley](/art/sean-bodley/library-of-everything/)

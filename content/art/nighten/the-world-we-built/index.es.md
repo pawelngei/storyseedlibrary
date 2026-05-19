@@ -1,0 +1,12 @@
+---
+title: "El mundo que construimos"
+date: 2025-08-04
+publishDate: 2025-08-05
+draft: false
+description: ""
+tags: ["illustration", "CC BY-NC 4.0", "vertical", "people", "wind turbine"]
+authors:
+ - nighten
+aliases:
+  - /es/art/nighten-the-world-we-built/
+---

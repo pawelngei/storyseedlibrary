@@ -11,6 +11,6 @@ Se non avete mai sentito parlare di Solarpunk, date un'occhiata alla nostra brev
 
 Se state cercando opere e illustrazioni per i vostri progetti, date un'occhiata alla pagina [quali opere utilizzare](/it/pages/which-art-can-i-use/)!
 
-![The Community Center by the Lemonaut](cover.jpg "[Centro Comunitario](/it/art/the-lemonaut-community-center/), CC BY-SA 4.0, [The Lemonaut](/it/authors/thelemonaut)")
+![The Community Center by the Lemonaut](cover.jpg "[Centro Comunitario](/it/art/the-lemonaut/community-center/), CC BY-SA 4.0, [The Lemonaut](/it/authors/thelemonaut)")
 
 Tutti i materiali su questa pagina sono liberamente utilizzabili in accordo alle rispettive licenze [Creative Commons](https://creativecommons.it/chapterIT/index.php/license-your-work/), tranne ove segnalato. Buon divertimento e buona esplorazione!

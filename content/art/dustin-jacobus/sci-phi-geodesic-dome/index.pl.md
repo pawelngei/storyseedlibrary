@@ -1,0 +1,14 @@
+---
+title: "Sci Phi Journal: Kopuła geodezyjna"
+date: 2025-04-29
+publishDate: 2025-06-07
+draft: false
+description: ""
+tags: ["illustration", "CC BY 4.0", "vertical", "city", "transport", "airship", "people"]
+authors:
+ - dustinjacobus
+aliases:
+  - /pl/art/dustin-jacobus-sci-phi-geodesic-dome/
+---
+
+

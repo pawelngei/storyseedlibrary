@@ -13,4 +13,4 @@ authors:
 
 - [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-chefs)
 - [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Chefs)
-- [Ілюстрація](/ua/art/the-lemonaut-chefs/)
+- [Ілюстрація](/ua/art/the-lemonaut/chefs/)

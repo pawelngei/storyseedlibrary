@@ -1,0 +1,14 @@
+---
+title: "ሱባክ፡ ስርዓተ መስኖ ማይ"
+date: 2025-04-29
+publishDate: 2025-06-07
+draft: false
+description: ""
+tags: ["illustration", "CC BY 4.0", "horizontal", "farming", "lake", "river", "water"]
+authors:
+ - dustinjacobus
+aliases:
+  - /ti/art/dustin-jacobus-subak/
+---
+
+

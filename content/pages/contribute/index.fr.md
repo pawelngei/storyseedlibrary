@@ -20,7 +20,7 @@ Nous souhaitons présenter des œuvres qui :
 
 Nous n'acceptons pas d'œuvres IA ni créées avec utilisation de l'IA (même si ce n'est qu'une texture).
 
-Si tu souhaites soumettre ton/tes œuvre.s à la Bibliothèque, s'il te plaît, {{< cloakemail display="contacte moi" address="storyseedlibrary@alxd.org" >}} avec :
+Si tu souhaites soumettre ton/tes œuvre.s à la Bibliothèque, s'il te plaît, {{< cloakemail display="contacte moi" address="curator@storySeedLibrary.org" >}} avec :
 
 - Le titre de ton œuvre
 - La description de ton œuvre
@@ -37,4 +37,4 @@ Tu peux [glacer](https://nightshade.cs.uchicago.edu/whatis.html) ton travail ave
 
 ## Pour les développeurs
 
-Si tu souhaites contribuer à ce site web, tu peux envoyer une demande d'ajout (Pull Request) au référentiel (repository) sur [Codeberg](https://codeberg.org/alxd/storyseedlibrary) ou [Github](https://github.com/pawelngei/storyseedlibrary) ! tu peux également me contacter sur [Mastodon](https://writing.exchange/@alxd) ou par {{< cloakemail display="email" address="storyseedlibrary@alxd.org" >}} !
+Si tu souhaites contribuer à ce site web, tu peux envoyer une demande d'ajout (Pull Request) au référentiel (repository) sur [Codeberg](https://codeberg.org/alxd/storyseedlibrary) ou [Github](https://github.com/pawelngei/storyseedlibrary) ! tu peux également me contacter sur [Mastodon](https://writing.exchange/@alxd) ou par {{< cloakemail display="email" address="curator@storySeedLibrary.org" >}} !
