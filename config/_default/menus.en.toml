@@ -32,6 +32,13 @@ identifier = "LD7z6Qopgw"
 weight = 40
 
 [[main]]
+parent = "More"
+name = "Coloring Book"
+pageRef = "tags/coloring-book"
+identifier = "LD7z6Qopcb"
+weight = 50
+
+[[main]]
 name = "Events"
 weight = 45
 

@@ -4,7 +4,7 @@ date: 2026-03-25
 publishDate: 2026-03-25
 draft: false
 description: ""
-tags: ["illustration", "CC BY-ND 4.0", "horizontal", "people", "farming", "animals", "trees", "solar", "robots", "fantastical"]
+tags: ["illustration", "CC BY-ND 4.0", "horizontal", "people", "farming", "animals", "trees", "solar", "robots", "fantastical", "coloring-book"]
 authors:
  - daniele-turturici
 ---
