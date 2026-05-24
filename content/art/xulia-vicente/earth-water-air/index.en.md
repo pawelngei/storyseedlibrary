@@ -4,7 +4,7 @@ date: 2023-05-14
 publishDate: 2026-04-13
 draft: false
 description: ""
-tags: ["illustration", "CC BY-ND 4.0", "vertical", "farming", "people", "animals", "robots", "solar", "wind turbine"]
+tags: ["illustration", "CC BY-ND 4.0", "vertical", "farming", "people", "animals", "robots", "solar", "wind turbine", "coloring-book"]
 authors:
  - xulia-vicente
 ---
