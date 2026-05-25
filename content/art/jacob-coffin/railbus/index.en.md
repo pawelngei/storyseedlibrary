@@ -4,7 +4,7 @@ date: 2025-09-16
 publishDate: 2025-11-11
 draft: false
 description: ""
-tags: ["photobash", "CC BY 4.0", "horizontal", "tram", "train", "transport", "water"]
+tags: ["photobash", "CC BY 4.0", "horizontal", "tram", "train", "transport", "water", "coloring-book"]
 authors:
  - jacobcoffin
 aliases:

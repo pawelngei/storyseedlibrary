@@ -4,7 +4,7 @@ date: 2025-10-10
 publishDate: 2025-11-11
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0", "vertical", "airship", "wind turbine", "transport", "forest"]
+tags: [ "photobash", "CC BY 4.0", "vertical", "airship", "wind turbine", "transport", "forest", "coloring-book"]
 authors:
  - jacobcoffin
 aliases:

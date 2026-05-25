@@ -4,7 +4,7 @@ date: 2025-03-23
 publishDate: 2025-04-29
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0", "horizontal", "tram", "transport", "monorail"]
+tags: [ "photobash", "CC BY 4.0", "horizontal", "tram", "transport", "monorail", "coloring-book"]
 authors:
  - jacobcoffin
 aliases:
