@@ -4,7 +4,7 @@ date: 2026-05-20
 publishDate: 2026-05-20
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "food", "people", "city", "indonesia", "south-east-asia"]
+tags: ["illustration", "CC BY-SA 4.0", "horizontal", "food", "people", "city", "indonesia", "south-east-asia", "coloring-book"]
 authors:
  - stephani-soejono
 ---
