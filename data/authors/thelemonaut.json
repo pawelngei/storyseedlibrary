@@ -3,8 +3,8 @@
   "image" : "img/thelemonaut.jpg",
   "bio": "they/them | Ukrainian character artist",
   "social": [
-      { "mastodon": "https://mastodon.art/@the_lemonaut" },
       { "tumblr": "https://www.tumblr.com/the-lemonaut" },
+      { "mastodon": "https://mastodon.art/@the_lemonaut" },
       { "mug-hot": "https://buymeacoffee.com/thelemonaut"}
   ]
 }
