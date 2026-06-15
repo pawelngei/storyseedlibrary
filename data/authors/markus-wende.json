@@ -1,0 +1,8 @@
+{
+  "name": "Markus Wende",
+  "image" : "img/markus-wende.jpg",
+  "bio": "An animator and illustrator based in Berlin. He now works as a media educator at a secondary school.",
+  "social": [
+      { "pencil": "https://www.animationsfilm.de/" }
+  ]
+}
