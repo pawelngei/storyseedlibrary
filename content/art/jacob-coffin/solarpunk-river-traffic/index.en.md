@@ -1,0 +1,37 @@
+---
+title: "Solarpunk River Traffic"
+date: 2026-06-15
+publishDate: 2026-06-24
+draft: false
+description: ""
+tags: [ "photobash", "CC BY 4.0", "horizontal", "river", "transport" ]
+authors:
+ - jacobcoffin
+  
+---
+
+[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2026/06/15/solarpunk-river-traffic/)
+
+It’s been awhile since I photobashed art for the [solarpunk postcard series](https://jacobcoffinwrites.wordpress.com/postcards-from-a-solarpunk-future/) (I’ve been busy on a couple [other, larger-scope solarpunk projects](https://jacobcoffinwrites.wordpress.com/2025/01/06/buried-treasure/) I hope to share soon) but I have some time while we work through final edits and I wanted to get back into it.
+
+I’ve done a [couple](https://jacobcoffinwrites.wordpress.com/2024/08/20/ship-in-a-storm/) [other ](https://jacobcoffinwrites.wordpress.com/2024/10/16/solarpunk-cargo-ship/)nautical solarpunk pictures but they were both about modernized tall ships on the open ocean and I wanted to do one focused on the kind of activity you might see in a harbor, big river, or along a coastline.
+
+The biggest/closest vessel here is an electric cargo barge [originally from the Netherlands](https://intermodalnews.eu/2021/09/15/electric-barges-new-trend-in-intermodal-transport/). These close-to-the-shore cargo vessels are a good fit for electrification as they run shorter distances and can swap their shipping-container-sized batteries whenever they transfer cargo using the same cranes. [This article](https://cleantechnica.com/2025/05/24/beyond-the-harbor-electrifying-short-sea-routes-and-hybridizing-blue-water-shipping/) goes into more detail though it’s a little out of date as much of what it describes is now happening IRL.
+
+The house shifting barge was lifted from a photograph of a real project carried out by a [company](https://www.nickelbros.com/residential/our-featured-moves/) in Vancouver, Canada though this appears to be common on coastlines. I’m a huge believer in salvage and reuse and have featured [deconstruction](https://wiki.slrpnk.net/writing:deconstruction) in a [previous postcard](https://jacobcoffinwrites.wordpress.com/2024/05/02/deconstruction-crew-disassembling-abandoned-mcmansions-so-the-material-can-be-reused/), but I haven’t showcased the work of [picking up and moving entire houses](https://wiki.slrpnk.net/writing:deconstruction#house_shifting_-_building_salvage_without_deconstruction) yet. House shifting is also [done overland](https://www.queenslandhouseremovers.com.au/understanding-the-house-removal-process-a-comprehensive-guide/), using large flatbed trucks, but [the width of the roadways imposes more limitations on how big a piece of a building you can move](https://www.dalbyremovalhomes.com.au/relocated-houses/) so some additional disassembly and reassembly may be required. I think a solarpunk society would strive to limit outright demolition to very specific circumstances where the structure and materials are truly unrecoverable, and to relocate buildings wherever possible so this kind of move might be a common sight.
+
+I replaced the original lead tugboat with [an electric one](https://magazines.marinelink.com/Magazines/MarineNews/202404/content/board-electric-tugboat-612677).
+
+Closer to the opposite shore on the left, we have a cargo sailboat, or more officially, [a steel-hulled, container-capable gaff ketch](https://www.gosailcargo.com/secret-50.html). I don’t know how practical it is but I really liked this design as soon as I saw it – the mixture of a fairly traditional design with capacity for a modern shipping container (or 1 TEU sized ‘bus’ module to serve as a passenger ferry) just calls to me because I like a good anacronism. One of the big advantages of ships and containers is scale but single containers will still have to be moved from whatever big port they’re unloaded at to their final destination, so I suppose this would be similar to a riverborn 18-wheeler truck. It’s primarily wind driven but also has some configuration of electric motors. If these are viable we might see a good many of them in the bays, coasts, and big rivers of a solarpunk society, if only because they can reduce externalities like pollution or unnecessary draw on the grid.
+
+In the middle there’s a docked sailboat. Not much to say about that.
+
+And on the right is a river cleanup craft. Hopefully a solarpunk society will produce far less trash overall, especially far less disposable plastic waste, and would recycle or dispose of it better. But there’s always something that gets away and water has a way of catching anything blown around by the wind. Waterborne trash might also include debris swept downstream in previous floods.
+
+It’s [more effective to catch this waste while it’s concentrated in waterways near human settlements](https://www.abc.net.au/news/science/2023-03-17/ocean-cleanup-plastic-pollution-great-pacific-garbage-patch/102075810) than it is to try to find and collect it on the open ocean, so I wanted to show one of these boats at work. There are many designs, but I picked Mr Trash Wheel from Baltimore, MD because the design is whimsical and probably easiest to recognize.
+
+As for the shoreline, I was inspired by a photograph of Troy, New York, where a neighborhood of brick buildings look out at the Hudson river over a set of parking lots. I wanted to do a quick background with a dense community with a lot of four to five story brick buildings (as they’re pretty sustainable/practical long term) with hints of forested streets and a big park/[riparian forest buffer](https://research.fs.usda.gov/centers/nac/riparianforestbuffers) along the waterfront.
+
+I’ve done [one postcard](https://jacobcoffinwrites.wordpress.com/2024/09/26/flood-compatible-solarpunk-city-photobash/) about flood compatible cities and generally favor sponge city designs where applicable, but I’m not sure what the best answer is for old downtowns built right up against rivers, with reinforced shorelines already in place. Replacing waterfront parking lots with parks full of swales and other flood mitigation designs is probably a good start and those changes could also improve water quality in the river by trapping waste and filtering surface runoff, especially if any fertilizer/compost use is carefully minimized or eliminated. Perhaps the community has also bought up waterfront land nearby, removed levees and restored flood planes to give the river room to spread and slow. Levee removal can both mitigate flooding and [restore important wetland habitats](https://www.npr.org/2026/05/03/nx-s1-5806062/washington-tribe-restore-wetlands-fish).
+
+The amphitheater-shaped recess in the embankment is intended to provide safe public access to the river. This is also kind of aspirational for me – canals, harbors, and rivers IRL often catch drainage from city streets contaminated with animal waste and vehicle fluids, overflows from sewers, outflows (legal or illegal) from various manufacturers and industry and even just fertilizers and pesticides from lawns. I’ve seen people swimming in all sorts of waterways I’d personally stay out of IRL, but I’d love to live in a society which was so conscientious about its impacts that the water downstream even from major cities remained safe and clean.
