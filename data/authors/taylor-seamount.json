@@ -5,7 +5,7 @@
   "social": [
       { "pencil": "http://taylorseamount.com/" },
       { "instagram": "https://www.instagram.com/taylorseamount/" },
-      { "link": "https://pixelfed.art/taylorseamount" },
+      { "pixelfed": "https://pixelfed.art/taylorseamount" },
       { "ko-fi": "https://ko-fi.com/taylorseamount" }
   ]
 }

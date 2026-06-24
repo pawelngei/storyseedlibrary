@@ -6,8 +6,8 @@
       { "pencil": "https://www.aerroscape.de/" },
       { "facebook": "https://www.facebook.com/aerroscape/" },
       { "instagram": "https://www.instagram.com/aerroscape_art/" },
-      { "wand-magic-sparkles": "https://www.artstation.com/aerroscape" },
-      { "link": "https://www.deviantart.com/aerroscape" }
+      { "artstation": "https://www.artstation.com/aerroscape" },
+      { "deviantart": "https://www.deviantart.com/aerroscape" }
   ]
 }
 

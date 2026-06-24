@@ -3,7 +3,7 @@
   "image" : "img/scandinavian101.jpg",
   "bio": "He/him | Architecture student | Warsaw, Poland",
   "social": [
-      { "wand-magic-sparkles": "https://www.artstation.com/scandinavian101" },
+      { "artstation": "https://www.artstation.com/scandinavian101" },
       { "bluesky": "https://bsky.app/profile/scandinavian101.bsky.social" }
   ]
 }

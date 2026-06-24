@@ -3,7 +3,7 @@
   "image" : "img/elakidd.jpg",
   "bio": "bilingual queer artist who grew up in China and is currently a university student in Boston",
   "social": [
-      { "pencil": "https://elakidd.carrd.co/" },
+      { "carrd": "https://elakidd.carrd.co/" },
       { "instagram": "https://www.instagram.com/takokidd/" }
   ]
 }

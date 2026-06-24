@@ -3,6 +3,6 @@
   "image" : "img/loop-chan.jpg",
   "bio": "Your resident squid comic artist",
   "social": [
-      { "twitter": "https://x.com/fruitloop_chan" }
+      { "x-twitter": "https://x.com/fruitloop_chan" }
   ]
 }
