@@ -1,8 +1,0 @@
-{
-  "name": "Loop-chan",
-  "image" : "img/loop-chan.jpg",
-  "bio": "Your resident squid comic artist",
-  "social": [
-      { "x-twitter": "https://x.com/fruitloop_chan" }
-  ]
-}
