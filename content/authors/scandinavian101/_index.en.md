@@ -6,8 +6,3 @@ params:
     - artstation: "https://www.artstation.com/scandinavian101"
     - bluesky: "https://bsky.app/profile/scandinavian101.bsky.social"
 ---
-
-He/him | Architecture student | Warsaw, Poland
-
-- [ArtStation](https://www.artstation.com/scandinavian101)
-- [BlueSky](https://bsky.app/profile/scandinavian101.bsky.social)

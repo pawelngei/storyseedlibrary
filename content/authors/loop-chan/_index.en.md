@@ -6,8 +6,3 @@ params:
   social:
     - x-twitter: "https://x.com/fruitloop_chan"
 ---
-
-Your resident squid comic artist
-
-- [Twitter](https://x.com/fruitloop_chan)
-
