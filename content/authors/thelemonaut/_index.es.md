@@ -1,5 +1,7 @@
 ---
 title: "The Lemonaut"
+params:
+  bio: "Creadore de personajes ucraniane"
 ---
 Creadore de personajes ucraniane
 

@@ -1,5 +1,7 @@
 ---
 title: 'Katarzyna "PannaN" Witerscheim'
+params:
+  bio: "Pronomi femminili | Illustratrice freelance"
 ---
 
 Pronomi femminili | Illustratrice freelance

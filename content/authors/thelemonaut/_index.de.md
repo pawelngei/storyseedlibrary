@@ -1,5 +1,7 @@
 ---
 title: "The Lemonaut"
+params:
+  bio: "Ukrainische Figuren-Künstler:in"
 ---
 
 Ukrainische Figuren-Künstler:in

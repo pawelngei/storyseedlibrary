@@ -1,5 +1,7 @@
 ---
 title: "Yuuna Maiko"
+params:
+  bio: "Jestem ilustratorką i artystką komiksową / mangową."
 ---
 
 Jestem ilustratorką i artystką komiksową / mangową.

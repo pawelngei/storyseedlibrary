@@ -1,5 +1,7 @@
 ---
 title: "Yuuna Maiko"
+params:
+  bio: "Je suis illustratrice et artiste en bande dessinée et manga."
 ---
 
 Je suis illustratrice et artiste en bande dessinée et manga.

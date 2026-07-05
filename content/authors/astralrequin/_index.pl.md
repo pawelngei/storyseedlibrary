@@ -1,5 +1,7 @@
 ---
 title: "Astral Requin"
+params:
+  bio: "Artysta // Hobbysta // Sztuka cyfrowa"
 ---
 
 Artysta // Hobbysta // Sztuka cyfrowa

@@ -1,5 +1,7 @@
 ---
 title: 'Katarzyna "PannaN" Witerscheim'
+params:
+  bio: "ella | Ilustradora freelance"
 ---
 
 ella | Ilustradora freelance 

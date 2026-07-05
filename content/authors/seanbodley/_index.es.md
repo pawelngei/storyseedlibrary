@@ -1,5 +1,7 @@
 ---
 title: "Sean Bodley"
+params:
+  bio: "Él | Creando arte conceptual sobre el Cambio Climático"
 ---
 
 Él | Creando arte conceptual sobre el Cambio Climático

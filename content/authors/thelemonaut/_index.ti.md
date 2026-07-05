@@ -1,5 +1,7 @@
 ---
 title: "እቲ ለሚናውት"
+params:
+  bio: "Ukrainian character artist"
 ---
 
 Ukrainian character artist
