@@ -1,5 +1,12 @@
 ---
 title: 'Katarzyna "PannaN" Witerscheim'
+params:
+  bio: "she/her | Freelance illustrator"
+  social:
+    - pencil: "http://panna-n.com/"
+    - facebook: "https://www.facebook.com/pannanARTS/"
+    - tumblr: "https://pannan-art.tumblr.com/"
+    - patreon: "https://www.patreon.com/profile/creators?u=2487835"
 ---
 
 she/her | Freelance illustrator

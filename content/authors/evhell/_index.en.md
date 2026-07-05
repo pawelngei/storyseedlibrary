@@ -1,5 +1,11 @@
 ---
 title: "Evhell"
+params:
+  bio: "(french, she/her) Senior developer during the day, comics artist at night, Evhell loves creating stories mixing tech, pop culture and human relationships. She uses gouache and digital art, and sometimes has fun mixing them!"
+  social:
+    - pencil: "https://www.evhell.fr/"
+    - instagram: "https://www.instagram.com/evhell.fr/"
+    - twitch: "https://www.twitch.tv/evhell"
 ---
 
 (french, she/her) Senior developer during the day, comics artist at night, Evhell loves creating stories mixing tech, pop culture and human relationships. She uses gouache and digital art, and sometimes has fun mixing them!

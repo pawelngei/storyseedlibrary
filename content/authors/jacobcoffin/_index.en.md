@@ -1,5 +1,10 @@
 ---
 title: "Jacob Coffin"
+params:
+  bio: "Sci-fi writer with a passion for land conservation, reuse, and human rights not being rolled back."
+  social:
+    - wordpress: "https://jacobcoffinwrites.wordpress.com/"
+    - mastodon: "https://writing.exchange/@jacobcoffin"
 ---
 
 Sci-fi writer with a passion for land conservation, reuse, and human rights not being rolled back.
