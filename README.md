@@ -37,9 +37,10 @@ git submodule update --recursive
 
 To add a new author:
 
-1. Create a new file in `data/authors/{authorName}.json` and configure it similarly to other authors. It will control the `author-extra.html` box rendered on content pages.
-2. Add a new catalog and file in `content/authors/{authorName}/_index.en.md`. It will configure the "category" page for the author and what name will be displayed on their content cards.
-3. Now you can add the author in specific content articles. One article can have multiple authors, like:
+1. Add a new catalog and file in `content/authors/{authorName}/_index.en.md`. The page `title` is the display name; add a `params.bio` and `params.social` (a list of `[{icon: url}]` maps) to configure Blowfish's `author-extra.html` bio box rendered on content pages.
+2. Save the author's photo as `content/authors/{authorName}/portrait.jpg` (the small avatar shown in the bio box) and, separately, `content/authors/{authorName}/featured.jpg` (the cover image used elsewhere, e.g. author cards). The avatar can be 400x400px.
+3. To translate the bio box, add `params.bio` (and optionally `title`) to `content/authors/{authorName}/_index.{lang}.md`; anything left unset falls back to the English version. `social` normally only needs to be set once, in English.
+4. Now you can add the author in specific content articles. One article can have multiple authors, like:
   ```
   authors:
     - alxd
