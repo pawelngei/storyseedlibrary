@@ -1,0 +1,7 @@
+{{- $authors := slice -}}
+{{- range where site.RegularPages "Section" "art" -}}
+  {{- with .Params.authors -}}
+    {{- $authors = $authors | union . -}}
+  {{- end -}}
+{{- end -}}
+{{- len $authors -}}
