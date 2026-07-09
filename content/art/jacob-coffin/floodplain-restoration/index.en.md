@@ -4,7 +4,7 @@ date: 2026-06-26
 publishDate: 2026-07-09
 draft: false
 description: ""
-tags: ["photobash", "CC BY 4.0", "vertical", "transport", "airship", "forest", "flood", "2026-collab"]
+tags: ["photobash", "CC BY-SA 4.0", "vertical", "transport", "airship", "forest", "flood", "2026-collab"]
 authors:
  - jacobcoffin
 ---
@@ -12,7 +12,6 @@ authors:
 Levees have reshaped river landscapes all over North America, allowing people to fill in wetlands and build homes, farms, and sometimes entire towns directly on floodplains. As climate change worsens floods, it's becoming clear that just building higher walls to hold back the water isn't enough. Ceding some land (which was perhaps never suitable for development in the first place) to nature can improve both human safety and the health of the ecosystems which surround and support us. When levees are moved back even half a mile, we see huge improvements - wetlands reform and reconnect, habitats full of native species begin to thrive, and the river has room to meander and spread during floods. This scene depicts a small piece of the hard, bittersweet work of relocating the levees and the people who live behind them. Work crews are using a cargo airship to shift a family home further inland, while others remove the levee and reconnect nearby wetlands. Eventually they'll plant willows, cottonwoods, wapato or other suitable native species.
 
 ---
-
 
 For my part of the collab I decided to focus on the disaster preparedness side of the theme, and specifically on levee removal, house shifting, and ceding unsafe land back to nature. 
 
