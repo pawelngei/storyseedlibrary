@@ -1,0 +1,63 @@
+---
+title: "Floodplain Restoration - Levee Removal and House Shifting"
+date: 2026-06-26
+publishDate: 2026-07-09
+draft: false
+description: ""
+tags: ["photobash", "CC BY 4.0", "vertical", "transport", "airship", "forest", "flood", "2026-collab"]
+authors:
+ - jacobcoffin
+---
+
+Levees have reshaped river landscapes all over North America, allowing people to fill in wetlands and build homes, farms, and sometimes entire towns directly on floodplains. As climate change worsens floods, it's becoming clear that just building higher walls to hold back the water isn't enough. Ceding some land (which was perhaps never suitable for development in the first place) to nature can improve both human safety and the health of the ecosystems which surround and support us. When levees are moved back even half a mile, we see huge improvements - wetlands reform and reconnect, habitats full of native species begin to thrive, and the river has room to meander and spread during floods. This scene depicts a small piece of the hard, bittersweet work of relocating the levees and the people who live behind them. Work crews are using a cargo airship to shift a family home further inland, while others remove the levee and reconnect nearby wetlands. Eventually they'll plant willows, cottonwoods, wapato or other suitable native species.
+
+---
+
+
+For my part of the collab I decided to focus on the disaster preparedness side of the theme, and specifically on levee removal, house shifting, and ceding unsafe land back to nature. 
+
+Humans have been building levees in my country ever since colonization - in a way they're part of an unending campaign to 'civilize' the land, smoothing out rough terrain, straightening and containing rivers, filling in wetlands, and generally drying out the continent.
+
+Prior to levees, river landscapes were often messy, complex, and full of food for birds, fish and invertebrates. They would spread and braid across a wide area, and their slow-moving, shallow channels formed sprawling wetlands full of native grasses and willows which provided critical resting and rearing sites for young salmon before they headed out to sea. These wide spaces could flood safely during storms, and they played an important role in slowing and cleaning floodwaters. 
+
+These shifting rivers and sprawling wetlands were generally inconvenient to farmers and other settler types, who prized floodplains for farmland and development. To protect their new territory from flooding, they built thousands of miles of levees along nearly every major waterway, constraining their movement until some looked more like canals than natural rivers.
+
+This was disastrous for the species which had evolved to occupy the niches now buried under levees and fill but it also hasn't worked out great for humanity. In a narrowed, straightened river, that surge of water has nowhere to go, and nothing to slow its movement. As climate change alters weather patterns, intensifying storms and worsening both droughts and floods, we've seen frequent levee failures as hundred- and thousand-year floods become routine events. 
+
+There's a self-defense truism that "the best defense is not to be there" which I think applies in this situation.
+
+[Levee removal](https://therevelator.org/moving-levees/) recognizes that this modern configuration isn't working well for anyone, humans or the species we share our environment with, and seeks to restore rivers to [something closer to their original configuration](https://www.knkx.org/environment/2022-04-29/nature-rebounds-on-the-green-river-after-large-levee-removal). This can be beneficial in two ways - it allows the river to safely spread into designated areas where it can slow during a flood and it allows for the restoration of habitats where native species can return and flourish surprisingly quickly. 
+
+In this way levee removal is part of a wider rejection of modern human landscapes. Flood- and erosion-mitigation tactics like [sponge cities](https://www.wired.com/story/los-angeles-just-proved-how-spongy-a-city-can-be/), [beaver dam analogs](wiki.slrpnk.net/writing:beaver_dam_analogs), and [rough mounding](https://wiki.slrpnk.net/writing:rough_mounding) all focus on restoring or simulating preexisting conditions, and on slowing the movement of water and catching it in place, allowing it to permeate the ground again. And because these are the habitats most native species evolved to find their niche in, it's no surprise that they often start to recover almost as soon as we nudge things back in this direction. 
+
+Making these changes is difficult though. It's not just farmland behind these levees - the sad truth is that there are many places where homes were built, families raised, memories made, that were never really suitable for development (this will probably include wildfire zones soon) and we're going to have to reckon with that in the coming decades, whether we're in a solarpunk society or not. We're already seeing the beginnings in our present with insurance companies refusing to cover some areas and [floodplain buyouts](https://www.congress.gov/crs_external_products/IN/PDF/IN11911/IN11911.2.pdf) where government agencies purchase flood-prone land, moving or demolishing any structures, and returning them to open space to restore and conserve natural floodplain functions.
+
+Some areas just make more sense as floodplains and wetlands, providing important habitats and giving the rivers room to safely spread and slow their movements than they do as eternally-imperilled developments.
+
+So that's where I wanted to set this scene. In the bittersweet work of returning a piece of the floodplain to its original purpose and removing the home that was there.
+
+There is a lot being done to rewild this site. Work crews are digging out the levee and hauling it away (in real life this fill is often used to build another levee further inland, behind the floodplain). They're removing the house which was built on this parcel of land. And they're digging a channel to reconnect a wetland which was once part of the river system but which was severed by the levee. 
+
+The timeline here is obviously a bit compressed – shifting the home, removing the levee, and digging the channel to reconnect the wetlands would likely all be separate stages of work. I've jammed them all into one shot for expedience more than realism. 
+
+When the removal and contouring work is done, a crew will likely plant willows, cottonwoods, wapato or other suitable native species.
+
+The house shifting was inspired by [this levee removal project](https://kingcounty.gov/en/dept/dnrp/nature-recreation/environment-ecology-conservation/flood-services/capital-projects-studies/jan-road-levee-setback), where a structure on site was demolished to clear the floodplain.
+
+I don't know the specifics of that particular building, what condition it was in, whether anything was salvaged (or was worth salvaging). But there are two alternatives to demolition which I've been trying to showcase in my work: [deconstruction](https://jacobcoffinwrites.wordpress.com/2024/05/02/deconstruction-crew-disassembling-abandoned-mcmansions-so-the-material-can-be-reused/) – the process of [disassembling a building](https://wiki.slrpnk.net/writing:deconstruction) to salvage as many construction materials as possible, and house shifting, the work of physically moving a suitable structure rather than building new. Both can be wonderful solarpunk alternatives to demolition which make the society less extractive on its environment and reduce the amount of landfill space it requires.
+
+I've featured house shifting [in a previous picture](https://jacobcoffinwrites.wordpress.com/2026/06/15/solarpunk-river-traffic/) but I wanted to make it a bit more prominent this time. 
+
+This would be a big day for these work crews. After weeks of planning and work, of emptying the home, disconnecting it from its utilities and foundation, removing a porch, and jacking it up so they can assemble a frame underneath, a flying crane cargo airship has finally arrived to hoist the house up into its hold to carry it away.
+
+I imagine that they're probably using a mix of house shifting and deconstruction along this river - houses which aren't suitable for relocation, ones which aren't structurally sound, or have slab foundations, or are seriously damaged by flooding are disassembled and salvageable materials and construction waste are both hauled away by truck. The house shifting is probably done to relocate occupied homes to safer places, or to move abandoned-but-habitable homes to removal lots where a new family can choose them.
+
+The concrete foundation left behind could be broken up and dug out with an excavator, used as fill or salvaged as rubble (it could even be cut into blocks for easier reuse if they have a lot of time or labor available) or it could just be filled in with dirt from the levee and left alone. (It's a bad place to have built a basement but I've lived in neighborhoods where half the houses were constantly running sump pumps because the whole place was built in a filled-in wetland so I don't think it's unrealistic). 
+
+You may have noticed a cargo airship in the upper section of the scene. I think modern blimps have helped us forget just how absurdly, sky-filling-ly large real zeppelins were, and the LCA60T (which this is based on) is bigger than most of those. Tremendous thanks to GrafZeppelin127 over on reddit for repeatedly pointing out when I under-sized it in my early drafts. I ended up having to add more image around the edges just to fit it in the shot 
+
+Moreso than usual, the airship for the task I'm depicting doesn't really exist. The closest fit is probably the LCA60T, which is intended to work as a flying crane, but its cargo hold is long and narrow in the current designs. It could fit a mobile home or pieces of a modular home designed to be transported by truck, but it wouldn't be a good choice for a larger structure. There are other airship designs with larger holds, like the [Boeing Megalifter concept](https://lynceans.org/wp-content/uploads/2025/02/Boeing-Megalifter.pdf) from the 1970s which had a cargo bay 40 feet wide and 40 feet tall, and about as long as the LCA60T’s and the [Lockheed-Martin Rigid Airship concept](https://lynceans.org/wp-content/uploads/2022/02/Lockheed-Martin_Ultra-large-rigid-hybrid-airships.pdf) from the 1990s and early 2000s which had a cargo bay 250 feet by 260 feet, nearly square. These weren't flying cranes though, and they were both designed to use a mix of buoyant lift and aerodynamic lift which could likely make them a poor fit for crane operations (or at least mean that their capacity would drop while hovering).
+
+For a while I'd been thinking that a flying crane could simply carry large cargoes dangling underneath its keel. It turns out that that might be true in a few narrow cases (such as when transporting assembled high-tension transmission towers, which are already optimized to reduce wind exposure), but most cargoes would need to be transported safely in the hold. Once I [looked up the damage normal mobile homes can endure while traveling 55 miles an hour on a highway](https://www.mobilehomeuniversity.com/articles/common-issues-that-happen-to-homes-in-transport-and-what-to-do), and after reading about the [USS Akron's spy basket becoming a dangerous pendulum](https://en.wikipedia.org/wiki/USS_Akron#Testing_of_the_"spy_basket") during its only test, I was even more convinced to rework the image. Something tells me that an ordinary stick-frame house would not do very well blowing around at high altitudes. 
+
+When it came to placing solar panels, I wanted to keep well away from any structure on the envelope which might need maintenance, leaving a sort of patchy layout not unlike solar panels on a household roof. I can't promise that's accurate, but I'm fairly pleased with the overall look. I read somewhere that panels would be reasonably efficient even pointing downwards, thanks to the high albedo of the clouds below/around the airship, but can't find an exact source. I think with our current tech they wouldn't be enough to drive the airship but could provide enough juice for slow maneuvering like station keeping, and cover other electrical needs onboard.
