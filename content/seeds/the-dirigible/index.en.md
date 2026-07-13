@@ -13,3 +13,4 @@ authors:
 
 - [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-dirigible)
 - [Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Dirigible)
+- [Illustration](/art/karl-schulschenk/air/)
