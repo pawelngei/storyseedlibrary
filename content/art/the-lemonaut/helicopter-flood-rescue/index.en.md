@@ -4,7 +4,7 @@ date: 2026-07-01
 publishDate: 2026-07-09
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "disaster", "flood", "rescue", "2026-collab"]
+tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "disaster", "flood", "rescue", "2026-collab", "coloring-book"]
 authors:
   - "thelemonaut"
   - "scandinavian101"
