@@ -14,4 +14,4 @@ The works below are a selection of illustrations created for the 2026 Solarpunk 
 >
 > Finally, for the Disaster Relief, how can we step away from our colonial habits and imagine giving the survivors agency instead of handouts? How can we empower communities to rebuild after a catastrophe, find solace in each other and grieve those lost?
 
-You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2026/). All of the works will soon be available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/).
+You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2026/). All of the works will soon be available on [Andrewism's tumblr](https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-disaster-preparedness).
