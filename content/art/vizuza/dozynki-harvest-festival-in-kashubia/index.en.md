@@ -1,6 +1,6 @@
 ---
 title: "Dożynki - Harvest Festival in Kashubia, Poland"
-date: 2023-05-14
+date: 2026-07-05
 publishDate: 2026-07-09
 draft: false
 description: ""
