@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/chefs/featured.jpg
 ---
 
 > Die Welt durchlebt einen Kulturschock als kein bezahlbares Fleisch mehr

@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/hackerspace/featured.jpg
 ---
 
 > Un hackerspace se trouve au sein d'une ville qui s'accroche encore à ses propres habitudes alors que le reste du monde change. Des activistes, des technologues, des inventeur.ice.s et des éducateur.ice.s essaient de montrer aux communautés qui les entourent qu'il est possible de vivre différemment, tout en se disputant activement pour savoir quel plan est le meilleur.

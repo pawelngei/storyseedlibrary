@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/community-center/featured.jpg
 ---
 
 > Ein Gemeinschaftszentrum, eine Bibliothek oder Schulungszentrum, das zunächst Leuten aus der Kohleindustrie bei Umschulungen und der Jobsuche helfen sollte, ist zu einem inoffiziellen „Wallfahrtsort“ geworden, wo Menschen nach ihrer Berufung suchen und Zeitzeugen treffen.

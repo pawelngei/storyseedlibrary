@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/tailors/featured.jpg
 ---
 
 > Une Sastre se une a una comunidad que carecía de sastre profesional durante años. En este mundo, les sastres no son solamente artesanes de la vestimenta, sino docentes, expertes en materiales y sostenibilidad, diseñadores de moda y mediadores entre culturas, asegurando que ninguna prenda pueda causar conflictos al viajar a otras tierras. Al darse cuenta de que es mucho más innovadore que le sastre anterior, ¿será aceptade en la comunidad? ¿Cómo sorprenderá a sus habitantes?

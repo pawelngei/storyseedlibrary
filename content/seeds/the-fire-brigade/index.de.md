@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/helicopter-flood-rescue/featured.jpg
 ---
 
 > Es gibt eine Militäreinheit, die vor Jahrzehnte die Panzer durch Feuerwehrfahrzeuge ersetzt hat.

@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/canteen/featured.jpg
 ---
 
 > Stołówka w odizolowanej placówce naukowej / środowiskowej, gdzie naukowcy, inżynierowie, kucharze i pracownicy obsługi pokazują sobie nawzajem swoje ludzkie oblicze, jednocześnie pamiętając o tym, jak ważna jest ich rola tutaj i jak trudne warunki panują na zewnątrz (np. czyszczenie oceanów z plastiku, mierzenie poziomu lodu na biegunie północnym itp.).

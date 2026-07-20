@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/hackerspace/featured.jpg
 ---
 
 > Un edificio occupato, centro sociale o hackerspace all’interno di una città ancora bloccata nel passato mentre il resto del mondo va avanti. Attivisti, educatori e inventori provano a mostrare ai cittadini che è possibile vivere in modo diverso, contemporaneamente battibeccando tra loro per determinare quale sia il modo migliore.

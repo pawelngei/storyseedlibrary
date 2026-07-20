@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/canteen/featured.jpg
 ---
 
 > Una mensa in una base scientifica o ambientale, in cui scienziati, ingegneri, cuochi e personale di servizio mostrano il proprio lato umano senza dimenticare l’importanza di ogni ruolo per far fronte alle condizioni estreme (ad esempio: rimozione della plastica dagli oceani, misurare il livello dei ghiacci polari, etc).

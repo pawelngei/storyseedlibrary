@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/canteen/featured.jpg
 ---
 
 > Eine Kantine in einem isolierten wissenschaftlichen oder

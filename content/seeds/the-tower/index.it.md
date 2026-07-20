@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/tower/featured.jpg
 ---
 
 > Una comunità appena trasferitasi in una nuova torre-condominio: costruita in legno, sostenibile e strutturata in modo da incoraggiare le interazioni tra condomini. Per alcuni un sogno, per altri una scocciatura; alcuni stanno ancora affrontando il trauma delle case distrutte da alluvioni, incendi o altri rischi ambientali.

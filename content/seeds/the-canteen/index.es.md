@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/canteen/featured.jpg
 ---
 
 > Un comedor en una base científica aislada, donde científiques, ambientalistas, ingenieres, personal de cocina y mantenimiento conviven mostrando su cara más humana, sin olvidar la importancia de su rol y las duras condiciones en el exterior. Ejemplos de sus labores: eliminar plástico de los océanos, medir los niveles de hielo polar, etc.

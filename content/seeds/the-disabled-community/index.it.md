@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/hackerspace/featured.jpg
 ---
 
 > Una comunità di diversamente abili che condividono suggerimenti e soluzioni per destreggiarsi in un mondo a loro ostile. Molto di ciò che condividono rimane non detto, siccome tutti conoscono il dolore e le sfide che affrontano ogni giorno.

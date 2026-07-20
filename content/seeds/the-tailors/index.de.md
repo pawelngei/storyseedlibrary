@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/tailors/featured.jpg
 ---
 
 > Eine neue Schneiderin tritt einer Gemeinschaft bei, die schon Jahre auf so jemanden wartet. In einer Welt voller dezentralisierter Erzeugung sind Schneider:innen nicht länger nur Kunsthandwerker:innen, sondern auch Lehrkräfte, Expert:innen für Materialien und Nachhaltigkeit, Mode Designer:innen und Kulturübersetzer:innen, damit die Kleidergarnitur auf Reisen keine Kränkungen verursacht. Doch die neue Schneiderin ist viel weniger traditionell als ihr Vorgänger. Wird sie trotzdem von der Gemeinschaft angenommen? Welche kühne Aussage hat alle überrascht?

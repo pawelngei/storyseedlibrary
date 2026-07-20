@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/chefs/featured.jpg
 ---
 
 > Grupa kucharzy, dietetyków i nauczycieli, których zadaniem jest tworzenie i promowanie dobrze dopracowanej i smacznej kuchni wegańskiej/wegetariańskiej w świecie przeżywającym szok kulturowy związany z brakiem niedrogiego mięsa. Czy uda im się powstrzymać masową panikę i zamieszki?

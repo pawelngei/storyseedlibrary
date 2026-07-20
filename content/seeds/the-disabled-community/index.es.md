@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/hackerspace/featured.jpg
 ---
 
 > Una comunidad de personas con discapacidades varias comparte sus mejores trucos para enfrentarse a un mundo hostil y poco accesible. Lo que les une trasciende las palabras, ya que cada une conoce el dolor y desafíos que afrontan a diario.

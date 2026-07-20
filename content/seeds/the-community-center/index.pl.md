@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/community-center/featured.jpg
 ---
 
 > Dom kultury / biblioteka / ośrodek edukacyjny, początkowo założony, by pomóc ludziom takim jak górnicy w zdobyciu nowych umiejętności i znalezieniu innej pracy, teraz stał się miejscem nieoficjalnych „pielgrzymek” ludzi dążących do odnalezienia swojej roli w życiu i poznania historii od tych, którzy taką przemianę przeżyli.

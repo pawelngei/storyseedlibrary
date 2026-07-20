@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/karl-schulschenk/air/featured.jpg
 ---
 
 > Ein moderner Zeppelin ist die schnellste und billigste, um zu angelegenen Orten zu reisen.

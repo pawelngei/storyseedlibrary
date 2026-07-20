@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/helicopter-flood-rescue/featured.jpg
 ---
 
 > Una unidad militar cambió sus tanques por camiones y mangueras hace décadas. Ahora luchan contra desastres climáticos, adoptando un rol de ingenieres y bomberes en vez de soldados: para algunes es un sueño, para otres una pesadilla. Les reclutas más jóvenes, bien versades en la nueva realidad climática, tratan de entender el lenguaje de les comandantes veteranes, que aun utilizan jerga militar.
