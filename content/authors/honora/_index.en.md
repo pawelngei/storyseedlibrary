@@ -7,4 +7,6 @@ params:
     - mastodon: "https://mastodon.art/@NiwlCraft/"
     - ko-fi: "https://ko-fi.com/niwlcraft"
     - email: "NiwlCraft@proton.me"
+images:
+  - ../../art/honora/seeds-of-resistance/featured.jpg
 ---

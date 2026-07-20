@@ -8,4 +8,6 @@ params:
     - instagram: "https://www.instagram.com/aerroscape_art/"
     - artstation: "https://www.artstation.com/aerroscape"
     - deviantart: "https://www.deviantart.com/aerroscape"
+images:
+  - ../../art/lino-zeddies/aerroscape-berlin/featured.jpg
 ---

@@ -2,6 +2,8 @@
 title: "Dustin Jacobus"
 params:
   bio: "Dustin Jacobus ist ein Illustrator und Industriedesign-Ingenieur, dessen Arbeit."
+images:
+  - ../../art/dustin-jacobus/nurnberg/featured.jpg
 ---
 
 Möglichkeiten erkundet, wie Natur und menschliche Umwelt zusammenwachsen

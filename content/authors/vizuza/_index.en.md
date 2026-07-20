@@ -6,4 +6,6 @@ params:
     - pencil: "https://vizuza.com/"
     - instagram: "https://www.instagram.com/vi.zuza/"
     - vimeo: "https://vimeo.com/vizuza"
+images:
+  - ../../art/vizuza/dozynki-harvest-festival-in-kashubia/featured.jpg
 ---

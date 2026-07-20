@@ -6,4 +6,6 @@ params:
     - pencil: "https://www.grasshoppergeography.com/"
     - bluesky: "https://bsky.app/profile/grasshoppergeo.bsky.social"
     - tumblr: "https://www.tumblr.com/grasshoppergeography"
+images:
+  - ../../art/grasshopper-geography/india-and-china/featured.jpg
 ---

@@ -5,4 +5,6 @@ params:
   bio: "An animator and illustrator based in Berlin. He now works as a media educator at a secondary school."
   social:
     - pencil: "https://www.animationsfilm.de/"
+images:
+  - ../../art/markus-wende/cadus-poster/featured.jpg
 ---

@@ -6,4 +6,6 @@ params:
   social:
     - pencil: "https://www.karlschulschenk.com/"
     - instagram: "https://www.instagram.com/karlschulschenk"
+images:
+  - ../../art/karl-schulschenk/postcard-brighter-future/featured.jpg
 ---
