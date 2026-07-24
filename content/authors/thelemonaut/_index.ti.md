@@ -1,7 +1,7 @@
 ---
-title: "እቲ ለሚናውት"
-params:
-  bio: "Ukrainian character artist"
 images:
   - ../../art/the-lemonaut/hackerspace/featured.jpg
+params:
+  bio: 'Ukrainian character artist'
+title: 'እቲ ለሚናውት'
 ---

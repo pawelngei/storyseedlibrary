@@ -1,9 +1,16 @@
 ---
-title: "Dustin Jacobus"
-params:
-  bio: "Dustin Jacobus es un ilustrador e ingeniero de diseño industrial, cuyo trabajo explora como la naturaleza y los ambientes artificiales pueden convivir."
 images:
   - ../../art/dustin-jacobus/nurnberg/featured.jpg
+params:
+  bio: 'Dustin Jacobus es un ilustrador e ingeniero de diseño industrial, cuyo trabajo explora como la naturaleza y los ambientes artificiales pueden convivir.'
+title: 'Dustin Jacobus'
 ---
 
-Profundamente inspirado por los sistemas naturales, su arte se enraiza en la biomimesis, en el diseño sostenible y el movimiento solarpunk. Imagina un mundo donde coexistimos en armonía con todas las formas de vida, creando ambientes sostenibles, ricos en agua y vegetación, tanto en el entorno urbano como fuera de él, expresando sus ideas a través de su arte. Esta visión ha sido compartida en exposiciones, charlas, talleres y en un amplio número de publicaciones en libros, revistas y otros medios.
+Profundamente inspirado por los sistemas naturales, su arte se enraiza en la
+biomimesis, en el diseño sostenible y el movimiento solarpunk. Imagina un
+mundo donde coexistimos en armonía con todas las formas de vida, creando
+ambientes sostenibles, ricos en agua y vegetación, tanto en el entorno
+urbano como fuera de él, expresando sus ideas a través de su arte. Esta
+visión ha sido compartida en exposiciones, charlas, talleres y en un amplio
+número de publicaciones en libros, revistas y otros medios.
+

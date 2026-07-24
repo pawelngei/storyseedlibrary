@@ -1,7 +1,7 @@
 ---
-title: "The Lemonaut"
-params:
-  bio: "Creadore de personajes ucraniane"
 images:
   - ../../art/the-lemonaut/hackerspace/featured.jpg
+params:
+  bio: 'Creadore de personajes ucraniane'
+title: 'The Lemonaut'
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Paweł 'alxd' Ngei"
 params:
-  bio: "solarpunkowy haker | kurator Biblioteki | Polska"
+  bio: 'solarpunkowy haker | kurator Biblioteki | Polska'
+title: "Paweł 'alxd' Ngei"
 ---
