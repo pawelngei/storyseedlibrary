@@ -1,14 +1,14 @@
 ---
-title: "Die Kantine"
-date: 2021-10-23
-draft: false
-description: ""
-tags: ["podcast"]
-showAuthorBottom: true
 authors:
-  - "alxd"
+  - alxd
+date: 2021-10-23
+description: ''
+draft: false
 images:
   - ../../art/the-lemonaut/canteen/featured.jpg
+showAuthorBottom: true
+tags: ["podcast"]
+title: 'Die Kantine'
 ---
 
 > Eine Kantine in einem isolierten wissenschaftlichen oder
@@ -18,6 +18,7 @@ images:
 > Aufgaben und den widrigen Umständen bewusst sind. Beispielsweise:
 > Säubern der Ozeane von Kunststoff, Ausmessen der Polarkappen, etc.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-canteen)
+- [Solarpunk Prompts Podcast
+  Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-canteen)
 - [Transkription](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Canteen)
 - [Illustration](/de/art/the-lemonaut/canteen/)

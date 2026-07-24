@@ -1,12 +1,12 @@
 ---
-title: "Die Expert:innen"
-date: 2021-10-23
-draft: false
-description: ""
-tags: ["podcast"]
-showAuthorBottom: true
 authors:
-  - "alxd"
+  - alxd
+date: 2021-10-23
+description: ''
+draft: false
+showAuthorBottom: true
+tags: ["podcast"]
+title: 'Die Expert:innen'
 ---
 
 > Es gibt eine Gemeinschaft von äußerst spezialisierten Expert:innen.
@@ -18,5 +18,6 @@ authors:
 > spricht, und aus einer anderen Kultur kommt.
 > Und alle Jubeljahre können sie sich sogar persönlich treffen.
 
-- [Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-experts)
+- [Solarpunk Prompts Podcast
+  Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-experts)
 - [Transkription](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Experts)

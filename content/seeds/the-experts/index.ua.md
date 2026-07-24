@@ -1,15 +1,16 @@
 ---
-title: "Експерти"
-date: 2021-10-23
-draft: false
-description: ""
-tags: ["podcast"]
-showAuthorBottom: true
 authors:
-  - "alxd"
+  - alxd
+date: 2021-10-23
+description: ''
+draft: false
+showAuthorBottom: true
+tags: ["podcast"]
+title: Експерти
 ---
 
 > У світі майбутнього існує спільнота дуже спеціалізованих експертів. На свій планеті їх лише декілька. Зазвичай вони ведуть відлюдний спосіб життя, зосереджуючись на підтримці давно закинутої інфраструктури. Але їхня спільнота існує по всьому Інтернету. Вони вважають себе родиною, навіть якщо кожен з них розмовляє іншою мовою і походить з іншої культури. І раз на раз вони навіть можуть відвідати один одного в реальному житті.
 
-- [Епізод подкасту Solarpunk Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-experts)
+- [Епізод подкасту Solarpunk
+  Prompts](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-experts)
 - [Транскрипт](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Experts)
