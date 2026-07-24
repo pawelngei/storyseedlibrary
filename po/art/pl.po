@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
 "POT-Creation-Date: 2026-07-24 13:21+0200\n"
-"PO-Revision-Date: 2026-07-24 13:36+0000\n"
+"PO-Revision-Date: 2026-07-24 15:07+0000\n"
 "Last-Translator: alxd <alxd@noreply.codeberg.org>\n"
 "Language-Team: Polish <https://translate.codeberg.org/projects/story-seed-"
 "library/art/pl/>\n"
@@ -9459,7 +9459,7 @@ msgstr ""
 #: content/art/xulia-vicente/earth-water-air/index.en.md
 #, no-wrap
 msgid "Earth, water, air"
-msgstr ""
+msgstr "Ziemia, woda, powietrze"
 
 #. type: Plain text
 #: content/art/xulia-vicente/earth-water-air/index.en.md
@@ -9470,6 +9470,11 @@ msgid ""
 "All three elements of the title are reunited and sourced sustainably in the "
 "image."
 msgstr ""
+"Solarpunkowa scena na słonecznym polu pszenicy, gdzie małe roboty pracują "
+"nad żniewami a na kolanach kobiety małe dziecko czyta książkę. Społeczność "
+"pracuje nad zbudowaniem energii wiatrowej dając sobie jednocześnie czas na "
+"zabawę. Wszystkie trzy żywioły tytułu łączą się w odżywalną całość na "
+"ilustracji."
 
 #. type: Plain text
 #: content/art/xulia-vicente/earth-water-air/index.en.md
@@ -9478,6 +9483,9 @@ msgid ""
 "for the exhibition Utopies, curated by [APIV – The Illustrators’ Association "
 "of Valencia](https://apiv.com/)."
 msgstr ""
+"[Ilustracja](https://xuliavicente.com/project/utopies/) została stworzona na "
+"wystawę \"Utopie\" kurowaną przez [APIV – The Illustrators’ Association of "
+"Valencia](https://apiv.com/)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/yuuna-maiko/harvest-of-knowledge/index.en.md
