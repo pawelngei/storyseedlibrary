@@ -1,0 +1,1438 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
+"POT-Creation-Date: 2026-07-24 13:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/seek-shelter-immediately/index.en.md
+#, no-wrap
+msgid "Seek Shelter Immediately"
+msgstr "Proszę natychmiast udać się do schronu"
+
+#. type: Plain text
+#: content/seeds/seek-shelter-immediately/index.en.md
+#, no-wrap
+msgid "> The sirens wail as delegates bike away from failed negotiations about irrigation slowing a river that both communities depend on. The delegates, along with passers-through, shelter in the basement of a general store. How do the disparate people see the weather that forced them underground? Will the devastation of the storm tear the two communities further apart or will rebuilding their weather-beaten infrastructure give them a shared goal to work toward? Can the passers-through mediate between both communities?\n"
+msgstr "> Syreny zaczynają wyć gdy delegaci odjeżdżają na rowerach z nieudanych negocjacji dotyczących regulacji rzeki, od której zależne są obie społeczności. Wraz z przypadkowymi przechodniami chowają się w piwnicy sklepu wielobranżowego. Jak różni ludzie postrzegają ekstramalną pogodę, która zmusiła ich do schronienia się pod ziemią? Czy zniszczenia spowodowane przez burzę jeszcze bardziej podzielą obie społeczności, czy też odbudowa zniszczonej przez pogodę infrastruktury da im wspólny cel, do którego będą dążyć? Czy przypadkowi świadkowie sporu mogą pośredniczyć w porozumieniu między obiema społecznościami?\n"
+
+#. type: Plain text
+#: content/seeds/seek-shelter-immediately/index.en.md
+msgid ""
+"Other aspects to explore are how storm alerts could be issued without a "
+"centralized meteorological organization or a federal/national government "
+"controlling the communications infrastructure. In the U.S., the federal "
+"government has an [alerting system](https://www.ready.gov/alerts), which "
+"local governments can use."
+msgstr ""
+"Inne aspekty o których można pomyśleć, to sposób wydawania ostrzeżeń przed "
+"burzą bez scentralizowanej organizacji meteorologicznej lub federalnego/"
+"krajowego organu kontrolującego infrastrukturę komunikacyjną. W Stanach "
+"Zjednoczonych rząd federalny dysponuje [systemem ostrzegania](https://www."
+"ready.gov/alerts), z którego mogą korzystać samorządy lokalne."
+
+#. type: Plain text
+#: content/seeds/seek-shelter-immediately/index.en.md
+msgid ""
+"Could mesh networks like [Reticulum](https://reticulum.network/) or "
+"[Meshtastic](https://meshtastic.org/), coupled with open source weather "
+"sensors help to provide some weather-reporting? Would local governments or "
+"scientific organisations need to take over tracking extreme weather if "
+"national organizations lacked the resources?"
+msgstr ""
+"Czy sieci meshowe, takie jak [Reticulum](https://reticulum.network/) lub "
+"[Meshtastic](https://meshtastic.org/) w połączeniu z otwartoźródłowymi "
+"czujnikami pogodowymi mogłyby pomóc w dostarczaniu informacji o pogodzie? "
+"Czy samorządy lokalne lub organizacje naukowe musiałyby przejąć "
+"monitorowanie ekstremalnych warunków pogodowych, gdyby organy krajowe nie "
+"dysponowały odpowiednimi zasobami?"
+
+#. type: Plain text
+#: content/seeds/seek-shelter-immediately/index.en.md
+msgid ""
+"How would communities share meteorological data between themselves? Would "
+"information sharing possibly be too slow to be useful if large parts of the "
+"internet had been converted to meshnets to simplify infrastructure?"
+msgstr ""
+"W jaki sposób społeczności dzieliłyby się między sobą danymi "
+"meteorologicznymi? Czy wymiana informacji nie byłaby zbyt powolna, aby była "
+"użyteczna, gdyby duża część internetu została przekształcona w sieci meshowe "
+"w celu uproszczenia infrastruktury?"
+
+#. type: Plain text
+#: content/seeds/seek-shelter-immediately/index.en.md
+msgid ""
+"The general store could be \"[zero waste](https://en.wikipedia.org/wiki/"
+"Zero_waste)\" (which would more accurately be called, \"low waste\"). One "
+"way to achieve this would be to have customers bring their own containers to "
+"fill up with grain, spices, and so on. This introduces a complication where "
+"cross-contamination of allergens is likely and the community may lack "
+"resources to create epinephrine auto-injectors to deal with allergic "
+"reactions."
+msgstr ""
+"Sklep wielobranżowy mógłby być „[zero waste](https://en.wikipedia.org/wiki/"
+"Zero_waste)” (co dokładniej można by nazwać „low waste”). Jednym ze sposobów "
+"osiągnięcia tego celu byłoby zachęcanie klientów do przynoszenia własnych "
+"pojemników, które mogliby napełniać zbożem, przyprawami itp. Powoduje to "
+"jednak komplikacje, ponieważ istnieje ryzyko zanieczyszczenia ich "
+"alergenami, a społeczność może nie dysponować zasobami niezbędnymi do "
+"stworzenia autoinjektorów epinefryny do leczenia reakcji alergicznych."
+
+#. type: Plain text
+#: content/seeds/seek-shelter-immediately/index.en.md
+msgid ""
+"The general store may also be a place to gather regional news, the way "
+"barber shops, hardware stores, pubs, and coffee shops are. The general "
+"manager may have seen the trouble with the water dispute coming because he "
+"or she heard people from both communities complaining about it for months. "
+"Could the manager have prevented the conflict when he or she spotted early "
+"warning signs?"
+msgstr ""
+"Sklep wielobranżowy może być również miejscem, w którym gromadzone są "
+"regionalne wiadomości, podobnie jak salony fryzjerskie, sklepy z artykułami "
+"żelaznymi, puby i kawiarnie. Główny koordynator sklepu mógł przewidzieć "
+"kłopoty związane z konfliktem wodnym, ponieważ od miesięcy słyszał skargi "
+"mieszkańców obu społeczności. Czy mógłby zapobiec eskalacji mediując "
+"odpowiednio wcześnie?"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-archivists/index.en.md
+#, no-wrap
+msgid "The Archivists"
+msgstr "Archiwiści"
+
+#. type: Plain text
+#: content/seeds/the-archivists/index.en.md
+#, no-wrap
+msgid "> A community of archivists, cartographers, or Wikipedians is fighting to save as much unwritten lore and knowledge as they can, before the old generation passes away. They’re not hired by any organization or university, but connected by their love for the folk tales and belief that the natural medicine might be worth researching today.\n"
+msgstr "> Społeczność wikipedystów/archiwistów/kartografów walczy o ocalenie jak największej ilości niepisanej wiedzy, zanim stare pokolenie odejdzie. Nie są zatrudnieni przez żaden uniwersytet czy organizację, ale połączyła ich miłość do ludowych opowieści i wiara, że medycyna naturalna może być warta badań w dzisiejszych czasach.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-archivists/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-archivists)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-archivists)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-archivists/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Archivists)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Archivists)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-beekeepers/index.en.md
+#, no-wrap
+msgid "The Beekeepers"
+msgstr "Pszczelarze"
+
+#. type: Plain text
+#: content/seeds/the-beekeepers/index.en.md
+#, no-wrap
+msgid "> A team of environmentalists and neural network researchers are training new bee-like AIs by having them coexist with the animal populations of a local ecosystem, calling themselves “the beekeepers”.\n"
+msgstr "> Zespół ekologów i badaczy sieci neuronowych trenuje nowe pszczołopodobne Sztuczne Inteligencje przez zachęcanie ich do koegzystowania z populacjami zwierząt w lokalnym ekosystemie, nazywając siebie „pszczelarzami”.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-beekeepers/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-beekeepers)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-beekeepers)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-beekeepers/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Beekeepers)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Beekeepers)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-canteen/index.en.md
+#, no-wrap
+msgid "The Canteen"
+msgstr "Stołówka"
+
+#. type: Plain text
+#: content/seeds/the-canteen/index.en.md
+#, no-wrap
+msgid "> A canteen in an isolated scientific or environmental outpost, where scientists, engineers, cooks and maintenance staff show each other their human face, while still remembering the importance of their role here and the harsh conditions of the outside. For example: cleaning the plastic from the oceans, measuring the polar ice levels, etc.\n"
+msgstr "> Stołówka w odizolowanej placówce naukowej / środowiskowej, gdzie naukowcy, inżynierowie, kucharze i pracownicy obsługi pokazują sobie nawzajem swoje ludzkie oblicze, jednocześnie pamiętając o tym, jak ważna jest ich rola tutaj i jak trudne warunki panują na zewnątrz (np. czyszczenie oceanów z plastiku, mierzenie poziomu lodu na biegunie północnym itp.).\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-canteen/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-canteen)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-canteen)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-canteen/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Canteen)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Canteen)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-canteen/index.en.md
+msgid "[Illustration](/art/the-lemonaut/canteen/)"
+msgstr "[Ilustracja](/pl/art/the-lemonaut/canteen/)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-chefs/index.en.md
+#, no-wrap
+msgid "The Chefs"
+msgstr "Kucharze"
+
+#. type: Plain text
+#: content/seeds/the-chefs/index.en.md
+#, no-wrap
+msgid "> A group of cooks, dietitians, and teachers are tasked with both creating and promoting well-rounded and tasty vegetarian cuisine in a world living through the culture shock of no affordable meat.\n"
+msgstr "> Grupa kucharzy, dietetyków i nauczycieli, których zadaniem jest tworzenie i promowanie dobrze dopracowanej i smacznej kuchni wegańskiej/wegetariańskiej w świecie przeżywającym szok kulturowy związany z brakiem niedrogiego mięsa. Czy uda im się powstrzymać masową panikę i zamieszki?\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-chefs/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-chefs)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-chefs)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-chefs/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Chefs)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Chefs)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-chefs/index.en.md
+msgid "[Illustration](/art/the-lemonaut/chefs/)"
+msgstr "[Ilustracja](/pl/art/the-lemonaut/chefs/)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-community-center/index.en.md
+#, no-wrap
+msgid "The Community Center"
+msgstr "Dom Kultury"
+
+#. type: Plain text
+#: content/seeds/the-community-center/index.en.md
+#, no-wrap
+msgid "> A community center, library, or educational hub, initially set up to help people like coal miners re-specialize and find other jobs, has now became a place for unofficial “pilgrimages” of people striving to find their role in life and learn history from those who lived it.\n"
+msgstr "> Dom kultury / biblioteka / ośrodek edukacyjny, początkowo założony, by pomóc ludziom takim jak górnicy w zdobyciu nowych umiejętności i znalezieniu innej pracy, teraz stał się miejscem nieoficjalnych „pielgrzymek” ludzi dążących do odnalezienia swojej roli w życiu i poznania historii od tych, którzy taką przemianę przeżyli.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-community-center/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-community-center)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-community-center)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-community-center/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Community-Center)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Community-Center)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-community-center/index.en.md
+msgid "[Illustration](/art/the-lemonaut/community-center/)"
+msgstr "[Ilustracja](/pl/art/the-lemonaut/community-center/)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-dirigible/index.en.md
+#, no-wrap
+msgid "The Dirigible"
+msgstr "Sterowiec"
+
+#. type: Plain text
+#: content/seeds/the-dirigible/index.en.md
+#, no-wrap
+msgid "> A modern zeppelin is the fastest and cheapest mode of transportation for several remote communities. Its anarchist crew is always ready to welcome a new member, even if they’re clearly a runaway kid looking for an adventure.\n"
+msgstr ""
+
+#. type: Bullet: '- '
+#: content/seeds/the-dirigible/index.en.md
+#, fuzzy
+#| msgid ""
+#| "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+#| "@SolarpunkPrompts/episodes/the-miners)"
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-dirigible)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-miners)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-dirigible/index.en.md
+#, fuzzy
+#| msgid ""
+#| "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+#| "Miners)"
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Dirigible)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Miners)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-dirigible/index.en.md
+#, fuzzy
+#| msgid "[Illustration](/art/the-lemonaut/tailors/)"
+msgid "[Illustration](/art/karl-schulschenk/air/)"
+msgstr "[Ilustracja](/pl/art/the-lemonaut/tailors/)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-disabled-community/index.en.md
+#, no-wrap
+msgid "The Disabled Community"
+msgstr "Niepełnosprawni"
+
+#. type: Plain text
+#: content/seeds/the-disabled-community/index.en.md
+#, no-wrap
+msgid "> A community of people with disabilities share their best tricks on how to deal with a harsh world not made for them. A lot of what they share remains unspoken, for every one knows the pain and the challenges they face.\n"
+msgstr "> Społeczność osób z niepełnosprawnościami dzieli się najlepszymi sztuczkami, jak radzić sobie w trudnym świecie, który nie został dla nich stworzony. Wiele z tego, czym się dzielą, pozostaje niewypowiedziane, bo każdy z nich zna ból i wyzwania, z jakimi się mierzą.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-disabled-community/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-disabled-community)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-disabled-community)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-disabled-community/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Disabled-Community)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Disabled-Community)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-disabled-community/index.en.md
+#: content/seeds/the-hackerspace/index.en.md
+msgid "[Illustration](/art/the-lemonaut/hackerspace/)"
+msgstr "[Ilustracja](/pl/art/the-lemonaut/hackerspace/)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-electronic-graveyard/index.en.md
+#, no-wrap
+msgid "The Electronics Graveyard"
+msgstr "Wysypisko elektroniki"
+
+#. type: Plain text
+#: content/seeds/the-electronic-graveyard/index.en.md
+#, no-wrap
+msgid "> A shantytown sits next to an electronic waste site in the Global South, where the electronics are remixed, remade and cannibalized to repair and maintain the local hospital. Its parts are needed as no Northerner will ever come with newly-milled replacements. The town slowly evolves into their own version of Shenzhen, a hub of innovation and production, one where all knowledge is shared and all kinds of crazy inventions are born.\n"
+msgstr "> Nędzne miasteczko obok składowiska odpadów elektronicznych na Globalnym Południu, gdzie elektronika jest przerabiana i kanibalizowana w celu naprawy i konserwacji narzędzi w lokalnych szpitalach, ponieważ żaden mieszkaniec Północy nie pojawi się tu z nowymi częściami zamiennymi. Powoli ewoluują w swoją własną wersję chińskiego Shenzen, gdzie cała wiedza jest współdzielona, a każdego szalonego wynalazku warto spróbować.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-electronic-graveyard/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-electronics-graveyard)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-electronics-graveyard)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-electronic-graveyard/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Electronics-Graveyard)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Electronics-Graveyard)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-epidemiologists/index.en.md
+#, no-wrap
+msgid "The Epidemiologists"
+msgstr "Epidemiologowie"
+
+#. type: Plain text
+#: content/seeds/the-epidemiologists/index.en.md
+#, no-wrap
+msgid "> A collective of doctors, epidemiologists, and educators is researching new pandemic threats and trying to convince multiple communities that they need to vaccinate and change their behaviors without using violence or direct power.\n"
+msgstr "> Kolektyw lekarzy, epidemiologów i edukatorów badających nowe zagrożenia pandemiczne, próbujących przekonać inne społeczności do szczepień i unikania pewnych miejsc/zachowań — bez użycia przemocy czy bezpośredniej hierarchii i władzy. Dobre do zbadania w warunkach społeczeństwa bezpaństwowego, gdzie nie można po prostu zmusić ludzi do czegoś.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-epidemiologists/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-epidemiologists)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-epidemiologists)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-epidemiologists/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Epidemiologists)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Epidemiologists)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-expedition/index.en.md
+#, no-wrap
+msgid "The Expedition"
+msgstr "Ekspedycja"
+
+#. type: Plain text
+#: content/seeds/the-expedition/index.en.md
+#, no-wrap
+msgid "> A group of doctors and engineers from a Global South country are sent on a mission in the North, helping the specialists there live in the world after The Great Internet Collapse, where the AIs will no longer make suggestions and the Clouds can’t calculate the load bearing strength of a pillar.\n"
+msgstr "> Grupa lekarzy i inżynierów z kraju Globalnego Południa (Kuba by się nadawała) na misji na Północy, pomagająca tamtejszym specjalistom żyć w świecie po Wielkiej Zapaści Internetu, gdzie Sztuczna Inteligencja już niczego nie podpowie, a Chmury nie obliczą wytrzymałości filarów mostu.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-expedition/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-expedition)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-expedition)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-expedition/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Expedition)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Expedition)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-experts/index.en.md
+#, no-wrap
+msgid "The Experts"
+msgstr "Eksperci"
+
+#. type: Plain text
+#: content/seeds/the-experts/index.en.md
+#, no-wrap
+msgid "> There is a community of very specialized experts. Only a handful exist in the whole world. They are normally hermits, focused on maintaining long-forgotten infrastructure. But their community exists across the internet. They consider themselves a family, even if each of them speaks a different language, and comes from a different culture. And once a blue moon they can even physically visit each other.\n"
+msgstr "> Internetowa społeczność bardzo wyspecjalizowanych ekspertów, których na świecie jest zaledwie garstka. Zazwyczaj pustelnicy, konserwatorzy zabytków, ekologowie zagrożonych gatunków, specjaliści od utrzymania dawno zapomnianej infrastruktury, uważają się za rodzinę, nawet jeśli każdy z nich mówi innym językiem i pochodzi z innej kultury. Raz na święty nigdy mogą się nawet fizycznie odwiedzić.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-experts/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-experts)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-experts)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-experts/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Experts)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Experts)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-fire-brigade/index.en.md
+#, no-wrap
+msgid "The Fire Brigade"
+msgstr "Strażacy"
+
+#. type: Plain text
+#: content/seeds/the-fire-brigade/index.en.md
+#, no-wrap
+msgid "> There is a military unit which switched from tanks to firetrucks decades ago. Now they’re fighting climate disasters, being more engineers and firefighters than soldiers, which is a dream for some and a nightmare for others. The rookies, well-versed in the new reality are struggling to understand the language of the old officer, still clinging to the military jargon and ways.\n"
+msgstr ""
+
+#. type: Bullet: '- '
+#: content/seeds/the-fire-brigade/index.en.md
+#, fuzzy
+#| msgid ""
+#| "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+#| "@SolarpunkPrompts/episodes/the-miners)"
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-fire-brigade)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-miners)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-fire-brigade/index.en.md
+#, fuzzy
+#| msgid ""
+#| "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+#| "Miners)"
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Fire-"
+"Brigade)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Miners)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-fire-brigade/index.en.md
+#, fuzzy
+#| msgid "[Illustration](/art/the-lemonaut/hackerspace/)"
+msgid "[Illustration](/art/the-lemonaut/helicopter-flood-rescue/)"
+msgstr "[Ilustracja](/pl/art/the-lemonaut/hackerspace/)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-great-infrastructural-project/index.en.md
+#, no-wrap
+msgid "The Great Infrastructural Project"
+msgstr "Wielki Projekt Infrastrukturalny"
+
+#. type: Plain text
+#: content/seeds/the-great-infrastructural-project/index.en.md
+#, no-wrap
+msgid "> There is a small, rural town next to whom A Great Infrastructural Project was built. It was a dam, or a huge solar & wind power plant, or a gravitational battery, etc. Over time, the corporations and the government forgot about them and in order to avoid a catastrophe they need to work with unusual, driven activists who came from all over to help them.\n"
+msgstr "> Małe, wiejskie miasteczko, obok którego zbudowano Wielki Projekt Infrastrukturalny: tamę, ogromną elektrownię słoneczną/wiatrową, baterię grawitacyjną itd. Z czasem korporacje i rząd porzuciły projekt i teraz, aby uniknąć katastrofy, mieszkańcy muszą współpracować z szalonymi, zdeterminowanymi aktywistami, którzy przybyli z różnych stron, aby im pomóc.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-great-infrastructural-project/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-great-infrastructure-project)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-great-infrastructure-project)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-great-infrastructural-project/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Great-"
+"Infrastructural-Project)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Great-"
+"Infrastructural-Project)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-hackerspace/index.en.md
+#, no-wrap
+msgid "The Hackerspace"
+msgstr "Hackerspace"
+
+#. type: Plain text
+#: content/seeds/the-hackerspace/index.en.md
+#, no-wrap
+msgid "> A hackerspace sits within a city still clinging to their own ways while the rest of the world changes. Activists, technologists, inventors and educators trying to show the communities around them that it’s possible to live differently, while actively squabbling over whose plan is the best.\n"
+msgstr "> Squat / hackerspace w mieście, które wciąż trzyma się starych schematów, podczas gdy reszta świata się zmienia. Aktywiści, technolodzy, wynalazcy i edukatorzy próbują pokazać społecznościom wokół siebie, że można żyć inaczej, a jednocześnie aktywnie spierają się o to, czyj plan jest najlepszy.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-hackerspace/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-hackerspace)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-hackerspace)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-hackerspace/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Hackerspace)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Hackerspace)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-henchmen/index.en.md
+#, no-wrap
+msgid "The Henchmen"
+msgstr "Najemnicy"
+
+#. type: Plain text
+#: content/seeds/the-henchmen/index.en.md
+#, no-wrap
+msgid "> A group of mercenaries, bodyguards and defense contractors are hired by a billionaire to protect him in his remote stronghold after the great market collapse. Their boss eventually grew bored and ordered them to harass people from neighboring villages, barely making ends meet. He didn’t expect the bodyguards to turn on him. Now, after their boss had an unfortunate accident, these security personnel, with no experience in community building or with the local language, are trying to open up the stronghold and join their distrusting neighbors.\n"
+msgstr "> Grupa najemników, ochroniarzy i kontraktorów z branży militarnej wynajętych przez miliardera do ochrony jego odległej twierdzy po Wielkim Załamaniu Rynku. Ich szefowi w końcu znudziła się samotność i kazał im nękać ludzi z okolicznych wiosek, ledwo wiążących koniec z końcem. Nie spodziewał się, że ochroniarze zwrócą się przeciwko niemu. Teraz, po tym, jak ich szef miał wypadek, ochroniarze bez doświadczenia w budowaniu społeczności czy posługiwaniu się lokalnym językiem próbują otworzyć bramy twierdzy i dołączyć do nieufnych sąsiadów.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-henchmen/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-henchmen)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-henchmen)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-henchmen/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Henchmen)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Henchmen)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-miners/index.en.md
+#, no-wrap
+msgid "The Miners"
+msgstr "Górnicy"
+
+#. type: Plain text
+#: content/seeds/the-miners/index.en.md
+#, no-wrap
+msgid "> A powerful co-op of rare earth miners, who long ago fought their owners and won, now face a new challenge: how to avoid becoming like them, knowing that without their work very few people will be able to produce electronics.\n"
+msgstr "> Niezwykle potężna spółdzielnia / związek zawodowy górników metali ziem rzadkich, którzy dawno temu wywalczyli kontrolę nad kopalniami z rąk kapitalistów. Teraz stoją przed znacznie większym wyzwaniem: jak nie stać się takimi jak dawni właściciele, zwłaszcza wiedząc, że bez ich pracy bardzo niewielu ludzi będzie w stanie wyprodukować jakąkolwiek elektronikę?\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-miners/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-miners)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-miners)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-miners/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Miners)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Miners)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-moonshot/index.en.md
+#, no-wrap
+msgid "The Moonshot"
+msgstr "Szalony Projekt"
+
+#. type: Plain text
+#: content/seeds/the-moonshot/index.en.md
+#, no-wrap
+msgid "> A group of scientists, environmentalists, and politicians, such as lobbyists to the UN, are analyzing the footprints of the solar panels and windmills around the world, trying to answer the question: is sending a rocket to the moon and back to get a tonne of moon soil the best thing we can do in the middle of a climate crisis? Is moon helium fusion the best way forward?\n"
+msgstr "> Grupa naukowców, ekologów i polityków / lobbystów przy ONZ analizująca ślady klimatyczne paneli słonecznych i wiatraków na całym świecie, próbując odpowiedzieć na pytanie: czy wysłanie rakiety na Księżyc i z powrotem po tonę księżycowej ziemi jest najlepszą rzeczą, jaką możemy zrobić w środku kryzysu klimatycznego? Czy uruchomienie fuzji jądrowej z Księżyca jest najlepszym rozwiązaniem na przyszłość?\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-moonshot/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-moonshot)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-moonshot)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-moonshot/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Moonshot)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Moonshot)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-non-economists/index.en.md
+#, no-wrap
+msgid "The Non-Economists"
+msgstr "Nie-ekonomiści"
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+#, no-wrap
+msgid "> A small team of researchers is woken up by their notification inboxes exploding: their mundane and unexciting report might have just started an economic war between multiple regions and communities. In a world with tightly-controlled carbon budgets, the production, use and recycling of every product is a subject of LCA, or a LifeCycle Assessment. A bad result might change the design, or move the production to another region, with potential political consequences. How will the researchers deal with their newly acquired (in)fame? Will they trust their analysis, buckle under pressure, or decide to play politics?\n"
+msgstr "> Mały zespół badaczy zostaje nagle obudzony przez tysiące powiadomień: ich przyziemny i nudny raport być może właśnie rozpętał wojnę ekonomiczną pomiędzy kilkoma regionami i społecznościami. W świecie ściśle kontrolowanych budżetów węglowych produkcja, użytkowanie i recykling każdego produktu jest poddane LCA - Środowiskowej Ocenie Cyklu Życia. Zły wynik może wymusić przeprojektowanie - lub przenieść produkcję do innego regionu, z potencjalnymi konsekwencjami politycznymi. Jak ta grupa badaczy podoła swojej nowej (nie)sławie? Czy zaufają swoim obliczeniom, ugną się pod ciśnieniem, czy może zdecydują zacząć bawić się w politykę?\n"
+
+#. type: Title ##
+#: content/seeds/the-non-economists/index.en.md
+#: content/seeds/the-priorities/index.en.md
+#: content/seeds/the-reservists/index.en.md
+#, no-wrap
+msgid "Raw Research Notes"
+msgstr "Notatki po angielsku"
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+msgid ""
+"What we have then - whether in terms of Carbon Credits, LCAs or other "
+"aspects - is a question how to structure a system to make sense and be "
+"unhackable."
+msgstr ""
+"What we have then - whether in terms of Carbon Credits, LCAs or other "
+"aspects - is a question how to structure a system to make sense and be "
+"unhackable."
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+msgid ""
+"One solution would be maximum transparency and treating the whole LCA "
+"process: the knowledge base, algorithms, specific decisions as a wiki, where "
+"everybody can look into and comment. How much can we offload on citizen "
+"scientists and citizen economists, however?"
+msgstr ""
+"One solution would be maximum transparency and treating the whole LCA "
+"process: the knowledge base, algorithms, specific decisions as a wiki, where "
+"everybody can look into and comment. How much can we offload on citizen "
+"scientists and citizen economists, however?"
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+msgid ""
+"This will also lead to faction wars, both in terms of ideology and "
+"economics. Every decision will have consequences - and even without layers "
+"of red tape and sleazy CEOs people can be rallied to vote against something "
+"important. What if the calculations show that - for example - India should "
+"not produce steel, which could be picked up by another, much smaller "
+"country? The sheer population and number of votes can out-weight it! Will "
+"they then vote on a flawed calculation method, led by a demagogue?"
+msgstr ""
+"This will also lead to faction wars, both in terms of ideology and "
+"economics. Every decision will have consequences - and even without layers "
+"of red tape and sleazy CEOs people can be rallied to vote against something "
+"important. What if the calculations show that - for example - India should "
+"not produce steel, which could be picked up by another, much smaller "
+"country? The sheer population and number of votes can out-weigh it! Will "
+"they then vote on a flawed calculation method, led by a demagogue?"
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+msgid ""
+"The bribes don't need to be financial. They can be prestige, acceptance by a "
+"faction, or whatever else."
+msgstr ""
+"The bribes don't need to be financial. They can be prestige, acceptance by a "
+"faction, or whatever else."
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+msgid ""
+"This prompt ties in with [the Miners](/seeds/the-miners), [The Moonshot](/"
+"seeds/the-moonshot) and many others."
+msgstr "This prompt ties in with the Miners, The Moonshot and many others."
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+msgid "Let's look for a story in it though:"
+msgstr "Let's look for a story in it though:"
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+msgid ""
+"Let's imagine a group of LCA scientists who just published just another "
+"analysis, being abruptly woken by their notification inboxes exploding. They "
+"were just launched on the front lines of a faction war, where their report "
+"was the \"last straw\" and might now contribute do a huge societal change, "
+"removing whole sectors of economy from one region of the world into another. "
+"Do they trust their work? Will they buckle under pressure? It's a good "
+"opportunity to walk the reader through how the LCA process looks like."
+msgstr ""
+"Let's imagine a group of LCA scientists who just published just another "
+"analysis, being abruptly woken by their notification inboxes exploding. They "
+"were just launched on the front lines of a faction war, where their report "
+"was the \"last straw\" and might now contribute do a huge societal change, "
+"removing whole sectors of economy from one region of the world into another. "
+"Do they trust their work? Will they buckle under pressure? It's a good "
+"opportunity to walk the reader through how the LCA process looks like."
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+msgid ""
+"Consider the world to be more anarchist, less hierarchical, where a lot of "
+"decisions are consensus-based and a subject of public debate, flames and "
+"online brigading. The scientists behind this report are now celebrities, "
+"widely known, whether they want it or not. If you want to cite a book with "
+"similar themes, you can go with LX Beckett's \"Gamechanger\" or "
+"\"Dealbreaker\", where the popular support for eco-policies is one of the "
+"most important plots of both novels."
+msgstr ""
+"Consider the world to be more anarchist, less hierarchical, where a lot of "
+"decisions are consensus-based and a subject of public debate, flames and "
+"online brigading. The scientists behind this report are now celebrities, "
+"widely known, whether they want it or not. If you want to cite a book with "
+"similar themes, you can go with LX Beckett's \"Gamechanger\" or "
+"\"Dealbreaker\", where the popular support for eco-policies is one of the "
+"most important plots of both novels."
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+msgid ""
+"Let's remember that more and more LCA processes are not just about energy "
+"and material, but are trying to count-in the uncountable, the effects on "
+"human happiness and labour practices. Yes, we could move the industry to "
+"China, but the general economic effect will produce X more tons of CO2, even "
+"if the factories will be more efficient."
+msgstr ""
+"Let's remember that more and more LCA processes are not just about energy "
+"and material, but are trying to count-in the uncountable, the effects on "
+"human happiness and labour practices. Yes, we could move the industry to "
+"China, but the general economic effect will produce X more tons of CO2, even "
+"if the factories will be more efficient."
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+#: content/seeds/the-priorities/index.en.md
+msgid "Original notes:"
+msgstr "Original notes:"
+
+#. type: Bullet: '- '
+#: content/seeds/the-non-economists/index.en.md
+msgid ""
+"If they aren’t careful, they could become like the economists of the past "
+"centuries, worshiping a mathematical model and a paradigm, instead of "
+"continuously testing it."
+msgstr ""
+"If they aren’t careful, they could become like the economists of the past "
+"centuries, worshiping a mathematical model and a paradigm, instead of "
+"continuously testing it."
+
+#. type: Bullet: '- '
+#: content/seeds/the-non-economists/index.en.md
+msgid "Struggles of morality are ongoing in solarpunk"
+msgstr "Struggles of morality are ongoing in solarpunk"
+
+#. type: Plain text
+#: content/seeds/the-non-economists/index.en.md
+#: content/seeds/the-priorities/index.en.md
+msgid "Sources:"
+msgstr "Sources:"
+
+#. type: Bullet: '- '
+#: content/seeds/the-non-economists/index.en.md
+msgid "https://en.wikipedia.org/wiki/Life-cycle_assessment"
+msgstr "https://en.wikipedia.org/wiki/Life-cycle_assessment"
+
+#. type: Bullet: '- '
+#: content/seeds/the-non-economists/index.en.md
+msgid ""
+"We can throw in the https://globalcarbonreward.org/ and let's say, \"good "
+"faith\", non-blockchain carbon counting systems. We WILL need one."
+msgstr ""
+"We can throw in the https://globalcarbonreward.org/ and let's say, \"good "
+"faith\", non-blockchain carbon counting systems. We WILL need one."
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-pharmacists/index.en.md
+#, no-wrap
+msgid "The Pharmacists"
+msgstr "Farmakolodzy"
+
+#. type: Plain text
+#: content/seeds/the-pharmacists/index.en.md
+#, no-wrap
+msgid "> A motley collection of neo-archeologists, data experts, doctors and biohackers are going through databases of the fallen pharmaceutical corporations, looking for drugs and solutions which worked, but were too cheap for the company giants to market. With so many medicines and procedures gone or extremely hard to get, maybe this is the best chance to rediscover cures?\n"
+msgstr "> Barwna gromadka neoarcheologów, ekspertów od danych, lekarzy i biohakerów przeszukuje bazy danych upadłych korporacji farmaceutycznych w poszukiwaniu leków i rozwiązań, które działały, ale były zbyt tanie, by kapitalistyczni giganci chcieli je wprowadzić na rynek. Skoro tak wiele leków i procedur przestało istnieć lub jest niezwykle trudno dostępnych, może to jest właśnie najlepsza szansa na znalezienie nowych lekarstw?\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-pharmacists/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-pharmacists)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-pharmacists)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-pharmacists/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Pharmacists)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Pharmacists)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-priorities/index.en.md
+#, no-wrap
+msgid "The Priorities"
+msgstr "Priorytety"
+
+#. type: Plain text
+#: content/seeds/the-priorities/index.en.md
+#, no-wrap
+msgid "> A team of architects and civil engineers working on future-proofing their community need to make a hard decision. They are trying to prioritize the threats, but it’s a gamble trying to balance effectiveness and accessibility. They could make sure that one block won’t get flooded, but another district would need to wait.\n"
+msgstr "> Zespół architektów i inżynierów pracujących nad uodpornieniem miasta na przyszłe katastrofy musi podejmować trudne decyzje i ryzykować, ustalając priorytety zagrożeń. Ich największym, rozdzierającym serce wyzwaniem jest wyważenie skuteczności i dostępności ich rozwiązania. Jasne, mogą sprawić, że nikt z tej przecznicy nie zostanie zalany, ale druga połowa dzielnicy będzie musiała pocierpieć.\n"
+
+#. type: Plain text
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"Continuing the architecture and infrastructure again, this time from the "
+"perspective of the architects. This can be a pre-solarpunk or solarpunk "
+"endeavor, shown as more reactionary in the chaos of everything, or more of a "
+"\"good practice\" after decades of notes and hard decisions already made."
+msgstr ""
+"Continuing the architecture and infrastructure again, this time from the "
+"perspective of the architects. This can be a pre-solarpunk or solarpunk "
+"endeavor, shown as more reactionary in the chaos of everything, or more of a "
+"\"good practice\" after decades of notes and hard decisions already made."
+
+#. type: Plain text
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"This is NOT a crisis response team. The flood, the heatwave, the hurricane "
+"are not here yet. You are to make them less threatening, not start "
+"evacuating people right now."
+msgstr ""
+"This is NOT a crisis response team. The flood, the heatwave, the hurricane "
+"are not here yet. You are to make them less threatening, not start "
+"evacuating people right now."
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"The \"accessibility\" means three things: access of an average citizen to "
+"the infrastructure (a shelter maybe?), access of poorer / less fortunate "
+"residents to protenctions in their district, and of course access of the "
+"disabled citizens to things they need, as wheelchair-bound people will "
+"really struggle with knee-high floods."
+msgstr ""
+"The \"accessibility\" means three things: access of an average citizen to "
+"the infrastructure (a shelter maybe?), access of poorer / less fortunate "
+"residents to protenctions in their district, and of course access of the "
+"disabled citizens to things they need, as wheelchair-bound people will "
+"really struggle with knee-high floods."
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"Will this mean abandoning districts and forcible relocations, or worse, "
+"climate ghettos?"
+msgstr ""
+"Will this mean abandoning districts and forcible relocations, or worse, "
+"climate ghettos?"
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"Assuming the team has access to all the required data, scientists, "
+"meteorologists, city archives: how many different kinds of climate threats "
+"can they protect us from? What will help with heatwaves, what with floods, "
+"hurricanes?"
+msgstr ""
+"Assuming the team has access to all the required data, scientists, "
+"meteorologists, city archives: how many different kinds of climate threats "
+"can they protect us from? What will help with heatwaves, what with floods, "
+"hurricanes?"
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"What prices are considered too steep to pay? Are we going to surrender "
+"historical sites, places of remembrance? Are we okay with destroying a flood "
+"shaft and flooding a nature reserve to protect the population?"
+msgstr ""
+"What prices are considered too steep to pay? Are we going to surrender "
+"historical sites, places of remembrance? Are we okay with destroying a flood "
+"shaft and flooding a nature reserve to protect the population?"
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"How does the background of the team members play into that? Who already "
+"lives in a \"safe\", sutstainable tower, radiating pride and confidence, who "
+"clings to their family house in the suburbs, who cannot afford leaving a "
+"dangerous building which will not survive the next cataclysm?"
+msgstr ""
+"How does the background of the team members play into that? Who already "
+"lives in a \"safe\", sutstainable tower, radiating pride and confidence, who "
+"clings to their family house in the suburbs, who cannot afford leaving a "
+"dangerous building which will not survive the next cataclysm?"
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"What time-scale are we talking about? Are we okay with cheaper protections "
+"that will last a year, are we going for 5 years, a decade, or more?"
+msgstr ""
+"What time-scale are we talking about? Are we okay with cheaper protections "
+"that will last a year, are we going for 5 years, a decade, or more?"
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"How do we communicate it to the population, not to appear as despots "
+"choosing one group over another?"
+msgstr ""
+"How do we communicate it to the population, not to appear as despots "
+"choosing one group over another?"
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"What if we fail, what if we prepared for a flood and an unexpected heatwave "
+"rolls over, killing thousands? How do team members deal with guilt, do they "
+"accept the blame? Deny it?"
+msgstr ""
+"What if we fail, what if we prepared for a flood and an unexpected heatwave "
+"rolls over, killing thousands? How do team members deal with guilt, do they "
+"accept the blame? Deny it?"
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"A good book on the social infrastructure and the challenges of urban "
+"planning: https://www.goodreads.com/en/book/show/37707827 , with some tl;dr "
+"in https://99percentinvisible.org/episode/palaces-for-the-people/"
+msgstr ""
+"A good book on the social infrastructure and the challenges of urban "
+"planning: https://www.goodreads.com/en/book/show/37707827 , with some tl;dr "
+"in https://99percentinvisible.org/episode/palaces-for-the-people/"
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid "https://reasonstobecheerful.world/waal-river-flooding-project/"
+msgstr "https://reasonstobecheerful.world/waal-river-flooding-project/"
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"https://www.preventionweb.net/news/germany-2021-floods-10-recommendations-"
+"resilience"
+msgstr ""
+"https://www.preventionweb.net/news/germany-2021-floods-10-recommendations-"
+"resilience"
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"https://www.bloomberg.com/news/features/2021-12-18/how-hamburg-learned-to-"
+"live-with-rising-water"
+msgstr ""
+"https://www.bloomberg.com/news/features/2021-12-18/how-hamburg-learned-to-"
+"live-with-rising-water"
+
+#. type: Bullet: '- '
+#: content/seeds/the-priorities/index.en.md
+msgid ""
+"https://www.archdaily.com/993434/can-architecture-and-urban-planning-fight-"
+"back-against-climate-change has some sources, but also a lot of \"fake\" "
+"solutions"
+msgstr ""
+"https://www.archdaily.com/993434/can-architecture-and-urban-planning-fight-"
+"back-against-climate-change has some sources, but also a lot of \"fake\" "
+"solutions"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-refugee-camp/index.en.md
+#, no-wrap
+msgid "The Refugee Camp"
+msgstr "Obóz dla uchodźców"
+
+#. type: Plain text
+#: content/seeds/the-refugee-camp/index.en.md
+#, no-wrap
+msgid "> There is a full-fledged town built from a refugee camp which was set up there two decades ago. The inhabitants speak their own creole, a mix of more than five languages, and have very shaky relationships with their neighboring communities or states, each of which considers it a lawless territory and might be plotting to take over.\n"
+msgstr "> Pełnowartościowe miasto powstałe z obozu dla uchodźców, który założono tam dwie dekady wcześniej. Mieszkańcy mówią własnym dialektem, mieszanką ponad pięciu języków - i mają bardzo chwiejne relacje z sąsiednimi społecznościami / państwami, z których każde uważa je za ziemię niczyją i w każdej chwili może chcieć je zagarnąć.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-refugee-camp/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-refugee-camp)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-refugee-camp)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-refugee-camp/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Refugee-Camp)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Refugee-Camp)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-reservists/index.en.md
+#, no-wrap
+msgid "The Reservists"
+msgstr "Rezerwiści"
+
+#. type: Plain text
+#: content/seeds/the-reservists/index.en.md
+#, no-wrap
+msgid "> As a disaster strikes, completely overwhelming several communities, a group of friends is called back into service as first responders. Each of their lives took a different path since the Service, but as they scramble to remember their training - as flood control, epidemic trackers, trauma psychologists or radio technicians - they feel like one unit again. Meeting new kids, straight from the mandatory training everyone goes through - will they become their mentors, or struggle opening up to greenhorns?\n"
+msgstr "> Gdy katastrofa naturalna paraliżuje kilka społeczności, grupa przyjaciół zostaje postawiona w stan gotowości jako służby ratunkowe. Życie każdego z nich potoczyło się inaczej od czasu Powołania, ale postawieni w obliczu prawdziwego zagrożenia przypominają sobie szkolenia - walkę z powodziami, epidemiami, pracę psychologów traumy czy techników radiowych - i ponownie czują się jak jeden oddział. Czy gdy spotkają nowe pokolenie, świeżo po roku obowiązkowej służby, będą w stanie wejść w rolę doświadczonych mentorów?\n"
+
+#. type: Plain text
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"There is A LOT of baggage coming with the idea of a military service, the "
+"indocrination of the military, nationalism, destroying the individualism, "
+"discriminating against queer people, hiding sexual abuse etc. Let's "
+"acknowledge that and instead of \"re-forging existing militaries\" (as is "
+"episode #11) let's focus on something else: life after service."
+msgstr ""
+"There is A LOT of baggage coming with the idea of a military service, the "
+"indocrination of the military, nationalism, destroying the individualism, "
+"discriminating against queer people, hiding sexual abuse etc. Let's "
+"acknowledge that and instead of \"re-forging existing militaries\" (as is "
+"episode #11) let's focus on something else: life after service."
+
+#. type: Plain text
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"Let's imagine that after finishing high school, but before going to the "
+"University, every person in our society goes through 2 years of training and "
+"climate service. It doesn't matter what gender they are, or if they are "
+"disabled: they get assigned to a specialization and they learn how to help "
+"their community and society in some way. They can be first responders, they "
+"can be electricians, logisticians, kindergardeners, forest rangers, flood "
+"experts od epidemic effort coordinators. They are not professionals - of "
+"course, they can align their careers along their training - but they are the "
+"\"service members\"."
+msgstr ""
+"Let's imagine that after finishing high school, but before going to the "
+"University, every person in our society goes through 2 years of training and "
+"climate service. It doesn't matter what gender they are, or if they are "
+"disabled: they get assigned to a specialization and they learn how to help "
+"their community and society in some way. They can be first responders, they "
+"can be electricians, logisticians, kindergardeners, forest rangers, flood "
+"experts od epidemic effort coordinators. They are not professionals - of "
+"course, they can align their careers along their training - but they are the "
+"\"service members\"."
+
+#. type: Plain text
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"This gives people their first skillset, but at the same time assures that "
+"everyone in a given region can help in case of a catastrophe. In case of a "
+"given kind of help needed, people with the right expertise are called for, "
+"no matter where in life are they now - whether hairdressers, engineers or "
+"politicians."
+msgstr ""
+"This gives people their first skillset, but at the same time assures that "
+"everyone in a given region can help in case of a catastrophe. In case of a "
+"given kind of help needed, people with the right expertise are called for, "
+"no matter where in life are they now - whether hairdressers, engineers or "
+"politicians."
+
+#. type: Plain text
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"They were equal once, within their \"unit\", and they will be equal once "
+"more, standing at the flood embankments."
+msgstr ""
+"They were equal once, within their \"unit\", and they will be equal once "
+"more, standing at the flood embankments."
+
+#. type: Plain text
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"What's important, this prompt is not set DURING their initial training and "
+"service (as per #11), but years after, when people are mobilized again."
+msgstr ""
+"What's important, this prompt is not set DURING their initial training and "
+"service (as per #11), but years after, when people are mobilized again."
+
+#. type: Plain text
+#: content/seeds/the-reservists/index.en.md
+msgid "This gives us A LOT in terms of worldbuilding:"
+msgstr "This gives us A LOT in terms of worldbuilding:"
+
+#. type: Bullet: '- '
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"Everyone has been through a similar experience. This gives them a friend-"
+"group for life, some more empathy for people from vastly different paths of "
+"life, but can also result in some tribalism."
+msgstr ""
+"Everyone has been through a similar experience. This gives them a friend-"
+"group for life, some more empathy for people from vastly different paths of "
+"life, but can also result in some tribalism."
+
+#. type: Bullet: '  - '
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"Are there sports teams or political factions based on the \"service "
+"groups\"? The Firemen versus The Radio Guys?"
+msgstr ""
+"Are there sports teams or political factions based on the \"service "
+"groups\"? The Firemen versus The Radio Guys?"
+
+#. type: Bullet: '- '
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"Instead of being indoctrinated into patriotism and nationalism, our service "
+"members share a bond of saving lives and helping others in their own way. "
+"They might bring a lot of different and conflicting ideologies to the table, "
+"but this is something that connects them all."
+msgstr ""
+"Instead of being indoctrinated into patriotism and nationalism, our service "
+"members share a bond of saving lives and helping others in their own way. "
+"They might bring a lot of different and conflicting ideologies to the table, "
+"but this is something that connects them all."
+
+#. type: Bullet: '- '
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"As with current military reservists, people will be called for trainings "
+"once every year, or several years. If they weren't a group of friends and a "
+"small community then, they probably will be."
+msgstr ""
+"As with current military reservists, people will be called for trainings "
+"once every year, or several years. If they weren't a group of friends and a "
+"small community then, they probably will be."
+
+#. type: Bullet: '- '
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"What in case of a drama? If Casey told Tom she really hates them, can they "
+"work well together under a lot of pressure, during a cataclysm? There must "
+"be some procedures in place for that!"
+msgstr ""
+"What in case of a drama? If Casey told Tom she really hates them, can they "
+"work well together under a lot of pressure, during a cataclysm? There must "
+"be some procedures in place for that!"
+
+#. type: Bullet: '- '
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"Will they naturally navigate to live close together, potentially making the "
+"whole social structure more fragile? The service members are supposed to be "
+"spread more-or-less uniformly in each region!"
+msgstr ""
+"Will they naturally navigate to live close together, potentially making the "
+"whole social structure more fragile? The service members are supposed to be "
+"spread more-or-less uniformly in each region!"
+
+#. type: Bullet: '- '
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"In our Solarpunk world we want to imagine full transparency, so no \"buying "
+"easier spots\" in a team. Everyone gets a specialization along their skills "
+"and limitations and everyone is equal."
+msgstr ""
+"In our Solarpunk world we want to imagine full transparency, so no \"buying "
+"easier spots\" in a team. Everyone gets a specialization along their skills "
+"and limitations and everyone is equal."
+
+#. type: Bullet: '- '
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"How does a mobilization look like? What if someone is sick, pregnant, or "
+"cannot leave their position - for example at the power plant?"
+msgstr ""
+"How does a mobilization look like? What if someone is sick, pregnant, or "
+"cannot leave their position - for example at the power plant?"
+
+#. type: Bullet: '- '
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"From a very human side: how does mobilization look like? Is it a thrill, "
+"\"me and my friends are going to save some asses?\""
+msgstr ""
+"From a very human side: how does mobilization look like? Is it a thrill, "
+"\"me and my friends are going to save some asses?\""
+
+#. type: Plain text
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"While there might be a lot to explain in this prompt, I think the story "
+"itself would be really fun and enjoyable both to write and read. The action, "
+"the dramatism is right there, and it's full of potential \"flashbacks\" to "
+"regular lives in a Solarpunk world."
+msgstr ""
+"While there might be a lot to explain in this prompt, I think the story "
+"itself would be really fun and enjoyable both to write and read. The action, "
+"the dramatism is right there, and it's full of potential \"flashbacks\" to "
+"regular lives in a Solarpunk world."
+
+#. type: Title ###
+#: content/seeds/the-reservists/index.en.md
+#, no-wrap
+msgid "Service Members vs Volunteers"
+msgstr "Service Members vs Volunteers"
+
+#. type: Plain text
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"The focus on this prompt can go both ways and I think both are equally "
+"interesting. The first is the mandated Service that a lot of people might "
+"not like, as it's \"too authoritarian\", while the latter is just "
+"Volunteering, which assumes that people got the necessary training on their "
+"own (like https://en.wikipedia.org/wiki/"
+"Icelandic_Association_for_Search_and_Rescue or Volunteer Firefighters)."
+msgstr ""
+"The focus on this prompt can go both ways and I think both are equally "
+"interesting. The first is the mandated Service that a lot of people might "
+"not like, as it's \"too authoritarian\", while the latter is just "
+"Volunteering, which assumes that people got the necessary training on their "
+"own (like https://en.wikipedia.org/wiki/"
+"Icelandic_Association_for_Search_and_Rescue or Volunteer Firefighters)."
+
+#. type: Plain text
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"The very heart of the prompt is people who are leading normal lives until "
+"they are called for help - and their social dynamics, since it's what "
+"creates the story. Emphasizing how volunteering works right now could help "
+"the listeners imagine that, but I also think that imagining a huge cultural "
+"shift where everybody shares this experience is important."
+msgstr ""
+"The very heart of the prompt is people who are leading normal lives until "
+"they are called for help - and their social dynamics, since it's what "
+"creates the story. Emphasizing how volunteering works right now could help "
+"the listeners imagine that, but I also think that imagining a huge cultural "
+"shift where everybody shares this experience is important."
+
+#. type: Title ###
+#: content/seeds/the-reservists/index.en.md
+#, no-wrap
+msgid "Generational Shift"
+msgstr "Generational Shift"
+
+#. type: Plain text
+#: content/seeds/the-reservists/index.en.md
+msgid ""
+"An interesting aspect of the story would be the first year / generation of "
+"the Reservists and how alien, oppressive the program might feel - set "
+"against the culture 20+ years later, where it's normalized, and everyone "
+"shares the duty / responsibility of the Service."
+msgstr ""
+"An interesting aspect of the story would be the first year / generation of "
+"the Reservists and how alien, oppressive the program might feel - set "
+"against the culture 20+ years later, where it's normalized, and everyone "
+"shares the duty / responsibility of the Service."
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-ship/index.en.md
+#, no-wrap
+msgid "The Ship"
+msgstr "Statek"
+
+#. type: Plain text
+#: content/seeds/the-ship/index.en.md
+#, no-wrap
+msgid "> There is a modern cargo ship made with sails and solar panels, trying to replace the oil guzzlers of old and connect the world again. It is crewed by sailors old and young, engineers maintaining some experimental solutions, and some communities trying to travel in old container-houses. They have a lot on their plate.\n"
+msgstr "> Nowoczesny statek towarowy z żaglami i panelami słonecznymi próbuje zastąpić stare, pożerające ropę naftową giganty i ponownie połączyć świat. Załoga składająca się z młodych i starych marynarzy, inżynierów monitorujących nowe, eksperymentalne rozwiązania i społeczności próbujących podróżować kontenerach mieszkalnych napotyka naprawdę liczne wyzwania.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-ship/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-ship)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-ship)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-ship/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Ship)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Ship)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-story-weavers/index.en.md
+#, no-wrap
+msgid "The Story Weavers"
+msgstr "Tkacze Opowieści"
+
+#. type: Plain text
+#: content/seeds/the-story-weavers/index.en.md
+#, no-wrap
+msgid "> A community of writers, dreaming of a better future, struggling to find words to express the hope they so desperately need. They feel like children lost in thick fog, calling to each other, so happy when they find someone who shares their vision - and with each new one, the fog is getting thinner and more people can see them. Some day, they will all see the sun.\n"
+msgstr "> Społeczność pisarzy marzących o lepszej przyszłości, usiłujących znaleźć słowa by wyrazić nadzieję której tak rozpaczliwie potrzebują. Czują się jak dzieci zagubione w gęstej mgle, wołąjąc do siebie nawzajem, tak szczęśliwi gdy znajdą kogoś, kto dzieli ich wizję. Z każdym nowoprzyłączonym mgła rzednie i więcej ludzi może ich dostrzec. Pewnego dnia, wszystkich ich twarze rozświetli słońce.\n"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-tailors/index.en.md
+#, no-wrap
+msgid "The Tailors"
+msgstr "Krawcy"
+
+#. type: Plain text
+#: content/seeds/the-tailors/index.en.md
+#, no-wrap
+msgid "> A new Tailor joins a community which has lacked one for years. In a world of distributed manufacturing tailors are no longer just artisans, but educators, material and sustainability experts, fashion designers and translators of cultures, making sure no garment offends others when traveling. Seeing that they’re much less traditional than their predecessor, will they be accepted by the community? Which bold statement surprised everybody?\n"
+msgstr "> Nowy Krawiec dołącza do społeczności która od lat radziła sobie bez nich. W świecie zdystrybuowanej produkcji to już nie tylko rzemieślnicy, ale edukatorzy, eksperci w sprawach materiałów i odżywalności, projektanci mody i tłumacze kultur zapewniający, że strój nikogo nie urazi w trakcie podróży. Czy społeczność przyjmie z otwartymi ramionami nowego Krawca, widząc, że jest on / ona znacznie mniej konserwatywny/a niż jego/jej poprzednik sprzed lat? Jakie śmiałe posunięcie zszokowało wszystkich?\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-tailors/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-tailors)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-tailors)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-tailors/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Tailors)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
+"Tailors)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-tailors/index.en.md
+msgid "[Illustration](/art/the-lemonaut/tailors/)"
+msgstr "[Ilustracja](/pl/art/the-lemonaut/tailors/)"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/seeds/the-tower/index.en.md
+#, no-wrap
+msgid "The Tower"
+msgstr "Drewniany blok mieszkalny"
+
+#. type: Plain text
+#: content/seeds/the-tower/index.en.md
+#, no-wrap
+msgid "> A community is freshly moved into a new, wooden, sustainable, climate-controlled tower designed to help them be close to each other and live communally. For some it is a dream come true, for others it is a culture shock, but everyone is struggling with the trauma of losing their old homes to floods, fires and relocation programs. While the adults deal with their emotions, children are quick to run around and explore the wonders of their new home.\n"
+msgstr "> Społeczność świeżo wprowadziła się do nowego, drewnianego, odżywalnego i udopornionego na zmiany klimatu bloku mieszkalnego. Został on zaprojektowany, by pomóc im stworzyć wspólnotę i zbliżyć się do siebie nawzajem. Dla części mieszkańców jest to szczyt marzeń, podczas gdy inni mierzą się z szokiem kulturowym. Wszyscy z nich stracili swoje poprzednie domy w pożarach, powodziach i programach przesiedleniowych. Kiedy dorośli stawiają czoła trudnym emocjom, ich dzieci z radością eksplorują fascynujące zakamarki budynku.\n"
+
+#. type: Bullet: '- '
+#: content/seeds/the-tower/index.en.md
+msgid ""
+"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-tower)"
+msgstr ""
+"[Odcinek Podcastu Solarpunk Prompts](https://podcast.tomasino.org/"
+"@SolarpunkPrompts/episodes/the-tower)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-tower/index.en.md
+msgid ""
+"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tower)"
+msgstr ""
+"[Transkrypt](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tower)"
+
+#. type: Bullet: '- '
+#: content/seeds/the-tower/index.en.md
+msgid "[Illustration](/art/the-lemonaut/tower/)"
+msgstr "[Ilustracja](/pl/art/the-lemonaut/tower/)"

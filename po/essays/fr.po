@@ -1,0 +1,444 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
+"POT-Creation-Date: 2026-07-24 13:18+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#
+#. type: Title ##
+#: content/essays/solarpunk-manifesto/index.en.md
+#, no-wrap
+msgid "A Solarpunk Manifesto"
+msgstr "Un Manifest Solarpunk"
+
+#. type: Plain text
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"This manifesto was originally posted on re-des.org, which vanished from the "
+"Internet in August 2025."
+msgstr ""
+"Ce manifeste a été initialement publié sur re-des.org, qui a disparu "
+"d'Internet en août 2025."
+
+#. type: Plain text
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Many people have written about Solarpunk during the last 10+ years. Mostly "
+"after 2014."
+msgstr "_Traduit par Matthieu C._"
+
+#. type: Plain text
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid "The genre is not yet clearly defined."
+msgstr ""
+"Beaucoup ont écrit à propos du Solarpunk durant les dernières décennies et "
+"en particulier depuis 2014, pourtant le genre n’est pas encore clairement "
+"défini."
+
+#. type: Plain text
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"This **Solarpunk Manifesto** is a creative re-adaptation of ideas about "
+"solarpunk written by many people. These ideas can be mainly found in "
+"_Solarpunk: a reference guide_ which can be found [here](https://medium.com/"
+"solarpunks/solarpunk-a-reference-guide-8bcf18871965) and in _Solarpunk:_ "
+"_Notes towards a Manifesto_ by Adam Flynn, which can be found [here](https://"
+"hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)."
+msgstr ""
+"Ce Manifeste Solarpunk est une réadaptation créative des idées écrites par "
+"de nombreuses personnes sur le Solarpunk. Ces idées peuvent être "
+"principalement retrouvées dans Solarpunk: a reference guide lisible [ici]"
+"(https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965) et "
+"dans Solarpunk: Notes towards a Manifesto par Adam Flynn, qui peut être lu "
+"[ici](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-"
+"manifesto/)."
+
+#. type: Plain text
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk is a movement in speculative fiction, art, fashion, and activism "
+"that seeks to answer and embody the question “what does a sustainable "
+"civilization look like, and how can we get there?”"
+msgstr ""
+"Le Solarpunk est un mouvement qui englobe fiction spéculative, art, mode et "
+"activisme. Il cherche à répondre et à incarner la question “à quoi ressemble "
+"une civilisation durable et comment peut-on y parvenir ?”"
+
+#. type: Plain text
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"The aesthetics of solarpunk merge the practical with the beautiful, the well-"
+"designed with the green and lush, the bright and colorful with the earthy "
+"and solid."
+msgstr ""
+"Les esthétiques du Solarpunk mêlent le pratique à l’esthétique, le bien "
+"conçu au vert et luxuriant, le brillant et coloré au terreux et solide."
+
+#. type: Plain text
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk can be utopian, just optimistic, or concerned with the struggles "
+"en route to a better world , but never dystopian. As our world roils with "
+"calamity, we need solutions, not only warnings."
+msgstr ""
+"Le Solarpunk peut être utopique, simplement optimiste ou même s’intéresser "
+"aux luttes vers un monde meilleur, mais jamais être dystopique. Alors que "
+"notre monde devient de plus en plus tumultueux, nous avons besoin de "
+"solutions, pas de simples avertissements."
+
+#. type: Plain text
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solutions to thrive without fossil fuels, to equitably manage real scarcity "
+"and share in abundance instead of supporting false scarcity and false "
+"abundance, to be kinder to each other and to the planet we share."
+msgstr ""
+"Des solutions pour prospérer sans combustibles fossiles, pour gérer "
+"équitablement la véritable pénurie et partager l’abondance au lieu "
+"d’alimenter une fausse pénurie et une fausse abondance. Être bons les uns "
+"avec les autres et avec la planète que nous partageons."
+
+#. type: Plain text
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk is at once a vision of the future, a thoughtful provocation, a way "
+"of living and a set of achievable proposals to get there."
+msgstr ""
+"Le Solarpunk est à la fois une vision du futur, une provocation réfléchie, "
+"une manière de vivre et un ensemble de propositions pour y parvenir."
+
+#. type: Bullet: '1.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"We are solarpunks because optimism has been taken away from us and we are "
+"trying to take it back."
+msgstr ""
+"Nous sommes solarpunks parce que l’optimisme nous a été volé et que nous "
+"cherchons à le récupérer."
+
+#. type: Bullet: '2.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid "We are solarpunks because the only other options are denial or despair."
+msgstr ""
+"Nous sommes solarpunks parce que les seules autres options sont le déni et "
+"le désespoir."
+
+#. type: Bullet: '3.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"At its core, Solarpunk is a vision of a future that embodies the best of "
+"what humanity can achieve: a post-scarcity, post-hierarchy, post-"
+"capitalistic world where humanity sees itself as part of nature and clean "
+"energy replaces fossil fuels."
+msgstr ""
+"L’essence du Solarpunk est une vision de l’avenir qui incarne le meilleur de "
+"ce que l’humanité peut accomplir : un monde post-pénurie, post-hiérarchie, "
+"post-capitalisme où l’humanité se considère comme une partie de la nature et "
+"où les énergies propres remplacent les combustibles fossiles."
+
+#. type: Bullet: '4.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"The “punk” in Solarpunk is about rebellion, counterculture, post-capitalism, "
+"decolonialism and enthusiasm. It is about going in a different direction "
+"than the mainstream, which is increasingly going in a scary direction."
+msgstr ""
+"Le “punk” de Solarpunk désigne la rébellion, la contre-culture, le post-"
+"capitalisme, le décolonialisme et l’enthousiasme. Il s’agit d’aller dans une "
+"autre direction que la conventionnelle, qui est de plus en plus alarmante."
+
+#. type: Bullet: '5.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk is a movement as much as it is a genre: it is not just about the "
+"stories, it is also about how we can get there."
+msgstr ""
+"Le Solarpunk est un mouvement autant qu’un genre : il s’agit non seulement "
+"des histoires, mais aussi de la manière de les rendre réelles."
+
+#. type: Bullet: '6.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk embraces a diversity of tactics: there is no single right way to "
+"do solarpunk. Instead, diverse communities from around the world adopt the "
+"name and the ideas, and build little nests of self-sustaining revolution."
+msgstr ""
+"Le Solarpunk embrasse diverses tactiques : il n’y a pas une manière unique "
+"d’être solarpunk. À la place, diverses communautés de par le monde en ont "
+"adopté le nom et les idées et ont bâti des petites niches de révolutions "
+"autonomes."
+
+#. type: Bullet: '7.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk provides a valuable new perspective, a paradigm and a vocabulary "
+"through which to describe one possible future. Instead of embracing "
+"retrofuturism, solarpunk looks completely to the future. Not an alternative "
+"future, but a possible future."
+msgstr ""
+"Le Solarpunk fournit une nouvelle perspective précieuse, un paradigme et un "
+"vocabulaire avec lesquels nous pouvons décrire un futur possible. Au lieu "
+"d’embrasser le rétrofuturisme, le Solarpunk se tourne entièrement vers "
+"l’avenir. Pas un futur alternatif, mais un futur possible."
+
+#. type: Bullet: '8.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Our futurism is not nihilistic like cyberpunk and it avoids steampunk’s "
+"potentially quasi-reactionary tendencies: it is about ingenuity, "
+"generativity, independence, and community."
+msgstr ""
+"Notre futurisme n’est pas nihiliste comme le Cyberpunk et évite les "
+"tendances potentiellement quasi-réactionnaires du Steampunk : il traite "
+"d’ingéniosité, de générativité, d’indépendance et de communauté."
+
+#. type: Bullet: '9.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid "Solarpunk emphasizes environmental sustainability and social justice."
+msgstr ""
+"Le Solarpunk met l’accent sur la durabilité environnementale et la justice "
+"sociale."
+
+#. type: Bullet: '10.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk is about finding ways to make life more wonderful for us right "
+"now, and also for the generations that follow us."
+msgstr ""
+"Le Solarpunk cherche à trouver des façons de rendre la vie plus belle pour "
+"nous maintenant, mais aussi pour les générations qui vont nous succéder."
+
+#. type: Bullet: '11.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Our future must involve repurposing and creating new things from what we "
+"already have. Imagine “smart cities” being junked in favor of smart "
+"citizenry."
+msgstr ""
+"Notre avenir suppose la réutilisation de ce que nous possédons déjà et, si "
+"nécessaire, sa transformation pour lui donner une autre utilisation. "
+"Imaginez les “villes intelligentes” être abandonnées à la faveur d’une "
+"citoyenneté intelligente."
+
+#. type: Bullet: '12.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk recognizes the historical influence politics and science fiction "
+"have had on each other."
+msgstr ""
+"Le Solarpunk reconnait l’influence historique que la politique et la science-"
+"fiction ont eu l’une sur l’autre."
+
+#. type: Bullet: '13.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk recognizes science fiction as not just entertainment but as a form "
+"of activism."
+msgstr ""
+"Le Solarpunk reconnait la science-fiction non seulement comme un "
+"divertissement mais aussi comme une forme d’activisme."
+
+#. type: Bullet: '14.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk wants to counter the scenarios of a dying earth, an insuperable "
+"gap between rich and poor, and a society controlled by corporations. Not in "
+"hundreds of years, but within reach."
+msgstr ""
+"Le Solarpunk veut contrer les scénarios d’une terre mourante, d’un "
+"insurmontable fossé entre riches et pauvres, et d’une société contrôlée par "
+"les corporations. Pas dans des centaines d’années, mais maintenant."
+
+#. type: Bullet: '15.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk is about youth maker culture, local solutions, local energy grids, "
+"ways of creating autonomous functioning systems. It is about loving the "
+"world."
+msgstr ""
+"Le Solarpunk c’est la culture maker de la jeunesse, c’est des réseaux et "
+"solutions énergétiques locaux, c’est des façons de créer des systèmes "
+"autonomes qui fonctionnent. C’est un amour du monde."
+
+#. type: Bullet: '16.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk culture includes all cultures, religions, abilities, sexes, "
+"genders and sexual identities."
+msgstr ""
+"La culture Solarpunk inclut toutes les cultures, religions, aptitudes, "
+"sexes, genres et identités sexuelles."
+
+#. type: Bullet: '17.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk is the idea of humanity achieving a social evolution that embraces "
+"not just mere tolerance, but a more expansive compassion and acceptance."
+msgstr ""
+"Le Solarpunk est l’idée d’une humanité qui atteindrait une évolution sociale "
+"qui n’embrasserait pas seulement une simple tolérance, mais également une "
+"compassion et une acceptation plus complètes."
+
+#. type: Bullet: '18.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"The visual aesthetics of Solarpunk are open and evolving. As it stands, it "
+"is a mash-up of the following: 1. 1800s age-of-sail/frontier living (but "
+"with more bicycles) 2. Creative reuse of existing infrastructure (sometimes "
+"post-apocalyptic, sometimes present-weird) 3. Appropriate technology 4. Art "
+"Nouveau 5. Hayao Miyazaki 6. Jugaad-style innovation from the non-Western "
+"world 7. High-tech backends with simple, elegant outputs"
+msgstr ""
+"Les esthétiques visuelles du Solarpunk sont ouvertes et évolutives. En "
+"l’état, c’est un mashup de : 1. L’âge de la voile et le mythe de la "
+"Frontière des années 1800 (mais avec plus de bicyclettes) 2. La "
+"réutilisation créative d’infrastructures existantes (parfois post-"
+"apocalyptiques, parfois contemporaines-étranges) 3. Une technologie "
+"appropriée 4. L’Art Nouveau 5. Hayao Miyazaki 6. Des innovations dans le "
+"style Jugaad provenant du monde non-Occidental 7. Des back-ends des "
+"techniques de pointe avec des résultats simples et élégants"
+
+#. type: Bullet: '19.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk is set in a future built according to principles of New Urbanism "
+"or New Pedestrianism and environmental sustainability."
+msgstr ""
+"Le Solarpunk se passe dans un futur bâti en suivant les principes du nouvel "
+"urbanisme ou du nouveau piétonnisme ainsi que de la durabilité "
+"environnementale."
+
+#. type: Bullet: '20.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"Solarpunk envisions a built environment creatively adapted for solar gain, "
+"amongst other things, using different technologies. The objective is to "
+"promote self sufficiency and living within natural limits."
+msgstr ""
+"Le Solarpunk conçoit un environnement construit adapté de manière créative "
+"pour tirer parti de l’énergie solaire en utilisant, entre autres, "
+"différentes technologies. L’objectif est de promouvoir l’autosuffisance et "
+"la vie dans les limites naturelles."
+
+#. type: Bullet: '21.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"In Solarpunk we’ve pulled back just in time to stop the slow destruction of "
+"our planet. We’ve learned to use science wisely, for the betterment of our "
+"life conditions as part of our planet. We’re no longer overlords. We’re "
+"caretakers. We’re gardeners."
+msgstr ""
+"Dans le Solarpunk, nous avons réussi à faire machine arrière juste à temps "
+"pour arrêter la lente destruction de notre planète. Nous avons appris à "
+"utiliser la science avec sagesse, pour l’amélioration de notre condition de "
+"vie en tant que partie de notre planète. Nous ne sommes plus des chef•fe•s "
+"suprêmes. Nous sommes des soigneur•se•s. Nous sommes des jardinier•ère•s."
+
+#. type: Bullet: '22.  '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid "Solarpunk:"
+msgstr "Le Solarpunk :"
+
+#. type: Bullet: '    - '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid "is diverse"
+msgstr "est diversifié"
+
+#. type: Bullet: '    - '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid "has room for spirituality and science to coexist"
+msgstr "a de la place pour que spiritualité et science puissent coexister"
+
+#. type: Bullet: '    - '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid "is beautiful"
+msgstr "est beau"
+
+#. type: Bullet: '    - '
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid "can happen. Now."
+msgstr "peut arriver. Maintenant."
+
+#. type: Plain text
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid "_The Solarpunk Community_"
+msgstr "_La Communauté Solarpunk_"
+
+#. type: Plain text
+#: content/essays/solarpunk-manifesto/index.en.md
+msgid ""
+"This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 "
+"International License](http://creativecommons.org/licenses/by-sa/4.0/)."
+msgstr ""
+"Ce(tte) œuvre est mise à disposition selon les termes de la [Licence "
+"Creative Commons Attribution – Partage dans les Mêmes Conditions 4.0 "
+"International](http://creativecommons.org/licenses/by-sa/4.0/)."
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/essays/what-is-solarpunk/index.en.md
+#, no-wrap
+msgid "An intro to Solarpunk as a genre and as a movement"
+msgstr "Une introduction au Solarpunk comme genre et comme mouvement"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/essays/what-is-solarpunk/index.en.md
+#, no-wrap
+msgid "What is Solarpunk?"
+msgstr "Qu'est-ce que le Solarpunk ?"
+
+#. type: Plain text
+#: content/essays/what-is-solarpunk/index.en.md
+msgid ""
+"If you haven't heard about this movement and genre before, [Andrewism]"
+"(https://www.youtube.com/@Andrewism/) created one of the best short intros "
+"out there:"
+msgstr ""
+"Si tu n'as pas encore entendu parler de ce mouvement et genre par le passé, "
+"[Andrewism](https://www.youtube.com/@Andrewism/) a créé une des meilleures "
+"courtes-introductions que j'ai jamais vu :"
+
+#. type: Plain text
+#: content/essays/what-is-solarpunk/index.en.md
+#, no-wrap
+msgid "{{< youtubeLite id=\"u03hoO3QueM\" label=\"What is Solarpunk (2025)\" >}}\n"
+msgstr "{{< youtubeLite id=\"5CVxq54P7m8\" label=\" Le Solarpunk : construire un imaginaire écolo-optimiste \" >}}\n"
+
+#. type: Plain text
+#: content/essays/what-is-solarpunk/index.en.md
+msgid "You could also check out:"
+msgstr "Tu peux aussi aller jeter un oeil (ou deux):"
+
+#. type: Bullet: '- '
+#: content/essays/what-is-solarpunk/index.en.md
+msgid "[A Solarpunk Manifesto](/essays/solarpunk-manifesto/)"
+msgstr "[Un Manifeste Solarpunk](/fr/essays/solarpunk-manifesto/)"
+
+#. type: Bullet: '- '
+#: content/essays/what-is-solarpunk/index.en.md
+msgid ""
+"[Notes toward a manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-"
+"notes-toward-a-manifesto/)"
+msgstr ""
+"[Notes vers un manifeste](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-"
+"toward-a-manifesto/)"
+
+#. type: Bullet: '- '
+#: content/essays/what-is-solarpunk/index.en.md
+msgid ""
+"[Lenses and Foundations](https://lenses.alxd.org), an essay by yours truly, "
+"the curator of SSL"
+msgstr ""
+"[Loupes et Fondations](https://lenses.alxd.org), un essai rédigé par ton "
+"serviteur, le conservateur de la BGH"

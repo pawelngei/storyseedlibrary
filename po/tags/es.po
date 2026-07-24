@@ -1,0 +1,1058 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
+"POT-Creation-Date: 2026-07-24 13:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/2023-collab/_index.en.md
+#, fuzzy, no-wrap
+#| msgid "2025 Art Collab: Life of Learning"
+msgid "2023 Art Collab: Bioregions"
+msgstr "Colaboración Artística 2025: Una Vida de Aprendizaje"
+
+#. type: Plain text
+#: content/tags/2023-collab/_index.en.md
+#, fuzzy
+#| msgid ""
+#| "The works below are a selection of illustrations created for the 2025 "
+#| "Solarpunk Art Collab ran by the Story Seed Library and [Andrewism]"
+#| "(https://www.youtube.com/@Andrewism/)."
+msgid ""
+"The works below are a selection of illustrations created for the 2023 "
+"Solarpunk Art Collab ran [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgstr ""
+"Las obras etiquetadas a continuación son una selección de ilustraciones "
+"creadas para la Colaboración Artística organizada por la Biblioteca de "
+"Semillas de Historias y [Andrewism](https://www.youtube.com/@Andrewism/)."
+
+#. type: Plain text
+#: content/tags/2023-collab/_index.en.md
+#, fuzzy
+#| msgid ""
+#| "You can read more about the initiative at its [event page](/pages/"
+#| "andrewisms-art-collab-2025/). All of the works are available on "
+#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/"
+#| "post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+msgid ""
+"All of the works are available on [Andrewism's tumblr](https://andrew-ism."
+"tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
+msgstr ""
+"Puedes leer más acerca de esta iniciativa en la [página del evento](/es/"
+"pages/andrewisms-art-collab-2025/). Todas las ilustraciones están "
+"disponibles en el [Tumblr de Andrewism's](https://andrew-ism.tumblr.com/"
+"post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/2024-wat/_index.en.md
+#, no-wrap
+msgid "2024 Week and Art Contest"
+msgstr "Concurso Week and Art 2024"
+
+#. type: Plain text
+#: content/tags/2024-wat/_index.en.md
+msgid ""
+"In 2024 the French [Week and Art Contest](https://www.weekandart.com/) held "
+"an edition dedicated to Solarpunk! You can see the submissions in their "
+"[gallery](https://galerie.weekandart.com/) (please choose 2024). The winners "
+"can be found on [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/)."
+msgstr ""
+"En 2024 les franceses [Week and Art Contest](https://www.weekandart.com/) "
+"celebraron su concurso de arte con una edición dedicada al Solarpunk! Puedes "
+"navegar las entradas del concurso en esta [galería](https://galerie."
+"weekandart.com/) (selecciona el año 2024). Les ganadores pueden encontrarse "
+"en [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/)."
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/2025-collab/_index.en.md
+#, no-wrap
+msgid "2025 Art Collab: Life of Learning"
+msgstr "Colaboración Artística 2025: Una Vida de Aprendizaje"
+
+#. type: Plain text
+#: content/tags/2025-collab/_index.en.md
+msgid ""
+"The works below are a selection of illustrations created for the 2025 "
+"Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://"
+"www.youtube.com/@Andrewism/)."
+msgstr ""
+"Las obras etiquetadas a continuación son una selección de ilustraciones "
+"creadas para la Colaboración Artística organizada por la Biblioteca de "
+"Semillas de Historias y [Andrewism](https://www.youtube.com/@Andrewism/)."
+
+#. type: Plain text
+#: content/tags/2025-collab/_index.en.md
+#, no-wrap
+msgid ""
+"> Welcome to the 2025 edition of the collaborative solarpunk art project! This year’s theme is Life of Learning, focusing on education, teaching, mentorship and research in a better climate future!\n"
+">\n"
+"> The goal of the project is to welcome everyone to collaborate together, share ideas and get inspired by each others’ works! This is not a contest - there are no prizes and no winners, outside of everything we learn from each other and the visions of a better world we create!\n"
+msgstr ""
+"> Bienvenides a la edición 2025 de este proyecto colaborativo de arte solarpunk! Este año la temática es \"Una Vida de Aprendizaje\", enfocada en la educación, enseñanza, acompañamiento e investigación para un mejor futuro climático!\n"
+">\n"
+"> El objetivo de este proyecto es animar a todes a colaborar, compartir ideas e inspirarse en las obras de otres! No es un concurso per se - no hay premios ni ganadores. Aprendamos de nuestres compas y de las ideas de un mundo mejor!\n"
+
+#. type: Plain text
+#: content/tags/2025-collab/_index.en.md
+msgid ""
+"You can read more about the initiative at its [event page](/pages/andrewisms-"
+"art-collab-2025/). All of the works are available on [Andrewism's tumblr]"
+"(https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-"
+"life-of-learning)."
+msgstr ""
+"Puedes leer más acerca de esta iniciativa en la [página del evento](/es/"
+"pages/andrewisms-art-collab-2025/). Todas las ilustraciones están "
+"disponibles en el [Tumblr de Andrewism's](https://andrew-ism.tumblr.com/"
+"post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/2026-collab/_index.en.md
+#, fuzzy, no-wrap
+#| msgid "2025 Art Collab: Life of Learning"
+msgid "2026 Art Collab: Disasters"
+msgstr "Colaboración Artística 2025: Una Vida de Aprendizaje"
+
+#. type: Title #
+#: content/tags/2026-collab/_index.en.md
+#, no-wrap
+msgid "Disaster Preparedness, Response and Relief"
+msgstr ""
+
+#. type: Plain text
+#: content/tags/2026-collab/_index.en.md
+#, fuzzy
+#| msgid ""
+#| "The works below are a selection of illustrations created for the 2025 "
+#| "Solarpunk Art Collab ran by the Story Seed Library and [Andrewism]"
+#| "(https://www.youtube.com/@Andrewism/)."
+msgid ""
+"The works below are a selection of illustrations created for the 2026 "
+"Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://"
+"www.youtube.com/@Andrewism/)."
+msgstr ""
+"Las obras etiquetadas a continuación son una selección de ilustraciones "
+"creadas para la Colaboración Artística organizada por la Biblioteca de "
+"Semillas de Historias y [Andrewism](https://www.youtube.com/@Andrewism/)."
+
+#. type: Plain text
+#: content/tags/2026-collab/_index.en.md
+#, no-wrap
+msgid ""
+"> Even in the most optimistic scenarios of carbon neutrality, the XXI century will be full of climate disasters our civilization, culture and infrastructure are not prepared for. Let's step away from clean, utopian Solarpunk worlds and roll our sleeves to face the consequences of our past.\n"
+">\n"
+"> How can a better Solarpunk world react to the coming disasters? How will our daily lives change? What new or repurposed infrastructure will keep us safe? What new traditions will we need to guide us? What stories will we tell ourselves to make sense of the world that has changed so much?\n"
+">\n"
+"> Let's imagine more than just the rising waters: the droughts and fires, the sudden floods and pandemics, loss of infrastructure and supply chains we take for granted.\n"
+">\n"
+"> Finally, for the Disaster Relief, how can we step away from our colonial habits and imagine giving the survivors agency instead of handouts? How can we empower communities to rebuild after a catastrophe, find solace in each other and grieve those lost?\n"
+msgstr ""
+
+#. type: Plain text
+#: content/tags/2026-collab/_index.en.md
+#, fuzzy
+#| msgid ""
+#| "You can read more about the initiative at its [event page](/pages/"
+#| "andrewisms-art-collab-2025/). All of the works are available on "
+#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/"
+#| "post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+msgid ""
+"You can read more about the initiative at its [event page](/pages/andrewisms-"
+"art-collab-2026/). All of the works are available on [Andrewism's tumblr]"
+"(https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-"
+"disaster-preparedness)."
+msgstr ""
+"Puedes leer más acerca de esta iniciativa en la [página del evento](/es/"
+"pages/andrewisms-art-collab-2025/). Todas las ilustraciones están "
+"disponibles en el [Tumblr de Andrewism's](https://andrew-ism.tumblr.com/"
+"post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/africa/_index.en.md
+#, no-wrap
+msgid "Africa"
+msgstr "África"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/airship/_index.en.md
+#, no-wrap
+msgid "Airship"
+msgstr "Aeronaves"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/amazofuturism/_index.en.md
+#, no-wrap
+msgid "Amazofuturism"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/animals/_index.en.md
+#, no-wrap
+msgid "Animals"
+msgstr "Animales"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/asia/_index.en.md
+#, no-wrap
+msgid "Asia"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/battery/_index.en.md
+#, no-wrap
+msgid "Battery"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/bikes/_index.en.md
+#, no-wrap
+msgid "Bikes"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/brazil/_index.en.md
+#, no-wrap
+msgid "Brazil"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/tags/cc-by-4.0/_index.en.md
+#, no-wrap
+msgid "All works licensed under CC BY 4.0"
+msgstr "Obras con licencia CC BY 4.0"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/cc-by-4.0/_index.en.md
+#, no-wrap
+msgid "CC BY 4.0"
+msgstr "CC BY 4.0"
+
+#. type: Plain text
+#: content/tags/cc-by-4.0/_index.en.md
+msgid ""
+"This license enables reusers to copy, distribute, remix, adapt, and build "
+"upon the material in any medium or format, so long as attribution is given "
+"to the creator. The license allows for commercial use. CC BY includes the "
+"following elements:"
+msgstr ""
+"Esta licencia permite copiar, distribuir, mezclar, adaptar y construir sobre "
+"el material base en cualquier soporte o formato, mientras se cite la autoría "
+"de la obra. Esta licencia permite uso comercial. CC BY incluye los "
+"siguientes elementos:"
+
+#. type: Bullet: '- '
+#: content/tags/cc-by-4.0/_index.en.md content/tags/cc-by-nc-4.0/_index.en.md
+#: content/tags/cc-by-nc-nd-4.0/_index.en.md
+#: content/tags/cc-by-nc-sa-4.0/_index.en.md
+#: content/tags/cc-by-nd-4.0/_index.en.md
+msgid "BY: credit must be given to the creator."
+msgstr "BY: debe reconocerse la autoría."
+
+#. type: Plain text
+#: content/tags/cc-by-4.0/_index.en.md
+msgid "[[Read More](https://creativecommons.org/licenses/by/4.0/)]"
+msgstr ""
+"[[Más información sobre esta licencia](https://creativecommons.org/licenses/"
+"by/4.0/deed.es)]"
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/tags/cc-by-nc-4.0/_index.en.md
+#, no-wrap
+msgid "All works licensed under CC BY-NC 4.0"
+msgstr "Obras con licencia CC BY-NC 4.0"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/cc-by-nc-4.0/_index.en.md
+#, no-wrap
+msgid "CC BY-NC 4.0"
+msgstr "CC BY-NC 4.0"
+
+#. type: Plain text
+#: content/tags/cc-by-nc-4.0/_index.en.md
+msgid ""
+"This license enables reusers to copy, distribute, remix, adapt, and build "
+"upon the material in any medium or format for noncommercial purposes only, "
+"and only so long as attribution is given to the creator. CC BY-NC includes "
+"the following elements:"
+msgstr ""
+"Esta licencia permite copiar, distribuir, mezclar, adaptar y construir sobre "
+"el material base en cualquier soporte o formato, solo para fines no "
+"comerciales y mientras se cite la autoría de la obra. CC BY-NC incluye los "
+"siguientes elementos:"
+
+#. type: Bullet: '- '
+#: content/tags/cc-by-nc-4.0/_index.en.md
+#: content/tags/cc-by-nc-nd-4.0/_index.en.md
+#: content/tags/cc-by-nc-sa-4.0/_index.en.md
+msgid "NC: Only noncommercial uses of the work are permitted."
+msgstr "NC: no se permiten usos comerciales."
+
+#. type: Plain text
+#: content/tags/cc-by-nc-4.0/_index.en.md
+msgid "[[Read More](https://creativecommons.org/licenses/by-nc/4.0/)]"
+msgstr ""
+"[[Más información sobre esta licencia](https://creativecommons.org/licenses/"
+"by-nc/4.0/deed.es)]"
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/tags/cc-by-nc-nd-3.0/_index.en.md
+#, no-wrap
+msgid "All works licensed under CC BY-NC-ND 3.0"
+msgstr "Obras con licencia CC BY-NC-ND 3.0"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/cc-by-nc-nd-3.0/_index.en.md
+#, no-wrap
+msgid "CC BY-NC-ND 3.0"
+msgstr "CC BY-NC-ND 3.0"
+
+#. type: Plain text
+#: content/tags/cc-by-nc-nd-3.0/_index.en.md
+msgid "You are free to:"
+msgstr "Puedes:"
+
+#. type: Bullet: '- '
+#: content/tags/cc-by-nc-nd-3.0/_index.en.md
+msgid "**Share** — copy and redistribute the material in any medium or format"
+msgstr ""
+"**Compartir** — copiar y redistribuir el material en cualquier soporte o "
+"formato."
+
+#. type: Plain text
+#: content/tags/cc-by-nc-nd-3.0/_index.en.md
+msgid "Under the following terms:"
+msgstr "Bajo las siguientes condiciones:"
+
+#. type: Bullet: '- '
+#: content/tags/cc-by-nc-nd-3.0/_index.en.md
+msgid ""
+"**Attribution** — You must give appropriate credit, provide a link to the "
+"license, and indicate if changes were made . You may do so in any reasonable "
+"manner, but not in any way that suggests the licensor endorses you or your "
+"use."
+msgstr ""
+"**Atribución** — Debe dar crédito de manera adecuada , brindar un enlace a "
+"la licencia, e indicar si se han realizado cambios . Puede hacerlo en "
+"cualquier forma razonable, pero no de forma tal que sugiera que usted o su "
+"uso tienen el apoyo de la licenciante."
+
+#. type: Bullet: '- '
+#: content/tags/cc-by-nc-nd-3.0/_index.en.md
+msgid ""
+"**NonCommercial** — You may not use the material for commercial purposes."
+msgstr ""
+"**No Comercial** — No puede hacer uso del material con propósitos "
+"comerciales ."
+
+#. type: Bullet: '- '
+#: content/tags/cc-by-nc-nd-3.0/_index.en.md
+msgid ""
+"**NoDerivatives** — If you remix, transform, or build upon the material, you "
+"may not distribute the modified material."
+msgstr ""
+"**Sin Derivadas** — Si mezcla, transforma o crea a partir del material, no "
+"podrá distribuir el material modificado."
+
+#. type: Bullet: '- '
+#: content/tags/cc-by-nc-nd-3.0/_index.en.md
+msgid ""
+"**No additional restrictions** — You may not apply legal terms or "
+"technological measures that legally restrict others from doing anything the "
+"license permits."
+msgstr ""
+"**Sin restricciones adicionales** — No puede aplicar términos legales ni "
+"medidas tecnológicas que restrinjan legalmente a otras a hacer cualquier uso "
+"permitido por la licencia."
+
+#. type: Plain text
+#: content/tags/cc-by-nc-nd-3.0/_index.en.md
+msgid "[[Read More](https://creativecommons.org/licenses/by-nc-nd/3.0/)]"
+msgstr ""
+"[[Más información sobre esta licencia](https://creativecommons.org/licenses/"
+"by-nc-nd/3.0/deed.es)]"
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/tags/cc-by-nc-nd-4.0/_index.en.md
+#, no-wrap
+msgid "All works licensed under CC BY-NC-ND 4.0"
+msgstr "Obras con licencia CC BY-NC-ND 4.0"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/cc-by-nc-nd-4.0/_index.en.md
+#, no-wrap
+msgid "CC BY-NC-ND 4.0"
+msgstr "CC BY-NC-ND 4.0"
+
+#. type: Plain text
+#: content/tags/cc-by-nc-nd-4.0/_index.en.md
+msgid ""
+"This license enables reusers to copy and distribute the material in any "
+"medium or format in unadapted form only, for noncommercial purposes only, "
+"and only so long as attribution is given to the creator. CC BY-NC-ND "
+"includes the following elements:"
+msgstr ""
+"Esta licencia permite copiar y distribuir el material base en cualquier "
+"soporte o formato, solo sin modificaciones, solo para fines no comerciales y "
+"mientras se cite la autoría de la obra. CC BY-NC-ND incluye los siguientes "
+"elementos:"
+
+#. type: Bullet: '- '
+#: content/tags/cc-by-nc-nd-4.0/_index.en.md
+#: content/tags/cc-by-nd-4.0/_index.en.md
+msgid "ND: No derivatives or adaptations of the work are permitted."
+msgstr "ND: no se permiten derivaciones o adaptaciones de la obra."
+
+#. type: Plain text
+#: content/tags/cc-by-nc-nd-4.0/_index.en.md
+msgid "[[Read More](https://creativecommons.org/licenses/by-nc-nd/4.0/)]"
+msgstr ""
+"[[Más información sobre esta licencia](https://creativecommons.org/licenses/"
+"by-nc-nd/4.0/deed.es)]"
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/tags/cc-by-nc-sa-4.0/_index.en.md
+#, no-wrap
+msgid "All works licensed under CC BY-NC-SA 4.0"
+msgstr "Obras con licencia CC BY-NC-SA 4.0"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/cc-by-nc-sa-4.0/_index.en.md
+#, no-wrap
+msgid "CC BY-NC-SA 4.0"
+msgstr "CC BY-NC-SA 4.0"
+
+#. type: Plain text
+#: content/tags/cc-by-nc-sa-4.0/_index.en.md
+msgid ""
+"This license enables reusers to copy, distribute, remix, adapt, and build "
+"upon the material in any medium or format for noncommercial purposes only, "
+"and only so long as attribution is given to the creator. If you remix, "
+"adapt, or build upon the material, you must license the modified material "
+"under identical terms. CC BY-NC-SA includes the following elements:"
+msgstr ""
+"Esta licencia permite copiar, distribuir, mezclar, adaptar y construir sobre "
+"el material base en cualquier soporte o formato, solo para fines no "
+"comerciales y mientras se cite la autoría de la obra. Si mezclas, adaptas o "
+"construyes sobre el material, debes licenciar el material modificado con la "
+"misma licencia que el material base. CC BY-NC-SA incluye los siguientes "
+"elementos:"
+
+#. type: Bullet: '- '
+#: content/tags/cc-by-nc-sa-4.0/_index.en.md
+msgid "SA: Adaptations must be shared under the same terms."
+msgstr "SA: las adaptaciones deben compartirse con la misma licencia."
+
+#. type: Plain text
+#: content/tags/cc-by-nc-sa-4.0/_index.en.md
+msgid "[[Read More](https://creativecommons.org/licenses/by-nc-sa/4.0/)]"
+msgstr ""
+"[[Más información sobre esta licencia](https://creativecommons.org/licenses/"
+"by-nc-sa/4.0/deed.es)]"
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/tags/cc-by-nd-4.0/_index.en.md
+#, no-wrap
+msgid "All works licensed under CC BY-ND 4.0"
+msgstr "Obras con licencia CC BY-ND 4.0"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/cc-by-nd-4.0/_index.en.md
+#, no-wrap
+msgid "CC BY-ND 4.0"
+msgstr "CC BY-ND 4.0"
+
+#. type: Plain text
+#: content/tags/cc-by-nd-4.0/_index.en.md
+msgid ""
+"This license enables reusers to copy and distribute the material in any "
+"medium or format in unadapted form only, and only so long as attribution is "
+"given to the creator. The license allows for commercial use. CC BY-ND "
+"includes the following elements:"
+msgstr ""
+"Esta licencia permite copiar y distribuir el material base en cualquier "
+"soporte o formato, solo sin modificaciones y mientras se cite la autoría de "
+"la obra. Esta licencia permite uso comercial. CC BY-ND incluye los "
+"siguientes elementos:"
+
+#. type: Plain text
+#: content/tags/cc-by-nd-4.0/_index.en.md
+msgid "[[Read More](https://creativecommons.org/licenses/by-nd/4.0/)]"
+msgstr ""
+"[[Más información sobre esta licencia](https://creativecommons.org/licenses/"
+"by-nd/4.0/deed.es)]"
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/tags/cc-by-sa-4.0/_index.en.md
+#, no-wrap
+msgid "All works licensed under CC BY-SA 4.0"
+msgstr "Obras con licencia CC BY-SA 4.0"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/cc-by-sa-4.0/_index.en.md
+#, no-wrap
+msgid "CC BY-SA 4.0"
+msgstr "CC BY-SA 4.0"
+
+#. type: Plain text
+#: content/tags/cc-by-sa-4.0/_index.en.md
+msgid ""
+"This license enables reusers to distribute, remix, adapt, and build upon the "
+"material in any medium or format, so long as attribution is given to the "
+"creator. The license allows for commercial use. If you remix, adapt, or "
+"build upon the material, you must license the modified material under "
+"identical terms. CC BY-SA includes the following elements:"
+msgstr ""
+"Esta licencia permite copiar, distribuir, mezclar, adaptar y construir sobre "
+"el material base en cualquier soporte o formato, mientras se cite la autoría "
+"de la obra. Esta licencia permite uso comercial. Si mezclas, adaptas o "
+"construyes sobre el material, debes licenciar el material modificado con la "
+"misma licencia que el material base. CC BY-SA incluye los siguientes "
+"elementos:"
+
+#. type: Bullet: '- '
+#: content/tags/cc-by-sa-4.0/_index.en.md
+msgid "Credit must be given to the creator."
+msgstr "BY: debe reconocerse la autoría."
+
+#. type: Bullet: '- '
+#: content/tags/cc-by-sa-4.0/_index.en.md
+msgid "Adaptations must be shared under the same terms."
+msgstr "SA: las adaptaciones deben compartirse con la misma licencia."
+
+#. type: Plain text
+#: content/tags/cc-by-sa-4.0/_index.en.md
+msgid "[[Read More](https://creativecommons.org/licenses/by-sa/4.0/)]"
+msgstr ""
+"[[Más información sobre esta licencia](https://creativecommons.org/licenses/"
+"by-sa/4.0/deed.es)]"
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/tags/cc0/_index.en.md
+#, no-wrap
+msgid "All works licensed under CC0"
+msgstr "Obras con licencia CC0"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/cc0/_index.en.md
+#, no-wrap
+msgid "CC0"
+msgstr "CC0"
+
+#. type: Plain text
+#: content/tags/cc0/_index.en.md
+msgid ""
+"CC0 (aka CC Zero) is a public dedication tool, which enables creators to "
+"give up their copyright and put their works into the worldwide public "
+"domain. CC0 enables reusers to distribute, remix, adapt, and build upon the "
+"material in any medium or format, with no conditions."
+msgstr ""
+
+#. type: Plain text
+#: content/tags/cc0/_index.en.md
+#, fuzzy
+#| msgid "[[Read More](https://creativecommons.org/licenses/by/4.0/)]"
+msgid "[[Read More](https://creativecommons.org/publicdomain/zero/1.0/)]"
+msgstr ""
+"[[Más información sobre esta licencia](https://creativecommons.org/licenses/"
+"by/4.0/deed.es)]"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/city/_index.en.md
+#, no-wrap
+msgid "City"
+msgstr "Ciudad"
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/tags/coloring-book/_index.en.md
+#, no-wrap
+msgid "Linearts of some of the Story Seed Library's art for you to color!"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/coloring-book/_index.en.md
+#, no-wrap
+msgid "Coloring Book"
+msgstr ""
+
+#. type: Plain text
+#: content/tags/coloring-book/_index.en.md
+msgid ""
+"Some of our wonderful artists decided to share the linearts of their works "
+"for you to use as a coloring book! Once you click on any of the "
+"illustrations below, you'll see a \"Download Coloring Page\" button!"
+msgstr ""
+
+#. type: Plain text
+#: content/tags/coloring-book/_index.en.md
+msgid ""
+"Background art - [Community Gardens by Daniele Turturici](/art/daniele-"
+"turturici/community-gardens/)."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/cooperation/_index.en.md
+#, no-wrap
+msgid "Cooperation"
+msgstr "Cooperación"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/crafts/_index.en.md
+#, no-wrap
+msgid "Crafts"
+msgstr "Artesanía"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/dancing/_index.en.md
+#, no-wrap
+msgid "Dancing"
+msgstr "Baile"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/desert/_index.en.md
+#, no-wrap
+msgid "Desert"
+msgstr "Desierto"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/disability/_index.en.md
+#, no-wrap
+msgid "Disability"
+msgstr "Diversidad funcional"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/disaster/_index.en.md
+#, fuzzy, no-wrap
+#| msgid "Waste"
+msgid "Disaster"
+msgstr "Desperdicio"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/dystopia/_index.en.md
+#, no-wrap
+msgid "Dystopia"
+msgstr "Distopía"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/economy/_index.en.md
+#, no-wrap
+msgid "Economy"
+msgstr "Economía"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/education/_index.en.md
+#, no-wrap
+msgid "Education"
+msgstr "Educación"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/fantastical/_index.en.md
+#, no-wrap
+msgid "Fantastical"
+msgstr "Fantástico"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/farming/_index.en.md
+#, no-wrap
+msgid "Farming"
+msgstr "Agricultura"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/festival/_index.en.md
+#, no-wrap
+msgid "Festival"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/flood/_index.en.md
+#, no-wrap
+msgid "Flood"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/food/_index.en.md
+#, no-wrap
+msgid "Food"
+msgstr "Comida"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/foraging/_index.en.md
+#, no-wrap
+msgid "Foraging"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/forest/_index.en.md
+#, no-wrap
+msgid "Forest"
+msgstr "Bosque"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/generations/_index.en.md
+#, no-wrap
+msgid "Generations"
+msgstr "Generaciones"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/greenhouse/_index.en.md
+#, no-wrap
+msgid "Greenhouse"
+msgstr "Invernadero"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/horizontal/_index.en.md
+#, no-wrap
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/hygiene/_index.en.md
+#, no-wrap
+msgid "Hygiene"
+msgstr "Higiene"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/illustration/_index.en.md
+#, no-wrap
+msgid "Illustration"
+msgstr "Ilustración"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/indigenous/_index.en.md
+#, no-wrap
+msgid "Indigenous"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/indonesia/_index.en.md
+#, no-wrap
+msgid "Indonesia"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/industry/_index.en.md
+#, no-wrap
+msgid "Industry"
+msgstr "Industria"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/infrastructure/_index.en.md
+#, no-wrap
+msgid "Infrastructure"
+msgstr "Infraestructura"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/japan/_index.en.md
+#, no-wrap
+msgid "Japan"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/kids/_index.en.md
+#, no-wrap
+msgid "Kids"
+msgstr "Niñes"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/lake/_index.en.md
+#, no-wrap
+msgid "Lake"
+msgstr "Lago"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/library/_index.en.md
+#, no-wrap
+msgid "Library"
+msgstr "Biblioteca"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/lunarpunk/_index.en.md
+#, no-wrap
+msgid "Lunarpunk"
+msgstr "Lunarpunk"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/map/_index.en.md
+#, no-wrap
+msgid "Map"
+msgstr "Маpa"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/media/_index.en.md
+#, no-wrap
+msgid "Media"
+msgstr "Medios"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/medicine/_index.en.md
+#, fuzzy, no-wrap
+#| msgid "Media"
+msgid "Medicine"
+msgstr "Medios"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/mining/_index.en.md
+#, no-wrap
+msgid "Mining"
+msgstr "Minería"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/monorail/_index.en.md
+#, no-wrap
+msgid "Monorail"
+msgstr "Monorraíl"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/mountains/_index.en.md
+#, no-wrap
+msgid "Mountains"
+msgstr "Montaña"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/music/_index.en.md
+#, no-wrap
+msgid "Music"
+msgstr "Música"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/new-spark/_index.en.md
+#, no-wrap
+msgid "New Spark"
+msgstr "Nueva Chispa"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/night/_index.en.md
+#, no-wrap
+msgid "Night"
+msgstr "Noche"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/nuclear/_index.en.md
+#, no-wrap
+msgid "Nuclear"
+msgstr "Nuclear"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/people/_index.en.md
+#, no-wrap
+msgid "People"
+msgstr "Persona"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/photobash/_index.en.md
+#, no-wrap
+msgid "Photobash"
+msgstr "Collage"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/podcast/_index.en.md
+#, no-wrap
+msgid "Podcast"
+msgstr "Podcast"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/poem/_index.en.md
+#, no-wrap
+msgid "Poem"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/poland/_index.en.md
+#, no-wrap
+msgid "Poland"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/reclaimed-structure/_index.en.md
+#, no-wrap
+msgid "Reclaimed Structure"
+msgstr "Estructura reconvertida"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/rescue/_index.en.md
+#, no-wrap
+msgid "Rescue"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/residential/_index.en.md
+#, no-wrap
+msgid "Residential"
+msgstr "Residencial"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/river/_index.en.md
+#, no-wrap
+msgid "River"
+msgstr "Río"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/robots/_index.en.md
+#, no-wrap
+msgid "Robots"
+msgstr "Robot"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/ropeway/_index.en.md
+#, no-wrap
+msgid "Ropeway"
+msgstr "Teleférico"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/ruins/_index.en.md
+#, no-wrap
+msgid "Ruins"
+msgstr "Ruinas"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/sea/_index.en.md
+#, no-wrap
+msgid "Sea"
+msgstr "Mar"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/ship/_index.en.md
+#, no-wrap
+msgid "Ship"
+msgstr "Barco"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/snow/_index.en.md
+#, no-wrap
+msgid "Snow"
+msgstr "Nieve"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/solar/_index.en.md
+#, no-wrap
+msgid "Solar"
+msgstr "Solar"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/south-africa/_index.en.md
+#, fuzzy, no-wrap
+#| msgid "Africa"
+msgid "South Africa"
+msgstr "África"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/south-america/_index.en.md
+#, no-wrap
+msgid "South America"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/south-east-asia/_index.en.md
+#, no-wrap
+msgid "South East Asia"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/square/_index.en.md
+#, no-wrap
+msgid "Square"
+msgstr "Cuadrado"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/suburbia/_index.en.md
+#, no-wrap
+msgid "Suburbia"
+msgstr "Suburbios"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/symbolism/_index.en.md
+#, no-wrap
+msgid "Symbolism"
+msgstr "Simbolismo"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/technology/_index.en.md
+#, no-wrap
+msgid "Technology"
+msgstr "Tecnología"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/train/_index.en.md
+#, no-wrap
+msgid "Train"
+msgstr "Tren"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/tram/_index.en.md
+#, no-wrap
+msgid "Tram"
+msgstr "Tranvía"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/transport/_index.en.md
+#, no-wrap
+msgid "Transport"
+msgstr "Transporte"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/trees/_index.en.md
+#, no-wrap
+msgid "Trees"
+msgstr "Árboles"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/ukraine/_index.en.md
+#, no-wrap
+msgid "Ukraine"
+msgstr "Ucrania"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/vertical/_index.en.md
+#, no-wrap
+msgid "Vertical"
+msgstr "Vertical"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/waste/_index.en.md
+#, no-wrap
+msgid "Waste"
+msgstr "Desperdicio"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/water/_index.en.md
+#, no-wrap
+msgid "Water"
+msgstr "Agua"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/watersheds/_index.en.md
+#, no-wrap
+msgid "Watersheds"
+msgstr "Cuenca hidrográfica"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/weather/_index.en.md
+#, no-wrap
+msgid "Weather"
+msgstr "Clima"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/wind-turbine/_index.en.md
+#, no-wrap
+msgid "Wind Turbine"
+msgstr "Molino de viento"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/winter/_index.en.md
+#, no-wrap
+msgid "Winter"
+msgstr "Invierno"
+
+#, no-wrap
+#~ msgid "Residental"
+#~ msgstr "Residencial"

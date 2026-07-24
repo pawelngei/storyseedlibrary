@@ -1,0 +1,543 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Story Seed Library contributors (CC BY-SA 4.0)
+# This file is distributed under the same license as the story-seed-library package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: story-seed-library 1.0\n"
+"Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
+"POT-Creation-Date: 2026-07-24 13:21+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/aerroscape/_index.en.md
+#, no-wrap
+msgid "he/him | Artist  //  Professional  //  Digital Art | Germany"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/aerroscape/_index.en.md
+#, no-wrap
+msgid "Aerroscape - Alex Rommel"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/alxd/_index.en.md
+#, no-wrap
+msgid "he/them | solarpunk hacker | the curator of SSL | Poland"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/alxd/_index.en.md
+#, no-wrap
+msgid "Paweł 'alxd' Ngei"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/andrewism/_index.en.md
+#, no-wrap
+msgid ""
+"he/him |  I want to learn and explore as much as possible | Trinidad & "
+"Tobago 🇹🇹"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/andrewism/_index.en.md
+#, no-wrap
+msgid "Andrew Sage (Andrewism)"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/artbyaddae/_index.en.md
+#, no-wrap
+msgid "Artist since age 3"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/artbyaddae/_index.en.md
+#, no-wrap
+msgid "Art by Addae"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/astralrequin/_index.en.md
+#, no-wrap
+msgid "Artist  //  Hobbyist  //  Digital Art"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/astralrequin/_index.en.md
+#, no-wrap
+msgid "Astral Requin"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/commandojugendstil/_index.en.md
+#, no-wrap
+msgid "Public art, stories, illustrations, community projects"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/commandojugendstil/_index.en.md
+#, no-wrap
+msgid "Commando Jugendstil"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/cycling-embassy-japan/_index.en.md
+#, no-wrap
+msgid ""
+"The Cycling Embassy of Japan is dedicated to promoting cycling as a healthy, "
+"socially responsible, economically sustainable and environmentally friendly "
+"means of transportation, the support and betterment of which can only "
+"improve the design of our cities, the health of communities within them and "
+"the lifestyles of individuals within those."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/cycling-embassy-japan/_index.en.md
+#, no-wrap
+msgid "Cycling Embassy of Japan"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/daniele-turturici/_index.en.md
+#, no-wrap
+msgid ""
+"I'm an Italian illustrator and comic artist who loves bringing to life "
+"worlds that don't exist (yet), and through the Solarpunk movement, I want to "
+"keep hope alive for creating a better future. (he/him)"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/daniele-turturici/_index.en.md
+#, no-wrap
+msgid "Daniele Turturici"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/deelion/_index.en.md
+#, no-wrap
+msgid ""
+"I like to support and build resources that inch us closer to a future of "
+"co-operation, mutual care and community wellbeing."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/deelion/_index.en.md
+#, no-wrap
+msgid "Deelion"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/draakart/_index.en.md
+#, no-wrap
+msgid ""
+"he/they | South African artist living on the stolen country of the Anaiwan "
+"Nation. Sovereignty was never ceded."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/draakart/_index.en.md
+#, no-wrap
+msgid "DraakArt"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/dustinjacobus/_index.en.md
+#, no-wrap
+msgid ""
+"Through art rooted in solarpunk and eco-futurism, I challenge systems of "
+"harm and envision a world where all species are protected and valued."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/dustinjacobus/_index.en.md
+#, no-wrap
+msgid "Dustin Jacobus"
+msgstr ""
+
+#. type: Plain text
+#: content/authors/dustinjacobus/_index.en.md
+#, markdown-text
+msgid ""
+"Dustin Jacobus is an illustrator and industrial design engineer whose work "
+"explores how nature and the built environment can grow together. Deeply "
+"inspired by natural systems, his art is rooted in biomimicry, sustainable "
+"design, and the solarpunk movement. He envisions a world where we coexist in "
+"harmony with all life forms, creating sustainable, water-rich, and green "
+"environments, both urban and beyond and expresses these ideas through his "
+"art. His vision has been shared in exhibitions, talks, workshops, and a wide "
+"range of publications across books, magazines, and other media."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/elakidd/_index.en.md
+#, no-wrap
+msgid ""
+"ELAkidd (they/them) is a bilingual queer artist who grew up in China and is "
+"currently a university student in Boston."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/elakidd/_index.en.md
+#, no-wrap
+msgid "ELAkidd (they/them)"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/evhell/_index.en.md
+#, no-wrap
+msgid ""
+"(french, she/her) Senior developer during the day, comics artist at night, "
+"Evhell loves creating stories mixing tech, pop culture and human "
+"relationships. She uses gouache and digital art, and sometimes has fun "
+"mixing them!"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/evhell/_index.en.md
+#, no-wrap
+msgid "Evhell"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/grasshopper-geography/_index.en.md
+#, no-wrap
+msgid ""
+"Hungarian geographer trying to prove that the marriage of arts and science "
+"can be a happy one."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/grasshopper-geography/_index.en.md
+#, no-wrap
+msgid "Grasshopper Geography"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/honora/_index.en.md
+#, no-wrap
+msgid ""
+"GameDev and Painter, Learning sculpture. Dreaming of making it as a comic "
+"book artist."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/honora/_index.en.md
+#, no-wrap
+msgid "Honora"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/jackyowl/_index.en.md
+#, no-wrap
+msgid ""
+"he/her/they/them | solarpunk hacker and creator | 3D hobbyist | Music player "
+"| SSL translator (fr) | France"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/jackyowl/_index.en.md
+#, no-wrap
+msgid "Jacky (or Jackie) OWL"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/jacobcoffin/_index.en.md
+#, no-wrap
+msgid ""
+"Sci-fi writer with a passion for land conservation, reuse, and human rights "
+"not being rolled back."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/jacobcoffin/_index.en.md
+#, no-wrap
+msgid "Jacob Coffin"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/joan_de_art/_index.en.md
+#, no-wrap
+msgid "Chicago artist, environmentalist, and community organizer. she/her"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/joan_de_art/_index.en.md
+#, no-wrap
+msgid "Joan de Art (Becca Bowlin)"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/karl-schulschenk/_index.en.md
+#, no-wrap
+msgid ""
+"kasch aka Karl Schulschenk is a South African Story Artist & Illustrator who "
+"is passionate about world-building and storytelling, and through his "
+"personal work explores the themes of Solarpunk, Afro-Futurism, regeneration "
+"and human connection"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/karl-schulschenk/_index.en.md
+#, no-wrap
+msgid "Karl Schulschenk"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/lindsbrown/_index.en.md
+#, no-wrap
+msgid "she/her | Mutual aid gnome | Shreveport/Bossier, LA"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/lindsbrown/_index.en.md
+#, no-wrap
+msgid "Lindsay Brown"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/linozeddies/_index.en.md
+#, no-wrap
+msgid ""
+"Social developer, author, and transformation facilitator for a regenerative "
+"future"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/linozeddies/_index.en.md
+#, no-wrap
+msgid "Lino Zeddies"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/loop-chan/_index.en.md
+#, no-wrap
+msgid "Your resident squid comic artist"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/loop-chan/_index.en.md
+#, no-wrap
+msgid "Loop-chan"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/authors/markus-wende/_index.en.md
+#, no-wrap
+msgid ""
+"Markus Wende is an animator and illustrator based in Berlin. He now works as "
+"a media educator at a secondary school."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/markus-wende/_index.en.md
+#, no-wrap
+msgid ""
+"An animator and illustrator based in Berlin. He now works as a media "
+"educator at a secondary school."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/markus-wende/_index.en.md
+#, no-wrap
+msgid "Markus Wende"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/nick-felten/_index.en.md
+#, no-wrap
+msgid "a hobby artist from Luxembourg"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/nick-felten/_index.en.md
+#, no-wrap
+msgid "Nick Felten"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/nighten/_index.en.md
+#, no-wrap
+msgid ""
+"French artist living in Poland drawing detailed illustration about nature, "
+"cities, and hope 🌿"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/nighten/_index.en.md
+#, no-wrap
+msgid "Nighten (Nathan Guilhot)"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/oh-shoot-i-arted/_index.en.md
+#, no-wrap
+msgid "Oh Shoot I Arted"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/panna-n/_index.en.md
+#, no-wrap
+msgid "she/her | Freelance illustrator"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/panna-n/_index.en.md
+#, no-wrap
+msgid "Katarzyna \"PannaN\" Witerscheim"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/q1r0z/_index.en.md
+#, no-wrap
+msgid "Brazilian Illustrator"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/q1r0z/_index.en.md
+#, no-wrap
+msgid "João Queiroz (q1r0z)"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/scandinavian101/_index.en.md
+#, no-wrap
+msgid "He/him | Architecture student | Warsaw, Poland"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/scandinavian101/_index.en.md
+#, no-wrap
+msgid "Scandinavian101"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/seanbodley/_index.en.md
+#, no-wrap
+msgid "he/him | creating Climate Change Concept Art"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/seanbodley/_index.en.md
+#, no-wrap
+msgid "Sean Bodley"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/seth_patterson/_index.en.md
+#, no-wrap
+msgid ""
+"Bio: I am a Christian, free culture science-fantasy author, and free "
+"software activist."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/seth_patterson/_index.en.md
+#, no-wrap
+msgid "Seth Patterson"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/solhaelan/_index.en.md
+#, no-wrap
+msgid "she/her | Illustrator and propagandist"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/solhaelan/_index.en.md
+#, no-wrap
+msgid "SolHaelan"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/stephani-soejono/_index.en.md
+#, no-wrap
+msgid "she/they/dia | Illustrator/Comic artist from Indonesia"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/stephani-soejono/_index.en.md
+#, no-wrap
+msgid "Stephani Soejono"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/taylor-seamount/_index.en.md
+#, no-wrap
+msgid ""
+"I'm a solarpunk landscape painter imagining regenerative futures for my "
+"community in Santa Cruz, CA, USA. (she/they)"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/taylor-seamount/_index.en.md
+#, no-wrap
+msgid "Taylor Seamount"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/thelemonaut/_index.en.md
+#, no-wrap
+msgid "they/them | Ukrainian character artist"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/thelemonaut/_index.en.md
+#, no-wrap
+msgid "The Lemonaut"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/vizuza/_index.en.md
+#, no-wrap
+msgid "she/her | 3D Artist & Motion Designer based in Gdynia, Poland"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/vizuza/_index.en.md
+#, no-wrap
+msgid "Vizuza"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/xulia-vicente/_index.en.md
+#, no-wrap
+msgid "Xulia Vicente (she/her) is a cartoonist and illustrator from Spain."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/xulia-vicente/_index.en.md
+#, no-wrap
+msgid "Xulia Vicente"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/yuuna-maiko/_index.en.md
+#, no-wrap
+msgid "I’m an illustrator and comic/manga artist."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/yuuna-maiko/_index.en.md
+#, no-wrap
+msgid "Yuuna Maiko"
+msgstr ""
+
+#. type: Plain text
+#: content/authors/yuuna-maiko/_index.en.md
+#, markdown-text
+msgid ""
+"The solarpunk imagination is taking on a growing role in our cultural "
+"landscape, and I believe it’s essential to promote a hopeful vision of the "
+"future — one in which humans live in harmony with their environment."
+msgstr ""
