@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: story-seed-library\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-07-24 13:18+0200\n"
+"POT-Creation-Date: 2026-07-24 13:21+0200\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
