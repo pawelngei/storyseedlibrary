@@ -1,3 +1,3 @@
 ---
-title: "Residencial"
+title: Residencial
 ---
