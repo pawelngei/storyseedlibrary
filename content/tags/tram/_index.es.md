@@ -1,3 +1,3 @@
 ---
-title: "Tranvía"
+title: Tranvía
 ---

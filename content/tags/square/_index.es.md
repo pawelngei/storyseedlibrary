@@ -1,3 +1,3 @@
 ---
-title: "Cuadrado"
+title: Cuadrado
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Horizontal"
+title: Horizontal
 ---

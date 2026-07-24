@@ -1,3 +1,3 @@
 ---
-title: "Kooperation"
+title: Kooperation
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Behinderung"
+title: Behinderung
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Pogoda"
+title: Pogoda
 ---

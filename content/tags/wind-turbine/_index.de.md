@@ -1,3 +1,3 @@
 ---
-title: "Windkraftanlage"
+title: Windkraftanlage
 ---

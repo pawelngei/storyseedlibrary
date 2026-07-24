@@ -1,3 +1,3 @@
 ---
-title: "Montaña"
+title: Montaña
 ---

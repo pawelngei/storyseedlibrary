@@ -1,3 +1,3 @@
 ---
-title: "Spartiacque"
+title: Spartiacque
 ---

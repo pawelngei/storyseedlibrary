@@ -1,3 +1,3 @@
 ---
-title: "photo-collage"
+title: photo-collage
 ---

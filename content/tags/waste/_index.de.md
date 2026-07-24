@@ -1,3 +1,3 @@
 ---
-title: "Müll"
+title: Müll
 ---

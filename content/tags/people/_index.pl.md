@@ -1,3 +1,3 @@
 ---
-title: "Ludzie"
+title: Ludzie
 ---

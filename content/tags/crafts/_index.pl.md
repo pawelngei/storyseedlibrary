@@ -1,3 +1,3 @@
 ---
-title: "Rzemiosło"
+title: Rzemiosło
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Odbudowana struktura"
+title: 'Odbudowana struktura'
 ---

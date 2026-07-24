@@ -1,3 +1,3 @@
 ---
-title: "Przedmieścia"
+title: Przedmieścia
 ---

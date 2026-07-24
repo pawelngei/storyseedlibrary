@@ -1,14 +1,15 @@
 ---
-title: "CC BY-NC-SA 4.0"
-description: "Alle Werke, die unter CC BY-NC-SA 4.0 lizensiert sind"
+description: 'Alle Werke, die unter CC BY-NC-SA 4.0 lizensiert sind'
+title: 'CC BY-NC-SA 4.0'
 ---
 
 Diese Lizenz ermöglicht es das Werk weiterzuverbreiten, zu verändern,
-anzupassen und auf dem Material aufzubauen, egal in welchem Medium oder Format,
-solange das Werk dem/der Künstler:in zugeschrieben wird und dies für
-nicht-kommerzielle Zwecke geschieht. Solltest du was Werk verändern, anpassen,
-darauf aufbauen, musst du dein neues Werk unter identischen Bedingungen zur
-Verfügung stellen. CC BY-NC-SA beinhaltet die folgenden Elemente:
+anzupassen und auf dem Material aufzubauen, egal in welchem Medium oder
+Format, solange das Werk dem/der Künstler:in zugeschrieben wird und dies für
+nicht-kommerzielle Zwecke geschieht. Solltest du was Werk verändern,
+anpassen, darauf aufbauen, musst du dein neues Werk unter identischen
+Bedingungen zur Verfügung stellen. CC BY-NC-SA beinhaltet die folgenden
+Elemente:
 
 - BY: Künstler:in muss genannt werden.
 - NC: Nur nicht-kommerzielle Verwendung des Werks ist gestattet.

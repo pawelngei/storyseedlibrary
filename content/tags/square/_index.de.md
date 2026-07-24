@@ -1,3 +1,3 @@
 ---
-title: "Quadrat"
+title: Quadrat
 ---

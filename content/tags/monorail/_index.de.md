@@ -1,3 +1,3 @@
 ---
-title: "Einspurbahn"
+title: Einspurbahn
 ---

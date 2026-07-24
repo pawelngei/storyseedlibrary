@@ -1,3 +1,3 @@
 ---
-title: "Górnictwo"
+title: Górnictwo
 ---

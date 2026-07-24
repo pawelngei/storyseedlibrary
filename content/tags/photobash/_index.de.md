@@ -1,3 +1,3 @@
 ---
-title: "Photobash"
+title: Photobash
 ---

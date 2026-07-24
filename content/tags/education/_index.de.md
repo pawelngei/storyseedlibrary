@@ -1,3 +1,3 @@
 ---
-title: "Bildung"
+title: Bildung
 ---

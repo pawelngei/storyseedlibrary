@@ -1,3 +1,3 @@
 ---
-title: "Handwerk"
+title: Handwerk
 ---

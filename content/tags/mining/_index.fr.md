@@ -1,3 +1,3 @@
 ---
-title: "exploitation minière"
+title: 'exploitation minière'
 ---

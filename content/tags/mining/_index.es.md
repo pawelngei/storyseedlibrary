@@ -1,3 +1,3 @@
 ---
-title: "Minería"
+title: Minería
 ---

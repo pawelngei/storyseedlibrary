@@ -1,3 +1,3 @@
 ---
-title: "África"
+title: África
 ---

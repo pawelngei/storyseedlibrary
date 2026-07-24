@@ -1,3 +1,3 @@
 ---
-title: "Essen"
+title: Essen
 ---

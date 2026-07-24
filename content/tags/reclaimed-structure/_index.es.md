@@ -1,3 +1,3 @@
 ---
-title: "Estructura reconvertida"
+title: 'Estructura reconvertida'
 ---

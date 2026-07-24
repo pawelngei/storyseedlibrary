@@ -1,3 +1,3 @@
 ---
-title: "Barco"
+title: Barco
 ---

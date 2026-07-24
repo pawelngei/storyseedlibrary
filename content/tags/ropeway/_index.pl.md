@@ -1,3 +1,3 @@
 ---
-title: "Kolejka linowa"
+title: 'Kolejka linowa'
 ---

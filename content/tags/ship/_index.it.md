@@ -1,3 +1,3 @@
 ---
-title: "Nave"
+title: Nave
 ---

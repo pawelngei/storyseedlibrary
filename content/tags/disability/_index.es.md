@@ -1,3 +1,3 @@
 ---
-title: "Diversidad funcional"
+title: 'Diversidad funcional'
 ---

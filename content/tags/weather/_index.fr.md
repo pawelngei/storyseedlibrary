@@ -1,3 +1,3 @@
 ---
-title: "météo"
+title: météo
 ---

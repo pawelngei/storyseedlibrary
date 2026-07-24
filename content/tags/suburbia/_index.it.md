@@ -1,3 +1,3 @@
 ---
-title: "Sobborghi"
+title: Sobborghi
 ---

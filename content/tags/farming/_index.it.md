@@ -1,3 +1,3 @@
 ---
-title: "Agricoltura"
+title: Agricoltura
 ---

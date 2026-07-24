@@ -1,3 +1,3 @@
 ---
-title: "Comida"
+title: Comida
 ---

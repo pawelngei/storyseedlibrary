@@ -1,3 +1,3 @@
 ---
-title: "Bäume"
+title: Bäume
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Simboli"
+title: Simboli
 ---

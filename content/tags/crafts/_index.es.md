@@ -1,3 +1,3 @@
 ---
-title: "Artesanía"
+title: Artesanía
 ---

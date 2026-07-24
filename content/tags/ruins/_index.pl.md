@@ -1,3 +1,3 @@
 ---
-title: "Ruiny"
+title: Ruiny
 ---

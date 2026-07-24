@@ -1,3 +1,3 @@
 ---
-title: "Zwierzęta"
+title: Zwierzęta
 ---

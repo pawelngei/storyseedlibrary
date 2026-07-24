@@ -1,3 +1,3 @@
 ---
-title: "Rifiuti"
+title: Rifiuti
 ---

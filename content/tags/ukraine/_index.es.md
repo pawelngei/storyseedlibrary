@@ -1,3 +1,3 @@
 ---
-title: "Ucrania"
+title: Ucrania
 ---

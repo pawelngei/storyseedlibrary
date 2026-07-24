@@ -1,3 +1,3 @@
 ---
-title: "Tecnologia"
+title: Tecnologia
 ---

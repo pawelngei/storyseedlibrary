@@ -1,3 +1,3 @@
 ---
-title: "Wododział"
+title: Wododział
 ---

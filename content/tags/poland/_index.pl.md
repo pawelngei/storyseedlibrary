@@ -1,3 +1,3 @@
 ---
-title: "Polska"
+title: Polska
 ---

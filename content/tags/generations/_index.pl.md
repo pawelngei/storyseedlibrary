@@ -1,3 +1,3 @@
 ---
-title: "Pokolenia"
+title: Pokolenia
 ---

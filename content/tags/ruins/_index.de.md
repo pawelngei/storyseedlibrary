@@ -1,3 +1,3 @@
 ---
-title: "Ruinen"
+title: Ruinen
 ---

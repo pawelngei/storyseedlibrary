@@ -1,3 +1,3 @@
 ---
-title: "Żywność"
+title: Żywność
 ---

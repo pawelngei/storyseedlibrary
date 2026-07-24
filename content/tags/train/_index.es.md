@@ -1,3 +1,3 @@
 ---
-title: "Tren"
+title: Tren
 ---

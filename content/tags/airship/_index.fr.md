@@ -1,3 +1,3 @@
 ---
-title: "Dirigeable"
+title: Dirigeable
 ---

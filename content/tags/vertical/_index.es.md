@@ -1,3 +1,3 @@
 ---
-title: "Vertical"
+title: Vertical
 ---

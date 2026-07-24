@@ -1,3 +1,3 @@
 ---
-title: "Panneaux solaires"
+title: 'Panneaux solaires'
 ---

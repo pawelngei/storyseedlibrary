@@ -1,3 +1,3 @@
 ---
-title: "Nuclear"
+title: Nuclear
 ---

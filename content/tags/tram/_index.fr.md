@@ -1,3 +1,3 @@
 ---
-title: "Tramway"
+title: Tramway
 ---

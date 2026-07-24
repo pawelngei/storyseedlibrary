@@ -1,3 +1,3 @@
 ---
-title: "Symbolika"
+title: Symbolika
 ---

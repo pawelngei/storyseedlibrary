@@ -1,3 +1,3 @@
 ---
-title: "Collage"
+title: Collage
 ---

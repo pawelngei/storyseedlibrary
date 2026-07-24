@@ -1,3 +1,3 @@
 ---
-title: "Góry"
+title: Góry
 ---

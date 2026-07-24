@@ -1,3 +1,3 @@
 ---
-title: "Vorstadt"
+title: Vorstadt
 ---

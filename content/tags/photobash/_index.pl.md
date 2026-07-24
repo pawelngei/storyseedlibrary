@@ -1,3 +1,3 @@
 ---
-title: "Kolaż"
+title: Kolaż
 ---

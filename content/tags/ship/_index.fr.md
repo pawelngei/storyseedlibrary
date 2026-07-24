@@ -1,3 +1,3 @@
 ---
-title: "Navire"
+title: Navire
 ---

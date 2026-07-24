@@ -1,3 +1,3 @@
 ---
-title: "structure réhabilitée"
+title: 'structure réhabilitée'
 ---

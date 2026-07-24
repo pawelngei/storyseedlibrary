@@ -1,3 +1,3 @@
 ---
-title: "Luftschiff"
+title: Luftschiff
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Serra"
+title: Serra
 ---

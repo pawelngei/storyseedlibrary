@@ -1,3 +1,3 @@
 ---
-title: "Struttura Riqualificata"
+title: 'Struttura Riqualificata'
 ---

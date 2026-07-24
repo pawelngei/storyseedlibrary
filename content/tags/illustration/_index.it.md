@@ -1,3 +1,3 @@
 ---
-title: "Illustrazione"
+title: Illustrazione
 ---

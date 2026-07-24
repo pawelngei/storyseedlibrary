@@ -1,3 +1,3 @@
 ---
-title: "Miniera"
+title: Miniera
 ---

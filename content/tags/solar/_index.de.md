@@ -1,3 +1,3 @@
 ---
-title: "Solar"
+title: Solar
 ---

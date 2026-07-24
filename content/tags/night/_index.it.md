@@ -1,3 +1,3 @@
 ---
-title: "Notte"
+title: Notte
 ---

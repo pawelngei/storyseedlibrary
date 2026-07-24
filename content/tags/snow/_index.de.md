@@ -1,3 +1,3 @@
 ---
-title: "Schnee"
+title: Schnee
 ---

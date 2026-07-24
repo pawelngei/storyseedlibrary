@@ -1,3 +1,3 @@
 ---
-title: "Fortbewegung"
+title: Fortbewegung
 ---

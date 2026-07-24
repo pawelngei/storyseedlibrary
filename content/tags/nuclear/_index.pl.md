@@ -1,3 +1,3 @@
 ---
-title: "Energia jądrowa"
+title: 'Energia jądrowa'
 ---

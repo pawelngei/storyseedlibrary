@@ -1,3 +1,3 @@
 ---
-title: "Wüste"
+title: Wüste
 ---

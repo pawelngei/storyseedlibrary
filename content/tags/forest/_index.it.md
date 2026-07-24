@@ -1,3 +1,3 @@
 ---
-title: "Foresta"
+title: Foresta
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Zug"
+title: Zug
 ---

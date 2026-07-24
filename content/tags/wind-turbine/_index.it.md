@@ -1,3 +1,3 @@
 ---
-title: "Pale Eoliche"
+title: 'Pale Eoliche'
 ---

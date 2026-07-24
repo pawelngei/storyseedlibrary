@@ -1,3 +1,3 @@
 ---
-title: "Quadrato"
+title: Quadrato
 ---

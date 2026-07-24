@@ -1,3 +1,3 @@
 ---
-title: "wiedergewonnenes Bauwerk"
+title: 'wiedergewonnenes Bauwerk'
 ---

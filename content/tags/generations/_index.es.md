@@ -1,3 +1,3 @@
 ---
-title: "Generaciones"
+title: Generaciones
 ---

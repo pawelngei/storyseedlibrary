@@ -1,3 +1,3 @@
 ---
-title: "Tram"
+title: Tram
 ---

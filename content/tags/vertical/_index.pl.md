@@ -1,3 +1,3 @@
 ---
-title: "Pionowa"
+title: Pionowa
 ---

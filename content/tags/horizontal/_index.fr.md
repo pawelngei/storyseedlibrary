@@ -1,3 +1,3 @@
 ---
-title: "Horizontal.e"
+title: Horizontal.e
 ---

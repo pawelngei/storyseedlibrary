@@ -1,3 +1,3 @@
 ---
-title: "Noc"
+title: Noc
 ---

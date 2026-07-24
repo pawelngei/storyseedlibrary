@@ -1,3 +1,3 @@
 ---
-title: "Robot"
+title: Robot
 ---

@@ -1,3 +1,3 @@
 ---
-title: "Medycyna"
+title: Medycyna
 ---

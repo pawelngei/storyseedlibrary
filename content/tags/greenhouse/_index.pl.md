@@ -1,3 +1,3 @@
 ---
-title: "Szklarnia"
+title: Szklarnia
 ---

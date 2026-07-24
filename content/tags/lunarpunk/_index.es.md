@@ -1,3 +1,3 @@
 ---
-title: "Lunarpunk"
+title: Lunarpunk
 ---

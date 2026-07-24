@@ -1,3 +1,3 @@
 ---
-title: "Industrie"
+title: Industrie
 ---

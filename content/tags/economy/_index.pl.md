@@ -1,3 +1,3 @@
 ---
-title: "Ekonomia"
+title: Ekonomia
 ---

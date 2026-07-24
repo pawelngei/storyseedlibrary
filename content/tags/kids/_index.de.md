@@ -1,3 +1,3 @@
 ---
-title: "Kinder"
+title: Kinder
 ---

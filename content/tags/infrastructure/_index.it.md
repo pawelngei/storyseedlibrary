@@ -1,3 +1,3 @@
 ---
-title: "Infrastructure"
+title: Infrastructure
 ---

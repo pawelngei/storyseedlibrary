@@ -1,3 +1,3 @@
 ---
-title: "Fantasia"
+title: Fantasia
 ---

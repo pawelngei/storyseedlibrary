@@ -1,3 +1,3 @@
 ---
-title: "handicap"
+title: handicap
 ---

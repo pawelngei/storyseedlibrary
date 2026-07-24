@@ -1,3 +1,3 @@
 ---
-title: "bibliothèque"
+title: bibliothèque
 ---

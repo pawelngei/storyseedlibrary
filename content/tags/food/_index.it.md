@@ -1,3 +1,3 @@
 ---
-title: "Cibo"
+title: Cibo
 ---

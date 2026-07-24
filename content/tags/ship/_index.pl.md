@@ -1,3 +1,3 @@
 ---
-title: "Statek"
+title: Statek
 ---

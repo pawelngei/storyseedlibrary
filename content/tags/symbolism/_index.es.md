@@ -1,3 +1,3 @@
 ---
-title: "Simbolismo"
+title: Simbolismo
 ---

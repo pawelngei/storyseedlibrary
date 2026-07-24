@@ -1,3 +1,3 @@
 ---
-title: "Gewächshaus"
+title: Gewächshaus
 ---

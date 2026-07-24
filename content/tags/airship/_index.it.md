@@ -1,3 +1,3 @@
 ---
-title: "Aeronave"
+title: Aeronave
 ---

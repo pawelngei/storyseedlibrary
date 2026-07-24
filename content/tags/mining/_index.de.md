@@ -1,3 +1,3 @@
 ---
-title: "Bergbau"
+title: Bergbau
 ---

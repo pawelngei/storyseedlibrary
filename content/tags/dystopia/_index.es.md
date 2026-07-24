@@ -1,3 +1,3 @@
 ---
-title: "Distopía"
+title: Distopía
 ---

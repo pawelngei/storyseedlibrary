@@ -1,3 +1,3 @@
 ---
-title: "Invernadero"
+title: Invernadero
 ---

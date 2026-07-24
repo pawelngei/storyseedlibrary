@@ -1,3 +1,3 @@
 ---
-title: "Vertikal"
+title: Vertikal
 ---

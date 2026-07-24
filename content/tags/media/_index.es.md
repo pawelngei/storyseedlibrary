@@ -1,3 +1,3 @@
 ---
-title: "Medios"
+title: Medios
 ---

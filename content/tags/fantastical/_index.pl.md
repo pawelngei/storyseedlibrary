@@ -1,3 +1,3 @@
 ---
-title: "Fantastyczne"
+title: Fantastyczne
 ---

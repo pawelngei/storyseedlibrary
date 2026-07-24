@@ -1,3 +1,3 @@
 ---
-title: "Nueva Chispa"
+title: 'Nueva Chispa'
 ---

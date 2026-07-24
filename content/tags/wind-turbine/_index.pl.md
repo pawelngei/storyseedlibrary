@@ -1,3 +1,3 @@
 ---
-title: "Tubrina Wiatrowa"
+title: 'Tubrina Wiatrowa'
 ---

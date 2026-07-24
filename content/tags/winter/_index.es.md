@@ -1,3 +1,3 @@
 ---
-title: "Invierno"
+title: Invierno
 ---

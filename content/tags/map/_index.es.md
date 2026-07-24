@@ -1,3 +1,3 @@
 ---
-title: "Маpa"
+title: Маpa
 ---

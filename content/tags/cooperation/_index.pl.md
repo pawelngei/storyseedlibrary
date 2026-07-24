@@ -1,3 +1,3 @@
 ---
-title: "Współpraca"
+title: Współpraca
 ---

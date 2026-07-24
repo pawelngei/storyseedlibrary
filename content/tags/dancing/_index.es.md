@@ -1,3 +1,3 @@
 ---
-title: "Baile"
+title: Baile
 ---

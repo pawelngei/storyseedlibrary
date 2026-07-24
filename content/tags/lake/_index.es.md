@@ -1,3 +1,3 @@
 ---
-title: "Lago"
+title: Lago
 ---

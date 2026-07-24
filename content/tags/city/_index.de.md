@@ -1,3 +1,3 @@
 ---
-title: "Stadt"
+title: Stadt
 ---

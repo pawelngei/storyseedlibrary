@@ -1,3 +1,3 @@
 ---
-title: "déchets"
+title: déchets
 ---
