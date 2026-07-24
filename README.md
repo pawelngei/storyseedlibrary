@@ -68,6 +68,24 @@ To add a new tag:
 
 ### Translating
 
+Translations are managed through [Weblate on Codeberg](https://translate.codeberg.org) - see [docs/weblate.md](docs/weblate.md) for the full pipeline documentation and the maintainer setup checklist.
+
+**Important:** the translated `index.[LANGUAGE CODE].md` / `_index.[LANGUAGE CODE].md` files in `content/` are *generated* from the gettext files in `po/`. Please don't edit them by hand - your changes would be overwritten by the next sync. Translate in Weblate instead (titles, descriptions, author bios and article bodies are all available there as ordinary strings).
+
+Tags stay in English in every article's front matter - they are shared across all languages. A tag's *display name* is translated in Weblate like any other string (it comes from `content/tags/{tagName}/_index.en.md`).
+
+When translating in Weblate, please copy shortcodes and URLs verbatim: never translate anything inside `{{< >}}` blocks.
+
+#### Maintainer workflow
+
+After editing English content or merging a Weblate pull request:
+
+```bash
+python3 scripts/po_sync.py
+```
+
+then review, build and commit `po/`, `po4a/` and `content/` together. Details in [docs/weblate.md](docs/weblate.md).
+
 #### Adding a new language
 
 To add a new language, as described in the [blowfish documentation](https://blowfish.page/docs/configuration/#language-and-i18n):
@@ -75,56 +93,13 @@ To add a new language, as described in the [blowfish documentation](https://blow
 1. Add `config/_default/languages.[LANGUAGE CODE].toml`
 2. Add `config/_default/menus.[LANGUAGE CODE].toml`
 
-Fill them to match the `en` versions of the files.
-
-Now the language should be visible in the Hugo locale picker in the top menu. By default, only the translated articles will be visible.
-
-Each translated article URL will be prepended by your language code, like `/art` becoming `/pl/art`. Please remember that as you're using Markdown links - they cannot be 1:1 of their English versions.
-
-#### Translating articles
-
-In each article page, next to `index.md` or `index.en.md`, create a matching `index.[LANGUAGE CODE].md` in your language and translate it. List pages like `/art` or `/seeds` might require `_index.[LANGUAGE CODE].md` in their main catalog.
-
-#### Translating URLs
-
-To translate a URL of a given article, you need to give all of its language versions a [translationKey](https://gohugo.io/methods/page/translationkey/) and the translated ones a `url`, like this:
-
-`en`
-```yaml
-translationKey: 'What is Solarpunk?'
-```
-
-`pl`
-```yaml
-translationKey: 'What is Solarpunk?'
-url: 'czym-jest-solarpunk'
-```
-
-#### Translating Tags
-
-Please don't modify the English tags associated with each article, like:
-
-```yaml
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "farming", "waste"]
-```
-
-If you do, they will lose synchronization with their counterparts in other languages.
-
-To translate a Tag correctly, just create a catalog with a tag name in `content/tags/`, like `city` - and inside place an `_index.[LANGUAGE_CODE].md` containing just:
-
-```yaml
----
-title: "Miasto"
----
-```
-
-This will translate the default `city` to `Miasto` on the Tag page and every art page.
+Fill them to match the `en` versions of the files. Now the language should be visible in the Hugo locale picker in the top menu, and `scripts/po_sync.py` will pick it up automatically. In Weblate, use "Add new translation" in each component to start translating; only articles translated above 80% get generated.
 
 ## TODO
 
 - [ ] Update colors to match Natalia Vish's palette
 - [x] Add better tags for existing illustrations
-- [ ] Add `author-extra.html` partial on Author tag pages
+- [x] Add `author-extra.html` partial on Author tag pages
 - [ ] Implement sorting and filtering on the art page, for example using [Isotope](https://isotope.metafizzy.co/)
 - [ ] Add short stories written based on the Seeds
 - [ ] Add tooltips for some elements, like the theme swapper
