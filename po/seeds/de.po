@@ -795,12 +795,12 @@ msgid ""
 msgstr ""
 "Jetzt nehmen wir mal an, die Welt wäre mehr anarchistisch, weniger "
 "hierarchisch, und eine Menge Entscheidungen werden per Konsens entschieden, "
-"als öffentliche Debatte, Flaming oder Online Brigading. Die Wissenschaftler:"
-"innen hinter diesem Bericht sind jetzt berühmt, allseits bekannt, ob sie "
-"wollen oder nicht. Wenn man ein Buch mit ähnlichen Themen nennen will, "
-"könnte man LX Becketts „Gamechanger“ oder „Dealbreaker“ erwähnen, wo die "
-"populäre Unterstützung für grüne Politik eine der wichtigsten Themen der "
-"Handlung ist."
+"als öffentliche Debatte, Flaming oder Online Brigading. Die "
+"Wissenschaftler:innen hinter diesem Bericht sind jetzt berühmt, allseits "
+"bekannt, ob sie wollen oder nicht. Wenn man ein Buch mit ähnlichen Themen "
+"nennen will, könnte man LX Becketts „Gamechanger“ oder „Dealbreaker“ "
+"erwähnen, wo die populäre Unterstützung für grüne Politik eine der "
+"wichtigsten Themen der Handlung ist."
 
 #. type: Plain text
 #: content/seeds/the-non-economists/index.en.md
