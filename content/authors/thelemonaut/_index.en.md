@@ -6,4 +6,6 @@ params:
     - tumblr: "https://www.tumblr.com/the-lemonaut"
     - mastodon: "https://mastodon.art/@the_lemonaut"
     - buymeacoffee: "https://buymeacoffee.com/thelemonaut"
+images:
+  - ../../art/the-lemonaut/hackerspace/featured.jpg
 ---

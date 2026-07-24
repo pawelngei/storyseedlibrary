@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/tower/featured.jpg
 ---
 
 > Społeczność świeżo wprowadziła się do nowego, drewnianego, odżywalnego i udopornionego na zmiany klimatu bloku mieszkalnego. Został on zaprojektowany, by pomóc im stworzyć wspólnotę i zbliżyć się do siebie nawzajem. Dla części mieszkańców jest to szczyt marzeń, podczas gdy inni mierzą się z szokiem kulturowym. Wszyscy z nich stracili swoje poprzednie domy w pożarach, powodziach i programach przesiedleniowych. Kiedy dorośli stawiają czoła trudnym emocjom, ich dzieci z radością eksplorują fascynujące zakamarki budynku.

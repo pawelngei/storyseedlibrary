@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/chefs/featured.jpg
 ---
 
 > Un grupo de cocineres, dietistas y docentes crean y promueven menús de cocina vegetariana sabrosos y completos, en un mundo que atraviesa el shock cultural de la subida inasumible del precio de la carne.

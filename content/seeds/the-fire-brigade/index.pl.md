@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/helicopter-flood-rescue/featured.jpg
 ---
 
 > Jednostka wojskowa, która dziesiątki lat temu przesiadła się z czołgów na wozy strażackie. Teraz walczą z katastrofami klimatycznymi, będąc bardziej inżynierami i strażakami niż żołnierzami, co dla jednych jest spełnieniem marzeń, a dla innych koszmarem. Żółtodzioby, dobrze zorientowane w nowej rzeczywistości, mają problemy ze zrozumieniem języka starego oficera, wciąż trzymającego się wojskowego żargonu.

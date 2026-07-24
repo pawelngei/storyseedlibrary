@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/hackerspace/featured.jpg
 ---
 
 > Społeczność osób z niepełnosprawnościami dzieli się najlepszymi sztuczkami, jak radzić sobie w trudnym świecie, który nie został dla nich stworzony. Wiele z tego, czym się dzielą, pozostaje niewypowiedziane, bo każdy z nich zna ból i wyzwania, z jakimi się mierzą.

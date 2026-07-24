@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/tower/featured.jpg
 ---
 
 > Una comunidad se muda a una nueva torre sostenible, climatizada y construida con madera, que les ayuda a conectar y vivir comunalmente. Para algunes es un sueño hecho realidad, para otres es un shock cultural, pero todes batallan con el trauma de perder sus antiguas casas por inundaciones, incendios y programas de realojo climático. Mientras les adultes lidian con sus emociones, la juventud corre a explorar las maravillas de su nuevo hogar.

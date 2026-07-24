@@ -6,4 +6,6 @@ params:
     - pencil: "https://www.evhell.fr/"
     - instagram: "https://www.instagram.com/evhell.fr/"
     - twitch: "https://www.twitch.tv/evhell"
+images:
+  - ../../art/evhell/at-the-artists-market/featured.jpg
 ---

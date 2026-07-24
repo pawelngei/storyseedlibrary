@@ -8,4 +8,6 @@ params:
     - artstation: "https://www.artstation.com/danieleturturici"
     - reddit: "https://www.reddit.com/user/danieleturturici/"
     - patreon: "https://www.patreon.com/danieleturturici"
+images:
+  - ../../art/daniele-turturici/solarpunk-cityscape/featured.jpg
 ---

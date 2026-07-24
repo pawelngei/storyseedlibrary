@@ -6,5 +6,7 @@ params:
     - pencil: https://lindsthinks.com/
     - instagram: "https://www.instagram.com/lindsthinks/"
     - bluesky: "https://bsky.app/profile/lindsthinks.com"
+images:
+  - ../../art/linds-brown/basket-weaving/featured.jpg
 ---
 

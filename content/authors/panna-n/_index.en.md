@@ -7,4 +7,6 @@ params:
     - facebook: "https://www.facebook.com/pannanARTS/"
     - tumblr: "https://pannan-art.tumblr.com/"
     - patreon: "https://www.patreon.com/profile/creators?u=2487835"
+images:
+  - ../../art/panna-n/barborka-postcard/featured.jpg
 ---

@@ -5,4 +5,6 @@ params:
   social:
     - linktree: "https://linktr.ee/xuliavicente"
     - heart: "https://xuliavicente.com/shop/"
+images:
+  - ../../art/xulia-vicente/earth-water-air/featured.jpg
 ---

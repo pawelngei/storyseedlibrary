@@ -6,4 +6,6 @@ params:
     - pencil: "https://stephanisoejono.com"
     - tumblr: "https://stephanisoejono.tumblr.com"
     - ko-fi: "https://ko-fi.com/stephanisoejono"
+images:
+  - ../../art/stephani-soejono/the-sunday-scene/featured.jpg
 ---

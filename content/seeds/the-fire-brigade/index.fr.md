@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/helicopter-flood-rescue/featured.jpg
 ---
 
 > Il existe une unité militaire qui est passée des chars aux camions de pompiers il y a des décennies. Maintenant, iel.le.s luttent contre les catastrophes climatiques, étant plus ingénieur.e.s et pompiers que soldat.te.s, ce qui est un rêve pour certain.e.s et un cauchemar pour d'autres. Les recrues, bien au fait de la nouvelle réalité, ont du mal à comprendre le langage de l'ancien.ne officier.e, qui s'accroche encore au jargon et aux méthodes militaires.

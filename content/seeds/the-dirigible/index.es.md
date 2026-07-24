@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/karl-schulschenk/air/featured.jpg
 ---
 
 > Un zeppelin moderno es el medio de transporte más rápido y económico para varias comunidades aisladas. Su tripulación anarquista siempre está preparada para dar la bienvenida a nuevas incorporaciones al equipo, incluso si se trata de niñes que se han escapado en busca de aventuras.

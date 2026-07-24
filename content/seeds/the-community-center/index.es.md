@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/community-center/featured.jpg
 ---
 
 > Un centro comunitario o biblioteca, inicialmente ideado para ayudar a personal de la industria minera a especializarse en otras áreas o buscar alternativas laborales. En la actualidad, reconvertido en un centro de "peregrinaje" para gente que busca su rol en la vida y aprende la historia de quienes transitaron por el mismo camino incierto.

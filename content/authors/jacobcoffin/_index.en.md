@@ -7,4 +7,6 @@ params:
     - wordpress: "https://jacobcoffinwrites.wordpress.com/"
     - mastodon: "https://writing.exchange/@jacobcoffin"
     - pencil: https://magazine.metaphorosis.com/story/2023/the-frozen-generation-jacob-coffin/
+images:
+  - ../../art/jacob-coffin/soda-locomotive/featured.jpg
 ---

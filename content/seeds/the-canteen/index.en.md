@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/canteen/featured.jpg
 ---
 
 > A canteen in an isolated scientific or environmental outpost, where scientists, engineers, cooks and maintenance staff show each other their human face, while still remembering the importance of their role here and the harsh conditions of the outside. For example: cleaning the plastic from the oceans, measuring the polar ice levels, etc.

@@ -8,4 +8,6 @@ params:
     - instagram: "https://www.instagram.com/seanbodley/"
     - facebook: "https://www.facebook.com/seanbodleytheartist/"
     - artstation: "https://www.artstation.com/seanbodley"
+images:
+  - ../../art/sean-bodley/solarpunk-city/featured.jpg
 ---

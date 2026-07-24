@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/hackerspace/featured.jpg
 ---
 
 > A community of people with disabilities share their best tricks on how to deal with a harsh world not made for them. A lot of what they share remains unspoken, for every one knows the pain and the challenges they face.

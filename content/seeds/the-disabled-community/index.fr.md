@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/hackerspace/featured.jpg
 ---
 
 > Une communauté de personnes handicapées partage ses meilleures astuces pour faire face à un monde dur qui n'est pas fait pour elles. Une grande partie de ce qu'iel.le.s partagent reste inexprimée, car chacun.e connaît la douleur et les défis auxquels iel.le.s sont confronté.e.s.

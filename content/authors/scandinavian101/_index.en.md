@@ -5,4 +5,6 @@ params:
   social:
     - artstation: "https://www.artstation.com/scandinavian101"
     - bluesky: "https://bsky.app/profile/scandinavian101.bsky.social"
+images:
+  - ../../art/scandinavian101/emergency-wind-power-generation-unit/featured.jpg
 ---

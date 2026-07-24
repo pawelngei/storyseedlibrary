@@ -9,6 +9,10 @@ authors:
   - alxd
 ---
 
+## This Edition Has Completed
+
+Visit the [2026 Art Collab Tag](/tags/2026-collab/) to browse the selection of works submitted to our Library!
+
 ## Description
 
 Welcome to the 2026 edition of the collaborative solarpunk art project! This year's theme is **Disaster Preparedness, Response and Relief**, focusing on finding hope, connection and meaning when facing natural and human-made calamities.
@@ -26,6 +30,18 @@ Join the Art Collab Discord
 {{< youtube id="tgA5AvoHcOc" label="Discussing Solarpunk Disaster Response w/ alxd" >}}
 
 [Slides by alxd](https://slides.com/pawelngei/solarpunk-art-collab-2026-disasters/)
+
+
+## Results
+
+- [2026: Disaster Preparedness, Response and Relief](https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-disaster-preparedness) and on [YouTube](https://www.youtube.com/watch?v=Vl75t5CMW9M)
+
+## Previous Collabs
+
+- [2025: Life of Learning](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning) and on [YouTube](https://www.youtube.com/watch?v=sIgsf2Absi0)
+- [2024: New Dreams of Labor](https://andrew-ism.tumblr.com/post/770135694637236224/solarpunk-art-2024-new-dreams-of-labour) (and on [YouTube](https://www.youtube.com/watch?v=mRKt2ORY9bs))
+- [2023: Bioregions](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions) (and on [YouTube](https://www.youtube.com/watch?v=j3PZfXpY1og))
+- [2021 Art Collab](https://www.youtube.com/watch?v=IiK1MK44Or4)
 
 ## Submission Guidelines
 

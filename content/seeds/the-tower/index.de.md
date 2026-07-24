@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/tower/featured.jpg
 ---
 
 > Eine Gemeinschaft ist frisch in einen neuen, hölzernen, nachhaltigen, klimatisierten Turm eingezogen, der dafür ausgelegt ist, nah beieinander und gemeinschaftlich zu leben.

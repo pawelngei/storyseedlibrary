@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/chefs/featured.jpg
 ---
 
 > A un gruppo di cuochi, nutrizionisti e insegnanti viene chiesto di preparare e diffondere una dieta o un libro di ricette vegetariane e complete in un mondo in cui il prezzo della carne è alle stelle.

@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/hackerspace/featured.jpg
 ---
 
 > Squat / hackerspace w mieście, które wciąż trzyma się starych schematów, podczas gdy reszta świata się zmienia. Aktywiści, technolodzy, wynalazcy i edukatorzy próbują pokazać społecznościom wokół siebie, że można żyć inaczej, a jednocześnie aktywnie spierają się o to, czyj plan jest najlepszy.

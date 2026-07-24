@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/karl-schulschenk/air/featured.jpg
 ---
 
 > Anarchistyczna załoga nowoczesnego sterowca, najszybszego i najtańszego środka transportu dla kilku odległych społeczności, zawsze życzliwie wita każdego nowego członka, nawet jeśli jest to ewidentnie zbiegły z domu dzieciak szukający przygody.

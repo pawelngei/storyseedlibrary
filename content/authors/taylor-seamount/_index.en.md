@@ -7,4 +7,6 @@ params:
     - instagram: "https://www.instagram.com/taylorseamount/"
     - pixelfed: "https://pixelfed.art/taylorseamount"
     - ko-fi: "https://ko-fi.com/taylorseamount"
+images:
+  - ../../art/taylor-seamount/traffic-rebellion/featured.jpg
 ---

@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/tailors/featured.jpg
 ---
 
 > Un nuovo sarto si unisce a una comunità che non ne ha avuto uno per anni. In un mondo di produzioni distribuite, i sarti non sono più solo artigiani ma educatori, esperti di materiali e sostenibilità, designer di moda e traduttori di culture, garantendo che nessun vestito offenda gli altri lungo i viaggi di chi li indossa. Vedendo che sono molto meno tradizionali del precedente sarto, sarà accettato dalla comunità? Quale affermazione audace ha sorpreso tutti?

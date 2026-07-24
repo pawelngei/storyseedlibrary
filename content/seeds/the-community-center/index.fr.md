@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/community-center/featured.jpg
 ---
 
 > Un centre communautaire, une bibliothèque ou un centre éducatif, initialement mis en place pour aider des gens comme les mineur.euse.s de charbon à se reconvertir et à trouver d'autres emplois, est maintenant devenu un lieu de "pèlerinages" non officiels de personnes qui s'efforcent de trouver leur rôle dans la vie et d'apprendre l'histoire auprès de ceux qui l'ont vécue.

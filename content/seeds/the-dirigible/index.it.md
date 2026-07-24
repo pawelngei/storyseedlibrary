@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/karl-schulschenk/air/featured.jpg
 ---
 
 > Un gruppo anarchico a bordo di uno zeppelin, il mezzo di trasporto più veloce ed economico per molte comunità remote, è in cerca di nuovi membri, anche ragazzi in cerca di avventure.

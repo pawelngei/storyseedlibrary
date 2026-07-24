@@ -5,6 +5,8 @@ params:
   social:
     - carrd: "https://elakidd.carrd.co/"
     - instagram: "https://www.instagram.com/takokidd/"
+images:
+  - ../../art/elakidd/madame-yu-leading-guangchangwu/featured.jpg
 ---
 
 

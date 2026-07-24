@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/canteen/featured.jpg
 ---
 
 > Une cantine dans un avant-poste scientifique ou environnemental isolé, où les scientifiques, les ingénieur.e.s, les cuisinier.e.s et le personnel d'entretien se montrent mutuellement leur visage humain, tout en se rappelant l'importance de leur rôle ici et les conditions difficiles de l'extérieur. Par exemple : nettoyer le plastique des océans, mesurer le niveau des glaces polaires, etc.

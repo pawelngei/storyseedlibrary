@@ -7,6 +7,8 @@ tags: ["podcast"]
 showAuthorBottom: true
 authors:
   - "alxd"
+images:
+  - ../../art/the-lemonaut/chefs/featured.jpg
 ---
 
 > Un groupe de cuisinier.e.s, de diététicien.ne.s et d'enseignant.e.s est chargé de créer et de promouvoir une cuisine végétarienne équilibrée et savoureuse dans un monde qui vit le choc culturel de l'absence de viande à un prix abordable.
