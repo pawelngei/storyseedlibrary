@@ -1,12 +1,12 @@
 ---
-title: "Wasser"
-date: 2023-07-02
-publishDate: 2025-05-08
-draft: false
-description: ""
-tags: ["illustration", "CC BY-NC-ND 4.0", "horizontal", "people", "river", "animals"]
-authors:
-  - "karl-schulschenk"
 aliases:
   - /de/art/karl-schulschenk-water/
+authors:
+  - karl-schulschenk
+date: 2023-07-02
+description: ''
+draft: false
+publishDate: 2025-05-08
+tags: ["illustration", "CC BY-NC-ND 4.0", "horizontal", "people", "river", "animals"]
+title: Wasser
 ---

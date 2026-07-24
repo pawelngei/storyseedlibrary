@@ -1,14 +1,14 @@
 ---
-title: "Leerstehendes Gefängnis in New Spark"
-date: 2023-03-03
-publishDate: 2025-05-13
-draft: false
-description: ""
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "new spark"]
-authors:
-  - "thelemonaut"
 aliases:
   - /de/art/the-lemonaut-abandoned-prison/
+authors:
+  - thelemonaut
+date: 2023-03-03
+description: ''
+draft: false
+publishDate: 2025-05-13
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "new spark"]
+title: 'Leerstehendes Gefängnis in New Spark'
 ---
 
 > Was macht man mit leerstehenden Gefängnissen?

@@ -1,15 +1,14 @@
 ---
-title: "Youth dorm in New Spark"
-title: "Jugendwohnheim in New Spark"
-date: 2023-03-03
-publishDate: 2025-05-13
-draft: false
-description: ""
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "new spark"]
-authors:
-  - "thelemonaut"
 aliases:
   - /de/art/the-lemonaut-youth-dorm/
+authors:
+  - thelemonaut
+date: 2023-03-03
+description: ''
+draft: false
+publishDate: 2025-05-13
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "new spark"]
+title: 'Jugendwohnheim in New Spark'
 ---
 
 > Ein Ort, an dem junge Menschen leben können, wenn sie mehr Unabhängigkeit von ihren Eltern wollen und sich selbst ausprobieren möchten.
@@ -30,5 +29,4 @@ aliases:
 > Zumindest einmal jährlich werden Übungen organisiert, damit jeder weiß, was im Notfall zu tun ist.
 > Das übrige wird den Einwohner:innen überlassen.
 
-
-Die Illustration spielt in der kleinen fiktionalen Stadt namens New Spark.
+Die Illustration handelt in einer kleinen fiktiven Stadt namens New Spark.

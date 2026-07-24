@@ -4,8 +4,7 @@ date: 2023-11-03
 publishDate: 2025-04-29
 draft: false
 description: "Une femme tisse un panier en aiguilles de pin avec des enfants, un homme répare des vélos, une personne installe un réseau maillé près d'une éolienne. Quelqu'un a terminé sa lessive. "
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "crafts", 
-"wind turbine"]
+tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "crafts", "wind turbine"]
 authors:
  - lindsbrown
 aliases:

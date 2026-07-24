@@ -1,19 +1,19 @@
 ---
-title: "Ukraiński Step"
-date: 2023-06-06
-publishDate: 2025-05-13
-draft: false
-description: ""
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "infrastructure", "solar", "ruins", "2023-collab", "ukraine"]
-authors:
-  - "thelemonaut"
 aliases:
   - /pl/art/the-lemonaut-ukrainian-steppe/
+authors:
+  - thelemonaut
+date: 2023-06-06
+description: ''
+draft: false
+publishDate: 2025-05-13
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "infrastructure", "solar", "ruins", "2023-collab", "ukraine"]
+title: 'Ukraiński Step'
 ---
 
-## Angielski opis
-
-Originally a submission to Andrewism's [Solarpunk Art Collab 2023](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions), the illustration depicts a temperate grassland in Ukraine.
+Originally a submission to Andrewism's [Solarpunk Art Collab
+2023](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions),
+the illustration depicts a temperate grassland in Ukraine.
 
 > The region depicted is the Ukrainian steppe (Temperate Grasslands biome). It's a rapidly disappearing region, as most of the land gets turned into crop fields or forest to provide profit with little regard for the ecosystem. At the top part of the drawing is a bus stop in the rural area near a maize field. Ukraine grows a lot of maize, mostly to provide feed for the meat industry, so rewilding it back into a grassland would be a great way to help achieve degrowth and heal the environment. Also fertilizer use often leads to eutrophication - the green puddle to the left is a small example of that. The country's ecosystems are also being wrecked by the Russian invasion. Helping the land recover from both profit-oriented industry and war is undoubtedly an important step towards Solarpunk.
 > 

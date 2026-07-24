@@ -1,15 +1,14 @@
 ---
-title: "Ville rétrofitée"
-date: 2025-04-29
-publishDate: 2025-06-07
-draft: false
-description: ""
-tags: ["illustration", "CC BY 4.0", "vertical", "city", "people", "transport"]
-authors:
- - dustinjacobus
 aliases:
   - /fr/art/dustin-jacobus-retrofitted-city/
+authors:
+  - dustinjacobus
+date: 2025-04-29
+description: ''
+draft: false
+publishDate: 2025-06-07
+tags: ["illustration", "CC BY 4.0", "vertical", "city", "people", "transport"]
+title: 'Ville rétrofitée'
 ---
-
 
 

@@ -1,15 +1,14 @@
 ---
-title: "Journal Sci Phi : Ecovillage"
-date: 2025-04-29
-publishDate: 2025-06-07
-draft: false
-description: ""
-tags: ["illustration", "CC BY 4.0", "vertical", "people", "farming", "robots"]
-authors:
- - dustinjacobus
 aliases:
   - /fr/art/dustin-jacobus-sci-phi-ecovillage/
+authors:
+  - dustinjacobus
+date: 2025-04-29
+description: ''
+draft: false
+publishDate: 2025-06-07
+tags: ["illustration", "CC BY 4.0", "vertical", "people", "farming", "robots"]
+title: 'Journal Sci Phi : Ecovillage'
 ---
-
 
 

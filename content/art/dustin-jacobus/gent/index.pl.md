@@ -1,14 +1,14 @@
 ---
-title: "CSA w Gent (Belgia)"
-date: 2025-04-29
-publishDate: 2025-06-07
-draft: false
-description: ""
-tags: ["illustration", "CC BY 4.0", "horizontal", "city", "farming", "river", "solar", "wind turbine"]
-authors:
- - dustinjacobus
 aliases:
   - /pl/art/dustin-jacobus-gent/
+authors:
+  - dustinjacobus
+date: 2025-04-29
+description: ''
+draft: false
+publishDate: 2025-06-07
+tags: ["illustration", "CC BY 4.0", "horizontal", "city", "farming", "river", "solar", "wind turbine"]
+title: 'CSA w Gent (Belgia)'
 ---
 
 

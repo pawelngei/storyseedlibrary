@@ -1,14 +1,14 @@
 ---
-title: "Low tech Journal: Potlacz"
-date: 2025-04-29
-publishDate: 2025-06-07
-draft: false
-description: ""
-tags: ["illustration", "CC BY-NC-ND 4.0", "vertical", "people", "food", "transport", "solar"]
-authors:
- - dustinjacobus
 aliases:
   - /pl/art/dustin-jacobus-low-tech-journal-potlach/
+authors:
+  - dustinjacobus
+date: 2025-04-29
+description: ''
+draft: false
+publishDate: 2025-06-07
+tags: ["illustration", "CC BY-NC-ND 4.0", "vertical", "people", "food", "transport", "solar"]
+title: 'Low tech Journal: Potlacz'
 ---
 
-[Potlacz](https://pl.wikipedia.org/wiki/Potlacz) – ceremonia składania darów praktykowana przez plemiona zamieszkujące Północno-Zachodnie Wybrzeże Ameryki Północnej.
+

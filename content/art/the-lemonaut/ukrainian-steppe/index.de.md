@@ -1,17 +1,18 @@
 ---
-title: "Ukrainische Steppe"
-date: 2023-06-06
-publishDate: 2025-05-13
-draft: false
-description: ""
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "infrastructure", "solar", "ruins", "2023-collab", "ukraine"]
-authors:
-  - "thelemonaut"
 aliases:
   - /de/art/the-lemonaut-ukrainian-steppe/
+authors:
+  - thelemonaut
+date: 2023-06-06
+description: ''
+draft: false
+publishDate: 2025-05-13
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "infrastructure", "solar", "ruins", "2023-collab", "ukraine"]
+title: 'Ukrainische Steppe'
 ---
 
-Ursprünglich ein Beitrag zu Andrewisms [Solarpunk Art Collab 2023](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions),
+Ursprünglich ein Beitrag zu Andrewisms [Solarpunk Art Collab
+2023](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions),
 die Illustration zeigt ein gemäßigtes Grasland in der Ukraine.
 
 > Die dargestellte Region ist die ukrainische Steppe (gemäßigtes Grasland

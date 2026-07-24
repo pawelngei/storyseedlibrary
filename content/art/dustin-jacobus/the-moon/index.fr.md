@@ -1,15 +1,14 @@
 ---
-title: "La lune brille aussi fort que le jour"
-date: 2025-04-29
-publishDate: 2025-06-07
-draft: false
-description: ""
-tags: ["illustration", "CC BY 4.0", "vertical", "people", "kids", "night"]
-authors:
- - dustinjacobus
 aliases:
   - /fr/art/dustin-jacobus-the-moon/
+authors:
+  - dustinjacobus
+date: 2025-04-29
+description: ''
+draft: false
+publishDate: 2025-06-07
+tags: ["illustration", "CC BY 4.0", "vertical", "people", "kids", "night"]
+title: 'La lune brille aussi fort que le jour'
 ---
-
 
 

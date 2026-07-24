@@ -1,12 +1,12 @@
 ---
-title: "Solarpunk - technologia i natura razem"
-date: 2024-03-25
-publishDate: 2025-05-05
-draft: false
-description: ""
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "city", "transport", "tram" ]
-authors:
-  - loop-chan
 aliases:
   - /pl/art/loop-chan-solarpunk-technology-nature/
+authors:
+  - loop-chan
+date: 2024-03-25
+description: ''
+draft: false
+publishDate: 2025-05-05
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "city", "transport", "tram" ]
+title: 'Solarpunk - technologia i natura razem'
 ---

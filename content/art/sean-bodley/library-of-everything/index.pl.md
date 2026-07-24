@@ -1,22 +1,24 @@
 ---
-title: "Biblioteka wszystkiego"
-date: 2025-02-03
-publishDate: 2025-04-28
-draft: false
-description: ""
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "library", "economy", "city"]
-authors:
-  - "seanbodley"
 aliases:
   - /pl/art/sean-bodley-library-of-everything/
+authors:
+  - seanbodley
+date: 2025-02-03
+description: ''
+draft: false
+publishDate: 2025-04-28
+tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "library", "economy", "city"]
+title: 'Biblioteka wszystkiego'
 ---
 
-[Oryginał na Patreonie](https://www.patreon.com/posts/121433682?collection=538254)
+[Oryginał na
+Patreonie](https://www.patreon.com/posts/121433682?collection=538254)
 
-## Angielski opis
+My latest collaborative piece is finished! Check out the video by Andrewism
+that explores "How Library Economies Work"
+https://www.youtube.com/watch?v=vW5EVNT--DA
 
-My latest collaborative piece is finished! Check out the video by Andrewism that explores "How Library Economies Work" https://www.youtube.com/watch?v=vW5EVNT--DA
-
-I love how Andrew pushes boundaries to imagine new ways of living in the modern era.
+I love how Andrew pushes boundaries to imagine new ways of living in the
+modern era.
 
 

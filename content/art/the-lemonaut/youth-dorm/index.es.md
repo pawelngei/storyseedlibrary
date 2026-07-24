@@ -1,14 +1,14 @@
 ---
-title: "Residencia juvenil en Nueva Chispa"
-date: 2023-03-03
-publishDate: 2025-05-13
-draft: false
-description: ""
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "new spark"]
-authors:
-  - "thelemonaut"
 aliases:
   - /es/art/the-lemonaut-youth-dorm/
+authors:
+  - thelemonaut
+date: 2023-03-03
+description: ''
+draft: false
+publishDate: 2025-05-13
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "new spark"]
+title: 'Residencia juvenil en Nueva Chispa'
 ---
 
 > Un lugar donde la juventud puede ir a vivir si quieren más independencia de sus mayores y desean empezar a vivir por su cuenta. No es un lugar aislado de la sociedad, es más bien un refugio. Nadie tiene la obligación de vivir ahí, y la residencia no está asociada a ninguna institución, como colegios o universidades. Las personas adultas pueden entrar y pasar el rato, pero se les pide respetar las normas de convivencia definidas por les residentes.

@@ -1,16 +1,16 @@
 ---
-title: "Lebendige Stadt: über die Transformation einer Stadt (Teil 4)"
-date: 2025-04-29
-publishDate: 2025-06-07
-draft: false
-description: ""
-tags: ["illustration", "CC BY 4.0", "vertical", "city", "wind turbine", "people", "transport"]
-authors:
- - dustinjacobus
-series: ["Living City"]
-series_order: 4
 aliases:
   - /de/art/dustin-jacobus-living-city-part-4/
+authors:
+  - dustinjacobus
+date: 2025-04-29
+description: ''
+draft: false
+publishDate: 2025-06-07
+series: ["Living City"]
+series_order: 4
+tags: ["illustration", "CC BY 4.0", "vertical", "city", "wind turbine", "people", "transport"]
+title: 'Lebendige Stadt: über die Transformation einer Stadt (Teil 4)'
 ---
 
 - Eric Hunting - die lebendige Stadt
