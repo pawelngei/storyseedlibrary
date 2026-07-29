@@ -40,8 +40,9 @@ msgstr ""
 "Otros aspectos a explorar son cómo las alertas por tormenta pueden ser "
 "notificadas sin una organización metereológica centralizada o sin un "
 "gobierno federal/nacional controlando la infraestructura de comunicaciones. "
-"En EE.UU, el gobierno federal dispone de un [sistema de alertas](https://www."
-"ready.gov/es/alertas-de-emergencia), que los gobiernos locales pueden usar."
+"En EE.UU, el gobierno federal dispone de un [sistema de alertas](https://"
+"www.ready.gov/es/alertas-de-emergencia), que los gobiernos locales pueden "
+"usar."
 
 #. type: Plain text
 #: content/seeds/seek-shelter-immediately/index.en.md

@@ -904,12 +904,12 @@ msgid ""
 "disabled citizens to things they need, as wheelchair-bound people will "
 "really struggle with knee-high floods."
 msgstr ""
-"L'\"accessibilité\" signifie trois choses : l'accès d'un.e citoyen.ne moyen."
-"ne à l'infrastructure (un abri peut-être ?), l'accès des résident.e.s plus "
-"pauvres / moins chanceux.es aux protections de leur district, et bien sûr "
-"l'accès des citoyen.ne.s handicapé.e.s aux choses dont iel.le.s ont besoin, "
-"car les personnes en fauteuil roulant auront vraiment du mal avec des "
-"inondations à hauteur de genou."
+"L'\"accessibilité\" signifie trois choses : l'accès d'un.e citoyen.ne "
+"moyen.ne à l'infrastructure (un abri peut-être ?), l'accès des résident.e.s "
+"plus pauvres / moins chanceux.es aux protections de leur district, et bien "
+"sûr l'accès des citoyen.ne.s handicapé.e.s aux choses dont iel.le.s ont "
+"besoin, car les personnes en fauteuil roulant auront vraiment du mal avec "
+"des inondations à hauteur de genou."
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
@@ -999,8 +999,8 @@ msgid ""
 "in https://99percentinvisible.org/episode/palaces-for-the-people/"
 msgstr ""
 "Un bon livre sur l'infrastructure sociale et les défis de la planification "
-"urbaine : https://www.goodreads.com/en/book/show/37707827 , avec quelques tl;"
-"dr dans https://99percentinvisible.org/episode/palaces-for-the-people/"
+"urbaine : https://www.goodreads.com/en/book/show/37707827 , avec quelques "
+"tl;dr dans https://99percentinvisible.org/episode/palaces-for-the-people/"
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
@@ -1114,8 +1114,8 @@ msgstr ""
 "communauté et la société d'une manière ou d'une autre. Iel.le.s peuvent être "
 "secouristes, électricien.ne.s, logisticien.ne.s, jardinier.e.s d'enfants, "
 "gardes forestiers, expert0e0s en inondations ou coordinateur.ice.s d'efforts "
-"en cas d'épidémie. Ce ne sont pas des professionnel.le.s - bien sûr, iel.le."
-"s peuvent aligner leur carrière sur leur formation - mais ce sont les "
+"en cas d'épidémie. Ce ne sont pas des professionnel.le.s - bien sûr, "
+"iel.le.s peuvent aligner leur carrière sur leur formation - mais ce sont les "
 "\"membres du service\"."
 
 #. type: Plain text
@@ -1131,8 +1131,8 @@ msgstr ""
 "garantissant que tous les habitant.e.s d'une région donnée peuvent apporter "
 "leur aide en cas de catastrophe. En cas de besoin d'aide, on fait appel aux "
 "personnes ayant les compétences requises, quel que soit leur niveau de vie "
-"actuel - qu'il s'agisse de coiffeur.euse.s, d'ingénieur.e.s ou de politicien."
-"ne.s."
+"actuel - qu'il s'agisse de coiffeur.euse.s, d'ingénieur.e.s ou de "
+"politicien.ne.s."
 
 #. type: Plain text
 #: content/seeds/the-reservists/index.en.md

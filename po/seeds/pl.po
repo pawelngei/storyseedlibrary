@@ -40,8 +40,8 @@ msgstr ""
 "Inne aspekty o których można pomyśleć, to sposób wydawania ostrzeżeń przed "
 "burzą bez scentralizowanej organizacji meteorologicznej lub federalnego/"
 "krajowego organu kontrolującego infrastrukturę komunikacyjną. W Stanach "
-"Zjednoczonych rząd federalny dysponuje [systemem ostrzegania](https://www."
-"ready.gov/alerts), z którego mogą korzystać samorządy lokalne."
+"Zjednoczonych rząd federalny dysponuje [systemem ostrzegania](https://"
+"www.ready.gov/alerts), z którego mogą korzystać samorządy lokalne."
 
 #. type: Plain text
 #: content/seeds/seek-shelter-immediately/index.en.md
