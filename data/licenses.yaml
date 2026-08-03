@@ -1,0 +1,30 @@
+# Maps a license tag (as it appears in an art page's `tags:` list) to its
+# canonical Creative Commons deed URL, for the schema.org `license` property.
+#
+# The tag IS the license: every page under content/art/ carries exactly one of
+# these keys among its tags, identical across all 8 languages because
+# scripts/po_sync.py copies `tags` verbatim from the English original.
+#
+# Keys must match the tag string exactly. URLs must match the link
+# in the corresponding content/tags/cc-*/_index.en.md body. Adding a license
+# means adding an entry here AND a content/tags/{slug}/ original.
+#
+# partials/license-resolve.html reads this and warns at build time if an art
+# page matches no key or more than one.
+
+"CC BY 4.0":
+  url: "https://creativecommons.org/licenses/by/4.0/"
+"CC BY-SA 4.0":
+  url: "https://creativecommons.org/licenses/by-sa/4.0/"
+"CC BY-NC 4.0":
+  url: "https://creativecommons.org/licenses/by-nc/4.0/"
+"CC BY-NC-SA 4.0":
+  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+"CC BY-ND 4.0":
+  url: "https://creativecommons.org/licenses/by-nd/4.0/"
+"CC BY-NC-ND 4.0":
+  url: "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+"CC BY-NC-ND 3.0":
+  url: "https://creativecommons.org/licenses/by-nc-nd/3.0/"
+"CC0":
+  url: "https://creativecommons.org/publicdomain/zero/1.0/"
