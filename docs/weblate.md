@@ -58,4 +58,31 @@ Gotchas:
 3. `po_sync.py` picks the language up automatically (it scans
    `config/_default/languages.*.toml`).
 
+## How to set up Weblate for the first time
 
+1. translate.codeberg.org -> "+ Add new translation project".
+2. Project settings -> **Language aliases**: `ua:uk`.
+3. Create six components (art, seeds, authors, tags, pages, essays), each with:
+   - Source code repository: `https://codeberg.org/alxd/storyseedlibrary`
+   - Version control system: **Gitea pull request**
+   - File format: gettext PO file
+   - File mask: `po/{section}/*.po`
+   - Template for new translations: `po/{section}/{section}.pot`
+   - Translation license: CC BY-SA 4.0 (matching the site content)
+   - Translation flags: `ignore-same` (art bodies legitimately keep the
+     English text until translated - don't flag them as errors)
+   - "Manage strings" **off** (strings only come from the POT)
+4. Component add-on: **"Update PO files to match POT (msgmerge)"**
+   (`weblate.gettext.msgmerge`).
+5. Codeberg repo -> Settings -> Webhooks -> add Gitea webhook ->
+   `https://translate.codeberg.org/hooks/gitea`.
+6. Project instructions for translators: copy shortcodes and URLs **verbatim**;
+   never translate anything inside `{{< >}}` (e.g. `{{< youtubeLite >}}`,
+   `{{< cloakemail >}}`).
+7. Round-trip test: translate one string in Weblate -> force push from the
+   Weblate UI -> a PR appears on Codeberg -> merge it -> run
+   `python3 scripts/po_sync.py` -> the translated md is regenerated.
+
+If the first Weblate PR rewraps the PO files (po4a wraps at 76 columns,
+Weblate at 77) and the diff ping-pongs, add the "Customize gettext output"
+add-on to pin the wrapping.
