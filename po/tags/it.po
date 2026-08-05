@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-07-24 13:21+0200\n"
+"POT-Creation-Date: 2026-08-05 13:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,8 +32,8 @@ msgstr ""
 #. type: Plain text
 #: content/tags/2023-collab/_index.en.md
 msgid ""
-"All of the works are available on [Andrewism's tumblr](https://andrew-"
-"ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
+"All of the works are available on [Andrewism's tumblr](https://andrew-ism."
+"tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -751,6 +751,12 @@ msgstr "Musica"
 #: content/tags/new-spark/_index.en.md
 #, no-wrap
 msgid "New Spark"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/nigeria/_index.en.md
+#, no-wrap
+msgid "Nigeria"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title

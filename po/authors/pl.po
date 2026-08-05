@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-07-24 13:21+0200\n"
+"POT-Creation-Date: 2026-08-05 13:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -340,6 +340,18 @@ msgstr "Francuski artysta mieszkający w Polsce rysujący szczegółowe ilustrac
 #, no-wrap
 msgid "Nighten (Nathan Guilhot)"
 msgstr "Nighten (Nathan Guilhot)"
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/oboh-moses/_index.en.md
+#, no-wrap
+msgid "Oboh Moses is a Black digital illustrator who has been passionate about art since he was seven years old. In 2021, his work was selected for the American Illustration 40th anniversary annual award book. He lives and works in Lagos, Nigeria."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/oboh-moses/_index.en.md
+#, no-wrap
+msgid "Oboh Moses"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/authors/oh-shoot-i-arted/_index.en.md

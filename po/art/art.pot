@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: story-seed-library 1.0\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-07-24 13:21+0200\n"
+"POT-Creation-Date: 2026-08-05 13:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6885,6 +6885,46 @@ msgstr ""
 #: content/art/nighten/the-world-we-built/index.en.md
 #, no-wrap
 msgid "The world we built"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/art/oboh-moses/solarpunk-lagos/index.en.md
+#, no-wrap
+msgid "Solarpunk Lagos"
+msgstr ""
+
+#. type: Plain text
+#: content/art/oboh-moses/solarpunk-lagos/index.en.md
+#, markdown-text
+msgid ""
+"This illustration depicts a lively neighborhood in Lagos, Nigeria, "
+"reimagined as a thriving solar-powered community. The scene captures an "
+"ordinary residential area transformed through the widespread adoption of "
+"renewable energy, offering a glimpse of a future where clean, sustainable "
+"power is part of everyday life."
+msgstr ""
+
+#. type: Plain text
+#: content/art/oboh-moses/solarpunk-lagos/index.en.md
+#, markdown-text
+msgid ""
+"At first glance, we see numerous solar panels installed on nearly every "
+"rooftop, children play football and run freely in the open spaces, residents "
+"gather on balconies and verandas to chat with neighbors, watch the activity "
+"below, or simply enjoying the day. reinforcing the close-knit nature of the "
+"community."
+msgstr ""
+
+#. type: Plain text
+#: content/art/oboh-moses/solarpunk-lagos/index.en.md
+#, markdown-text
+msgid ""
+"Beyond capturing daily life, this artwork tells the story of an energy "
+"transition. It shows how solar power can strengthen local communities by "
+"providing reliable electricity, reducing dependence on fossil fuels and "
+"unstable grid power, lowering energy costs, and improving everyday "
+"life. Overall, the illustration celebrates a future where clean, renewable "
+"energy is accessible to everyone."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title

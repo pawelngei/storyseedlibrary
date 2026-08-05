@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: story-seed-library 1.0\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-07-24 13:21+0200\n"
+"POT-Creation-Date: 2026-08-05 13:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -768,6 +768,12 @@ msgstr ""
 #: content/tags/new-spark/_index.en.md
 #, no-wrap
 msgid "New Spark"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/nigeria/_index.en.md
+#, no-wrap
+msgid "Nigeria"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
