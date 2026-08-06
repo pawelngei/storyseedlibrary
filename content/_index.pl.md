@@ -7,6 +7,8 @@ images:
 
 Witaj w bibliotece solarpunkowych [ilustracji](/pl/art) i [zalążków opowieści](/pl/seeds/), stworzonych, by łatwiej móc sobie wyobrazić odżywalną przyszłość, w której ludzkość nauczyła się współistnieć z planetą.
 
+Mamy już {{< art-piece-count >}} ilustracji stworzonych ze starannością przez {{< art-author-count >}} artystów - nie sztuczną inteligencję.
+
 Jeżeli słyszysz o Solarpunku po raz pierwszy, rzuć okiem na nasze krótkie [wprowadzenie](/pl/essays/what-is-solarpunk)!
 
 Jeżeli natomiast szukasz ilustracji do swojego projektu, sprawdź sekcję: [Których ilustracji mogę użyć?](/pl/pages/which-art-can-i-use)

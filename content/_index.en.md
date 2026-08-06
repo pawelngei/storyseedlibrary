@@ -5,7 +5,7 @@ description: "A library of Solarpunk art and story seeds helping you imagine a b
 
 Welcome to a library of Solarpunk [art](/art) and [story seeds](/seeds) - helping you imagine a better climate future in which humanity learns how to sustainably live on Earth.
 
-We have {{< art-piece-count >}} illustrations from {{< art-author-count >}} artists!
+We have {{< art-piece-count >}} illustrations created intentionally by {{< art-author-count >}} artists - not AI.
 
 If you haven't heard about Solarpunk before, check out our short [introduction](/essays/what-is-solarpunk)!
 
