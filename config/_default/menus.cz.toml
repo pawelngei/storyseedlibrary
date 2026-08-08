@@ -1,0 +1,98 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Umění"
+pageRef = "art"
+identifier = "3yRSzr3A8F"
+weight = 10
+
+[[main]]
+name = "Semínka"
+pageRef = "seeds"
+identifier = "3yRSzr3A8D"
+weight = 20
+
+[[main]]
+name = "Další"
+weight = 30
+
+[[main]]
+parent = "Další"
+name = "Štítky"
+pageRef = "tags"
+identifier = "24BZL6Odw6"
+weight = 30
+
+[[main]]
+parent = "Další"
+name = "Autorský kolektiv"
+pageRef = "authors"
+identifier = "LD7z6Qopgw"
+weight = 40
+
+[[main]]
+name = "Události"
+weight = 45
+
+[[main]]
+parent= "Události"
+name = "Art Collab 2025 [ENG]"
+pageRef = "/pages/andrewisms-art-collab-2025"
+identifier = "3yRGzr3A8D"
+weight = 10
+
+[[main]]
+name = "Více"
+weight = 50
+
+[[main]]
+parent = "Více"
+name = "o Knihovně"
+pageRef = "cz/pages/about"
+weight = 1
+
+[[main]]
+parent = "Více"
+name = "o Solarpunku"
+url = "cz/essays/what-is-solarpunk"
+weight = 2
+
+[[main]]
+parent = "Více"
+name = "o podcastu Solarpunk Prompts"
+url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+weight = 3
+
+[[main]]
+parent = "Více"
+name = "o kurátorovi"
+url = "https://alxd.org/"
+weight = 4
+
+[[main]]
+parent = "Více"
+name = "Jak přispět?"
+pageRef = "cz/pages/contribute"
+weight = 10
+
+[[main]]
+pre = "rss"
+url = "cz/index.xml"
+identifier = "someRSShere"
+weight = 60
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Jak přispět?"
+pageRef = "/pages/contribute"
+identifier = "Wz0vblbVYr"
+weight = 1
+
+[[footer]]
+name = "Kontakt"
+url = "storySeedLibrary@alxd.org"
+identifier = "contactUs"
+weight = 2
