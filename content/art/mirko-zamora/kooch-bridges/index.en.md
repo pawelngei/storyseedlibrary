@@ -4,7 +4,7 @@ date: 2026-08-24
 publishDate: 2026-08-24
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "animals", "Argentina", "South America"]
+tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "animals", "sea", "solar", "wind turbine", "infrastructure", "Argentina", "South America"]
 authors:
  - mirko-zamora
 ---
