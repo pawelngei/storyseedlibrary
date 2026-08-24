@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-08-05 13:51+0200\n"
+"POT-Creation-Date: 2026-08-24 21:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,11 +44,11 @@ msgstr ""
 #| msgid ""
 #| "You can read more about the initiative at its [event page](/pages/"
 #| "andrewisms-art-collab-2025/). All of the works are available on "
-#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/post/"
-#| "788704934138937344/solarpunk-art-2025-life-of-learning)."
+#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/"
+#| "post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 msgid ""
-"All of the works are available on [Andrewism's tumblr](https://andrew-"
-"ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
+"All of the works are available on [Andrewism's tumblr](https://andrew-ism."
+"tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
 msgstr ""
 "Więcej o projekcie możecie dowiedzieć się na [jego stronie [ENG]](/pages/"
 "andrewisms-art-collab-2025/). Wszystkie prace dostępna są na [tumblrze "
@@ -162,8 +162,8 @@ msgstr ""
 #| msgid ""
 #| "You can read more about the initiative at its [event page](/pages/"
 #| "andrewisms-art-collab-2025/). All of the works are available on "
-#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/post/"
-#| "788704934138937344/solarpunk-art-2025-life-of-learning)."
+#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/"
+#| "post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 msgid ""
 "You can read more about the initiative at its [event page](/pages/andrewisms-"
 "art-collab-2026/). All of the works are available on [Andrewism's tumblr]"
@@ -198,6 +198,12 @@ msgstr ""
 #, no-wrap
 msgid "Animals"
 msgstr "Zwierzęta"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/argentina/_index.en.md
+#, no-wrap
+msgid "Argentina"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/asia/_index.en.md
@@ -304,8 +310,8 @@ msgstr ""
 #: content/tags/cc-by-nc-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc/4.0/)]"
 msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc/4.0/"
-"deed.pl)]"
+"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc/4.0/deed."
+"pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nc-nd-3.0/_index.en.md
@@ -370,8 +376,8 @@ msgstr ""
 #| msgid "[[Read More](https://creativecommons.org/licenses/by-nc-nd/4.0/)]"
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc-nd/3.0/)]"
 msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/"
-"deed.pl)]"
+"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/deed."
+"pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nc-nd-4.0/_index.en.md
@@ -410,8 +416,8 @@ msgstr ""
 #: content/tags/cc-by-nc-nd-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc-nd/4.0/)]"
 msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/"
-"deed.pl)]"
+"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/deed."
+"pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
@@ -450,8 +456,8 @@ msgstr ""
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc-sa/4.0/)]"
 msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-sa/4.0/"
-"deed.pl)]"
+"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-sa/4.0/deed."
+"pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nd-4.0/_index.en.md
@@ -481,8 +487,8 @@ msgstr ""
 #: content/tags/cc-by-nd-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nd/4.0/)]"
 msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nd/4.0/"
-"deed.pl)]"
+"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nd/4.0/deed."
+"pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-sa-4.0/_index.en.md
@@ -532,8 +538,8 @@ msgstr ""
 #: content/tags/cc-by-sa-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-sa/4.0/)]"
 msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-sa/4.0/"
-"deed.pl)]"
+"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-sa/4.0/deed."
+"pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc0/_index.en.md

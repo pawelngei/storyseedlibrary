@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: story-seed-library 1.0\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-08-05 13:50+0200\n"
+"POT-Creation-Date: 2026-08-24 21:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -6864,6 +6864,64 @@ msgstr ""
 #: content/art/markus-wende/cadus-poster/index.en.md
 #, markdown-text
 msgid "Commissioned Work for [Cadus e.V.](https://www.cadus.org/en/)"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/art/mirko-zamora/kooch-bridges/index.en.md
+#, no-wrap
+msgid "Kóoch Bridges"
+msgstr ""
+
+#. type: Plain text
+#: content/art/mirko-zamora/kooch-bridges/index.en.md
+#, markdown-text
+msgid ""
+"Kóoch Bridges is part of the Patagonian Sanctuary's vision. It imagines a "
+"near future where humanity has learned to inhabit the Southern Ocean with "
+"the intention of understanding and healing it. These marine platforms "
+"harness the energy of the tides, wind, and sunlight to support the towers "
+"where scientists, engineers, and local communities work together to restore "
+"the biodiversity of the South Atlantic."
+msgstr ""
+
+#. type: Plain text
+#: content/art/mirko-zamora/kooch-bridges/index.en.md
+#, markdown-text
+msgid ""
+"![Panels for the illustration above showing the animals and people of the "
+"Bridges](panels.png)"
+msgstr ""
+
+#. type: Plain text
+#: content/art/mirko-zamora/kooch-bridges/index.en.md
+#, markdown-text
+msgid ""
+"Just a few decades earlier, penguins, sea lions, whales, cormorants, and "
+"countless other species populated these shores. The expansion of settlements "
+"built around oil extraction transformed much of the region into a hostile "
+"landscape for wildlife. The Kóoch Bridges were created as recovery "
+"infrastructure: generating clean energy, supporting marine research, and "
+"creating safe conditions for the return of species."
+msgstr ""
+
+#. type: Plain text
+#: content/art/mirko-zamora/kooch-bridges/index.en.md
+#, markdown-text
+msgid ""
+"Life in these towers is characterized by fresh air, curiosity, and "
+"coexistence with the ocean. Their modular architecture (which recycles "
+"shipping containers) draws inspiration from the visual languages of the "
+"Aónikenk and Mapuche peoples, imagining a future with memory, one where "
+"Indigenous communities reclaim an active role in building a new relationship "
+"between society and the land."
+msgstr ""
+
+#. type: Plain text
+#: content/art/mirko-zamora/kooch-bridges/index.en.md
+#, markdown-text
+msgid ""
+"![Initial sketch of the Bridges](sketch.jpg \"Initial sketch of the "
+"Bridges\")"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title

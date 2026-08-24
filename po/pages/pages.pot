@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: story-seed-library 1.0\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-08-05 13:51+0200\n"
+"POT-Creation-Date: 2026-08-24 21:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,8 +44,8 @@ msgstr ""
 #: content/_index.en.md
 #, markdown-text, no-wrap
 msgid ""
-"We have {{< art-piece-count >}} illustrations from {{< art-author-count >}} "
-"artists!\n"
+"We have {{< art-piece-count >}} illustrations created intentionally by {{< "
+"art-author-count >}} artists - not AI.\n"
 msgstr ""
 
 #. type: Plain text

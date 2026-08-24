@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-08-05 13:51+0200\n"
+"POT-Creation-Date: 2026-08-24 21:31+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,16 +44,16 @@ msgstr ""
 #| msgid ""
 #| "You can read more about the initiative at its [event page](/pages/"
 #| "andrewisms-art-collab-2025/). All of the works are available on "
-#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/post/"
-#| "788704934138937344/solarpunk-art-2025-life-of-learning)."
+#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/"
+#| "post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 msgid ""
-"All of the works are available on [Andrewism's tumblr](https://andrew-"
-"ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
+"All of the works are available on [Andrewism's tumblr](https://andrew-ism."
+"tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
 msgstr ""
 "Puedes leer más acerca de esta iniciativa en la [página del evento](/es/"
 "pages/andrewisms-art-collab-2025/). Todas las ilustraciones están "
-"disponibles en el [Tumblr de Andrewism's](https://andrew-ism.tumblr.com/post/"
-"788704934138937344/solarpunk-art-2025-life-of-learning)."
+"disponibles en el [Tumblr de Andrewism's](https://andrew-ism.tumblr.com/"
+"post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/2024-wat/_index.en.md
@@ -71,9 +71,9 @@ msgid ""
 msgstr ""
 "En 2024 les franceses [Week and Art Contest](https://www.weekandart.com/) "
 "celebraron su concurso de arte con una edición dedicada al Solarpunk! Puedes "
-"navegar las entradas del concurso en esta [galería](https://"
-"galerie.weekandart.com/) (selecciona el año 2024). Les ganadores pueden "
-"encontrarse en [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/)."
+"navegar las entradas del concurso en esta [galería](https://galerie."
+"weekandart.com/) (selecciona el año 2024). Les ganadores pueden encontrarse "
+"en [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/2025-collab/_index.en.md
@@ -114,8 +114,8 @@ msgid ""
 msgstr ""
 "Puedes leer más acerca de esta iniciativa en la [página del evento](/es/"
 "pages/andrewisms-art-collab-2025/). Todas las ilustraciones están "
-"disponibles en el [Tumblr de Andrewism's](https://andrew-ism.tumblr.com/post/"
-"788704934138937344/solarpunk-art-2025-life-of-learning)."
+"disponibles en el [Tumblr de Andrewism's](https://andrew-ism.tumblr.com/"
+"post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/2026-collab/_index.en.md
@@ -165,8 +165,8 @@ msgstr ""
 #| msgid ""
 #| "You can read more about the initiative at its [event page](/pages/"
 #| "andrewisms-art-collab-2025/). All of the works are available on "
-#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/post/"
-#| "788704934138937344/solarpunk-art-2025-life-of-learning)."
+#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/"
+#| "post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 msgid ""
 "You can read more about the initiative at its [event page](/pages/andrewisms-"
 "art-collab-2026/). All of the works are available on [Andrewism's tumblr]"
@@ -175,8 +175,8 @@ msgid ""
 msgstr ""
 "Puedes leer más acerca de esta iniciativa en la [página del evento](/es/"
 "pages/andrewisms-art-collab-2025/). Todas las ilustraciones están "
-"disponibles en el [Tumblr de Andrewism's](https://andrew-ism.tumblr.com/post/"
-"788704934138937344/solarpunk-art-2025-life-of-learning)."
+"disponibles en el [Tumblr de Andrewism's](https://andrew-ism.tumblr.com/"
+"post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/africa/_index.en.md
@@ -201,6 +201,12 @@ msgstr ""
 #, no-wrap
 msgid "Animals"
 msgstr "Animales"
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/tags/argentina/_index.en.md
+#, no-wrap
+msgid "Argentina"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/asia/_index.en.md

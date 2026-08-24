@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: story-seed-library\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-08-05 13:51+0200\n"
+"POT-Creation-Date: 2026-08-24 21:31+0200\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -306,6 +306,46 @@ msgstr ""
 #: content/authors/markus-wende/_index.en.md
 #, no-wrap
 msgid "Markus Wende"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: params bio
+#: content/authors/mirko-zamora/_index.en.md
+#, no-wrap
+msgid "An Argentine illustrator and concept artist who explores fantasy and science fiction through character design, architecture, and narrative."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/authors/mirko-zamora/_index.en.md
+#, no-wrap
+msgid "Mirko E. Zamora"
+msgstr ""
+
+#. type: Plain text
+#: content/authors/mirko-zamora/_index.en.md
+msgid ""
+"I am an Argentine illustrator and concept artist, largely self-taught. My "
+"journey began searching for answers I couldn't find in traditional "
+"education: a way to build worlds, characters, and environments capable of "
+"telling stories with a strong identity."
+msgstr ""
+
+#. type: Plain text
+#: content/authors/mirko-zamora/_index.en.md
+msgid ""
+"Over the years, I have collaborated with psychoanalysis journals, "
+"independent authors, companies, and my own narrative projects, developing a "
+"practice that combines research, design, and visual storytelling."
+msgstr ""
+
+#. type: Plain text
+#: content/authors/mirko-zamora/_index.en.md
+msgid ""
+"Today, thanks to Story Seed Library, I am putting onto paper years of "
+"imagining possible futures for the Argentine landscape: architecture, "
+"communities, and ecosystems where technology develops in harmony with "
+"natural cycles, guided by respect and responsibility. Solar Punk Criollo was "
+"born from this collaboration and the shared desire to help imagine a better "
+"future for our civilization."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: params bio

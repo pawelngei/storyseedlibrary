@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: story-seed-library\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-08-05 13:51+0200\n"
+"POT-Creation-Date: 2026-08-24 21:32+0200\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
@@ -35,7 +35,7 @@ msgstr ""
 #. type: Plain text
 #: content/_index.en.md
 #, no-wrap
-msgid "We have {{< art-piece-count >}} illustrations from {{< art-author-count >}} artists!\n"
+msgid "We have {{< art-piece-count >}} illustrations created intentionally by {{< art-author-count >}} artists - not AI.\n"
 msgstr ""
 
 #. type: Plain text
@@ -220,8 +220,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/pages/about/index.en.md
 msgid ""
-"Spanish - [Kurio](https://kurio.neocities.org) [[Mastodon](https://"
-"sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)"
+"Spanish - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny."
+"garden/@kurio)], [La BUHO ensemble](https://labuho.org/)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -327,8 +327,8 @@ msgstr ""
 #: content/pages/andrewisms-art-collab-2025/index.en.md
 #: content/pages/andrewisms-art-collab-2026/index.en.md
 msgid ""
-"[2025: Life of Learning](https://andrew-ism.tumblr.com/post/"
-"788704934138937344/solarpunk-art-2025-life-of-learning) and on [YouTube]"
+"[2025: Life of Learning](https://andrew-ism.tumblr.com/"
+"post/788704934138937344/solarpunk-art-2025-life-of-learning) and on [YouTube]"
 "(https://www.youtube.com/watch?v=sIgsf2Absi0)"
 msgstr ""
 
@@ -343,9 +343,9 @@ msgstr ""
 #: content/pages/andrewisms-art-collab-2025/index.en.md
 #: content/pages/andrewisms-art-collab-2026/index.en.md
 msgid ""
-"[2024: New Dreams of Labor](https://andrew-ism.tumblr.com/post/"
-"770135694637236224/solarpunk-art-2024-new-dreams-of-labour) (and on [YouTube]"
-"(https://www.youtube.com/watch?v=mRKt2ORY9bs))"
+"[2024: New Dreams of Labor](https://andrew-ism.tumblr.com/"
+"post/770135694637236224/solarpunk-art-2024-new-dreams-of-labour) (and on "
+"[YouTube](https://www.youtube.com/watch?v=mRKt2ORY9bs))"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -789,9 +789,9 @@ msgstr ""
 #: content/pages/andrewisms-art-collab-2026/index.en.md
 msgid ""
 "**Solidarity, not charity** - no matter where in the world the disaster "
-"happens, we are not unaffected or above it. [Mutual aid](https://"
-"en.wikipedia.org/wiki/Mutual_aid) teaches us to see ourselves as a part of "
-"the helping network, not just an external actor sending used clothes. Avoid "
+"happens, we are not unaffected or above it. [Mutual aid](https://en."
+"wikipedia.org/wiki/Mutual_aid) teaches us to see ourselves as a part of the "
+"helping network, not just an external actor sending used clothes. Avoid "
 "[voluntourism](https://en.wikipedia.org/wiki/"
 "International_volunteering#Voluntourism_(aka_volunteer_tourism))."
 msgstr ""
@@ -884,17 +884,17 @@ msgstr ""
 #: content/pages/andrewisms-art-collab-2026/index.en.md
 msgid ""
 "[Tolocar](https://tolocar.org/en/) from Ukraine - mobile makerspaces running "
-"workshops and helping people rebuild. Part of [Appropedia](https://"
-"www.appropedia.org/), the sustainability wiki! [Tolocar on Appropedia]"
-"(https://www.appropedia.org/Tolocar)."
+"workshops and helping people rebuild. Part of [Appropedia](https://www."
+"appropedia.org/), the sustainability wiki! [Tolocar on Appropedia](https://"
+"www.appropedia.org/Tolocar)."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
 msgid ""
 "[Safecast](https://safecast.org/) - a citizen science project creating "
-"radiation maps founded after the [Fukushima Daiichi disaster](https://"
-"en.wikipedia.org/wiki/Fukushima_nuclear_accident). Comes with a volunteer-"
+"radiation maps founded after the [Fukushima Daiichi disaster](https://en."
+"wikipedia.org/wiki/Fukushima_nuclear_accident). Comes with a volunteer-"
 "created [world map](https://map.safecast.org/)."
 msgstr ""
 
@@ -902,8 +902,8 @@ msgstr ""
 #: content/pages/andrewisms-art-collab-2026/index.en.md
 msgid ""
 "[Hermes Radio](https://hermes.radio/) - a low-energy radio communication "
-"project from the Amazon Rainforest created by [Rhizomatica](https://"
-"www.rhizomatica.org/). ([article with videos](https://www.rhizomatica.org/"
+"project from the Amazon Rainforest created by [Rhizomatica](https://www."
+"rhizomatica.org/). ([article with videos](https://www.rhizomatica.org/"
 "hermes/))."
 msgstr ""
 
@@ -928,8 +928,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
 msgid ""
-"[A list of communal work practices in different cultures](https://"
-"en.wikipedia.org/wiki/Communal_work) on Wikipedia including _Bayanihan_ from "
+"[A list of communal work practices in different cultures](https://en."
+"wikipedia.org/wiki/Communal_work) on Wikipedia including _Bayanihan_ from "
 "the Philippines or East-African _Harambee_."
 msgstr ""
 
@@ -961,8 +961,8 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
 msgid ""
-"[When It All Burns: Fighting Fire in a Transformed World](https://"
-"www.goodreads.com/en/book/show/218154886-when-it-all-burns) by Jordan Thomas"
+"[When It All Burns: Fighting Fire in a Transformed World](https://www."
+"goodreads.com/en/book/show/218154886-when-it-all-burns) by Jordan Thomas"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -1449,8 +1449,8 @@ msgstr ""
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
 msgid ""
-"There's also a good section on [how to attribute adaptations](https://"
-"wiki.creativecommons.org/wiki/"
+"There's also a good section on [how to attribute adaptations](https://wiki."
+"creativecommons.org/wiki/"
 "Recommended_practices_for_attribution#This_is_a_great_attribution_for_when_you_have_created_an_adaptation)."
 msgstr ""
 
