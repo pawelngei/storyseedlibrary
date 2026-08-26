@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: story-seed-library 1.0\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-08-24 21:31+0200\n"
+"POT-Creation-Date: 2026-08-26 13:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -44,9 +44,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/andrewism/_index.en.md
 #, no-wrap
-msgid ""
-"he/him |  I want to learn and explore as much as possible | Trinidad & "
-"Tobago 🇹🇹"
+msgid "he/him |  I want to learn and explore as much as possible | Trinidad & Tobago 🇹🇹"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -94,12 +92,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/cycling-embassy-japan/_index.en.md
 #, no-wrap
-msgid ""
-"The Cycling Embassy of Japan is dedicated to promoting cycling as a healthy, "
-"socially responsible, economically sustainable and environmentally friendly "
-"means of transportation, the support and betterment of which can only "
-"improve the design of our cities, the health of communities within them and "
-"the lifestyles of individuals within those."
+msgid "The Cycling Embassy of Japan is dedicated to promoting cycling as a healthy, socially responsible, economically sustainable and environmentally friendly means of transportation, the support and betterment of which can only improve the design of our cities, the health of communities within them and the lifestyles of individuals within those."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -111,10 +104,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/daniele-turturici/_index.en.md
 #, no-wrap
-msgid ""
-"I'm an Italian illustrator and comic artist who loves bringing to life "
-"worlds that don't exist (yet), and through the Solarpunk movement, I want to "
-"keep hope alive for creating a better future. (he/him)"
+msgid "I'm an Italian illustrator and comic artist who loves bringing to life worlds that don't exist (yet), and through the Solarpunk movement, I want to keep hope alive for creating a better future. (he/him)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -126,9 +116,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/deelion/_index.en.md
 #, no-wrap
-msgid ""
-"I like to support and build resources that inch us closer to a future of "
-"co-operation, mutual care and community wellbeing."
+msgid "I like to support and build resources that inch us closer to a future of co-operation, mutual care and community wellbeing."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -140,9 +128,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/draakart/_index.en.md
 #, no-wrap
-msgid ""
-"he/they | South African artist living on the stolen country of the Anaiwan "
-"Nation. Sovereignty was never ceded."
+msgid "he/they | South African artist living on the stolen country of the Anaiwan Nation. Sovereignty was never ceded."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -154,9 +140,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/dustinjacobus/_index.en.md
 #, no-wrap
-msgid ""
-"Through art rooted in solarpunk and eco-futurism, I challenge systems of "
-"harm and envision a world where all species are protected and valued."
+msgid "Through art rooted in solarpunk and eco-futurism, I challenge systems of harm and envision a world where all species are protected and valued."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -167,24 +151,13 @@ msgstr ""
 
 #. type: Plain text
 #: content/authors/dustinjacobus/_index.en.md
-#, markdown-text
-msgid ""
-"Dustin Jacobus is an illustrator and industrial design engineer whose work "
-"explores how nature and the built environment can grow together. Deeply "
-"inspired by natural systems, his art is rooted in biomimicry, sustainable "
-"design, and the solarpunk movement. He envisions a world where we coexist in "
-"harmony with all life forms, creating sustainable, water-rich, and green "
-"environments, both urban and beyond and expresses these ideas through his "
-"art. His vision has been shared in exhibitions, talks, workshops, and a wide "
-"range of publications across books, magazines, and other media."
+msgid "Dustin Jacobus is an illustrator and industrial design engineer whose work explores how nature and the built environment can grow together. Deeply inspired by natural systems, his art is rooted in biomimicry, sustainable design, and the solarpunk movement. He envisions a world where we coexist in harmony with all life forms, creating sustainable, water-rich, and green environments, both urban and beyond and expresses these ideas through his art. His vision has been shared in exhibitions, talks, workshops, and a wide range of publications across books, magazines, and other media."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/elakidd/_index.en.md
 #, no-wrap
-msgid ""
-"ELAkidd (they/them) is a bilingual queer artist who grew up in China and is "
-"currently a university student in Boston."
+msgid "ELAkidd (they/them) is a bilingual queer artist who grew up in China and is currently a university student in Boston."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -196,11 +169,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/evhell/_index.en.md
 #, no-wrap
-msgid ""
-"(french, she/her) Senior developer during the day, comics artist at night, "
-"Evhell loves creating stories mixing tech, pop culture and human "
-"relationships. She uses gouache and digital art, and sometimes has fun "
-"mixing them!"
+msgid "(french, she/her) Senior developer during the day, comics artist at night, Evhell loves creating stories mixing tech, pop culture and human relationships. She uses gouache and digital art, and sometimes has fun mixing them!"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -212,9 +181,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/grasshopper-geography/_index.en.md
 #, no-wrap
-msgid ""
-"Hungarian geographer trying to prove that the marriage of arts and science "
-"can be a happy one."
+msgid "Hungarian geographer trying to prove that the marriage of arts and science can be a happy one."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -226,9 +193,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/honora/_index.en.md
 #, no-wrap
-msgid ""
-"GameDev and Painter, Learning sculpture. Dreaming of making it as a comic "
-"book artist."
+msgid "GameDev and Painter, Learning sculpture. Dreaming of making it as a comic book artist."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -240,9 +205,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/jackyowl/_index.en.md
 #, no-wrap
-msgid ""
-"he/her/they/them | solarpunk hacker and creator | 3D hobbyist | Music player "
-"| SSL translator (fr) | France"
+msgid "he/her/they/them | solarpunk hacker and creator | 3D hobbyist | Music player | SSL translator (fr) | France"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -254,9 +217,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/jacobcoffin/_index.en.md
 #, no-wrap
-msgid ""
-"Sci-fi writer with a passion for land conservation, reuse, and human rights "
-"not being rolled back."
+msgid "Sci-fi writer with a passion for land conservation, reuse, and human rights not being rolled back."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -280,11 +241,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/karl-schulschenk/_index.en.md
 #, no-wrap
-msgid ""
-"kasch aka Karl Schulschenk is a South African Story Artist & Illustrator who "
-"is passionate about world-building and storytelling, and through his "
-"personal work explores the themes of Solarpunk, Afro-Futurism, regeneration "
-"and human connection"
+msgid "kasch aka Karl Schulschenk is a South African Story Artist & Illustrator who is passionate about world-building and storytelling, and through his personal work explores the themes of Solarpunk, Afro-Futurism, regeneration and human connection"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -308,9 +265,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/linozeddies/_index.en.md
 #, no-wrap
-msgid ""
-"Social developer, author, and transformation facilitator for a regenerative "
-"future"
+msgid "Social developer, author, and transformation facilitator for a regenerative future"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -334,17 +289,13 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: description
 #: content/authors/markus-wende/_index.en.md
 #, no-wrap
-msgid ""
-"Markus Wende is an animator and illustrator based in Berlin. He now works as "
-"a media educator at a secondary school."
+msgid "Markus Wende is an animator and illustrator based in Berlin. He now works as a media educator at a secondary school."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/markus-wende/_index.en.md
 #, no-wrap
-msgid ""
-"An animator and illustrator based in Berlin. He now works as a media "
-"educator at a secondary school."
+msgid "An animator and illustrator based in Berlin. He now works as a media educator at a secondary school."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -356,9 +307,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/mirko-zamora/_index.en.md
 #, no-wrap
-msgid ""
-"An Argentine illustrator and concept artist who explores fantasy and science "
-"fiction through character design, architecture, and narrative."
+msgid "An Argentine illustrator and concept artist who explores fantasy and science fiction through character design, architecture, and narrative."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -369,33 +318,17 @@ msgstr ""
 
 #. type: Plain text
 #: content/authors/mirko-zamora/_index.en.md
-#, markdown-text
-msgid ""
-"I am an Argentine illustrator and concept artist, largely self-taught. My "
-"journey began searching for answers I couldn't find in traditional "
-"education: a way to build worlds, characters, and environments capable of "
-"telling stories with a strong identity."
+msgid "I am an Argentine illustrator and concept artist, largely self-taught. My journey began searching for answers I couldn't find in traditional education: a way to build worlds, characters, and environments capable of telling stories with a strong identity."
 msgstr ""
 
 #. type: Plain text
 #: content/authors/mirko-zamora/_index.en.md
-#, markdown-text
-msgid ""
-"Over the years, I have collaborated with psychoanalysis journals, "
-"independent authors, companies, and my own narrative projects, developing a "
-"practice that combines research, design, and visual storytelling."
+msgid "Over the years, I have collaborated with psychoanalysis journals, independent authors, companies, and my own narrative projects, developing a practice that combines research, design, and visual storytelling."
 msgstr ""
 
 #. type: Plain text
 #: content/authors/mirko-zamora/_index.en.md
-#, markdown-text
-msgid ""
-"Today, thanks to Story Seed Library, I am putting onto paper years of "
-"imagining possible futures for the Argentine landscape: architecture, "
-"communities, and ecosystems where technology develops in harmony with "
-"natural cycles, guided by respect and responsibility. Solar Punk Criollo was "
-"born from this collaboration and the shared desire to help imagine a better "
-"future for our civilization."
+msgid "Today, thanks to Story Seed Library, I am putting onto paper years of imagining possible futures for the Argentine landscape: architecture, communities, and ecosystems where technology develops in harmony with natural cycles, guided by respect and responsibility. Solar Punk Criollo was born from this collaboration and the shared desire to help imagine a better future for our civilization."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: params bio
@@ -413,9 +346,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/nighten/_index.en.md
 #, no-wrap
-msgid ""
-"French artist living in Poland drawing detailed illustration about nature, "
-"cities, and hope 🌿"
+msgid "French artist living in Poland drawing detailed illustration about nature, cities, and hope 🌿"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -427,11 +358,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/oboh-moses/_index.en.md
 #, no-wrap
-msgid ""
-"Oboh Moses is a Black digital illustrator who has been passionate about art "
-"since he was seven years old. In 2021, his work was selected for the "
-"American Illustration 40th anniversary annual award book. He lives and works "
-"in Lagos, Nigeria."
+msgid "Oboh Moses is a Black digital illustrator who has been passionate about art since he was seven years old. In 2021, his work was selected for the American Illustration 40th anniversary annual award book. He lives and works in Lagos, Nigeria."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -497,9 +424,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/seth_patterson/_index.en.md
 #, no-wrap
-msgid ""
-"Bio: I am a Christian, free culture science-fantasy author, and free "
-"software activist."
+msgid "Bio: I am a Christian, free culture science-fantasy author, and free software activist."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -535,9 +460,7 @@ msgstr ""
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/taylor-seamount/_index.en.md
 #, no-wrap
-msgid ""
-"I'm a solarpunk landscape painter imagining regenerative futures for my "
-"community in Santa Cruz, CA, USA. (she/they)"
+msgid "I'm a solarpunk landscape painter imagining regenerative futures for my community in Santa Cruz, CA, USA. (she/they)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -596,9 +519,5 @@ msgstr ""
 
 #. type: Plain text
 #: content/authors/yuuna-maiko/_index.en.md
-#, markdown-text
-msgid ""
-"The solarpunk imagination is taking on a growing role in our cultural "
-"landscape, and I believe it’s essential to promote a hopeful vision of the "
-"future — one in which humans live in harmony with their environment."
+msgid "The solarpunk imagination is taking on a growing role in our cultural landscape, and I believe it’s essential to promote a hopeful vision of the future — one in which humans live in harmony with their environment."
 msgstr ""

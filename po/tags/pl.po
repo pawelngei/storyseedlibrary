@@ -26,34 +26,16 @@ msgstr "Współpraca 2025: Życie pełne nauki"
 #. type: Plain text
 #: content/tags/2023-collab/_index.en.md
 #, fuzzy
-#| msgid ""
-#| "The works below are a selection of illustrations created for the 2025 "
-#| "Solarpunk Art Collab ran by the Story Seed Library and [Andrewism]"
-#| "(https://www.youtube.com/@Andrewism/)."
-msgid ""
-"The works below are a selection of illustrations created for the 2023 "
-"Solarpunk Art Collab ran [Andrewism](https://www.youtube.com/@Andrewism/)."
-msgstr ""
-"Poniższe prace zostały stworzone w ramach projektu Solarpunkowej Współpracy "
-"Artystycznej 2025 prowadzonej przez Bibliotekę Zalążków Opowieści i kanał "
-"[Andrewism](https://www.youtube.com/@Andrewism/)."
+#| msgid "The works below are a selection of illustrations created for the 2025 Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgid "The works below are a selection of illustrations created for the 2023 Solarpunk Art Collab ran [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgstr "Poniższe prace zostały stworzone w ramach projektu Solarpunkowej Współpracy Artystycznej 2025 prowadzonej przez Bibliotekę Zalążków Opowieści i kanał [Andrewism](https://www.youtube.com/@Andrewism/)."
 
 #. type: Plain text
 #: content/tags/2023-collab/_index.en.md
 #, fuzzy
-#| msgid ""
-#| "You can read more about the initiative at its [event page](/pages/"
-#| "andrewisms-art-collab-2025/). All of the works are available on "
-#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/"
-#| "post/788704934138937344/solarpunk-art-2025-life-of-learning)."
-msgid ""
-"All of the works are available on [Andrewism's tumblr](https://andrew-ism."
-"tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
-msgstr ""
-"Więcej o projekcie możecie dowiedzieć się na [jego stronie [ENG]](/pages/"
-"andrewisms-art-collab-2025/). Wszystkie prace dostępna są na [tumblrze "
-"Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-"
-"art-2025-life-of-learning)."
+#| msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2025/). All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+msgid "All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
+msgstr "Więcej o projekcie możecie dowiedzieć się na [jego stronie [ENG]](/pages/andrewisms-art-collab-2025/). Wszystkie prace dostępna są na [tumblrze Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/2024-wat/_index.en.md
@@ -63,17 +45,8 @@ msgstr "Konkurs Week and Art 2024"
 
 #. type: Plain text
 #: content/tags/2024-wat/_index.en.md
-msgid ""
-"In 2024 the French [Week and Art Contest](https://www.weekandart.com/) held "
-"an edition dedicated to Solarpunk! You can see the submissions in their "
-"[gallery](https://galerie.weekandart.com/) (please choose 2024). The winners "
-"can be found on [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/)."
-msgstr ""
-"Edycja francuskiego [konkursu Week and Art](https://www.weekandart.com/) z "
-"2024 roku została poświęcona Solarpunkowi! Nadesłane prace zobaczyć można w "
-"[gallerii](https://galerie.weekandart.com/) (należy wybrać rok 2024). "
-"Zwycięzcy zostali ogłoszeni na [Instagramie](https://www.instagram.com/p/"
-"C8SeLL0qhGE/)."
+msgid "In 2024 the French [Week and Art Contest](https://www.weekandart.com/) held an edition dedicated to Solarpunk! You can see the submissions in their [gallery](https://galerie.weekandart.com/) (please choose 2024). The winners can be found on [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/)."
+msgstr "Edycja francuskiego [konkursu Week and Art](https://www.weekandart.com/) z 2024 roku została poświęcona Solarpunkowi! Nadesłane prace zobaczyć można w [gallerii](https://galerie.weekandart.com/) (należy wybrać rok 2024). Zwycięzcy zostali ogłoszeni na [Instagramie](https://www.instagram.com/p/C8SeLL0qhGE/)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/2025-collab/_index.en.md
@@ -83,14 +56,8 @@ msgstr "Współpraca 2025: Życie pełne nauki"
 
 #. type: Plain text
 #: content/tags/2025-collab/_index.en.md
-msgid ""
-"The works below are a selection of illustrations created for the 2025 "
-"Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://"
-"www.youtube.com/@Andrewism/)."
-msgstr ""
-"Poniższe prace zostały stworzone w ramach projektu Solarpunkowej Współpracy "
-"Artystycznej 2025 prowadzonej przez Bibliotekę Zalążków Opowieści i kanał "
-"[Andrewism](https://www.youtube.com/@Andrewism/)."
+msgid "The works below are a selection of illustrations created for the 2025 Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgstr "Poniższe prace zostały stworzone w ramach projektu Solarpunkowej Współpracy Artystycznej 2025 prowadzonej przez Bibliotekę Zalążków Opowieści i kanał [Andrewism](https://www.youtube.com/@Andrewism/)."
 
 #. type: Plain text
 #: content/tags/2025-collab/_index.en.md
@@ -103,16 +70,8 @@ msgstr "Tematem tego roku było \"Życie pełne nauki\" - edukacja, nauczanie, m
 
 #. type: Plain text
 #: content/tags/2025-collab/_index.en.md
-msgid ""
-"You can read more about the initiative at its [event page](/pages/andrewisms-"
-"art-collab-2025/). All of the works are available on [Andrewism's tumblr]"
-"(https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-"
-"life-of-learning)."
-msgstr ""
-"Więcej o projekcie możecie dowiedzieć się na [jego stronie [ENG]](/pages/"
-"andrewisms-art-collab-2025/). Wszystkie prace dostępna są na [tumblrze "
-"Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-"
-"art-2025-life-of-learning)."
+msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2025/). All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+msgstr "Więcej o projekcie możecie dowiedzieć się na [jego stronie [ENG]](/pages/andrewisms-art-collab-2025/). Wszystkie prace dostępna są na [tumblrze Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/2026-collab/_index.en.md
@@ -130,18 +89,9 @@ msgstr ""
 #. type: Plain text
 #: content/tags/2026-collab/_index.en.md
 #, fuzzy
-#| msgid ""
-#| "The works below are a selection of illustrations created for the 2025 "
-#| "Solarpunk Art Collab ran by the Story Seed Library and [Andrewism]"
-#| "(https://www.youtube.com/@Andrewism/)."
-msgid ""
-"The works below are a selection of illustrations created for the 2026 "
-"Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://"
-"www.youtube.com/@Andrewism/)."
-msgstr ""
-"Poniższe prace zostały stworzone w ramach projektu Solarpunkowej Współpracy "
-"Artystycznej 2025 prowadzonej przez Bibliotekę Zalążków Opowieści i kanał "
-"[Andrewism](https://www.youtube.com/@Andrewism/)."
+#| msgid "The works below are a selection of illustrations created for the 2025 Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgid "The works below are a selection of illustrations created for the 2026 Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgstr "Poniższe prace zostały stworzone w ramach projektu Solarpunkowej Współpracy Artystycznej 2025 prowadzonej przez Bibliotekę Zalążków Opowieści i kanał [Andrewism](https://www.youtube.com/@Andrewism/)."
 
 #. type: Plain text
 #: content/tags/2026-collab/_index.en.md
@@ -159,21 +109,9 @@ msgstr ""
 #. type: Plain text
 #: content/tags/2026-collab/_index.en.md
 #, fuzzy
-#| msgid ""
-#| "You can read more about the initiative at its [event page](/pages/"
-#| "andrewisms-art-collab-2025/). All of the works are available on "
-#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/"
-#| "post/788704934138937344/solarpunk-art-2025-life-of-learning)."
-msgid ""
-"You can read more about the initiative at its [event page](/pages/andrewisms-"
-"art-collab-2026/). All of the works are available on [Andrewism's tumblr]"
-"(https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-"
-"disaster-preparedness)."
-msgstr ""
-"Więcej o projekcie możecie dowiedzieć się na [jego stronie [ENG]](/pages/"
-"andrewisms-art-collab-2025/). Wszystkie prace dostępna są na [tumblrze "
-"Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-"
-"art-2025-life-of-learning)."
+#| msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2025/). All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2026/). All of the works are available on [Andrewism's tumblr](https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-disaster-preparedness)."
+msgstr "Więcej o projekcie możecie dowiedzieć się na [jego stronie [ENG]](/pages/andrewisms-art-collab-2025/). Wszystkie prace dostępna są na [tumblrze Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/africa/_index.en.md
@@ -243,15 +181,8 @@ msgstr "CC BY 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-4.0/_index.en.md
-msgid ""
-"This license enables reusers to copy, distribute, remix, adapt, and build "
-"upon the material in any medium or format, so long as attribution is given "
-"to the creator. The license allows for commercial use. CC BY includes the "
-"following elements:"
-msgstr ""
-"Licencja ta pozwala na kopiowanie, zmienianie, rozprowadzanie, "
-"przedstawianie i wykonywanie utworu jedynie pod warunkiem oznaczenia "
-"autorstwa. Jest to licencja gwarantująca najszersze swobody licencjobiorcy."
+msgid "This license enables reusers to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. CC BY includes the following elements:"
+msgstr "Licencja ta pozwala na kopiowanie, zmienianie, rozprowadzanie, przedstawianie i wykonywanie utworu jedynie pod warunkiem oznaczenia autorstwa. Jest to licencja gwarantująca najszersze swobody licencjobiorcy."
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-4.0/_index.en.md content/tags/cc-by-nc-4.0/_index.en.md
@@ -259,18 +190,12 @@ msgstr ""
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
 #: content/tags/cc-by-nd-4.0/_index.en.md
 msgid "BY: credit must be given to the creator."
-msgstr ""
-"**Uznanie autorstwa** — Utwór należy odpowiednio oznaczyć , podać link do "
-"licencji i wskazać jeśli zostały dokonane w nim zmiany . Możesz to zrobić w "
-"dowolny, rozsądny sposób, o ile nie sugeruje to udzielania prze "
-"licencjodawcę poparcia dla Ciebie lub sposobu, w jaki wykorzystujesz ten "
-"utwór."
+msgstr "**Uznanie autorstwa** — Utwór należy odpowiednio oznaczyć , podać link do licencji i wskazać jeśli zostały dokonane w nim zmiany . Możesz to zrobić w dowolny, rozsądny sposób, o ile nie sugeruje to udzielania prze licencjodawcę poparcia dla Ciebie lub sposobu, w jaki wykorzystujesz ten utwór."
 
 #. type: Plain text
 #: content/tags/cc-by-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by/4.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by/4.0/deed.pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nc-4.0/_index.en.md
@@ -286,32 +211,20 @@ msgstr "CC BY-NC 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-nc-4.0/_index.en.md
-msgid ""
-"This license enables reusers to copy, distribute, remix, adapt, and build "
-"upon the material in any medium or format for noncommercial purposes only, "
-"and only so long as attribution is given to the creator. CC BY-NC includes "
-"the following elements:"
-msgstr ""
-"Licencja ta pozwala na kopiowanie, zmienianie, remiksowanie, rozprowadzanie, "
-"przedstawienie i wykonywanie utwóru jedynie w celach niekomercyjnych. "
-"Warunek ten nie obejmuje jednak utworów zależnych (mogą zostać objęte inną "
-"licencją)."
+msgid "This license enables reusers to copy, distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC includes the following elements:"
+msgstr "Licencja ta pozwala na kopiowanie, zmienianie, remiksowanie, rozprowadzanie, przedstawienie i wykonywanie utwóru jedynie w celach niekomercyjnych. Warunek ten nie obejmuje jednak utworów zależnych (mogą zostać objęte inną licencją)."
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-4.0/_index.en.md
 #: content/tags/cc-by-nc-nd-4.0/_index.en.md
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
 msgid "NC: Only noncommercial uses of the work are permitted."
-msgstr ""
-"**Użycie niekomercyjne** — Nie należy wykorzystywać utworu do celów "
-"komercyjnych"
+msgstr "**Użycie niekomercyjne** — Nie należy wykorzystywać utworu do celów komercyjnych"
 
 #. type: Plain text
 #: content/tags/cc-by-nc-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc/4.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc/4.0/deed."
-"pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nc-nd-3.0/_index.en.md
@@ -342,32 +255,22 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-nd-3.0/_index.en.md
-msgid ""
-"**Attribution** — You must give appropriate credit, provide a link to the "
-"license, and indicate if changes were made . You may do so in any reasonable "
-"manner, but not in any way that suggests the licensor endorses you or your "
-"use."
+msgid "**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-nd-3.0/_index.en.md
-msgid ""
-"**NonCommercial** — You may not use the material for commercial purposes."
+msgid "**NonCommercial** — You may not use the material for commercial purposes."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-nd-3.0/_index.en.md
-msgid ""
-"**NoDerivatives** — If you remix, transform, or build upon the material, you "
-"may not distribute the modified material."
+msgid "**NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-nd-3.0/_index.en.md
-msgid ""
-"**No additional restrictions** — You may not apply legal terms or "
-"technological measures that legally restrict others from doing anything the "
-"license permits."
+msgid "**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits."
 msgstr ""
 
 #. type: Plain text
@@ -375,9 +278,7 @@ msgstr ""
 #, fuzzy
 #| msgid "[[Read More](https://creativecommons.org/licenses/by-nc-nd/4.0/)]"
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc-nd/3.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/deed."
-"pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nc-nd-4.0/_index.en.md
@@ -393,31 +294,19 @@ msgstr "CC BY-NC-ND 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-nc-nd-4.0/_index.en.md
-msgid ""
-"This license enables reusers to copy and distribute the material in any "
-"medium or format in unadapted form only, for noncommercial purposes only, "
-"and only so long as attribution is given to the creator. CC BY-NC-ND "
-"includes the following elements:"
-msgstr ""
-"Licencja ta zezwala na rozpowszechnianie, przedstawianie i wykonywanie "
-"utworu jedynie w celach niekomercyjnych oraz pod warunkiem zachowania go w "
-"oryginalnej postaci (nie tworzenia utworów zależnych). Jest to najbardziej "
-"restrykycyjna z licencji."
+msgid "This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC-ND includes the following elements:"
+msgstr "Licencja ta zezwala na rozpowszechnianie, przedstawianie i wykonywanie utworu jedynie w celach niekomercyjnych oraz pod warunkiem zachowania go w oryginalnej postaci (nie tworzenia utworów zależnych). Jest to najbardziej restrykycyjna z licencji."
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-nd-4.0/_index.en.md
 #: content/tags/cc-by-nd-4.0/_index.en.md
 msgid "ND: No derivatives or adaptations of the work are permitted."
-msgstr ""
-"**Bez utworów zależnych** — Remiksując, przetwarzając lub tworząc na "
-"podstawie utworu, nie wolno rozpowszechniać zmodyfikowanych treści."
+msgstr "**Bez utworów zależnych** — Remiksując, przetwarzając lub tworząc na podstawie utworu, nie wolno rozpowszechniać zmodyfikowanych treści."
 
 #. type: Plain text
 #: content/tags/cc-by-nc-nd-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc-nd/4.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/deed."
-"pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
@@ -433,31 +322,18 @@ msgstr "CC BY-NC-SA 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
-msgid ""
-"This license enables reusers to copy, distribute, remix, adapt, and build "
-"upon the material in any medium or format for noncommercial purposes only, "
-"and only so long as attribution is given to the creator. If you remix, "
-"adapt, or build upon the material, you must license the modified material "
-"under identical terms. CC BY-NC-SA includes the following elements:"
-msgstr ""
-"Licencja ta pozwala na rozpowszechnianie, przedstawianie i wykonywanie "
-"utworu jedynie w celach niekomercyjnych oraz tak długo jak utwory zależne "
-"będą również obejmowane tą samą licencją."
+msgid "This license enables reusers to copy, distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements:"
+msgstr "Licencja ta pozwala na rozpowszechnianie, przedstawianie i wykonywanie utworu jedynie w celach niekomercyjnych oraz tak długo jak utwory zależne będą również obejmowane tą samą licencją."
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
 msgid "SA: Adaptations must be shared under the same terms."
-msgstr ""
-"**Na tych samych warunkach** — Remiksując utwór, przetwarzając go lub "
-"tworząc na jego podstawie, należy swoje dzieło rozpowszechniać na tej samej "
-"licencji , co oryginał."
+msgstr "**Na tych samych warunkach** — Remiksując utwór, przetwarzając go lub tworząc na jego podstawie, należy swoje dzieło rozpowszechniać na tej samej licencji , co oryginał."
 
 #. type: Plain text
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc-sa/4.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-sa/4.0/deed."
-"pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nd-4.0/_index.en.md
@@ -473,22 +349,13 @@ msgstr "CC BY-ND 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-nd-4.0/_index.en.md
-msgid ""
-"This license enables reusers to copy and distribute the material in any "
-"medium or format in unadapted form only, and only so long as attribution is "
-"given to the creator. The license allows for commercial use. CC BY-ND "
-"includes the following elements:"
-msgstr ""
-"Ta licencja zezwala na rozpowszechnianie, przedstawianie i wykonywanie "
-"utworu zarówno w celach komercyjnych i niekomercyjnych, pod warunkiem "
-"zachowania go w oryginalnej postaci (nie tworzenia utworów zależnych)."
+msgid "This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, and only so long as attribution is given to the creator. The license allows for commercial use. CC BY-ND includes the following elements:"
+msgstr "Ta licencja zezwala na rozpowszechnianie, przedstawianie i wykonywanie utworu zarówno w celach komercyjnych i niekomercyjnych, pod warunkiem zachowania go w oryginalnej postaci (nie tworzenia utworów zależnych)."
 
 #. type: Plain text
 #: content/tags/cc-by-nd-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nd/4.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nd/4.0/deed."
-"pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nd/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-sa-4.0/_index.en.md
@@ -504,42 +371,23 @@ msgstr "CC BY-SA 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-sa-4.0/_index.en.md
-msgid ""
-"This license enables reusers to distribute, remix, adapt, and build upon the "
-"material in any medium or format, so long as attribution is given to the "
-"creator. The license allows for commercial use. If you remix, adapt, or "
-"build upon the material, you must license the modified material under "
-"identical terms. CC BY-SA includes the following elements:"
-msgstr ""
-"Licencja ta pozwala na kopiowanie, zmienianie, rozprowadzanie, "
-"przedstawianie i wykonywanie utworu tak długo, jak tylko na utwory zależne "
-"będzie udzielana taka sama licencja. Jest to licencja używana przez "
-"Wikipedię i jej siostrzane projekty."
+msgid "This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-SA includes the following elements:"
+msgstr "Licencja ta pozwala na kopiowanie, zmienianie, rozprowadzanie, przedstawianie i wykonywanie utworu tak długo, jak tylko na utwory zależne będzie udzielana taka sama licencja. Jest to licencja używana przez Wikipedię i jej siostrzane projekty."
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-sa-4.0/_index.en.md
 msgid "Credit must be given to the creator."
-msgstr ""
-"**Uznanie autorstwa** — Utwór należy odpowiednio oznaczyć , podać link do "
-"licencji i wskazać jeśli zostały dokonane w nim zmiany . Możesz to zrobić w "
-"dowolny, rozsądny sposób, o ile nie sugeruje to udzielania prze "
-"licencjodawcę poparcia dla Ciebie lub sposobu, w jaki wykorzystujesz ten "
-"utwór."
+msgstr "**Uznanie autorstwa** — Utwór należy odpowiednio oznaczyć , podać link do licencji i wskazać jeśli zostały dokonane w nim zmiany . Możesz to zrobić w dowolny, rozsądny sposób, o ile nie sugeruje to udzielania prze licencjodawcę poparcia dla Ciebie lub sposobu, w jaki wykorzystujesz ten utwór."
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-sa-4.0/_index.en.md
 msgid "Adaptations must be shared under the same terms."
-msgstr ""
-"**Na tych samych warunkach** — Remiksując utwór, przetwarzając go lub "
-"tworząc na jego podstawie, należy swoje dzieło rozpowszechniać na tej samej "
-"licencji , co oryginał."
+msgstr "**Na tych samych warunkach** — Remiksując utwór, przetwarzając go lub tworząc na jego podstawie, należy swoje dzieło rozpowszechniać na tej samej licencji , co oryginał."
 
 #. type: Plain text
 #: content/tags/cc-by-sa-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-sa/4.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-sa/4.0/deed."
-"pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-sa/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc0/_index.en.md
@@ -555,11 +403,7 @@ msgstr "CC0"
 
 #. type: Plain text
 #: content/tags/cc0/_index.en.md
-msgid ""
-"CC0 (aka CC Zero) is a public dedication tool, which enables creators to "
-"give up their copyright and put their works into the worldwide public "
-"domain. CC0 enables reusers to distribute, remix, adapt, and build upon the "
-"material in any medium or format, with no conditions."
+msgid "CC0 (aka CC Zero) is a public dedication tool, which enables creators to give up their copyright and put their works into the worldwide public domain. CC0 enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions."
 msgstr ""
 
 #. type: Plain text
@@ -567,8 +411,7 @@ msgstr ""
 #, fuzzy
 #| msgid "[[Read More](https://creativecommons.org/licenses/by/4.0/)]"
 msgid "[[Read More](https://creativecommons.org/publicdomain/zero/1.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by/4.0/deed.pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/city/_index.en.md
@@ -590,17 +433,12 @@ msgstr ""
 
 #. type: Plain text
 #: content/tags/coloring-book/_index.en.md
-msgid ""
-"Some of our wonderful artists decided to share the linearts of their works "
-"for you to use as a coloring book! Once you click on any of the "
-"illustrations below, you'll see a \"Download Coloring Page\" button!"
+msgid "Some of our wonderful artists decided to share the linearts of their works for you to use as a coloring book! Once you click on any of the illustrations below, you'll see a \"Download Coloring Page\" button!"
 msgstr ""
 
 #. type: Plain text
 #: content/tags/coloring-book/_index.en.md
-msgid ""
-"Background art - [Community Gardens by Daniele Turturici](/art/daniele-"
-"turturici/community-gardens/)."
+msgid "Background art - [Community Gardens by Daniele Turturici](/art/daniele-turturici/community-gardens/)."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title

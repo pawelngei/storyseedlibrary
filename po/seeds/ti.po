@@ -30,53 +30,27 @@ msgstr ""
 
 #. type: Plain text
 #: content/seeds/seek-shelter-immediately/index.en.md
-msgid ""
-"Other aspects to explore are how storm alerts could be issued without a "
-"centralized meteorological organization or a federal/national government "
-"controlling the communications infrastructure. In the U.S., the federal "
-"government has an [alerting system](https://www.ready.gov/alerts), which "
-"local governments can use."
+msgid "Other aspects to explore are how storm alerts could be issued without a centralized meteorological organization or a federal/national government controlling the communications infrastructure. In the U.S., the federal government has an [alerting system](https://www.ready.gov/alerts), which local governments can use."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/seek-shelter-immediately/index.en.md
-msgid ""
-"Could mesh networks like [Reticulum](https://reticulum.network/) or "
-"[Meshtastic](https://meshtastic.org/), coupled with open source weather "
-"sensors help to provide some weather-reporting? Would local governments or "
-"scientific organisations need to take over tracking extreme weather if "
-"national organizations lacked the resources?"
+msgid "Could mesh networks like [Reticulum](https://reticulum.network/) or [Meshtastic](https://meshtastic.org/), coupled with open source weather sensors help to provide some weather-reporting? Would local governments or scientific organisations need to take over tracking extreme weather if national organizations lacked the resources?"
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/seek-shelter-immediately/index.en.md
-msgid ""
-"How would communities share meteorological data between themselves? Would "
-"information sharing possibly be too slow to be useful if large parts of the "
-"internet had been converted to meshnets to simplify infrastructure?"
+msgid "How would communities share meteorological data between themselves? Would information sharing possibly be too slow to be useful if large parts of the internet had been converted to meshnets to simplify infrastructure?"
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/seek-shelter-immediately/index.en.md
-msgid ""
-"The general store could be \"[zero waste](https://en.wikipedia.org/wiki/"
-"Zero_waste)\" (which would more accurately be called, \"low waste\"). One "
-"way to achieve this would be to have customers bring their own containers to "
-"fill up with grain, spices, and so on. This introduces a complication where "
-"cross-contamination of allergens is likely and the community may lack "
-"resources to create epinephrine auto-injectors to deal with allergic "
-"reactions."
+msgid "The general store could be \"[zero waste](https://en.wikipedia.org/wiki/Zero_waste)\" (which would more accurately be called, \"low waste\"). One way to achieve this would be to have customers bring their own containers to fill up with grain, spices, and so on. This introduces a complication where cross-contamination of allergens is likely and the community may lack resources to create epinephrine auto-injectors to deal with allergic reactions."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/seek-shelter-immediately/index.en.md
-msgid ""
-"The general store may also be a place to gather regional news, the way "
-"barber shops, hardware stores, pubs, and coffee shops are. The general "
-"manager may have seen the trouble with the water dispute coming because he "
-"or she heard people from both communities complaining about it for months. "
-"Could the manager have prevented the conflict when he or she spotted early "
-"warning signs?"
+msgid "The general store may also be a place to gather regional news, the way barber shops, hardware stores, pubs, and coffee shops are. The general manager may have seen the trouble with the water dispute coming because he or she heard people from both communities complaining about it for months. Could the manager have prevented the conflict when he or she spotted early warning signs?"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -93,16 +67,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-archivists/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-archivists)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-archivists)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-archivists/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Archivists)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Archivists)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -119,16 +89,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-beekeepers/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-beekeepers)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-beekeepers)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-beekeepers/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Beekeepers)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Beekeepers)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -145,16 +111,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-canteen/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-canteen)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-canteen)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-canteen/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Canteen)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Canteen)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -176,15 +138,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-chefs/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-chefs)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-chefs)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-chefs/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Chefs)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Chefs)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -206,16 +165,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-community-center/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-community-center)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-community-center)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-community-center/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Community-Center)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Community-Center)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -237,16 +192,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-dirigible/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-dirigible)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-dirigible)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-dirigible/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Dirigible)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Dirigible)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -268,16 +219,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-disabled-community/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-disabled-community)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-disabled-community)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-disabled-community/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Disabled-Community)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Disabled-Community)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -300,16 +247,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-electronic-graveyard/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-electronics-graveyard)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-electronics-graveyard)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-electronic-graveyard/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Electronics-Graveyard)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Electronics-Graveyard)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -326,16 +269,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-epidemiologists/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-epidemiologists)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-epidemiologists)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-epidemiologists/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Epidemiologists)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Epidemiologists)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -352,16 +291,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-expedition/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-expedition)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-expedition)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-expedition/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Expedition)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Expedition)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -378,16 +313,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-experts/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-experts)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-experts)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-experts/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Experts)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Experts)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -404,16 +335,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-fire-brigade/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-fire-brigade)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-fire-brigade)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-fire-brigade/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Fire-"
-"Brigade)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Fire-Brigade)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -435,16 +362,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-great-infrastructural-project/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-great-infrastructure-project)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-great-infrastructure-project)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-great-infrastructural-project/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Great-"
-"Infrastructural-Project)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Great-Infrastructural-Project)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -461,16 +384,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-hackerspace/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-hackerspace)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-hackerspace)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-hackerspace/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Hackerspace)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Hackerspace)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -487,16 +406,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-henchmen/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-henchmen)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-henchmen)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-henchmen/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Henchmen)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Henchmen)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -513,16 +428,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-miners/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-miners)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-miners)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-miners/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Miners)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Miners)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -539,16 +450,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-moonshot/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-moonshot)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-moonshot)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-moonshot/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Moonshot)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Moonshot)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -573,45 +480,27 @@ msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-non-economists/index.en.md
-msgid ""
-"What we have then - whether in terms of Carbon Credits, LCAs or other "
-"aspects - is a question how to structure a system to make sense and be "
-"unhackable."
+msgid "What we have then - whether in terms of Carbon Credits, LCAs or other aspects - is a question how to structure a system to make sense and be unhackable."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-non-economists/index.en.md
-msgid ""
-"One solution would be maximum transparency and treating the whole LCA "
-"process: the knowledge base, algorithms, specific decisions as a wiki, where "
-"everybody can look into and comment. How much can we offload on citizen "
-"scientists and citizen economists, however?"
+msgid "One solution would be maximum transparency and treating the whole LCA process: the knowledge base, algorithms, specific decisions as a wiki, where everybody can look into and comment. How much can we offload on citizen scientists and citizen economists, however?"
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-non-economists/index.en.md
-msgid ""
-"This will also lead to faction wars, both in terms of ideology and "
-"economics. Every decision will have consequences - and even without layers "
-"of red tape and sleazy CEOs people can be rallied to vote against something "
-"important. What if the calculations show that - for example - India should "
-"not produce steel, which could be picked up by another, much smaller "
-"country? The sheer population and number of votes can out-weight it! Will "
-"they then vote on a flawed calculation method, led by a demagogue?"
+msgid "This will also lead to faction wars, both in terms of ideology and economics. Every decision will have consequences - and even without layers of red tape and sleazy CEOs people can be rallied to vote against something important. What if the calculations show that - for example - India should not produce steel, which could be picked up by another, much smaller country? The sheer population and number of votes can out-weight it! Will they then vote on a flawed calculation method, led by a demagogue?"
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-non-economists/index.en.md
-msgid ""
-"The bribes don't need to be financial. They can be prestige, acceptance by a "
-"faction, or whatever else."
+msgid "The bribes don't need to be financial. They can be prestige, acceptance by a faction, or whatever else."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-non-economists/index.en.md
-msgid ""
-"This prompt ties in with [the Miners](/seeds/the-miners), [The Moonshot](/"
-"seeds/the-moonshot) and many others."
+msgid "This prompt ties in with [the Miners](/seeds/the-miners), [The Moonshot](/seeds/the-moonshot) and many others."
 msgstr ""
 
 #. type: Plain text
@@ -621,36 +510,17 @@ msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-non-economists/index.en.md
-msgid ""
-"Let's imagine a group of LCA scientists who just published just another "
-"analysis, being abruptly woken by their notification inboxes exploding. They "
-"were just launched on the front lines of a faction war, where their report "
-"was the \"last straw\" and might now contribute do a huge societal change, "
-"removing whole sectors of economy from one region of the world into another. "
-"Do they trust their work? Will they buckle under pressure? It's a good "
-"opportunity to walk the reader through how the LCA process looks like."
+msgid "Let's imagine a group of LCA scientists who just published just another analysis, being abruptly woken by their notification inboxes exploding. They were just launched on the front lines of a faction war, where their report was the \"last straw\" and might now contribute do a huge societal change, removing whole sectors of economy from one region of the world into another. Do they trust their work? Will they buckle under pressure? It's a good opportunity to walk the reader through how the LCA process looks like."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-non-economists/index.en.md
-msgid ""
-"Consider the world to be more anarchist, less hierarchical, where a lot of "
-"decisions are consensus-based and a subject of public debate, flames and "
-"online brigading. The scientists behind this report are now celebrities, "
-"widely known, whether they want it or not. If you want to cite a book with "
-"similar themes, you can go with LX Beckett's \"Gamechanger\" or "
-"\"Dealbreaker\", where the popular support for eco-policies is one of the "
-"most important plots of both novels."
+msgid "Consider the world to be more anarchist, less hierarchical, where a lot of decisions are consensus-based and a subject of public debate, flames and online brigading. The scientists behind this report are now celebrities, widely known, whether they want it or not. If you want to cite a book with similar themes, you can go with LX Beckett's \"Gamechanger\" or \"Dealbreaker\", where the popular support for eco-policies is one of the most important plots of both novels."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-non-economists/index.en.md
-msgid ""
-"Let's remember that more and more LCA processes are not just about energy "
-"and material, but are trying to count-in the uncountable, the effects on "
-"human happiness and labour practices. Yes, we could move the industry to "
-"China, but the general economic effect will produce X more tons of CO2, even "
-"if the factories will be more efficient."
+msgid "Let's remember that more and more LCA processes are not just about energy and material, but are trying to count-in the uncountable, the effects on human happiness and labour practices. Yes, we could move the industry to China, but the general economic effect will produce X more tons of CO2, even if the factories will be more efficient."
 msgstr ""
 
 #. type: Plain text
@@ -661,10 +531,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-non-economists/index.en.md
-msgid ""
-"If they aren’t careful, they could become like the economists of the past "
-"centuries, worshiping a mathematical model and a paradigm, instead of "
-"continuously testing it."
+msgid "If they aren’t careful, they could become like the economists of the past centuries, worshiping a mathematical model and a paradigm, instead of continuously testing it."
 msgstr ""
 
 #. type: Bullet: '- '
@@ -685,9 +552,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-non-economists/index.en.md
-msgid ""
-"We can throw in the https://globalcarbonreward.org/ and let's say, \"good "
-"faith\", non-blockchain carbon counting systems. We WILL need one."
+msgid "We can throw in the https://globalcarbonreward.org/ and let's say, \"good faith\", non-blockchain carbon counting systems. We WILL need one."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -704,16 +569,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-pharmacists/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-pharmacists)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-pharmacists)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-pharmacists/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Pharmacists)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Pharmacists)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -730,92 +591,57 @@ msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"Continuing the architecture and infrastructure again, this time from the "
-"perspective of the architects. This can be a pre-solarpunk or solarpunk "
-"endeavor, shown as more reactionary in the chaos of everything, or more of a "
-"\"good practice\" after decades of notes and hard decisions already made."
+msgid "Continuing the architecture and infrastructure again, this time from the perspective of the architects. This can be a pre-solarpunk or solarpunk endeavor, shown as more reactionary in the chaos of everything, or more of a \"good practice\" after decades of notes and hard decisions already made."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"This is NOT a crisis response team. The flood, the heatwave, the hurricane "
-"are not here yet. You are to make them less threatening, not start "
-"evacuating people right now."
+msgid "This is NOT a crisis response team. The flood, the heatwave, the hurricane are not here yet. You are to make them less threatening, not start evacuating people right now."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"The \"accessibility\" means three things: access of an average citizen to "
-"the infrastructure (a shelter maybe?), access of poorer / less fortunate "
-"residents to protenctions in their district, and of course access of the "
-"disabled citizens to things they need, as wheelchair-bound people will "
-"really struggle with knee-high floods."
+msgid "The \"accessibility\" means three things: access of an average citizen to the infrastructure (a shelter maybe?), access of poorer / less fortunate residents to protenctions in their district, and of course access of the disabled citizens to things they need, as wheelchair-bound people will really struggle with knee-high floods."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"Will this mean abandoning districts and forcible relocations, or worse, "
-"climate ghettos?"
+msgid "Will this mean abandoning districts and forcible relocations, or worse, climate ghettos?"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"Assuming the team has access to all the required data, scientists, "
-"meteorologists, city archives: how many different kinds of climate threats "
-"can they protect us from? What will help with heatwaves, what with floods, "
-"hurricanes?"
+msgid "Assuming the team has access to all the required data, scientists, meteorologists, city archives: how many different kinds of climate threats can they protect us from? What will help with heatwaves, what with floods, hurricanes?"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"What prices are considered too steep to pay? Are we going to surrender "
-"historical sites, places of remembrance? Are we okay with destroying a flood "
-"shaft and flooding a nature reserve to protect the population?"
+msgid "What prices are considered too steep to pay? Are we going to surrender historical sites, places of remembrance? Are we okay with destroying a flood shaft and flooding a nature reserve to protect the population?"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"How does the background of the team members play into that? Who already "
-"lives in a \"safe\", sutstainable tower, radiating pride and confidence, who "
-"clings to their family house in the suburbs, who cannot afford leaving a "
-"dangerous building which will not survive the next cataclysm?"
+msgid "How does the background of the team members play into that? Who already lives in a \"safe\", sutstainable tower, radiating pride and confidence, who clings to their family house in the suburbs, who cannot afford leaving a dangerous building which will not survive the next cataclysm?"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"What time-scale are we talking about? Are we okay with cheaper protections "
-"that will last a year, are we going for 5 years, a decade, or more?"
+msgid "What time-scale are we talking about? Are we okay with cheaper protections that will last a year, are we going for 5 years, a decade, or more?"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"How do we communicate it to the population, not to appear as despots "
-"choosing one group over another?"
+msgid "How do we communicate it to the population, not to appear as despots choosing one group over another?"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"What if we fail, what if we prepared for a flood and an unexpected heatwave "
-"rolls over, killing thousands? How do team members deal with guilt, do they "
-"accept the blame? Deny it?"
+msgid "What if we fail, what if we prepared for a flood and an unexpected heatwave rolls over, killing thousands? How do team members deal with guilt, do they accept the blame? Deny it?"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"A good book on the social infrastructure and the challenges of urban "
-"planning: https://www.goodreads.com/en/book/show/37707827 , with some tl;dr "
-"in https://99percentinvisible.org/episode/palaces-for-the-people/"
+msgid "A good book on the social infrastructure and the challenges of urban planning: https://www.goodreads.com/en/book/show/37707827 , with some tl;dr in https://99percentinvisible.org/episode/palaces-for-the-people/"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -825,24 +651,17 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"https://www.preventionweb.net/news/germany-2021-floods-10-recommendations-"
-"resilience"
+msgid "https://www.preventionweb.net/news/germany-2021-floods-10-recommendations-resilience"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"https://www.bloomberg.com/news/features/2021-12-18/how-hamburg-learned-to-"
-"live-with-rising-water"
+msgid "https://www.bloomberg.com/news/features/2021-12-18/how-hamburg-learned-to-live-with-rising-water"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-priorities/index.en.md
-msgid ""
-"https://www.archdaily.com/993434/can-architecture-and-urban-planning-fight-"
-"back-against-climate-change has some sources, but also a lot of \"fake\" "
-"solutions"
+msgid "https://www.archdaily.com/993434/can-architecture-and-urban-planning-fight-back-against-climate-change has some sources, but also a lot of \"fake\" solutions"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -859,16 +678,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-refugee-camp/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-refugee-camp)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-refugee-camp)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-refugee-camp/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Refugee-Camp)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Refugee-Camp)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -885,50 +700,27 @@ msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"There is A LOT of baggage coming with the idea of a military service, the "
-"indocrination of the military, nationalism, destroying the individualism, "
-"discriminating against queer people, hiding sexual abuse etc. Let's "
-"acknowledge that and instead of \"re-forging existing militaries\" (as is "
-"episode #11) let's focus on something else: life after service."
+msgid "There is A LOT of baggage coming with the idea of a military service, the indocrination of the military, nationalism, destroying the individualism, discriminating against queer people, hiding sexual abuse etc. Let's acknowledge that and instead of \"re-forging existing militaries\" (as is episode #11) let's focus on something else: life after service."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"Let's imagine that after finishing high school, but before going to the "
-"University, every person in our society goes through 2 years of training and "
-"climate service. It doesn't matter what gender they are, or if they are "
-"disabled: they get assigned to a specialization and they learn how to help "
-"their community and society in some way. They can be first responders, they "
-"can be electricians, logisticians, kindergardeners, forest rangers, flood "
-"experts od epidemic effort coordinators. They are not professionals - of "
-"course, they can align their careers along their training - but they are the "
-"\"service members\"."
+msgid "Let's imagine that after finishing high school, but before going to the University, every person in our society goes through 2 years of training and climate service. It doesn't matter what gender they are, or if they are disabled: they get assigned to a specialization and they learn how to help their community and society in some way. They can be first responders, they can be electricians, logisticians, kindergardeners, forest rangers, flood experts od epidemic effort coordinators. They are not professionals - of course, they can align their careers along their training - but they are the \"service members\"."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"This gives people their first skillset, but at the same time assures that "
-"everyone in a given region can help in case of a catastrophe. In case of a "
-"given kind of help needed, people with the right expertise are called for, "
-"no matter where in life are they now - whether hairdressers, engineers or "
-"politicians."
+msgid "This gives people their first skillset, but at the same time assures that everyone in a given region can help in case of a catastrophe. In case of a given kind of help needed, people with the right expertise are called for, no matter where in life are they now - whether hairdressers, engineers or politicians."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"They were equal once, within their \"unit\", and they will be equal once "
-"more, standing at the flood embankments."
+msgid "They were equal once, within their \"unit\", and they will be equal once more, standing at the flood embankments."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"What's important, this prompt is not set DURING their initial training and "
-"service (as per #11), but years after, when people are mobilized again."
+msgid "What's important, this prompt is not set DURING their initial training and service (as per #11), but years after, when people are mobilized again."
 msgstr ""
 
 #. type: Plain text
@@ -938,81 +730,52 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"Everyone has been through a similar experience. This gives them a friend-"
-"group for life, some more empathy for people from vastly different paths of "
-"life, but can also result in some tribalism."
+msgid "Everyone has been through a similar experience. This gives them a friend-group for life, some more empathy for people from vastly different paths of life, but can also result in some tribalism."
 msgstr ""
 
 #. type: Bullet: '  - '
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"Are there sports teams or political factions based on the \"service "
-"groups\"? The Firemen versus The Radio Guys?"
+msgid "Are there sports teams or political factions based on the \"service groups\"? The Firemen versus The Radio Guys?"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"Instead of being indoctrinated into patriotism and nationalism, our service "
-"members share a bond of saving lives and helping others in their own way. "
-"They might bring a lot of different and conflicting ideologies to the table, "
-"but this is something that connects them all."
+msgid "Instead of being indoctrinated into patriotism and nationalism, our service members share a bond of saving lives and helping others in their own way. They might bring a lot of different and conflicting ideologies to the table, but this is something that connects them all."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"As with current military reservists, people will be called for trainings "
-"once every year, or several years. If they weren't a group of friends and a "
-"small community then, they probably will be."
+msgid "As with current military reservists, people will be called for trainings once every year, or several years. If they weren't a group of friends and a small community then, they probably will be."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"What in case of a drama? If Casey told Tom she really hates them, can they "
-"work well together under a lot of pressure, during a cataclysm? There must "
-"be some procedures in place for that!"
+msgid "What in case of a drama? If Casey told Tom she really hates them, can they work well together under a lot of pressure, during a cataclysm? There must be some procedures in place for that!"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"Will they naturally navigate to live close together, potentially making the "
-"whole social structure more fragile? The service members are supposed to be "
-"spread more-or-less uniformly in each region!"
+msgid "Will they naturally navigate to live close together, potentially making the whole social structure more fragile? The service members are supposed to be spread more-or-less uniformly in each region!"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"In our Solarpunk world we want to imagine full transparency, so no \"buying "
-"easier spots\" in a team. Everyone gets a specialization along their skills "
-"and limitations and everyone is equal."
+msgid "In our Solarpunk world we want to imagine full transparency, so no \"buying easier spots\" in a team. Everyone gets a specialization along their skills and limitations and everyone is equal."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"How does a mobilization look like? What if someone is sick, pregnant, or "
-"cannot leave their position - for example at the power plant?"
+msgid "How does a mobilization look like? What if someone is sick, pregnant, or cannot leave their position - for example at the power plant?"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"From a very human side: how does mobilization look like? Is it a thrill, "
-"\"me and my friends are going to save some asses?\""
+msgid "From a very human side: how does mobilization look like? Is it a thrill, \"me and my friends are going to save some asses?\""
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"While there might be a lot to explain in this prompt, I think the story "
-"itself would be really fun and enjoyable both to write and read. The action, "
-"the dramatism is right there, and it's full of potential \"flashbacks\" to "
-"regular lives in a Solarpunk world."
+msgid "While there might be a lot to explain in this prompt, I think the story itself would be really fun and enjoyable both to write and read. The action, the dramatism is right there, and it's full of potential \"flashbacks\" to regular lives in a Solarpunk world."
 msgstr ""
 
 #. type: Title ###
@@ -1023,23 +786,12 @@ msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"The focus on this prompt can go both ways and I think both are equally "
-"interesting. The first is the mandated Service that a lot of people might "
-"not like, as it's \"too authoritarian\", while the latter is just "
-"Volunteering, which assumes that people got the necessary training on their "
-"own (like https://en.wikipedia.org/wiki/"
-"Icelandic_Association_for_Search_and_Rescue or Volunteer Firefighters)."
+msgid "The focus on this prompt can go both ways and I think both are equally interesting. The first is the mandated Service that a lot of people might not like, as it's \"too authoritarian\", while the latter is just Volunteering, which assumes that people got the necessary training on their own (like https://en.wikipedia.org/wiki/Icelandic_Association_for_Search_and_Rescue or Volunteer Firefighters)."
 msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"The very heart of the prompt is people who are leading normal lives until "
-"they are called for help - and their social dynamics, since it's what "
-"creates the story. Emphasizing how volunteering works right now could help "
-"the listeners imagine that, but I also think that imagining a huge cultural "
-"shift where everybody shares this experience is important."
+msgid "The very heart of the prompt is people who are leading normal lives until they are called for help - and their social dynamics, since it's what creates the story. Emphasizing how volunteering works right now could help the listeners imagine that, but I also think that imagining a huge cultural shift where everybody shares this experience is important."
 msgstr ""
 
 #. type: Title ###
@@ -1050,11 +802,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/seeds/the-reservists/index.en.md
-msgid ""
-"An interesting aspect of the story would be the first year / generation of "
-"the Reservists and how alien, oppressive the program might feel - set "
-"against the culture 20+ years later, where it's normalized, and everyone "
-"shares the duty / responsibility of the Service."
+msgid "An interesting aspect of the story would be the first year / generation of the Reservists and how alien, oppressive the program might feel - set against the culture 20+ years later, where it's normalized, and everyone shares the duty / responsibility of the Service."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -1071,15 +819,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-ship/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-ship)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-ship)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-ship/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Ship)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Ship)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -1108,16 +853,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-tailors/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-tailors)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tailors)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-tailors/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-"
-"Tailors)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tailors)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -1139,15 +880,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-tower/index.en.md
-msgid ""
-"[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/"
-"@SolarpunkPrompts/episodes/the-tower)"
+msgid "[Solarpunk Prompts Podcast Episode](https://podcast.tomasino.org/@SolarpunkPrompts/episodes/the-tower)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/seeds/the-tower/index.en.md
-msgid ""
-"[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tower)"
+msgid "[Transcript](https://wiki.tomasino.org/writing/Solarpunk-Prompts---The-Tower)"
 msgstr ""
 
 #. type: Bullet: '- '

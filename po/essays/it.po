@@ -14,16 +14,12 @@ msgstr "Un Manifesto Solarpunk"
 
 #. type: Plain text
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"This manifesto was originally posted on re-des.org, which vanished from the "
-"Internet in August 2025."
+msgid "This manifesto was originally posted on re-des.org, which vanished from the Internet in August 2025."
 msgstr ""
 
 #. type: Plain text
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Many people have written about Solarpunk during the last 10+ years. Mostly "
-"after 2014."
+msgid "Many people have written about Solarpunk during the last 10+ years. Mostly after 2014."
 msgstr ""
 
 #. type: Plain text
@@ -33,59 +29,37 @@ msgstr ""
 
 #. type: Plain text
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"This **Solarpunk Manifesto** is a creative re-adaptation of ideas about "
-"solarpunk written by many people. These ideas can be mainly found in "
-"_Solarpunk: a reference guide_ which can be found [here](https://medium.com/"
-"solarpunks/solarpunk-a-reference-guide-8bcf18871965) and in _Solarpunk:_ "
-"_Notes towards a Manifesto_ by Adam Flynn, which can be found [here](https://"
-"hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)."
+msgid "This **Solarpunk Manifesto** is a creative re-adaptation of ideas about solarpunk written by many people. These ideas can be mainly found in _Solarpunk: a reference guide_ which can be found [here](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965) and in _Solarpunk:_ _Notes towards a Manifesto_ by Adam Flynn, which can be found [here](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)."
 msgstr ""
 
 #. type: Plain text
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk is a movement in speculative fiction, art, fashion, and activism "
-"that seeks to answer and embody the question “what does a sustainable "
-"civilization look like, and how can we get there?”"
+msgid "Solarpunk is a movement in speculative fiction, art, fashion, and activism that seeks to answer and embody the question “what does a sustainable civilization look like, and how can we get there?”"
 msgstr ""
 
 #. type: Plain text
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"The aesthetics of solarpunk merge the practical with the beautiful, the well-"
-"designed with the green and lush, the bright and colorful with the earthy "
-"and solid."
+msgid "The aesthetics of solarpunk merge the practical with the beautiful, the well-designed with the green and lush, the bright and colorful with the earthy and solid."
 msgstr ""
 
 #. type: Plain text
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk can be utopian, just optimistic, or concerned with the struggles "
-"en route to a better world , but never dystopian. As our world roils with "
-"calamity, we need solutions, not only warnings."
+msgid "Solarpunk can be utopian, just optimistic, or concerned with the struggles en route to a better world , but never dystopian. As our world roils with calamity, we need solutions, not only warnings."
 msgstr ""
 
 #. type: Plain text
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solutions to thrive without fossil fuels, to equitably manage real scarcity "
-"and share in abundance instead of supporting false scarcity and false "
-"abundance, to be kinder to each other and to the planet we share."
+msgid "Solutions to thrive without fossil fuels, to equitably manage real scarcity and share in abundance instead of supporting false scarcity and false abundance, to be kinder to each other and to the planet we share."
 msgstr ""
 
 #. type: Plain text
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk is at once a vision of the future, a thoughtful provocation, a way "
-"of living and a set of achievable proposals to get there."
+msgid "Solarpunk is at once a vision of the future, a thoughtful provocation, a way of living and a set of achievable proposals to get there."
 msgstr ""
 
 #. type: Bullet: '1.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"We are solarpunks because optimism has been taken away from us and we are "
-"trying to take it back."
+msgid "We are solarpunks because optimism has been taken away from us and we are trying to take it back."
 msgstr ""
 
 #. type: Bullet: '2.  '
@@ -95,51 +69,32 @@ msgstr ""
 
 #. type: Bullet: '3.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"At its core, Solarpunk is a vision of a future that embodies the best of "
-"what humanity can achieve: a post-scarcity, post-hierarchy, post-"
-"capitalistic world where humanity sees itself as part of nature and clean "
-"energy replaces fossil fuels."
+msgid "At its core, Solarpunk is a vision of a future that embodies the best of what humanity can achieve: a post-scarcity, post-hierarchy, post-capitalistic world where humanity sees itself as part of nature and clean energy replaces fossil fuels."
 msgstr ""
 
 #. type: Bullet: '4.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"The “punk” in Solarpunk is about rebellion, counterculture, post-capitalism, "
-"decolonialism and enthusiasm. It is about going in a different direction "
-"than the mainstream, which is increasingly going in a scary direction."
+msgid "The “punk” in Solarpunk is about rebellion, counterculture, post-capitalism, decolonialism and enthusiasm. It is about going in a different direction than the mainstream, which is increasingly going in a scary direction."
 msgstr ""
 
 #. type: Bullet: '5.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk is a movement as much as it is a genre: it is not just about the "
-"stories, it is also about how we can get there."
+msgid "Solarpunk is a movement as much as it is a genre: it is not just about the stories, it is also about how we can get there."
 msgstr ""
 
 #. type: Bullet: '6.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk embraces a diversity of tactics: there is no single right way to "
-"do solarpunk. Instead, diverse communities from around the world adopt the "
-"name and the ideas, and build little nests of self-sustaining revolution."
+msgid "Solarpunk embraces a diversity of tactics: there is no single right way to do solarpunk. Instead, diverse communities from around the world adopt the name and the ideas, and build little nests of self-sustaining revolution."
 msgstr ""
 
 #. type: Bullet: '7.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk provides a valuable new perspective, a paradigm and a vocabulary "
-"through which to describe one possible future. Instead of embracing "
-"retrofuturism, solarpunk looks completely to the future. Not an alternative "
-"future, but a possible future."
+msgid "Solarpunk provides a valuable new perspective, a paradigm and a vocabulary through which to describe one possible future. Instead of embracing retrofuturism, solarpunk looks completely to the future. Not an alternative future, but a possible future."
 msgstr ""
 
 #. type: Bullet: '8.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Our futurism is not nihilistic like cyberpunk and it avoids steampunk’s "
-"potentially quasi-reactionary tendencies: it is about ingenuity, "
-"generativity, independence, and community."
+msgid "Our futurism is not nihilistic like cyberpunk and it avoids steampunk’s potentially quasi-reactionary tendencies: it is about ingenuity, generativity, independence, and community."
 msgstr ""
 
 #. type: Bullet: '9.  '
@@ -149,96 +104,62 @@ msgstr ""
 
 #. type: Bullet: '10.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk is about finding ways to make life more wonderful for us right "
-"now, and also for the generations that follow us."
+msgid "Solarpunk is about finding ways to make life more wonderful for us right now, and also for the generations that follow us."
 msgstr ""
 
 #. type: Bullet: '11.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Our future must involve repurposing and creating new things from what we "
-"already have. Imagine “smart cities” being junked in favor of smart "
-"citizenry."
+msgid "Our future must involve repurposing and creating new things from what we already have. Imagine “smart cities” being junked in favor of smart citizenry."
 msgstr ""
 
 #. type: Bullet: '12.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk recognizes the historical influence politics and science fiction "
-"have had on each other."
+msgid "Solarpunk recognizes the historical influence politics and science fiction have had on each other."
 msgstr ""
 
 #. type: Bullet: '13.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk recognizes science fiction as not just entertainment but as a form "
-"of activism."
+msgid "Solarpunk recognizes science fiction as not just entertainment but as a form of activism."
 msgstr ""
 
 #. type: Bullet: '14.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk wants to counter the scenarios of a dying earth, an insuperable "
-"gap between rich and poor, and a society controlled by corporations. Not in "
-"hundreds of years, but within reach."
+msgid "Solarpunk wants to counter the scenarios of a dying earth, an insuperable gap between rich and poor, and a society controlled by corporations. Not in hundreds of years, but within reach."
 msgstr ""
 
 #. type: Bullet: '15.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk is about youth maker culture, local solutions, local energy grids, "
-"ways of creating autonomous functioning systems. It is about loving the "
-"world."
+msgid "Solarpunk is about youth maker culture, local solutions, local energy grids, ways of creating autonomous functioning systems. It is about loving the world."
 msgstr ""
 
 #. type: Bullet: '16.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk culture includes all cultures, religions, abilities, sexes, "
-"genders and sexual identities."
+msgid "Solarpunk culture includes all cultures, religions, abilities, sexes, genders and sexual identities."
 msgstr ""
 
 #. type: Bullet: '17.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk is the idea of humanity achieving a social evolution that embraces "
-"not just mere tolerance, but a more expansive compassion and acceptance."
+msgid "Solarpunk is the idea of humanity achieving a social evolution that embraces not just mere tolerance, but a more expansive compassion and acceptance."
 msgstr ""
 
 #. type: Bullet: '18.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"The visual aesthetics of Solarpunk are open and evolving. As it stands, it "
-"is a mash-up of the following: 1. 1800s age-of-sail/frontier living (but "
-"with more bicycles) 2. Creative reuse of existing infrastructure (sometimes "
-"post-apocalyptic, sometimes present-weird) 3. Appropriate technology 4. Art "
-"Nouveau 5. Hayao Miyazaki 6. Jugaad-style innovation from the non-Western "
-"world 7. High-tech backends with simple, elegant outputs"
+msgid "The visual aesthetics of Solarpunk are open and evolving. As it stands, it is a mash-up of the following: 1. 1800s age-of-sail/frontier living (but with more bicycles) 2. Creative reuse of existing infrastructure (sometimes post-apocalyptic, sometimes present-weird) 3. Appropriate technology 4. Art Nouveau 5. Hayao Miyazaki 6. Jugaad-style innovation from the non-Western world 7. High-tech backends with simple, elegant outputs"
 msgstr ""
 
 #. type: Bullet: '19.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk is set in a future built according to principles of New Urbanism "
-"or New Pedestrianism and environmental sustainability."
+msgid "Solarpunk is set in a future built according to principles of New Urbanism or New Pedestrianism and environmental sustainability."
 msgstr ""
 
 #. type: Bullet: '20.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"Solarpunk envisions a built environment creatively adapted for solar gain, "
-"amongst other things, using different technologies. The objective is to "
-"promote self sufficiency and living within natural limits."
+msgid "Solarpunk envisions a built environment creatively adapted for solar gain, amongst other things, using different technologies. The objective is to promote self sufficiency and living within natural limits."
 msgstr ""
 
 #. type: Bullet: '21.  '
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"In Solarpunk we’ve pulled back just in time to stop the slow destruction of "
-"our planet. We’ve learned to use science wisely, for the betterment of our "
-"life conditions as part of our planet. We’re no longer overlords. We’re "
-"caretakers. We’re gardeners."
+msgid "In Solarpunk we’ve pulled back just in time to stop the slow destruction of our planet. We’ve learned to use science wisely, for the betterment of our life conditions as part of our planet. We’re no longer overlords. We’re caretakers. We’re gardeners."
 msgstr ""
 
 #. type: Bullet: '22.  '
@@ -277,9 +198,7 @@ msgstr "Un Manifesto Solarpunk"
 
 #. type: Plain text
 #: content/essays/solarpunk-manifesto/index.en.md
-msgid ""
-"This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 "
-"International License](http://creativecommons.org/licenses/by-sa/4.0/)."
+msgid "This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: description
@@ -296,14 +215,8 @@ msgstr "Cos'è il Solarpunk?"
 
 #. type: Plain text
 #: content/essays/what-is-solarpunk/index.en.md
-msgid ""
-"If you haven't heard about this movement and genre before, [Andrewism]"
-"(https://www.youtube.com/@Andrewism/) created one of the best short intros "
-"out there:"
-msgstr ""
-"Se non avete mai sentito parlare di questo genere e movimento prima, "
-"[Andrewism](https://www.youtube.com/@Andrewism/) ha creato una delle "
-"migliori introduzioni al momento disponibili:"
+msgid "If you haven't heard about this movement and genre before, [Andrewism](https://www.youtube.com/@Andrewism/) created one of the best short intros out there:"
+msgstr "Se non avete mai sentito parlare di questo genere e movimento prima, [Andrewism](https://www.youtube.com/@Andrewism/) ha creato una delle migliori introduzioni al momento disponibili:"
 
 #. type: Plain text
 #: content/essays/what-is-solarpunk/index.en.md
@@ -323,18 +236,10 @@ msgstr "[A Solarpunk Manifesto](/it/essays/solarpunk-manifesto/)"
 
 #. type: Bullet: '- '
 #: content/essays/what-is-solarpunk/index.en.md
-msgid ""
-"[Notes toward a manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-"
-"notes-toward-a-manifesto/)"
-msgstr ""
-"[Notes toward a manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-"
-"notes-toward-a-manifesto/)"
+msgid "[Notes toward a manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)"
+msgstr "[Notes toward a manifesto](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/)"
 
 #. type: Bullet: '- '
 #: content/essays/what-is-solarpunk/index.en.md
-msgid ""
-"[Lenses and Foundations](https://lenses.alxd.org), an essay by yours truly, "
-"the curator of SSL"
-msgstr ""
-"[Lenses and Foundations](https://lenses.alxd.org), una riflessione dal "
-"curatore della Biblioteca dei Semi Narrativi"
+msgid "[Lenses and Foundations](https://lenses.alxd.org), an essay by yours truly, the curator of SSL"
+msgstr "[Lenses and Foundations](https://lenses.alxd.org), una riflessione dal curatore della Biblioteca dei Semi Narrativi"

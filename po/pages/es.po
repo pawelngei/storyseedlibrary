@@ -30,14 +30,8 @@ msgstr "¡Bienvenides a la Biblioteca de semillas de historias!"
 
 #. type: Plain text
 #: content/_index.en.md
-msgid ""
-"Welcome to a library of Solarpunk [art](/art) and [story seeds](/seeds) - "
-"helping you imagine a better climate future in which humanity learns how to "
-"sustainably live on Earth."
-msgstr ""
-"Bienvenides a una biblioteca de [arte](/es/art) Solarpunk y [semillas de "
-"historias](/es/seeds), donde imaginar un futuro climático mejor, en el que "
-"la humanidad aprende a vivir de forma sostenible en la Tierra."
+msgid "Welcome to a library of Solarpunk [art](/art) and [story seeds](/seeds) - helping you imagine a better climate future in which humanity learns how to sustainably live on Earth."
+msgstr "Bienvenides a una biblioteca de [arte](/es/art) Solarpunk y [semillas de historias](/es/seeds), donde imaginar un futuro climático mejor, en el que la humanidad aprende a vivir de forma sostenible en la Tierra."
 
 #. type: Plain text
 #: content/_index.en.md
@@ -48,40 +42,22 @@ msgstr "Si nunca has oído hablar del movimiento Solarpunk, ¡echa un ojo a esta
 
 #. type: Plain text
 #: content/_index.en.md
-msgid ""
-"If you haven't heard about Solarpunk before, check out our short "
-"[introduction](/essays/what-is-solarpunk)!"
-msgstr ""
-"Si estás buscando recursos para tu proyecto, consulta la sección [qué "
-"ilustraciones puedo usar](/es/pages/which-art-can-i-use/)."
+msgid "If you haven't heard about Solarpunk before, check out our short [introduction](/essays/what-is-solarpunk)!"
+msgstr "Si estás buscando recursos para tu proyecto, consulta la sección [qué ilustraciones puedo usar](/es/pages/which-art-can-i-use/)."
 
 #. type: Plain text
 #: content/_index.en.md
-msgid ""
-"If you're looking for art for your project, check out our [which art can I "
-"use](/pages/which-art-can-i-use/) section!"
-msgstr ""
-"![El centro comunitario por The Lemonaut](cover.jpg \"[El centro comunitario]"
-"(/es/art/the-lemonaut/community-center/) CC BY-SA 4.0 [The Lemonaut](/es/"
-"authors/thelemonaut)\")"
+msgid "If you're looking for art for your project, check out our [which art can I use](/pages/which-art-can-i-use/) section!"
+msgstr "![El centro comunitario por The Lemonaut](cover.jpg \"[El centro comunitario](/es/art/the-lemonaut/community-center/) CC BY-SA 4.0 [The Lemonaut](/es/authors/thelemonaut)\")"
 
 #. type: Plain text
 #: content/_index.en.md
-msgid ""
-"![The Community Center by the Lemonaut](cover.jpg \"[The Community Center](/"
-"art/the-lemonaut/community-center/) CC BY-SA 4.0 [The Lemonaut](/authors/"
-"thelemonaut)\")"
-msgstr ""
-"Todos los recursos en esta página se pueden usar libremente bajo la "
-"respectiva licencia [Creative Commons](https://creativecommons.org/share-"
-"your-work/cclicenses/) (a menos que se indique de otra manera)."
+msgid "![The Community Center by the Lemonaut](cover.jpg \"[The Community Center](/art/the-lemonaut/community-center/) CC BY-SA 4.0 [The Lemonaut](/authors/thelemonaut)\")"
+msgstr "Todos los recursos en esta página se pueden usar libremente bajo la respectiva licencia [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) (a menos que se indique de otra manera)."
 
 #. type: Plain text
 #: content/_index.en.md
-msgid ""
-"All the materials on this page are free to use under a respective [Creative "
-"Commons](https://creativecommons.org/share-your-work/cclicenses/) license - "
-"unless noted otherwise. Have fun browsing!"
+msgid "All the materials on this page are free to use under a respective [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) license - unless noted otherwise. Have fun browsing!"
 msgstr "¡Disfruta explorando!"
 
 #. type: Yaml Front Matter Hash Value: description
@@ -98,35 +74,18 @@ msgstr "Arte Solarpunk"
 
 #. type: Plain text
 #: content/art/_index.en.md
-msgid ""
-"Looking for visions of a better climate future, where our civilization lives "
-"in harmony with the ecosystems? Tired of the endless AI-generated pictures "
-"of skyscrapers with trees on top?"
-msgstr ""
-"¿Estás buscando ideas de un futuro climático mejor, donde nuestra "
-"civilización vive en armonía con los ecosistemas? ¿Cansade de infinitas "
-"imágenes generadas por IA de rascacielos con árboles en el tejado?"
+msgid "Looking for visions of a better climate future, where our civilization lives in harmony with the ecosystems? Tired of the endless AI-generated pictures of skyscrapers with trees on top?"
+msgstr "¿Estás buscando ideas de un futuro climático mejor, donde nuestra civilización vive en armonía con los ecosistemas? ¿Cansade de infinitas imágenes generadas por IA de rascacielos con árboles en el tejado?"
 
 #. type: Plain text
 #: content/art/_index.en.md
-msgid ""
-"Below you'll find a selection of works from several great artists - no AI, "
-"only human creativity and sweat. They're all licensed under [Creative "
-"Commons](https://creativecommons.org/share-your-work/cclicenses/) and can be "
-"used in your projects."
-msgstr ""
-"Aquí encontrarás una selección de obras de algunes grandes artistas, sin IA, "
-"solo creatividad y esfuerzo humanos. Todos estos trabajos se encuentran bajo "
-"licencia [Creative Commons](https://creativecommons.org/share-your-work/"
-"cclicenses/) y puedes usarlos en tus proyectos."
+msgid "Below you'll find a selection of works from several great artists - no AI, only human creativity and sweat. They're all licensed under [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) and can be used in your projects."
+msgstr "Aquí encontrarás una selección de obras de algunes grandes artistas, sin IA, solo creatividad y esfuerzo humanos. Todos estos trabajos se encuentran bajo licencia [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) y puedes usarlos en tus proyectos."
 
 #. type: Plain text
 #: content/art/_index.en.md
-msgid ""
-"Please make sure to check the details of the license and credit the artist!"
-msgstr ""
-"¡Por favor acuérdate de comprobar los detalles de la licencia y acreditar a "
-"les artistas!"
+msgid "Please make sure to check the details of the license and credit the artist!"
+msgstr "¡Por favor acuérdate de comprobar los detalles de la licencia y acreditar a les artistas!"
 
 #. type: Plain text
 #: content/art/_index.en.md
@@ -142,22 +101,12 @@ msgstr "Acerca de la Biblioteca de semillas de historias"
 
 #. type: Plain text
 #: content/pages/about/index.en.md
-msgid ""
-"Among the flood of AI-generated content all over the Internet it's hard to "
-"imagine a coherent vision of a better future, especially one hopeful in the "
-"face of the Climate Catastrophe."
+msgid "Among the flood of AI-generated content all over the Internet it's hard to imagine a coherent vision of a better future, especially one hopeful in the face of the Climate Catastrophe."
 msgstr ""
 
 #. type: Plain text
 #: content/pages/about/index.en.md
-msgid ""
-"I believe that to be able to create a sustainable civilization and stop "
-"destroying the planet we need to find a new story for ourselves. Such a "
-"story could only be crafted by humans, as no neural network is capable of "
-"creating coherent symbols for values absent from our mainstream, Western "
-"culture. We need new signposts, new [hieroglyphs](https://web.archive.org/"
-"web/20120410060017/http://www.worldpolicy.org/journal/fall2011/innovation-"
-"starvation) as Neal Stephenson called them:"
+msgid "I believe that to be able to create a sustainable civilization and stop destroying the planet we need to find a new story for ourselves. Such a story could only be crafted by humans, as no neural network is capable of creating coherent symbols for values absent from our mainstream, Western culture. We need new signposts, new [hieroglyphs](https://web.archive.org/web/20120410060017/http://www.worldpolicy.org/journal/fall2011/innovation-starvation) as Neal Stephenson called them:"
 msgstr ""
 
 #. type: Plain text
@@ -168,38 +117,22 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/about/index.en.md
-msgid ""
-"For the last few years I witnessed many well-meaning writers and academics "
-"try to write about a better climate future - be it under a name of Solarpunk "
-"or any other - and struggle to find art illustrating their work. It saddened "
-"me to see them turn to the most thoughtless AI-generated images, trees "
-"growing from concrete buildings - just to represent _something_."
+msgid "For the last few years I witnessed many well-meaning writers and academics try to write about a better climate future - be it under a name of Solarpunk or any other - and struggle to find art illustrating their work. It saddened me to see them turn to the most thoughtless AI-generated images, trees growing from concrete buildings - just to represent _something_."
 msgstr ""
 
 #. type: Plain text
 #: content/pages/about/index.en.md
-msgid ""
-"I hope that with this Library, thanks to the [artists](/authors/) who "
-"generously donated their [art](/art/) under [copyleft licenses](/pages/which-"
-"art-can-i-use/), we will be able to go towards meaningful symbols, planting "
-"them like signposts towards a better future."
+msgid "I hope that with this Library, thanks to the [artists](/authors/) who generously donated their [art](/art/) under [copyleft licenses](/pages/which-art-can-i-use/), we will be able to go towards meaningful symbols, planting them like signposts towards a better future."
 msgstr ""
 
 #. type: Plain text
 #: content/pages/about/index.en.md
-msgid ""
-"For anyone stuck looking for a story idea, good conflict or tension in a "
-"realistic near-future setting, I hope that the [seeds](/seeds/) will "
-"kickstart their creativity. Be sure to also check out the [Solarpunk Prompts "
-"podcast](https://podcast.tomasino.org/@SolarpunkPrompts) by the awesome "
-"[tomasino](https://tomasino.org/) for even more writing inspirations!"
+msgid "For anyone stuck looking for a story idea, good conflict or tension in a realistic near-future setting, I hope that the [seeds](/seeds/) will kickstart their creativity. Be sure to also check out the [Solarpunk Prompts podcast](https://podcast.tomasino.org/@SolarpunkPrompts) by the awesome [tomasino](https://tomasino.org/) for even more writing inspirations!"
 msgstr ""
 
 #. type: Plain text
 #: content/pages/about/index.en.md
-msgid ""
-"The beautiful logo of the Story Seed Library was created by the awesome "
-"[Natalia Vish](https://mas.to/@karafuto)!"
+msgid "The beautiful logo of the Story Seed Library was created by the awesome [Natalia Vish](https://mas.to/@karafuto)!"
 msgstr ""
 
 #. type: Plain text
@@ -209,16 +142,12 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/about/index.en.md
-msgid ""
-"Polish - [Paweł 'alxd' Ngei](/authors/alxd), edited by [Izabela Misiak]"
-"(https://mastodon.social/@izabelamisiak) 06.2025"
+msgid "Polish - [Paweł 'alxd' Ngei](/authors/alxd), edited by [Izabela Misiak](https://mastodon.social/@izabelamisiak) 06.2025"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/about/index.en.md
-msgid ""
-"Italian - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://"
-"sociale.network/@clockwooork)]"
+msgid "Italian - [Clockwork](https://clockwooork.github.io/) [[Mastodon](https://sociale.network/@clockwooork)]"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -228,23 +157,17 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/about/index.en.md
-msgid ""
-"Ukrainian - [the lemonaut](/authors/thelemonaut), [arg4ntum](/pages/arg4ntum-"
-"weve-all-had-this-dream)"
+msgid "Ukrainian - [the lemonaut](/authors/thelemonaut), [arg4ntum](/pages/arg4ntum-weve-all-had-this-dream)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/about/index.en.md
-msgid ""
-"Spanish - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny."
-"garden/@kurio)], [La BUHO ensemble](https://labuho.org/)"
+msgid "Spanish - [Kurio](https://kurio.neocities.org) [[Mastodon](https://sunny.garden/@kurio)], [La BUHO ensemble](https://labuho.org/)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/about/index.en.md
-msgid ""
-"Tigrinya - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/"
-"nadaitgebremedhen)"
+msgid "Tigrinya - [Nadait Gebremedhen, MD](https://www.linkedin.com/in/nadaitgebremedhen)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -267,9 +190,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Visit the [2025 Art Collab Tag](/tags/2025-collab/) to browse the selection "
-"of works submitted to our Library!"
+msgid "Visit the [2025 Art Collab Tag](/tags/2025-collab/) to browse the selection of works submitted to our Library!"
 msgstr ""
 
 #. type: Title ##
@@ -280,20 +201,13 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Welcome to the 2025 edition of the collaborative solarpunk art project! This "
-"year's theme is **Life of Learning**, focusing on education, teaching, "
-"mentorship and research in a better climate future!"
+msgid "Welcome to the 2025 edition of the collaborative solarpunk art project! This year's theme is **Life of Learning**, focusing on education, teaching, mentorship and research in a better climate future!"
 msgstr ""
 
 #. type: Plain text
 #: content/pages/andrewisms-art-collab-2025/index.en.md
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"The goal of the project is to welcome everyone to collaborate together, "
-"share ideas and get inspired by each others' works! This is not a contest - "
-"there are no prizes and no winners, outside of everything we learn from each "
-"other and the visions of a better world we create!"
+msgid "The goal of the project is to welcome everyone to collaborate together, share ideas and get inspired by each others' works! This is not a contest - there are no prizes and no winners, outside of everything we learn from each other and the visions of a better world we create!"
 msgstr ""
 
 #. type: Plain text
@@ -342,10 +256,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[2025: Life of Learning](https://andrew-ism.tumblr.com/"
-"post/788704934138937344/solarpunk-art-2025-life-of-learning) and on [YouTube]"
-"(https://www.youtube.com/watch?v=sIgsf2Absi0)"
+msgid "[2025: Life of Learning](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning) and on [YouTube](https://www.youtube.com/watch?v=sIgsf2Absi0)"
 msgstr ""
 
 #. type: Title ##
@@ -358,19 +269,13 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[2024: New Dreams of Labor](https://andrew-ism.tumblr.com/"
-"post/770135694637236224/solarpunk-art-2024-new-dreams-of-labour) (and on "
-"[YouTube](https://www.youtube.com/watch?v=mRKt2ORY9bs))"
+msgid "[2024: New Dreams of Labor](https://andrew-ism.tumblr.com/post/770135694637236224/solarpunk-art-2024-new-dreams-of-labour) (and on [YouTube](https://www.youtube.com/watch?v=mRKt2ORY9bs))"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[2023: Bioregions](https://andrew-ism.tumblr.com/post/741342402945646592/"
-"solarpunk-art-2023-bioregions) (and on [YouTube](https://www.youtube.com/"
-"watch?v=j3PZfXpY1og))"
+msgid "[2023: Bioregions](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions) (and on [YouTube](https://www.youtube.com/watch?v=j3PZfXpY1og))"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -394,9 +299,7 @@ msgstr ""
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"Artists may submit as many pieces as they'd like. In fact, the more the "
-"merrier."
+msgid "Artists may submit as many pieces as they'd like. In fact, the more the merrier."
 msgstr ""
 
 #. type: Bullet: '- '
@@ -413,9 +316,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Artwork must not be AI-generated or contain AI elements (backgrounds, "
-"textures, etc...)."
+msgid "Artwork must not be AI-generated or contain AI elements (backgrounds, textures, etc...)."
 msgstr ""
 
 #. type: Bullet: '- '
@@ -432,44 +333,28 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"All artwork must pertain to the theme \"LIFE OF LEARNING\" (see theme "
-"guidelines below)"
+msgid "All artwork must pertain to the theme \"LIFE OF LEARNING\" (see theme guidelines below)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Artwork must be submitted to the email address saint.whom@gmail.com with the "
-"email subject \"SOLARPUNK ART 2025.\" A brief description of the work would "
-"be appreciated."
+msgid "Artwork must be submitted to the email address saint.whom@gmail.com with the email subject \"SOLARPUNK ART 2025.\" A brief description of the work would be appreciated."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Submitted artwork should be submitted under [Creative Commons BY 4.0](/tags/"
-"cc-by-4.0) or [Creative Commons BY-SA 4.0](/tags/cc-by-sa-4.0). Yo can learn "
-"more about them [here](https://creativecommons.org/share-your-work/"
-"cclicenses/)."
+msgid "Submitted artwork should be submitted under [Creative Commons BY 4.0](/tags/cc-by-4.0) or [Creative Commons BY-SA 4.0](/tags/cc-by-sa-4.0). Yo can learn more about them [here](https://creativecommons.org/share-your-work/cclicenses/)."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Submitted artwork may be included in a livestream on the main channel and "
-"video on the side channel, as well as being published on [Tumblr](https://"
-"andrew-ism.tumblr.com/) and on Story Seed Library. By submitting artwork, "
-"you consent to your work being shared in this manner with due credit. I "
-"reserve the right to decline submissions."
+msgid "Submitted artwork may be included in a livestream on the main channel and video on the side channel, as well as being published on [Tumblr](https://andrew-ism.tumblr.com/) and on Story Seed Library. By submitting artwork, you consent to your work being shared in this manner with due credit. I reserve the right to decline submissions."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"Artists should include what, if any, credit they would like to have included "
-"in the final showcase."
+msgid "Artists should include what, if any, credit they would like to have included in the final showcase."
 msgstr ""
 
 #. type: Title ##
@@ -481,122 +366,82 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Artwork must depict people engaged in teaching and learning: literature, "
-"sciences, arts, trades, sports, crafts, cooking, husbandry, permaculture, "
-"social skills, and more."
+msgid "Artwork must depict people engaged in teaching and learning: literature, sciences, arts, trades, sports, crafts, cooking, husbandry, permaculture, social skills, and more."
 msgstr ""
 
 #. type: Bullet: '  - '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Consider settings within and outside the classroom or lecture hall. How do "
-"mentorships and apprenticeships look lke? Does practical learning happen in "
-"libraries, makerspaces and hackerspaces?"
+msgid "Consider settings within and outside the classroom or lecture hall. How do mentorships and apprenticeships look lke? Does practical learning happen in libraries, makerspaces and hackerspaces?"
 msgstr ""
 
 #. type: Bullet: '  - '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Imagine how humanity, nature, and technology interact in your setting - and "
-"how it's different from today."
+msgid "Imagine how humanity, nature, and technology interact in your setting - and how it's different from today."
 msgstr ""
 
 #. type: Bullet: '  - '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Think how different age groups interact in a setting where lifelong learning "
-"is the norm, not only in schools!"
+msgid "Think how different age groups interact in a setting where lifelong learning is the norm, not only in schools!"
 msgstr ""
 
 #. type: Bullet: '  - '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Explore the role of research, non-exploitative peer review, and science "
-"education."
+msgid "Explore the role of research, non-exploitative peer review, and science education."
 msgstr ""
 
 #. type: Bullet: '  - '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"What does [Citizen Science](https://en.wikipedia.org/wiki/Citizen_science) "
-"look like, when regular people care for and monitor the ecosystems around "
-"them?"
+msgid "What does [Citizen Science](https://en.wikipedia.org/wiki/Citizen_science) look like, when regular people care for and monitor the ecosystems around them?"
 msgstr ""
 
 #. type: Bullet: '  - '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Education and learning is not only about your early life. Look at projects "
-"like the [University of the Third Age](https://en.wikipedia.org/wiki/"
-"University_of_the_Third_Age) - maybe there are even some in your area?"
+msgid "Education and learning is not only about your early life. Look at projects like the [University of the Third Age](https://en.wikipedia.org/wiki/University_of_the_Third_Age) - maybe there are even some in your area?"
 msgstr ""
 
 #. type: Bullet: '  - '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"To make people more aware of their surroundings, education and learning "
-"should happen within the context of local ecosystems. How can we encourage "
-"people to get involved in their own hometowns?"
+msgid "To make people more aware of their surroundings, education and learning should happen within the context of local ecosystems. How can we encourage people to get involved in their own hometowns?"
 msgstr ""
 
 #. type: Bullet: '  - '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Take a look at the [Story Seeds](/seeds/) and see if any of them inspire you!"
+msgid "Take a look at the [Story Seeds](/seeds/) and see if any of them inspire you!"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Artwork must reflect some degree of human diversity. People of different "
-"racial and cultural backgrounds, genders and sexualities, abilities, ages, "
-"etc, should be included. Solarpunk is for the people. All the people."
+msgid "Artwork must reflect some degree of human diversity. People of different racial and cultural backgrounds, genders and sexualities, abilities, ages, etc, should be included. Solarpunk is for the people. All the people."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Artwork may depict urban, semi-urban, and rural spaces, including interiors "
-"or exteriors."
+msgid "Artwork may depict urban, semi-urban, and rural spaces, including interiors or exteriors."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Greenwashing is not solarpunk. Don't just change a single element about our "
-"current world, like adding trees or stained glass to unsustainable "
-"buildings. Think about subtler and more beautiful consequences of "
-"sustainability - like how making technology repairable can make everything "
-"more long-lasting and personalised."
+msgid "Greenwashing is not solarpunk. Don't just change a single element about our current world, like adding trees or stained glass to unsustainable buildings. Think about subtler and more beautiful consequences of sustainability - like how making technology repairable can make everything more long-lasting and personalised."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Artwork should be a realistic vision of near-future, with no fantasy or far-"
-"future elements. We want to explore how humanity can change, not what "
-"magical technology can save us."
+msgid "Artwork should be a realistic vision of near-future, with no fantasy or far-future elements. We want to explore how humanity can change, not what magical technology can save us."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Please indicate in your submission what form(s) of education you are "
-"reimagining in your work. Try to venture outside the typical."
+msgid "Please indicate in your submission what form(s) of education you are reimagining in your work. Try to venture outside the typical."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Further theme guidelines may be included as artist discussion ensues/"
-"clarifying questions are asked."
+msgid "Further theme guidelines may be included as artist discussion ensues/clarifying questions are asked."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"If you're seeking inspiration or explanation, consider Andrewism's videos on:"
+msgid "If you're seeking inspiration or explanation, consider Andrewism's videos on:"
 msgstr ""
 
 #. type: Bullet: '  - '
@@ -628,9 +473,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/andrewisms-art-collab-2025/index.en.md
-msgid ""
-"Background art [CC BY-SA 4.0 Sean Bodley](/art/sean-bodley/library-of-"
-"everything/)"
+msgid "Background art [CC BY-SA 4.0 Sean Bodley](/art/sean-bodley/library-of-everything/)"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -641,9 +484,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"Visit the [2026 Art Collab Tag](/tags/2026-collab/) to browse the selection "
-"of works submitted to our Library!"
+msgid "Visit the [2026 Art Collab Tag](/tags/2026-collab/) to browse the selection of works submitted to our Library!"
 msgstr ""
 
 #. type: Title ##
@@ -654,11 +495,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"Welcome to the 2026 edition of the collaborative solarpunk art project! This "
-"year's theme is **Disaster Preparedness, Response and Relief**, focusing on "
-"finding hope, connection and meaning when facing natural and human-made "
-"calamities."
+msgid "Welcome to the 2026 edition of the collaborative solarpunk art project! This year's theme is **Disaster Preparedness, Response and Relief**, focusing on finding hope, connection and meaning when facing natural and human-made calamities."
 msgstr ""
 
 #. type: Plain text
@@ -669,17 +506,12 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[Slides by alxd](https://slides.com/pawelngei/solarpunk-art-collab-2026-"
-"disasters/)"
+msgid "[Slides by alxd](https://slides.com/pawelngei/solarpunk-art-collab-2026-disasters/)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[2026: Disaster Preparedness, Response and Relief](https://www.tumblr.com/"
-"andrew-ism/821781219424485377/solarpunk-art-2026-disaster-preparedness) and "
-"on [YouTube](https://www.youtube.com/watch?v=Vl75t5CMW9M)"
+msgid "[2026: Disaster Preparedness, Response and Relief](https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-disaster-preparedness) and on [YouTube](https://www.youtube.com/watch?v=Vl75t5CMW9M)"
 msgstr ""
 
 #. type: Bullet: '- '
@@ -689,45 +521,27 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"Artwork must not be AI-generated or contain AI elements (backgrounds, "
-"textures, etc...). We might ask you to tell us about your research, process, "
-"or share some progress pictures."
+msgid "Artwork must not be AI-generated or contain AI elements (backgrounds, textures, etc...). We might ask you to tell us about your research, process, or share some progress pictures."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"All artwork must pertain to the theme \"Disaster Preparedness, Response and "
-"Relief\" (see theme guidelines below)"
+msgid "All artwork must pertain to the theme \"Disaster Preparedness, Response and Relief\" (see theme guidelines below)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"Artwork must be submitted to the email address {{< cloakemail "
-"display=\"curator at storySeedLibrary.org\" "
-"address=\"curator@storySeedLibrary.org\" >}} with the subject \"SOLARPUNK "
-"ART 2026\" A brief description of the work would be appreciated."
+msgid "Artwork must be submitted to the email address {{< cloakemail display=\"curator at storySeedLibrary.org\" address=\"curator@storySeedLibrary.org\" >}} with the subject \"SOLARPUNK ART 2026\" A brief description of the work would be appreciated."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"Submitted artwork should be licensed under [Creative Commons BY 4.0](/tags/"
-"cc-by-4.0) or [Creative Commons BY-SA 4.0](/tags/cc-by-sa-4.0). You can "
-"learn more about them [here](https://creativecommons.org/share-your-work/"
-"cclicenses/)."
+msgid "Submitted artwork should be licensed under [Creative Commons BY 4.0](/tags/cc-by-4.0) or [Creative Commons BY-SA 4.0](/tags/cc-by-sa-4.0). You can learn more about them [here](https://creativecommons.org/share-your-work/cclicenses/)."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"Submitted artwork may be included in a livestream on the main channel and "
-"video on the side channel, as well as being published on [Tumblr](https://"
-"andrew-ism.tumblr.com/) and on Story Seed Library. By submitting artwork, "
-"you consent to your work being shared in this manner with due credit. We "
-"reserve the right to decline submissions."
+msgid "Submitted artwork may be included in a livestream on the main channel and video on the side channel, as well as being published on [Tumblr](https://andrew-ism.tumblr.com/) and on Story Seed Library. By submitting artwork, you consent to your work being shared in this manner with due credit. We reserve the right to decline submissions."
 msgstr ""
 
 #. type: Title ###
@@ -738,37 +552,22 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"Even in the most optimistic scenarios of carbon neutrality, the XXI century "
-"will be full of climate disasters our civilization, culture and "
-"infrastructure are not prepared for. Let's step away from clean, utopian "
-"Solarpunk worlds and roll our sleeves to face the consequences of our past."
+msgid "Even in the most optimistic scenarios of carbon neutrality, the XXI century will be full of climate disasters our civilization, culture and infrastructure are not prepared for. Let's step away from clean, utopian Solarpunk worlds and roll our sleeves to face the consequences of our past."
 msgstr ""
 
 #. type: Plain text
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"How can a better Solarpunk world react to the coming disasters? How will our "
-"daily lives change? What new or repurposed infrastructure will keep us safe? "
-"What new traditions will we need to guide us? What stories will we tell "
-"ourselves to make sense of the world that has changed so much?"
+msgid "How can a better Solarpunk world react to the coming disasters? How will our daily lives change? What new or repurposed infrastructure will keep us safe? What new traditions will we need to guide us? What stories will we tell ourselves to make sense of the world that has changed so much?"
 msgstr ""
 
 #. type: Plain text
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"Let's imagine more than just the rising waters: the droughts and fires, the "
-"sudden floods and pandemics, loss of infrastructure and supply chains we "
-"take for granted."
+msgid "Let's imagine more than just the rising waters: the droughts and fires, the sudden floods and pandemics, loss of infrastructure and supply chains we take for granted."
 msgstr ""
 
 #. type: Plain text
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"Finally, for the Disaster Relief, how can we step away from our colonial "
-"habits and imagine giving the survivors agency instead of handouts? How can "
-"we empower communities to rebuild after a catastrophe, find solace in each "
-"other and grieve those lost?"
+msgid "Finally, for the Disaster Relief, how can we step away from our colonial habits and imagine giving the survivors agency instead of handouts? How can we empower communities to rebuild after a catastrophe, find solace in each other and grieve those lost?"
 msgstr ""
 
 #. type: Title ###
@@ -779,55 +578,32 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"**Get inspired by real stories** - there is a multitude of reports of "
-"communities pulling through, but few of them reach the popular culture."
+msgid "**Get inspired by real stories** - there is a multitude of reports of communities pulling through, but few of them reach the popular culture."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"**Contrast hope with adversity** - don't shy away from the struggle, grief "
-"and loss. Our optimism has value only when we acknowledge the hardships "
-"we're facing."
+msgid "**Contrast hope with adversity** - don't shy away from the struggle, grief and loss. Our optimism has value only when we acknowledge the hardships we're facing."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"**Living with disasters** - envision how the ever-present possibility of "
-"upcoming disasters shapes our communities, cultures and infrastructures. We "
-"remember them not only as they happen, but rebuild mindfully and prepare for "
-"the next one."
+msgid "**Living with disasters** - envision how the ever-present possibility of upcoming disasters shapes our communities, cultures and infrastructures. We remember them not only as they happen, but rebuild mindfully and prepare for the next one."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"**Solidarity, not charity** - no matter where in the world the disaster "
-"happens, we are not unaffected or above it. [Mutual aid](https://en."
-"wikipedia.org/wiki/Mutual_aid) teaches us to see ourselves as a part of the "
-"helping network, not just an external actor sending used clothes. Avoid "
-"[voluntourism](https://en.wikipedia.org/wiki/"
-"International_volunteering#Voluntourism_(aka_volunteer_tourism))."
+msgid "**Solidarity, not charity** - no matter where in the world the disaster happens, we are not unaffected or above it. [Mutual aid](https://en.wikipedia.org/wiki/Mutual_aid) teaches us to see ourselves as a part of the helping network, not just an external actor sending used clothes. Avoid [voluntourism](https://en.wikipedia.org/wiki/International_volunteering#Voluntourism_(aka_volunteer_tourism))."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"**Community instead of heroes** - it's not singular people or even "
-"specialized groups that save others in a Solarpunk future. We all help "
-"protect each other with what skills they have. Sometimes you need to grab a "
-"shovel, but a good organizer or a radio technician are as necessary as any "
-"firefighter."
+msgid "**Community instead of heroes** - it's not singular people or even specialized groups that save others in a Solarpunk future. We all help protect each other with what skills they have. Sometimes you need to grab a shovel, but a good organizer or a radio technician are as necessary as any firefighter."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"**Focus on people, not tech** - no matter what ingenious new devices get "
-"invented, they will never save others on their own. We are looking for "
-"stories of communities, not gadgets or magical technologies."
+msgid "**Focus on people, not tech** - no matter what ingenious new devices get invented, they will never save others on their own. We are looking for stories of communities, not gadgets or magical technologies."
 msgstr ""
 
 #. type: Title ###
@@ -890,63 +666,37 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[Cadus](https://www.cadus.org/en/) - a disaster relief organization "
-"providing medical and technical support, with their own Crisis Response "
-"Makerspace."
+msgid "[Cadus](https://www.cadus.org/en/) - a disaster relief organization providing medical and technical support, with their own Crisis Response Makerspace."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[Tolocar](https://tolocar.org/en/) from Ukraine - mobile makerspaces running "
-"workshops and helping people rebuild. Part of [Appropedia](https://www."
-"appropedia.org/), the sustainability wiki! [Tolocar on Appropedia](https://"
-"www.appropedia.org/Tolocar)."
+msgid "[Tolocar](https://tolocar.org/en/) from Ukraine - mobile makerspaces running workshops and helping people rebuild. Part of [Appropedia](https://www.appropedia.org/), the sustainability wiki! [Tolocar on Appropedia](https://www.appropedia.org/Tolocar)."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[Safecast](https://safecast.org/) - a citizen science project creating "
-"radiation maps founded after the [Fukushima Daiichi disaster](https://en."
-"wikipedia.org/wiki/Fukushima_nuclear_accident). Comes with a volunteer-"
-"created [world map](https://map.safecast.org/)."
+msgid "[Safecast](https://safecast.org/) - a citizen science project creating radiation maps founded after the [Fukushima Daiichi disaster](https://en.wikipedia.org/wiki/Fukushima_nuclear_accident). Comes with a volunteer-created [world map](https://map.safecast.org/)."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[Hermes Radio](https://hermes.radio/) - a low-energy radio communication "
-"project from the Amazon Rainforest created by [Rhizomatica](https://www."
-"rhizomatica.org/). ([article with videos](https://www.rhizomatica.org/"
-"hermes/))."
+msgid "[Hermes Radio](https://hermes.radio/) - a low-energy radio communication project from the Amazon Rainforest created by [Rhizomatica](https://www.rhizomatica.org/). ([article with videos](https://www.rhizomatica.org/hermes/))."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[Communitere](https://web-wp.archive.org/web/20220203043821/https://"
-"communitere.org/) (archived page) - a network of disaster relief tool "
-"libraries from Haiti, Nepal and Philippines giving people the agency and "
-"means to rebuild. ([video](https://www.youtube.com/watch?v=UN_J5DB3Cso))."
+msgid "[Communitere](https://web-wp.archive.org/web/20220203043821/https://communitere.org/) (archived page) - a network of disaster relief tool libraries from Haiti, Nepal and Philippines giving people the agency and means to rebuild. ([video](https://www.youtube.com/watch?v=UN_J5DB3Cso))."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[Sierra Leone Ebola Epidemic 2014](https://www.youtube.com/watch?"
-"v=JPxCUzGGDKc) - amid a deadly epidemic which caused the banking system to "
-"shut down, a group of local hackers rebuilt their systems to restore the "
-"resource flows to hospitals and medical workers."
+msgid "[Sierra Leone Ebola Epidemic 2014](https://www.youtube.com/watch?v=JPxCUzGGDKc) - amid a deadly epidemic which caused the banking system to shut down, a group of local hackers rebuilt their systems to restore the resource flows to hospitals and medical workers."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[A list of communal work practices in different cultures](https://en."
-"wikipedia.org/wiki/Communal_work) on Wikipedia including _Bayanihan_ from "
-"the Philippines or East-African _Harambee_."
+msgid "[A list of communal work practices in different cultures](https://en.wikipedia.org/wiki/Communal_work) on Wikipedia including _Bayanihan_ from the Philippines or East-African _Harambee_."
 msgstr ""
 
 #. type: Title ###
@@ -957,11 +707,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[A Paradise Built In Hell](https://en.wikipedia.org/wiki/"
-"A_Paradise_Built_in_Hell) by [Rebecca Solnit](https://en.wikipedia.org/wiki/"
-"Rebecca_Solnit) - how communities come together in the aftermath of "
-"disasters. Also by the same author:"
+msgid "[A Paradise Built In Hell](https://en.wikipedia.org/wiki/A_Paradise_Built_in_Hell) by [Rebecca Solnit](https://en.wikipedia.org/wiki/Rebecca_Solnit) - how communities come together in the aftermath of disasters. Also by the same author:"
 msgstr ""
 
 #. type: Bullet: '  - '
@@ -976,44 +722,27 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[When It All Burns: Fighting Fire in a Transformed World](https://www."
-"goodreads.com/en/book/show/218154886-when-it-all-burns) by Jordan Thomas"
+msgid "[When It All Burns: Fighting Fire in a Transformed World](https://www.goodreads.com/en/book/show/218154886-when-it-all-burns) by Jordan Thomas"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[Mutual Aid: Building Solidarity in This Crisis](https://www.goodreads.com/"
-"book/show/54654726-mutual-aid) by [Dean Spade](https://en.wikipedia.org/wiki/"
-"Dean_Spade)"
+msgid "[Mutual Aid: Building Solidarity in This Crisis](https://www.goodreads.com/book/show/54654726-mutual-aid) by [Dean Spade](https://en.wikipedia.org/wiki/Dean_Spade)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[Palaces for the People](https://www.goodreads.com/book/show/37707827-"
-"palaces-for-the-people): How Social Infrastructure Can Help Fight "
-"Inequality, Polarization, and the Decline of Civic Life by [Eric Klinenberg]"
-"(https://en.wikipedia.org/wiki/Eric_Klinenberg)"
+msgid "[Palaces for the People](https://www.goodreads.com/book/show/37707827-palaces-for-the-people): How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life by [Eric Klinenberg](https://en.wikipedia.org/wiki/Eric_Klinenberg)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[Disaster Anarchism (An Argument Against Insurrection)](https://"
-"anarchoccultism.org/building-zion/disaster-anarchism-an-argument-against-"
-"insurrection) - an essay outlining that _\"A sufficiently advanced disaster "
-"preparedness and response program is indistinguishable from a revolutionary "
-"counter-power\"_."
+msgid "[Disaster Anarchism (An Argument Against Insurrection)](https://anarchoccultism.org/building-zion/disaster-anarchism-an-argument-against-insurrection) - an essay outlining that _\"A sufficiently advanced disaster preparedness and response program is indistinguishable from a revolutionary counter-power\"_."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[Technology as crystallized community](https://alxd.org/technology-as-"
-"crystallized-community.html) by alxd - an essay on how to talk about "
-"communities' agency over the tools they use."
+msgid "[Technology as crystallized community](https://alxd.org/technology-as-crystallized-community.html) by alxd - an essay on how to talk about communities' agency over the tools they use."
 msgstr ""
 
 #. type: Title ###
@@ -1024,10 +753,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[A Year Without Sunshine](https://www.uncannymagazine.com/article/the-year-"
-"without-sunshine/) by [Naomi Kritzer](https://en.wikipedia.org/wiki/"
-"Naomi_Kritzer), winner of Nebula Award"
+msgid "[A Year Without Sunshine](https://www.uncannymagazine.com/article/the-year-without-sunshine/) by [Naomi Kritzer](https://en.wikipedia.org/wiki/Naomi_Kritzer), winner of Nebula Award"
 msgstr ""
 
 #. type: Title ###
@@ -1068,9 +794,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[The Great Infrastructural Project](/seeds/the-great-infrastructural-"
-"project/)"
+msgid "[The Great Infrastructural Project](/seeds/the-great-infrastructural-project/)"
 msgstr ""
 
 #. type: Title ###
@@ -1091,18 +815,12 @@ msgstr ""
 
 #. type: Bullet: '  - '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[How to Build a Radical Community](https://www.youtube.com/watch?v=1-"
-"Xl6dhDV3Q)"
+msgid "[How to Build a Radical Community](https://www.youtube.com/watch?v=1-Xl6dhDV3Q)"
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/pages/andrewisms-art-collab-2026/index.en.md
-msgid ""
-"[2025: Life of Learning](/pages/andrewisms-art-collab-2025/) on [Tumblr]"
-"(https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-"
-"life-of-learning) and on [YouTube](https://www.youtube.com/watch?"
-"v=sIgsf2Absi0)"
+msgid "[2025: Life of Learning](/pages/andrewisms-art-collab-2025/) on [Tumblr](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning) and on [YouTube](https://www.youtube.com/watch?v=sIgsf2Absi0)"
 msgstr ""
 
 #. type: Plain text
@@ -1128,8 +846,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/arg4ntum-weve-all-had-this-dream/index.en.md
-msgid ""
-"You know, the one with all of the feelings you wish you knew how to describe?"
+msgid "You know, the one with all of the feelings you wish you knew how to describe?"
 msgstr ""
 
 #. type: Plain text
@@ -1237,36 +954,22 @@ msgstr "Queremos compartir arte que:"
 #. type: Bullet: '- '
 #: content/pages/contribute/index.en.md
 msgid "Shows a vision of a better world acknowledging Climate Change"
-msgstr ""
-"Presente visiones positivas de un mundo mejor, teniendo en cuenta el Cambio "
-"Climático."
+msgstr "Presente visiones positivas de un mundo mejor, teniendo en cuenta el Cambio Climático."
 
 #. type: Bullet: '- '
 #: content/pages/contribute/index.en.md
-msgid ""
-"Is set in a near-future with no \"magical\" technologies, whether powered by "
-"nanorobots or dragon blood"
-msgstr ""
-"Se sitúe en un futuro cercano, sin tecnologías \"mágicas\", ya sean "
-"nanorobots o sangre de dragón."
+msgid "Is set in a near-future with no \"magical\" technologies, whether powered by nanorobots or dragon blood"
+msgstr "Se sitúe en un futuro cercano, sin tecnologías \"mágicas\", ya sean nanorobots o sangre de dragón."
 
 #. type: Bullet: '- '
 #: content/pages/contribute/index.en.md
-msgid ""
-"Features humans, communities and civilization living in balance with the "
-"ecosystems - not just the wilderness and ruins."
-msgstr ""
-"Muestre a personas, comunidades y civilizaciones viviendo en equilibrio con "
-"los ecosistemas - no solamente naturaleza salvaje y ruinas."
+msgid "Features humans, communities and civilization living in balance with the ecosystems - not just the wilderness and ruins."
+msgstr "Muestre a personas, comunidades y civilizaciones viviendo en equilibrio con los ecosistemas - no solamente naturaleza salvaje y ruinas."
 
 #. type: Plain text
 #: content/pages/contribute/index.en.md
-msgid ""
-"We do not accept AI art or art created with the use of AI (even if it's just "
-"a texture)."
-msgstr ""
-"No aceptamos arte hecho con IA o parcialmente generado con uso de IA (ni "
-"siquiera si solo es un fondo o textura)."
+msgid "We do not accept AI art or art created with the use of AI (even if it's just a texture)."
+msgstr "No aceptamos arte hecho con IA o parcialmente generado con uso de IA (ni siquiera si solo es un fondo o textura)."
 
 #. type: Plain text
 #: content/pages/contribute/index.en.md
@@ -1291,20 +994,13 @@ msgstr "Una versión en alta definición de la imagen."
 
 #. type: Bullet: '- '
 #: content/pages/contribute/index.en.md
-msgid ""
-"A specific license chosen ([license picker](https://creativecommons.org/"
-"choose/) and [overview](https://creativecommons.org/share-your-work/"
-"cclicenses/))"
-msgstr ""
-"Una licencia Creative Commons. Consulta esta [sección](/es/pages/which-art-"
-"can-I-use) para más información."
+msgid "A specific license chosen ([license picker](https://creativecommons.org/choose/) and [overview](https://creativecommons.org/share-your-work/cclicenses/))"
+msgstr "Una licencia Creative Commons. Consulta esta [sección](/es/pages/which-art-can-I-use) para más información."
 
 #. type: Bullet: '- '
 #: content/pages/contribute/index.en.md
-msgid ""
-"Link to your own page / gallery where you confirm the license of your work"
-msgstr ""
-"Enlace a tu página web o galería donde confirmes la licencia de tu obra."
+msgid "Link to your own page / gallery where you confirm the license of your work"
+msgstr "Enlace a tu página web o galería donde confirmes la licencia de tu obra."
 
 #. type: Plain text
 #: content/pages/contribute/index.en.md
@@ -1318,38 +1014,18 @@ msgstr "Nombre / pseudónimo / cómo te gustaría ser acreditade."
 
 #. type: Bullet: '- '
 #: content/pages/contribute/index.en.md
-msgid ""
-"A one-line description of yourself, maybe with pronouns and country / "
-"languages"
-msgstr ""
-"Una descripción de una línea sobre ti, puedes añadir tus pronombres, tu país "
-"e idiomas."
+msgid "A one-line description of yourself, maybe with pronouns and country / languages"
+msgstr "Una descripción de una línea sobre ti, puedes añadir tus pronombres, tu país e idiomas."
 
 #. type: Bullet: '- '
 #: content/pages/contribute/index.en.md
-msgid ""
-"A list of links you'd like us to display, including your page, socials, "
-"patron / payment portals"
-msgstr ""
-"Lista de enlaces para que expongamos: tu página web, redes sociales, "
-"portales de encargos y donaciones."
+msgid "A list of links you'd like us to display, including your page, socials, patron / payment portals"
+msgstr "Lista de enlaces para que expongamos: tu página web, redes sociales, portales de encargos y donaciones."
 
 #. type: Plain text
 #: content/pages/contribute/index.en.md
-msgid ""
-"You can [glaze](https://nightshade.cs.uchicago.edu/whatis.html) your work "
-"with some AI poison if you choose, but it's not a requirement (or a "
-"recommendation). I strongly believe that the best way to challenge AI art is "
-"to create intentional works with symbols AI is not - and will not be - "
-"capable of. If we fight on its rules, computational power against "
-"computational power, we will eventually lose."
-msgstr ""
-"Puedes [proteger](https://nightshade.cs.uchicago.edu/whatis.html) tu obra "
-"con \"veneno\" contra la IA, pero no es una obligación. Creo firmemente que "
-"la mejor manera de enfrentarse a la IA generativa es crear obras con "
-"intención, con símbolos y significado que la IA no puede - ni podrá - "
-"generar. Si jugamos en su propio terreno, poder computacional contra poder "
-"computacional, tarde o temprano perderemos la batalla."
+msgid "You can [glaze](https://nightshade.cs.uchicago.edu/whatis.html) your work with some AI poison if you choose, but it's not a requirement (or a recommendation). I strongly believe that the best way to challenge AI art is to create intentional works with symbols AI is not - and will not be - capable of. If we fight on its rules, computational power against computational power, we will eventually lose."
+msgstr "Puedes [proteger](https://nightshade.cs.uchicago.edu/whatis.html) tu obra con \"veneno\" contra la IA, pero no es una obligación. Creo firmemente que la mejor manera de enfrentarse a la IA generativa es crear obras con intención, con símbolos y significado que la IA no puede - ni podrá - generar. Si jugamos en su propio terreno, poder computacional contra poder computacional, tarde o temprano perderemos la batalla."
 
 #. type: Title ##
 #: content/pages/contribute/index.en.md
@@ -1371,17 +1047,12 @@ msgstr "¿Qué arte puedo utilizar?"
 
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
-msgid ""
-"If you haven't used Creative Commons licenses before, please check out their "
-"[handy guide](https://creativecommons.org/share-your-work/cclicenses/) to "
-"different licenses."
+msgid "If you haven't used Creative Commons licenses before, please check out their [handy guide](https://creativecommons.org/share-your-work/cclicenses/) to different licenses."
 msgstr ""
 
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
-msgid ""
-"Depending on what is the character of your project, you can use the "
-"following ones:"
+msgid "Depending on what is the character of your project, you can use the following ones:"
 msgstr ""
 
 #. type: Title ##
@@ -1392,34 +1063,22 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
-msgid ""
-"You can use [CC BY 4.0](/tags/cc-by-4.0/) art just by crediting the artist. "
-"You don't need to notify them about your use, but it's considered polite to "
-"do so."
+msgid "You can use [CC BY 4.0](/tags/cc-by-4.0/) art just by crediting the artist. You don't need to notify them about your use, but it's considered polite to do so."
 msgstr ""
 
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
-msgid ""
-"[CC0](/tags/cc0) works are considered public domain - you don't even need to "
-"credit the author, but if one is known - we encourage you to do so!"
+msgid "[CC0](/tags/cc0) works are considered public domain - you don't even need to credit the author, but if one is known - we encourage you to do so!"
 msgstr ""
 
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
-msgid ""
-"If you don't modify the work (for example by making it a part of a collage), "
-"you can also use the [CC BY-ND 4.0](/tags/cc-by-nd-4.0/) license! You can "
-"read more about what is a modification / adaptation / remix [here](https://"
-"guides.lib.uw.edu/bothell/creativecommons/adapt)."
+msgid "If you don't modify the work (for example by making it a part of a collage), you can also use the [CC BY-ND 4.0](/tags/cc-by-nd-4.0/) license! You can read more about what is a modification / adaptation / remix [here](https://guides.lib.uw.edu/bothell/creativecommons/adapt)."
 msgstr ""
 
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
-msgid ""
-"If you do modify the artwork, you can also use [CC BY-SA 4.0](/tags/cc-by-"
-"sa-4.0/), but you need to release your remix under the same license. Feel "
-"free to reach out to us - maybe we'll host it on the Library page as well!"
+msgid "If you do modify the artwork, you can also use [CC BY-SA 4.0](/tags/cc-by-sa-4.0/), but you need to release your remix under the same license. Feel free to reach out to us - maybe we'll host it on the Library page as well!"
 msgstr ""
 
 #. type: Title ##
@@ -1430,19 +1089,12 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
-msgid ""
-"If your project is non-commercial, you can freely use [CC BY 4.0](/tags/cc-"
-"by-4.0/) and [CC BY-NC 4.0](/tags/cc-by-nc-4.0/) as well!"
+msgid "If your project is non-commercial, you can freely use [CC BY 4.0](/tags/cc-by-4.0/) and [CC BY-NC 4.0](/tags/cc-by-nc-4.0/) as well!"
 msgstr ""
 
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
-msgid ""
-"[CC BY-ND 4.0](/tags/cc-by-nd-4.0/) and [CC BY-SA 4.0](/tags/cc-by-sa-4.0/) "
-"work the same way as described above, but you can also use their non-"
-"commercial versions, [CC BY-NC-ND 4.0](/tags/cc-by-nc-nd-4.0/) and [CC BY-NC-"
-"SA 4.0](/tags/cc-by-nc-sa-4.0/). We also have some art released under the "
-"previous version of the license, [CC BY-NC-ND 3.0](/tags/cc-by-nc-nd-3.0/)!"
+msgid "[CC BY-ND 4.0](/tags/cc-by-nd-4.0/) and [CC BY-SA 4.0](/tags/cc-by-sa-4.0/) work the same way as described above, but you can also use their non-commercial versions, [CC BY-NC-ND 4.0](/tags/cc-by-nc-nd-4.0/) and [CC BY-NC-SA 4.0](/tags/cc-by-nc-sa-4.0/). We also have some art released under the previous version of the license, [CC BY-NC-ND 3.0](/tags/cc-by-nc-nd-3.0/)!"
 msgstr ""
 
 #. type: Title ##
@@ -1458,10 +1110,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
-msgid ""
-"Creative Commons Wiki has a good article on the [recommended practices for "
-"attribution](https://wiki.creativecommons.org/wiki/"
-"Recommended_practices_for_attribution):"
+msgid "Creative Commons Wiki has a good article on the [recommended practices for attribution](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution):"
 msgstr ""
 
 #. type: Plain text
@@ -1485,23 +1134,14 @@ msgstr ""
 
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
-msgid ""
-"There's also a good section on [how to attribute adaptations](https://wiki."
-"creativecommons.org/wiki/"
-"Recommended_practices_for_attribution#This_is_a_great_attribution_for_when_you_have_created_an_adaptation)."
+msgid "There's also a good section on [how to attribute adaptations](https://wiki.creativecommons.org/wiki/Recommended_practices_for_attribution#This_is_a_great_attribution_for_when_you_have_created_an_adaptation)."
 msgstr ""
 
 #. type: Plain text
 #: content/pages/which-art-can-I-use/index.en.md
 #, fuzzy
-#| msgid ""
-#| "All the materials on this page are free to use under a respective "
-#| "[Creative Commons](https://creativecommons.org/share-your-work/"
-#| "cclicenses/) license - unless noted otherwise. Have fun browsing!"
-msgid ""
-"If you have any questions, please refer to the [Creative Commons](https://"
-"creativecommons.org/share-your-work/cclicenses/) website and the text of the "
-"licenses - this page is just a handy guide with links!"
+#| msgid "All the materials on this page are free to use under a respective [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) license - unless noted otherwise. Have fun browsing!"
+msgid "If you have any questions, please refer to the [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) website and the text of the licenses - this page is just a handy guide with links!"
 msgstr "¡Disfruta explorando!"
 
 #. type: Yaml Front Matter Hash Value: title
@@ -1512,20 +1152,10 @@ msgstr "Semillas de historias"
 
 #. type: Plain text
 #: content/seeds/_index.en.md
-msgid ""
-"Story Seeds are short, one-paragraph descriptions of a Solarpunk community, "
-"place or situation with some dramatic tension already baked in - ready to "
-"kickstart your writing!"
-msgstr ""
-"Las semillas de historias son breves descripciones (de un solo párrafo) de "
-"escenarios Solarpunk, ya sean comunidades, lugares o situaciones donde se "
-"plantea un conflicto a resolver. ¡Listas para hacer brotar tu creatividad!"
+msgid "Story Seeds are short, one-paragraph descriptions of a Solarpunk community, place or situation with some dramatic tension already baked in - ready to kickstart your writing!"
+msgstr "Las semillas de historias son breves descripciones (de un solo párrafo) de escenarios Solarpunk, ya sean comunidades, lugares o situaciones donde se plantea un conflicto a resolver. ¡Listas para hacer brotar tu creatividad!"
 
 #. type: Plain text
 #: content/seeds/_index.en.md
-msgid ""
-"Be sure to also check out the [podcast](https://podcast.tomasino.org/) based "
-"on them!"
-msgstr ""
-"También puedes escuchar el [podcast](https://podcast.tomasino.org/) basado "
-"en ellas."
+msgid "Be sure to also check out the [podcast](https://podcast.tomasino.org/) based on them!"
+msgstr "También puedes escuchar el [podcast](https://podcast.tomasino.org/) basado en ellas."

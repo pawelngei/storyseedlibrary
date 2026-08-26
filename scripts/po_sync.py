@@ -7,9 +7,11 @@ For each section (art, seeds, authors, tags, pages, essays):
    .po files, and (re)writes translated index.{lang}.md files for documents
    translated above the keep threshold. Existing files below the threshold
    are left untouched (--keep-translations).
-3. Fix up aliases in translated files: each alias gets a /{lang}/ prefix
+3. Normalize the PO layout (msgcat --no-wrap): one line per string, so
+   gettext and Weblate stop reflowing each other's line breaks.
+4. Fix up aliases in translated files: each alias gets a /{lang}/ prefix
    (Hugo aliases are language-prefixed; the English master's aliases are not).
-4. Authors only: drop the `social:` block from translated files - only the
+5. Authors only: drop the `social:` block from translated files - only the
    English master carries it; author-resolve.html falls back per-param.
 
 Run this after editing English content and after merging a Weblate PR.
@@ -81,9 +83,13 @@ def write_cfg(section, langs):
         f"[po4a_paths] po/{section}/{section}.pot $lang:po/{section}/$lang.po",
         # NB: no neverwrap - it splits list items with blank lines (loose
         # lists render differently); default 76-col reflow is render-neutral.
+        # --wrap-po no keeps PO strings on a single line - but it only
+        # reaches the POT po4a writes itself; the per-language files come
+        # from msgmerge, so unwrap_po() below finishes the job. Affects the
+        # .po layout only, never the generated md.
         "[options] --option markdown "
         f'--option "yfm_keys={YFM_KEYS}" --option yfm_skip_array '
-        f"--keep {KEEP_THRESHOLD} --porefs file "
+        f"--keep {KEEP_THRESHOLD} --porefs file --wrap-po no "
         "--master-charset UTF-8 --localized-charset UTF-8",
     ]
     new_masters = set()
@@ -140,6 +146,42 @@ def run_po4a(cfg_path, pot_only):
         tail = (result.stderr or result.stdout).splitlines()[-15:]
         print("  " + "\n  ".join(tail), file=sys.stderr)
     return result.returncode == 0
+
+
+def unwrap_po(section):
+    """Rewrite po/{section}/*.po(t) with every string on one physical line.
+
+    gettext and Weblate wrap long strings at different break points inside
+    unbreakable words (URLs mostly: gettext breaks after `.`, Weblate after
+    `-`), so each side reflowed what the other had written and every file
+    showed up in the diff on every sync, translations unchanged.
+
+    `msgcat --no-wrap` is idempotent and covers msgid/msgstr, the `#|`
+    previous-msgid comments and obsolete `#~` entries, so the files stay
+    byte-stable whoever writes them last. Weblate needs the matching
+    setting: "Customize gettext output" add-on, wrap length 65535.
+    """
+    changed = 0
+    for path in sorted((PO_DIR / section).glob("*.po*")):
+        tmp = path.with_name(path.name + ".unwrap")
+        result = subprocess.run(
+            ["msgcat", "--no-wrap", "-o", str(tmp), str(path)],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        if result.returncode != 0:
+            tmp.unlink(missing_ok=True)
+            print(f"  msgcat FAILED for {path.name}: {result.stderr.strip()}")
+            continue
+        if tmp.read_bytes() != path.read_bytes():
+            tmp.replace(path)
+            changed += 1
+        else:
+            tmp.unlink()
+    if changed:
+        print(f"  unwrapped {changed} po files")
 
 
 ALIAS_ITEM_RE = re.compile(r"""^(\s*-\s*)(["']?)(/[^"']*?)(\2\s*)$""")
@@ -250,6 +292,7 @@ def main():
         (PO_DIR / section).mkdir(parents=True, exist_ok=True)
         cfg_path = write_cfg(section, langs)
         ok &= run_po4a(cfg_path, args.pot_only)
+        unwrap_po(section)
 
         if not args.pot_only:
             fixed = stripped = 0

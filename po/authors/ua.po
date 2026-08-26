@@ -150,23 +150,8 @@ msgstr "Dustin Jacobus"
 
 #. type: Plain text
 #: content/authors/dustinjacobus/_index.en.md
-msgid ""
-"Dustin Jacobus is an illustrator and industrial design engineer whose work "
-"explores how nature and the built environment can grow together. Deeply "
-"inspired by natural systems, his art is rooted in biomimicry, sustainable "
-"design, and the solarpunk movement. He envisions a world where we coexist in "
-"harmony with all life forms, creating sustainable, water-rich, and green "
-"environments, both urban and beyond and expresses these ideas through his "
-"art. His vision has been shared in exhibitions, talks, workshops, and a wide "
-"range of publications across books, magazines, and other media."
-msgstr ""
-"Його творча діяльність, глибоко натхнена природними системами, корениться в "
-"біомімікрії, сталому дизайні та соларпанковому русі. Він уявляє світ, де ми "
-"гармонійно співіснуємо з усіма формами життя, створюючи екостійкі, багаті на "
-"воду й зелені середовища, як у містах, так і за їх межами, і висловлює ці "
-"ідеї через своє мистецтво. Його бачення було представлено на виставках, "
-"лекціях, семінарах та в широкому спектрі публікацій у книгах, журналах та "
-"інших медіа."
+msgid "Dustin Jacobus is an illustrator and industrial design engineer whose work explores how nature and the built environment can grow together. Deeply inspired by natural systems, his art is rooted in biomimicry, sustainable design, and the solarpunk movement. He envisions a world where we coexist in harmony with all life forms, creating sustainable, water-rich, and green environments, both urban and beyond and expresses these ideas through his art. His vision has been shared in exhibitions, talks, workshops, and a wide range of publications across books, magazines, and other media."
+msgstr "Його творча діяльність, глибоко натхнена природними системами, корениться в біомімікрії, сталому дизайні та соларпанковому русі. Він уявляє світ, де ми гармонійно співіснуємо з усіма формами життя, створюючи екостійкі, багаті на воду й зелені середовища, як у містах, так і за їх межами, і висловлює ці ідеї через своє мистецтво. Його бачення було представлено на виставках, лекціях, семінарах та в широкому спектрі публікацій у книгах, журналах та інших медіа."
 
 #. type: Yaml Front Matter Hash Value: params bio
 #: content/authors/elakidd/_index.en.md
@@ -332,30 +317,17 @@ msgstr ""
 
 #. type: Plain text
 #: content/authors/mirko-zamora/_index.en.md
-msgid ""
-"I am an Argentine illustrator and concept artist, largely self-taught. My "
-"journey began searching for answers I couldn't find in traditional "
-"education: a way to build worlds, characters, and environments capable of "
-"telling stories with a strong identity."
+msgid "I am an Argentine illustrator and concept artist, largely self-taught. My journey began searching for answers I couldn't find in traditional education: a way to build worlds, characters, and environments capable of telling stories with a strong identity."
 msgstr ""
 
 #. type: Plain text
 #: content/authors/mirko-zamora/_index.en.md
-msgid ""
-"Over the years, I have collaborated with psychoanalysis journals, "
-"independent authors, companies, and my own narrative projects, developing a "
-"practice that combines research, design, and visual storytelling."
+msgid "Over the years, I have collaborated with psychoanalysis journals, independent authors, companies, and my own narrative projects, developing a practice that combines research, design, and visual storytelling."
 msgstr ""
 
 #. type: Plain text
 #: content/authors/mirko-zamora/_index.en.md
-msgid ""
-"Today, thanks to Story Seed Library, I am putting onto paper years of "
-"imagining possible futures for the Argentine landscape: architecture, "
-"communities, and ecosystems where technology develops in harmony with "
-"natural cycles, guided by respect and responsibility. Solar Punk Criollo was "
-"born from this collaboration and the shared desire to help imagine a better "
-"future for our civilization."
+msgid "Today, thanks to Story Seed Library, I am putting onto paper years of imagining possible futures for the Argentine landscape: architecture, communities, and ecosystems where technology develops in harmony with natural cycles, guided by respect and responsibility. Solar Punk Criollo was born from this collaboration and the shared desire to help imagine a better future for our civilization."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: params bio
@@ -547,11 +519,5 @@ msgstr "Yuuna Maiko"
 
 #. type: Plain text
 #: content/authors/yuuna-maiko/_index.en.md
-msgid ""
-"The solarpunk imagination is taking on a growing role in our cultural "
-"landscape, and I believe it’s essential to promote a hopeful vision of the "
-"future — one in which humans live in harmony with their environment."
-msgstr ""
-"Соларпанкова уява відіграє дедалі більшу роль у нашому культурному "
-"ландшафті, і я вважаю, що надзвичайно важливо просувати оптимістичне бачення "
-"майбутнього, в якому люди живуть у гармонії зі своїм середовищем."
+msgid "The solarpunk imagination is taking on a growing role in our cultural landscape, and I believe it’s essential to promote a hopeful vision of the future — one in which humans live in harmony with their environment."
+msgstr "Соларпанкова уява відіграє дедалі більшу роль у нашому культурному ландшафті, і я вважаю, що надзвичайно важливо просувати оптимістичне бачення майбутнього, в якому люди живуть у гармонії зі своїм середовищем."

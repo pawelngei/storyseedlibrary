@@ -24,16 +24,12 @@ msgstr ""
 
 #. type: Plain text
 #: content/tags/2023-collab/_index.en.md
-msgid ""
-"The works below are a selection of illustrations created for the 2023 "
-"Solarpunk Art Collab ran [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgid "The works below are a selection of illustrations created for the 2023 Solarpunk Art Collab ran [Andrewism](https://www.youtube.com/@Andrewism/)."
 msgstr ""
 
 #. type: Plain text
 #: content/tags/2023-collab/_index.en.md
-msgid ""
-"All of the works are available on [Andrewism's tumblr](https://andrew-ism."
-"tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
+msgid "All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -44,11 +40,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/tags/2024-wat/_index.en.md
-msgid ""
-"In 2024 the French [Week and Art Contest](https://www.weekandart.com/) held "
-"an edition dedicated to Solarpunk! You can see the submissions in their "
-"[gallery](https://galerie.weekandart.com/) (please choose 2024). The winners "
-"can be found on [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/)."
+msgid "In 2024 the French [Week and Art Contest](https://www.weekandart.com/) held an edition dedicated to Solarpunk! You can see the submissions in their [gallery](https://galerie.weekandart.com/) (please choose 2024). The winners can be found on [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/)."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -59,10 +51,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/tags/2025-collab/_index.en.md
-msgid ""
-"The works below are a selection of illustrations created for the 2025 "
-"Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://"
-"www.youtube.com/@Andrewism/)."
+msgid "The works below are a selection of illustrations created for the 2025 Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://www.youtube.com/@Andrewism/)."
 msgstr ""
 
 #. type: Plain text
@@ -76,11 +65,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/tags/2025-collab/_index.en.md
-msgid ""
-"You can read more about the initiative at its [event page](/pages/andrewisms-"
-"art-collab-2025/). All of the works are available on [Andrewism's tumblr]"
-"(https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-"
-"life-of-learning)."
+msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2025/). All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -97,10 +82,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/tags/2026-collab/_index.en.md
-msgid ""
-"The works below are a selection of illustrations created for the 2026 "
-"Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://"
-"www.youtube.com/@Andrewism/)."
+msgid "The works below are a selection of illustrations created for the 2026 Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://www.youtube.com/@Andrewism/)."
 msgstr ""
 
 #. type: Plain text
@@ -118,11 +100,7 @@ msgstr ""
 
 #. type: Plain text
 #: content/tags/2026-collab/_index.en.md
-msgid ""
-"You can read more about the initiative at its [event page](/pages/andrewisms-"
-"art-collab-2026/). All of the works are available on [Andrewism's tumblr]"
-"(https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-"
-"disaster-preparedness)."
+msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2026/). All of the works are available on [Andrewism's tumblr](https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-disaster-preparedness)."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -193,16 +171,8 @@ msgstr "CC BY 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-4.0/_index.en.md
-msgid ""
-"This license enables reusers to copy, distribute, remix, adapt, and build "
-"upon the material in any medium or format, so long as attribution is given "
-"to the creator. The license allows for commercial use. CC BY includes the "
-"following elements:"
-msgstr ""
-"Questa licenza permette ai riutilizzatori di distribuire, modificare, "
-"adattare ed estendere il materiale in ogni canale o formato, purché "
-"l'attribuzione sia data al creatore originale. La licenza ammette l'uso "
-"commerciale. Il CC-BY include i seguenti elementi:"
+msgid "This license enables reusers to copy, distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. CC BY includes the following elements:"
+msgstr "Questa licenza permette ai riutilizzatori di distribuire, modificare, adattare ed estendere il materiale in ogni canale o formato, purché l'attribuzione sia data al creatore originale. La licenza ammette l'uso commerciale. Il CC-BY include i seguenti elementi:"
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-4.0/_index.en.md content/tags/cc-by-nc-4.0/_index.en.md
@@ -231,16 +201,8 @@ msgstr "CC BY-NC 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-nc-4.0/_index.en.md
-msgid ""
-"This license enables reusers to copy, distribute, remix, adapt, and build "
-"upon the material in any medium or format for noncommercial purposes only, "
-"and only so long as attribution is given to the creator. CC BY-NC includes "
-"the following elements:"
-msgstr ""
-"Questa licenza permette ai riutilizzatori di distribuire, modificare, "
-"adattare ed estendere il materiale in ogni canale o formato per scopi non "
-"commerciali, e solo previa attribuzione al creatore. Il CC-BY-NC include i "
-"seguenti elementi:"
+msgid "This license enables reusers to copy, distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC includes the following elements:"
+msgstr "Questa licenza permette ai riutilizzatori di distribuire, modificare, adattare ed estendere il materiale in ogni canale o formato per scopi non commerciali, e solo previa attribuzione al creatore. Il CC-BY-NC include i seguenti elementi:"
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-4.0/_index.en.md
@@ -285,32 +247,22 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-nd-3.0/_index.en.md
-msgid ""
-"**Attribution** — You must give appropriate credit, provide a link to the "
-"license, and indicate if changes were made . You may do so in any reasonable "
-"manner, but not in any way that suggests the licensor endorses you or your "
-"use."
+msgid "**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-nd-3.0/_index.en.md
-msgid ""
-"**NonCommercial** — You may not use the material for commercial purposes."
+msgid "**NonCommercial** — You may not use the material for commercial purposes."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-nd-3.0/_index.en.md
-msgid ""
-"**NoDerivatives** — If you remix, transform, or build upon the material, you "
-"may not distribute the modified material."
+msgid "**NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material."
 msgstr ""
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-nd-3.0/_index.en.md
-msgid ""
-"**No additional restrictions** — You may not apply legal terms or "
-"technological measures that legally restrict others from doing anything the "
-"license permits."
+msgid "**No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits."
 msgstr ""
 
 #. type: Plain text
@@ -334,16 +286,8 @@ msgstr "CC BY-NC-ND 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-nc-nd-4.0/_index.en.md
-msgid ""
-"This license enables reusers to copy and distribute the material in any "
-"medium or format in unadapted form only, for noncommercial purposes only, "
-"and only so long as attribution is given to the creator. CC BY-NC-ND "
-"includes the following elements:"
-msgstr ""
-"Questa licenza permette ai riutilizzatori di copiare e distribuire il "
-"materiale in ogni canale o formato solo in forma originale, per scopi non "
-"commerciali e previa attribuzione al creatore. Il CC-BY-NC-ND include i "
-"seguenti elementi:"
+msgid "This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC-ND includes the following elements:"
+msgstr "Questa licenza permette ai riutilizzatori di copiare e distribuire il materiale in ogni canale o formato solo in forma originale, per scopi non commerciali e previa attribuzione al creatore. Il CC-BY-NC-ND include i seguenti elementi:"
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-nd-4.0/_index.en.md
@@ -370,18 +314,8 @@ msgstr "CC BY-NC-SA 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
-msgid ""
-"This license enables reusers to copy, distribute, remix, adapt, and build "
-"upon the material in any medium or format for noncommercial purposes only, "
-"and only so long as attribution is given to the creator. If you remix, "
-"adapt, or build upon the material, you must license the modified material "
-"under identical terms. CC BY-NC-SA includes the following elements:"
-msgstr ""
-"Questa licenza permette ai riutilizzatori di distribuire, modificare, "
-"adattare ed estendere il materiale in ogni canale o formato per scopi non "
-"commerciali, e solo previa attribuzione al creatore. Se il materiale viene "
-"modificato, adattato o esteso, deve essere posto sotto la stessa licenza. Il "
-"CC-BY-NC-SA include i seguenti elementi:"
+msgid "This license enables reusers to copy, distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements:"
+msgstr "Questa licenza permette ai riutilizzatori di distribuire, modificare, adattare ed estendere il materiale in ogni canale o formato per scopi non commerciali, e solo previa attribuzione al creatore. Se il materiale viene modificato, adattato o esteso, deve essere posto sotto la stessa licenza. Il CC-BY-NC-SA include i seguenti elementi:"
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
@@ -407,22 +341,13 @@ msgstr "CC BY-ND 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-nd-4.0/_index.en.md
-msgid ""
-"This license enables reusers to copy and distribute the material in any "
-"medium or format in unadapted form only, and only so long as attribution is "
-"given to the creator. The license allows for commercial use. CC BY-ND "
-"includes the following elements:"
-msgstr ""
-"Questa licenza permette ai riutilizzatori di copiare e distribuire il "
-"materiale in ogni canale o formato solo in forma originale, per scopi non "
-"commerciali e previa attribuzione al creatore. La licenza permette usi "
-"commerciali. Il CC-BY-ND include i seguenti elementi:"
+msgid "This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, and only so long as attribution is given to the creator. The license allows for commercial use. CC BY-ND includes the following elements:"
+msgstr "Questa licenza permette ai riutilizzatori di copiare e distribuire il materiale in ogni canale o formato solo in forma originale, per scopi non commerciali e previa attribuzione al creatore. La licenza permette usi commerciali. Il CC-BY-ND include i seguenti elementi:"
 
 #. type: Plain text
 #: content/tags/cc-by-nd-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nd/4.0/)]"
-msgstr ""
-"[[Per saperne di più](https://creativecommons.org/licenses/by-nd/4.0/)]"
+msgstr "[[Per saperne di più](https://creativecommons.org/licenses/by-nd/4.0/)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-sa-4.0/_index.en.md
@@ -438,18 +363,8 @@ msgstr "CC BY-SA 4.0"
 
 #. type: Plain text
 #: content/tags/cc-by-sa-4.0/_index.en.md
-msgid ""
-"This license enables reusers to distribute, remix, adapt, and build upon the "
-"material in any medium or format, so long as attribution is given to the "
-"creator. The license allows for commercial use. If you remix, adapt, or "
-"build upon the material, you must license the modified material under "
-"identical terms. CC BY-SA includes the following elements:"
-msgstr ""
-"Questa licenza permette ai riutilizzatori di distribuire, modificare, "
-"adattare ed estendere il materiale in ogni canale o formato, e solo previa "
-"attribuzione al creatore. La licenza permette usi commerciali. Se il "
-"materiale viene modificato, adattato o esteso, deve essere posto sotto la "
-"stessa licenza. Il CC-BY-NC-SA include i seguenti elementi:"
+msgid "This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-SA includes the following elements:"
+msgstr "Questa licenza permette ai riutilizzatori di distribuire, modificare, adattare ed estendere il materiale in ogni canale o formato, e solo previa attribuzione al creatore. La licenza permette usi commerciali. Se il materiale viene modificato, adattato o esteso, deve essere posto sotto la stessa licenza. Il CC-BY-NC-SA include i seguenti elementi:"
 
 #. type: Bullet: '- '
 #: content/tags/cc-by-sa-4.0/_index.en.md
@@ -480,17 +395,8 @@ msgstr "CC0"
 
 #. type: Plain text
 #: content/tags/cc0/_index.en.md
-msgid ""
-"CC0 (aka CC Zero) is a public dedication tool, which enables creators to "
-"give up their copyright and put their works into the worldwide public "
-"domain. CC0 enables reusers to distribute, remix, adapt, and build upon the "
-"material in any medium or format, with no conditions."
-msgstr ""
-"CC0 (anche noto come CC Zero) è uno strumento di dedica pubblica che "
-"permette ai creatori di abbandonare i propri diritti d'autore e rendere le "
-"proprie opere di dominio pubblico. Il CC0 permette a chi riutilizza di "
-"distribuire, modificare, adattare ed estendere il materiale in ogni formato "
-"e canale, senza condizioni."
+msgid "CC0 (aka CC Zero) is a public dedication tool, which enables creators to give up their copyright and put their works into the worldwide public domain. CC0 enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions."
+msgstr "CC0 (anche noto come CC Zero) è uno strumento di dedica pubblica che permette ai creatori di abbandonare i propri diritti d'autore e rendere le proprie opere di dominio pubblico. Il CC0 permette a chi riutilizza di distribuire, modificare, adattare ed estendere il materiale in ogni formato e canale, senza condizioni."
 
 #. type: Plain text
 #: content/tags/cc0/_index.en.md
@@ -517,17 +423,12 @@ msgstr ""
 
 #. type: Plain text
 #: content/tags/coloring-book/_index.en.md
-msgid ""
-"Some of our wonderful artists decided to share the linearts of their works "
-"for you to use as a coloring book! Once you click on any of the "
-"illustrations below, you'll see a \"Download Coloring Page\" button!"
+msgid "Some of our wonderful artists decided to share the linearts of their works for you to use as a coloring book! Once you click on any of the illustrations below, you'll see a \"Download Coloring Page\" button!"
 msgstr ""
 
 #. type: Plain text
 #: content/tags/coloring-book/_index.en.md
-msgid ""
-"Background art - [Community Gardens by Daniele Turturici](/art/daniele-"
-"turturici/community-gardens/)."
+msgid "Background art - [Community Gardens by Daniele Turturici](/art/daniele-turturici/community-gardens/)."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
