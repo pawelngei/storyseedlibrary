@@ -29,7 +29,9 @@ msgstr ""
 
 #. type: Plain text
 #: content/tags/2023-collab/_index.en.md
-msgid "All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
+msgid ""
+"All of the works are available on [Andrewism's tumblr](https://andrew-"
+"ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title

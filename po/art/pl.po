@@ -82,8 +82,19 @@ msgstr "Unosząca Się Wioska"
 
 #. type: Plain text
 #: content/art/commando-jugendstil/floating-village/index.en.md
-msgid "Originally commissioned in 2022 for a Solarpunk article in [Liberal Debatt](https://www.liberaldebatt.se/) magazine which never got published. In the meantime it was featured in several other newspapers, like the Polish [Gazeta Wyborcza](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html)."
-msgstr "Ilustracja pierwotnie zamówiona w 2022 do solarpunkowego artykułu w magazynie [Liberal Debatt](https://www.liberaldebatt.se/), który niestety nie został nigdy opublikowany. W międzyczasie ukazała się w kilku innych czasopismach, jak [Gazeta Wyborcza](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html)."
+msgid ""
+"Originally commissioned in 2022 for a Solarpunk article in [Liberal Debatt]"
+"(https://www.liberaldebatt.se/) magazine which never got published. In the "
+"meantime it was featured in several other newspapers, like the Polish "
+"[Gazeta Wyborcza](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-"
+"aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html)."
+msgstr ""
+"Ilustracja pierwotnie zamówiona w 2022 do solarpunkowego artykułu w "
+"magazynie [Liberal Debatt](https://www.liberaldebatt.se/), który niestety "
+"nie został nigdy opublikowany. W międzyczasie ukazała się w kilku innych "
+"czasopismach, jak [Gazeta Wyborcza](https://wyborcza.pl/magazyn/"
+"7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-"
+"batmana.html)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/commando-jugendstil/panel-and-tomorrow-sunrise/index.en.md
@@ -564,8 +575,19 @@ msgstr "Szkoła Ateńska 2050"
 
 #. type: Plain text
 #: content/art/commando-jugendstil/the-school-of-athens-2050/index.en.md
-msgid "The School of Athens 2050 is a vision of a possible future. It was realized for the spanish academic magazine of political ecology [Ecología Política](https://www.ecologiapolitica.info/), specifically for issue n°57 - [Las Artes Y La Ecología Política](https://issuu.com/entmediambient/docs/57_2019pkyxm), which focuses on the relationship between art and political ecology."
-msgstr "Szkoła Ateństka 2050 to wizja możliwej przyszłości. Została stworzona dla hiszpańskiego magazynu ekologii politycznej [Ecología Política](https://www.ecologiapolitica.info/), konkretnie do numeru 57go - [Las Artes Y La Ecología Política](https://issuu.com/entmediambient/docs/57_2019pkyxm), który skupia się na zależnościach między sztuką a ekologią polityczną."
+msgid ""
+"The School of Athens 2050 is a vision of a possible future. It was realized "
+"for the spanish academic magazine of political ecology [Ecología Política]"
+"(https://www.ecologiapolitica.info/), specifically for issue n°57 - [Las "
+"Artes Y La Ecología Política](https://issuu.com/entmediambient/docs/"
+"57_2019pkyxm), which focuses on the relationship between art and political "
+"ecology."
+msgstr ""
+"Szkoła Ateństka 2050 to wizja możliwej przyszłości. Została stworzona dla "
+"hiszpańskiego magazynu ekologii politycznej [Ecología Política](https://"
+"www.ecologiapolitica.info/), konkretnie do numeru 57go - [Las Artes Y La "
+"Ecología Política](https://issuu.com/entmediambient/docs/57_2019pkyxm), "
+"który skupia się na zależnościach między sztuką a ekologią polityczną."
 
 #. type: Plain text
 #: content/art/commando-jugendstil/the-school-of-athens-2050/index.en.md
@@ -584,7 +606,28 @@ msgstr ""
 
 #. type: Plain text
 #: content/art/commando-jugendstil/the-school-of-athens-2050/index.en.md
-msgid "On the lower right corner there is the group working on 3D printing from recycled plastic. Next to them, a rubbish collector droid brings some source material to the group. Right above them there’s the group of activists, which also takes all the rest of the higher level of the stage. Among them you can see, from right to left: a reference to activist [Berta Cáceres](https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres) and the pink boat that took her name in the Extinction Rebellion protests in London, roman senator [Lucio Sergio Catilina](https://en.wikipedia.org/wiki/Catiline), that was demonized by the roman establishment and proposed agrarian reform and debt jubilee, the founder of the movement of student strikes for climate [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg), a member of the [Standing Rock Sioux tribe](https://en.wikipedia.org/wiki/Standing_Rock_Sioux_Reservation), battling to protect their land from oil exploitation, and a member of the [Waorani Resistance](https://en.wikipedia.org/wiki/Waorani_people) in Ecuador, fighting to keep their land free from oil drilling. The last three characters are inspired by famous painting [The Fourth Estate](https://en.wikipedia.org/wiki/The_Fourth_Estate_(painting)), by Pellizza da Volpedo, while the whole composition is a tribute to masterpiece [The School of Athens](https://en.wikipedia.org/wiki/The_School_of_Athens) by [Raffaello](https://en.wikipedia.org/wiki/Raphael)."
+msgid ""
+"On the lower right corner there is the group working on 3D printing from "
+"recycled plastic. Next to them, a rubbish collector droid brings some source "
+"material to the group. Right above them there’s the group of activists, "
+"which also takes all the rest of the higher level of the stage. Among them "
+"you can see, from right to left: a reference to activist [Berta Cáceres]"
+"(https://en.wikipedia.org/wiki/Berta_C%C3%A1ceres) and the pink boat that "
+"took her name in the Extinction Rebellion protests in London, roman senator "
+"[Lucio Sergio Catilina](https://en.wikipedia.org/wiki/Catiline), that was "
+"demonized by the roman establishment and proposed agrarian reform and debt "
+"jubilee, the founder of the movement of student strikes for climate [Greta "
+"Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg), a member of the "
+"[Standing Rock Sioux tribe](https://en.wikipedia.org/wiki/"
+"Standing_Rock_Sioux_Reservation), battling to protect their land from oil "
+"exploitation, and a member of the [Waorani Resistance](https://"
+"en.wikipedia.org/wiki/Waorani_people) in Ecuador, fighting to keep their "
+"land free from oil drilling. The last three characters are inspired by "
+"famous painting [The Fourth Estate](https://en.wikipedia.org/wiki/"
+"The_Fourth_Estate_(painting)), by Pellizza da Volpedo, while the whole "
+"composition is a tribute to masterpiece [The School of Athens](https://"
+"en.wikipedia.org/wiki/The_School_of_Athens) by [Raffaello](https://"
+"en.wikipedia.org/wiki/Raphael)."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -1047,8 +1090,16 @@ msgstr "See more behind the scenes, post your own activist art WIPs for feedback
 
 #. type: Plain text
 #: content/art/honora/ecocide-inc/index.en.md
-msgid "This artwork is also available as a print, (I guess you might have to wait a bit for delivery since this is not essential business): https://www.artstation.com/prints/art_poster/7VB1/ecological-resistance-symbol#art_poster_size_12x18"
-msgstr "This artwork is also available as a print, (I guess you might have to wait a bit for delivery since this is not essential business): https://www.artstation.com/prints/art_poster/7VB1/ecological-resistance-symbol#art_poster_size_12x18"
+msgid ""
+"This artwork is also available as a print, (I guess you might have to wait a "
+"bit for delivery since this is not essential business): https://"
+"www.artstation.com/prints/art_poster/7VB1/ecological-resistance-"
+"symbol#art_poster_size_12x18"
+msgstr ""
+"This artwork is also available as a print, (I guess you might have to wait a "
+"bit for delivery since this is not essential business): https://"
+"www.artstation.com/prints/art_poster/7VB1/ecological-resistance-"
+"symbol#art_poster_size_12x18"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/honora/seeds-of-resistance/index.en.md
@@ -1135,8 +1186,30 @@ msgstr "One of my overarching goals with this series is to show a society instit
 
 #. type: Plain text
 #: content/art/jacob-coffin/airshipyard-early-morning/index.en.md
-msgid "Which brings me to my other goal for this photobash. I’ve been wanting to do a scene with airships ever since the discussion we had here: https://slrpnk.net/post/3123093. In fact, I’ll probably do a few. Despite seeing relatively little use, airship design has advanced tremendously in the last hundred years. Improved materials have allowed them to take more effective shapes, and improved engines, motors, batteries, and computer systems, have made them much easier to control. While reading about historical airships, I was struck by the risk in doing almost anything with them, but especially by landing – which often required ground crews (‘landing parties’) of hundreds of men who would by strength of muscle, pull the thing down to the ground. By contrast, modern airships can land themselves right on the ground."
-msgstr "Which brings me to my other goal for this photobash. I’ve been wanting to do a scene with airships ever since the discussion we had here: https://slrpnk.net/post/3123093. In fact, I’ll probably do a few. Despite seeing relatively little use, airship design has advanced tremendously in the last hundred years. Improved materials have allowed them to take more effective shapes, and improved engines, motors, batteries, and computer systems, have made them much easier to control. While reading about historical airships, I was struck by the risk in doing almost anything with them, but especially by landing – which often required ground crews (‘landing parties’) of hundreds of men who would by strength of muscle, pull the thing down to the ground. By contrast, modern airships can land themselves right on the ground."
+msgid ""
+"Which brings me to my other goal for this photobash. I’ve been wanting to do "
+"a scene with airships ever since the discussion we had here: https://"
+"slrpnk.net/post/3123093. In fact, I’ll probably do a few. Despite seeing "
+"relatively little use, airship design has advanced tremendously in the last "
+"hundred years. Improved materials have allowed them to take more effective "
+"shapes, and improved engines, motors, batteries, and computer systems, have "
+"made them much easier to control. While reading about historical airships, I "
+"was struck by the risk in doing almost anything with them, but especially by "
+"landing – which often required ground crews (‘landing parties’) of hundreds "
+"of men who would by strength of muscle, pull the thing down to the ground. "
+"By contrast, modern airships can land themselves right on the ground."
+msgstr ""
+"Which brings me to my other goal for this photobash. I’ve been wanting to do "
+"a scene with airships ever since the discussion we had here: https://"
+"slrpnk.net/post/3123093. In fact, I’ll probably do a few. Despite seeing "
+"relatively little use, airship design has advanced tremendously in the last "
+"hundred years. Improved materials have allowed them to take more effective "
+"shapes, and improved engines, motors, batteries, and computer systems, have "
+"made them much easier to control. While reading about historical airships, I "
+"was struck by the risk in doing almost anything with them, but especially by "
+"landing – which often required ground crews (‘landing parties’) of hundreds "
+"of men who would by strength of muscle, pull the thing down to the ground. "
+"By contrast, modern airships can land themselves right on the ground."
 
 #. type: Plain text
 #: content/art/jacob-coffin/airshipyard-early-morning/index.en.md
@@ -1265,9 +1338,16 @@ msgstr ""
 #. type: Plain text
 #: content/art/jacob-coffin/cargo-airship-docked/index.en.md
 #, fuzzy
-#| msgid "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2025/03/23/buried-treasure-location-art/)"
-msgid "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2025/10/09/buried-treasure-cargo-airship-docked-at-a-mooring-mast-made-from-recycled-wind-turbine-tower/)"
-msgstr "[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2025/03/23/buried-treasure-location-art/)"
+#| msgid ""
+#| "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/"
+#| "2025/03/23/buried-treasure-location-art/)"
+msgid ""
+"[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2025/10/09/"
+"buried-treasure-cargo-airship-docked-at-a-mooring-mast-made-from-recycled-"
+"wind-turbine-tower/)"
+msgstr ""
+"[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2025/03/23/"
+"buried-treasure-location-art/)"
 
 #. type: Plain text
 #: content/art/jacob-coffin/cargo-airship-docked/index.en.md
@@ -1401,9 +1481,16 @@ msgstr "Ekipa rozbiorkowa"
 #. type: Plain text
 #: content/art/jacob-coffin/deconstruction-crew/index.en.md
 #, fuzzy
-#| msgid "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2025/02/10/buried-treasure-bob-johnsons-farm/)"
-msgid "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/05/02/deconstruction-crew-disassembling-abandoned-mcmansions-so-the-material-can-be-reused/)"
-msgstr "[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2025/02/10/buried-treasure-bob-johnsons-farm/)"
+#| msgid ""
+#| "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/"
+#| "2025/02/10/buried-treasure-bob-johnsons-farm/)"
+msgid ""
+"[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/05/02/"
+"deconstruction-crew-disassembling-abandoned-mcmansions-so-the-material-can-"
+"be-reused/)"
+msgstr ""
+"[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2025/02/10/"
+"buried-treasure-bob-johnsons-farm/)"
 
 #. type: Title #
 #: content/art/jacob-coffin/deconstruction-crew/index.en.md
@@ -1443,7 +1530,14 @@ msgstr ""
 
 #. type: Plain text
 #: content/art/jacob-coffin/deconstruction-crew/index.en.md
-msgid "Deconstruction (https://www.epa.gov/large-scale-residential-demolition/reuse-and-recycling-opportunities-and-demolition) is an alternative to home demolition. It means carefully dismantling the constructed components of a house so the materials can be salvaged and reused (https://www.morrishabitat.org/programs/deconstruction). Materials are typically removed in the opposite order in which they were installed, to maximize reuse."
+msgid ""
+"Deconstruction (https://www.epa.gov/large-scale-residential-demolition/reuse-"
+"and-recycling-opportunities-and-demolition) is an alternative to home "
+"demolition. It means carefully dismantling the constructed components of a "
+"house so the materials can be salvaged and reused (https://"
+"www.morrishabitat.org/programs/deconstruction). Materials are typically "
+"removed in the opposite order in which they were installed, to maximize "
+"reuse."
 msgstr ""
 
 #. type: Plain text
@@ -1842,7 +1936,18 @@ msgstr ""
 
 #. type: Plain text
 #: content/art/jacob-coffin/floodplain-restoration/index.en.md
-msgid "I don't know the specifics of that particular building, what condition it was in, whether anything was salvaged (or was worth salvaging). But there are two alternatives to demolition which I've been trying to showcase in my work: [deconstruction](https://jacobcoffinwrites.wordpress.com/2024/05/02/deconstruction-crew-disassembling-abandoned-mcmansions-so-the-material-can-be-reused/) – the process of [disassembling a building](https://wiki.slrpnk.net/writing:deconstruction) to salvage as many construction materials as possible, and house shifting, the work of physically moving a suitable structure rather than building new. Both can be wonderful solarpunk alternatives to demolition which make the society less extractive on its environment and reduce the amount of landfill space it requires."
+msgid ""
+"I don't know the specifics of that particular building, what condition it "
+"was in, whether anything was salvaged (or was worth salvaging). But there "
+"are two alternatives to demolition which I've been trying to showcase in my "
+"work: [deconstruction](https://jacobcoffinwrites.wordpress.com/2024/05/02/"
+"deconstruction-crew-disassembling-abandoned-mcmansions-so-the-material-can-"
+"be-reused/) – the process of [disassembling a building](https://"
+"wiki.slrpnk.net/writing:deconstruction) to salvage as many construction "
+"materials as possible, and house shifting, the work of physically moving a "
+"suitable structure rather than building new. Both can be wonderful solarpunk "
+"alternatives to demolition which make the society less extractive on its "
+"environment and reduce the amount of landfill space it requires."
 msgstr ""
 
 #. type: Plain text
@@ -2088,9 +2193,15 @@ msgstr ""
 #. type: Plain text
 #: content/art/jacob-coffin/railbus/index.en.md
 #, fuzzy
-#| msgid "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2025/03/23/buried-treasure-location-art/)"
-msgid "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2025/09/16/buried-treasure-railbus-artwork/)"
-msgstr "[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2025/03/23/buried-treasure-location-art/)"
+#| msgid ""
+#| "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/"
+#| "2025/03/23/buried-treasure-location-art/)"
+msgid ""
+"[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2025/09/16/"
+"buried-treasure-railbus-artwork/)"
+msgstr ""
+"[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2025/03/23/"
+"buried-treasure-location-art/)"
 
 #. type: Plain text
 #: content/art/jacob-coffin/railbus/index.en.md
@@ -2216,8 +2327,14 @@ msgstr "[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2023/
 
 #. type: Plain text
 #: content/art/jacob-coffin/ropeway-road/index.en.md
-msgid "Made in response to this post: https://www.reddit.com/r/solarpunk/comments/17m5tr3/solarpunk_during_winter_and_late_fall/k7iv7p4/?context=3 – on the realization that there aren’t many examples of solarpunk art set in winter."
-msgstr "Made in response to this post: https://www.reddit.com/r/solarpunk/comments/17m5tr3/solarpunk_during_winter_and_late_fall/k7iv7p4/?context=3 – on the realization that there aren’t many examples of solarpunk art set in winter."
+msgid ""
+"Made in response to this post: https://www.reddit.com/r/solarpunk/comments/"
+"17m5tr3/solarpunk_during_winter_and_late_fall/k7iv7p4/?context=3 – on the "
+"realization that there aren’t many examples of solarpunk art set in winter."
+msgstr ""
+"Made in response to this post: https://www.reddit.com/r/solarpunk/comments/"
+"17m5tr3/solarpunk_during_winter_and_late_fall/k7iv7p4/?context=3 – on the "
+"realization that there aren’t many examples of solarpunk art set in winter."
 
 #. type: Plain text
 #: content/art/jacob-coffin/ropeway-road/index.en.md
@@ -2384,8 +2501,28 @@ msgstr "So what does that mean? I’m very much not nautical – as with most of
 
 #. type: Plain text
 #: content/art/jacob-coffin/ship-in-a-storm/index.en.md
-msgid "Cromlyngames in the FA! team mentioned DynaRig sails, these kind of funny-looking sails that taper towards the base, with thick masts and curved yards. They’ve seen some limited use on expensive yachts, there’s some proposals/plans (https://www.dykstra-na.nl/designs/wasp-ecoliner/) to use them on container ships, and do seem to work well from what I’ve read. Their main advantage is in labor-savings and safety – the sails apparently slide out from inside the masts following tracks in the yards (https://www.youtube.com/watch?v=KZoS93qkZHw), so nobody has to climb the rigging to raise or lower them. And the entire mast rotates to best catch the wind. This allows for a smaller crew, and less of the traditional risks."
-msgstr "Cromlyngames in the FA! team mentioned DynaRig sails, these kind of funny-looking sails that taper towards the base, with thick masts and curved yards. They’ve seen some limited use on expensive yachts, there’s some proposals/plans (https://www.dykstra-na.nl/designs/wasp-ecoliner/) to use them on container ships, and do seem to work well from what I’ve read. Their main advantage is in labor-savings and safety – the sails apparently slide out from inside the masts following tracks in the yards (https://www.youtube.com/watch?v=KZoS93qkZHw), so nobody has to climb the rigging to raise or lower them. And the entire mast rotates to best catch the wind. This allows for a smaller crew, and less of the traditional risks."
+msgid ""
+"Cromlyngames in the FA! team mentioned DynaRig sails, these kind of funny-"
+"looking sails that taper towards the base, with thick masts and curved "
+"yards. They’ve seen some limited use on expensive yachts, there’s some "
+"proposals/plans (https://www.dykstra-na.nl/designs/wasp-ecoliner/) to use "
+"them on container ships, and do seem to work well from what I’ve read. Their "
+"main advantage is in labor-savings and safety – the sails apparently slide "
+"out from inside the masts following tracks in the yards (https://"
+"www.youtube.com/watch?v=KZoS93qkZHw), so nobody has to climb the rigging to "
+"raise or lower them. And the entire mast rotates to best catch the wind. "
+"This allows for a smaller crew, and less of the traditional risks."
+msgstr ""
+"Cromlyngames in the FA! team mentioned DynaRig sails, these kind of funny-"
+"looking sails that taper towards the base, with thick masts and curved "
+"yards. They’ve seen some limited use on expensive yachts, there’s some "
+"proposals/plans (https://www.dykstra-na.nl/designs/wasp-ecoliner/) to use "
+"them on container ships, and do seem to work well from what I’ve read. Their "
+"main advantage is in labor-savings and safety – the sails apparently slide "
+"out from inside the masts following tracks in the yards (https://"
+"www.youtube.com/watch?v=KZoS93qkZHw), so nobody has to climb the rigging to "
+"raise or lower them. And the entire mast rotates to best catch the wind. "
+"This allows for a smaller crew, and less of the traditional risks."
 
 #. type: Plain text
 #: content/art/jacob-coffin/ship-in-a-storm/index.en.md
@@ -2519,9 +2656,16 @@ msgstr "Lokomotywa sodowa na stacji"
 #. type: Plain text
 #: content/art/jacob-coffin/soda-locomotive-station/index.en.md
 #, fuzzy
-#| msgid "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/04/12/another-quick-take-on-the-caustic-soda-locomotive-concept-modular-this-time/)"
-msgid "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/04/07/caustic-soda-locomotive-stopped-at-a-solar-drying-station/)"
-msgstr "[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2024/04/12/another-quick-take-on-the-caustic-soda-locomotive-concept-modular-this-time/)"
+#| msgid ""
+#| "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/"
+#| "2024/04/12/another-quick-take-on-the-caustic-soda-locomotive-concept-"
+#| "modular-this-time/)"
+msgid ""
+"[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/04/07/"
+"caustic-soda-locomotive-stopped-at-a-solar-drying-station/)"
+msgstr ""
+"[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2024/04/12/"
+"another-quick-take-on-the-caustic-soda-locomotive-concept-modular-this-time/)"
 
 #. type: Title #
 #: content/art/jacob-coffin/soda-locomotive-station/index.en.md
@@ -2532,7 +2676,13 @@ msgstr "Lokomotywa sodowa na stacji"
 
 #. type: Plain text
 #: content/art/jacob-coffin/soda-locomotive-station/index.en.md
-msgid "One of my goals for my postcard series is to show a rebuilding society that prioritizes reducing waste and externalities, and examining what weird technologies might appeal to them because of those goals/limitations. So I’ve been wanting to do a scene of a caustic soda locomotive (http://www.douglas-self.com/MUSEUM/LOCOLOCO/soda/soda.htm) ever since I first heard about them (https://slrpnk.net/comment/2627767)."
+msgid ""
+"One of my goals for my postcard series is to show a rebuilding society that "
+"prioritizes reducing waste and externalities, and examining what weird "
+"technologies might appeal to them because of those goals/limitations. So "
+"I’ve been wanting to do a scene of a caustic soda locomotive (http://"
+"www.douglas-self.com/MUSEUM/LOCOLOCO/soda/soda.htm) ever since I first heard "
+"about them (https://slrpnk.net/comment/2627767)."
 msgstr ""
 
 #. type: Plain text
@@ -2727,9 +2877,15 @@ msgstr "Solarpunkowa kawiarnia"
 #. type: Plain text
 #: content/art/jacob-coffin/solarpunk-river-traffic/index.en.md
 #, fuzzy
-#| msgid "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/10/16/solarpunk-cargo-ship/)"
-msgid "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2026/06/15/solarpunk-river-traffic/)"
-msgstr "[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2024/10/16/solarpunk-cargo-ship/)"
+#| msgid ""
+#| "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/"
+#| "2024/10/16/solarpunk-cargo-ship/)"
+msgid ""
+"[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2026/06/15/"
+"solarpunk-river-traffic/)"
+msgstr ""
+"[Oryginał na Wordpressie](https://jacobcoffinwrites.wordpress.com/2024/10/16/"
+"solarpunk-cargo-ship/)"
 
 #. type: Plain text
 #: content/art/jacob-coffin/solarpunk-river-traffic/index.en.md
@@ -2748,7 +2904,27 @@ msgstr ""
 
 #. type: Plain text
 #: content/art/jacob-coffin/solarpunk-river-traffic/index.en.md
-msgid "The house shifting barge was lifted from a photograph of a real project carried out by a [company](https://www.nickelbros.com/residential/our-featured-moves/) in Vancouver, Canada though this appears to be common on coastlines. I’m a huge believer in salvage and reuse and have featured [deconstruction](https://wiki.slrpnk.net/writing:deconstruction) in a [previous postcard](https://jacobcoffinwrites.wordpress.com/2024/05/02/deconstruction-crew-disassembling-abandoned-mcmansions-so-the-material-can-be-reused/), but I haven’t showcased the work of [picking up and moving entire houses](https://wiki.slrpnk.net/writing:deconstruction#house_shifting_-_building_salvage_without_deconstruction) yet. House shifting is also [done overland](https://www.queenslandhouseremovers.com.au/understanding-the-house-removal-process-a-comprehensive-guide/), using large flatbed trucks, but [the width of the roadways imposes more limitations on how big a piece of a building you can move](https://www.dalbyremovalhomes.com.au/relocated-houses/) so some additional disassembly and reassembly may be required. I think a solarpunk society would strive to limit outright demolition to very specific circumstances where the structure and materials are truly unrecoverable, and to relocate buildings wherever possible so this kind of move might be a common sight."
+msgid ""
+"The house shifting barge was lifted from a photograph of a real project "
+"carried out by a [company](https://www.nickelbros.com/residential/our-"
+"featured-moves/) in Vancouver, Canada though this appears to be common on "
+"coastlines. I’m a huge believer in salvage and reuse and have featured "
+"[deconstruction](https://wiki.slrpnk.net/writing:deconstruction) in a "
+"[previous postcard](https://jacobcoffinwrites.wordpress.com/2024/05/02/"
+"deconstruction-crew-disassembling-abandoned-mcmansions-so-the-material-can-"
+"be-reused/), but I haven’t showcased the work of [picking up and moving "
+"entire houses](https://wiki.slrpnk.net/"
+"writing:deconstruction#house_shifting_-"
+"_building_salvage_without_deconstruction) yet. House shifting is also [done "
+"overland](https://www.queenslandhouseremovers.com.au/understanding-the-house-"
+"removal-process-a-comprehensive-guide/), using large flatbed trucks, but "
+"[the width of the roadways imposes more limitations on how big a piece of a "
+"building you can move](https://www.dalbyremovalhomes.com.au/relocated-"
+"houses/) so some additional disassembly and reassembly may be required. I "
+"think a solarpunk society would strive to limit outright demolition to very "
+"specific circumstances where the structure and materials are truly "
+"unrecoverable, and to relocate buildings wherever possible so this kind of "
+"move might be a common sight."
 msgstr ""
 
 #. type: Plain text
@@ -2758,7 +2934,21 @@ msgstr ""
 
 #. type: Plain text
 #: content/art/jacob-coffin/solarpunk-river-traffic/index.en.md
-msgid "Closer to the opposite shore on the left, we have a cargo sailboat, or more officially, [a steel-hulled, container-capable gaff ketch](https://www.gosailcargo.com/secret-50.html). I don’t know how practical it is but I really liked this design as soon as I saw it – the mixture of a fairly traditional design with capacity for a modern shipping container (or 1 TEU sized ‘bus’ module to serve as a passenger ferry) just calls to me because I like a good anacronism. One of the big advantages of ships and containers is scale but single containers will still have to be moved from whatever big port they’re unloaded at to their final destination, so I suppose this would be similar to a riverborn 18-wheeler truck. It’s primarily wind driven but also has some configuration of electric motors. If these are viable we might see a good many of them in the bays, coasts, and big rivers of a solarpunk society, if only because they can reduce externalities like pollution or unnecessary draw on the grid."
+msgid ""
+"Closer to the opposite shore on the left, we have a cargo sailboat, or more "
+"officially, [a steel-hulled, container-capable gaff ketch](https://"
+"www.gosailcargo.com/secret-50.html). I don’t know how practical it is but I "
+"really liked this design as soon as I saw it – the mixture of a fairly "
+"traditional design with capacity for a modern shipping container (or 1 TEU "
+"sized ‘bus’ module to serve as a passenger ferry) just calls to me because I "
+"like a good anacronism. One of the big advantages of ships and containers is "
+"scale but single containers will still have to be moved from whatever big "
+"port they’re unloaded at to their final destination, so I suppose this would "
+"be similar to a riverborn 18-wheeler truck. It’s primarily wind driven but "
+"also has some configuration of electric motors. If these are viable we might "
+"see a good many of them in the bays, coasts, and big rivers of a solarpunk "
+"society, if only because they can reduce externalities like pollution or "
+"unnecessary draw on the grid."
 msgstr ""
 
 #. type: Plain text
@@ -2773,7 +2963,14 @@ msgstr ""
 
 #. type: Plain text
 #: content/art/jacob-coffin/solarpunk-river-traffic/index.en.md
-msgid "It’s [more effective to catch this waste while it’s concentrated in waterways near human settlements](https://www.abc.net.au/news/science/2023-03-17/ocean-cleanup-plastic-pollution-great-pacific-garbage-patch/102075810) than it is to try to find and collect it on the open ocean, so I wanted to show one of these boats at work. There are many designs, but I picked Mr Trash Wheel from Baltimore, MD because the design is whimsical and probably easiest to recognize."
+msgid ""
+"It’s [more effective to catch this waste while it’s concentrated in "
+"waterways near human settlements](https://www.abc.net.au/news/science/"
+"2023-03-17/ocean-cleanup-plastic-pollution-great-pacific-garbage-patch/"
+"102075810) than it is to try to find and collect it on the open ocean, so I "
+"wanted to show one of these boats at work. There are many designs, but I "
+"picked Mr Trash Wheel from Baltimore, MD because the design is whimsical and "
+"probably easiest to recognize."
 msgstr ""
 
 #. type: Plain text
@@ -3513,8 +3710,12 @@ msgstr "Wyplatanie koszyków"
 
 #. type: Plain text
 #: content/art/linds-brown/basket-weaving/index.en.md
-msgid "[Original on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LindsBrown_SolarpunkArtCollab2024.jpg)"
-msgstr "[Oryginał on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:LindsBrown_SolarpunkArtCollab2024.jpg)"
+msgid ""
+"[Original on Wikimedia Commons](https://commons.wikimedia.org/wiki/"
+"File:LindsBrown_SolarpunkArtCollab2024.jpg)"
+msgstr ""
+"[Oryginał on Wikimedia Commons](https://commons.wikimedia.org/wiki/"
+"File:LindsBrown_SolarpunkArtCollab2024.jpg)"
 
 #. type: Plain text
 #: content/art/linds-brown/basket-weaving/index.en.md
@@ -3560,8 +3761,12 @@ msgstr "Lekcja gotowania na kuchence słonecznej"
 
 #. type: Plain text
 #: content/art/linds-brown/solar-cooking-class/index.en.md
-msgid "[Original on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solar_Cooking_Class_-_Solarpunk_Art_Collab_2025.jpg)"
-msgstr "[Oryginał na Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solar_Cooking_Class_-_Solarpunk_Art_Collab_2025.jpg)"
+msgid ""
+"[Original on Wikimedia Commons](https://commons.wikimedia.org/wiki/"
+"File:Solar_Cooking_Class_-_Solarpunk_Art_Collab_2025.jpg)"
+msgstr ""
+"[Oryginał na Wikimedia Commons](https://commons.wikimedia.org/wiki/"
+"File:Solar_Cooking_Class_-_Solarpunk_Art_Collab_2025.jpg)"
 
 #. type: Plain text
 #: content/art/linds-brown/solar-cooking-class/index.en.md
@@ -3582,8 +3787,12 @@ msgstr "Utopia Berlin Friedrichstraße 2048"
 
 #. type: Plain text
 #: content/art/lino-zeddies/aerroscape-berlin/index.en.md
-msgid "[Original on Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berlin_Friedrichstra%C3%9Fe_Utopia_2048_small_file.jpg)"
-msgstr "[Oryginał na Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berlin_Friedrichstra%C3%9Fe_Utopia_2048_small_file.jpg)"
+msgid ""
+"[Original on Wikimedia Commons](https://commons.wikimedia.org/wiki/"
+"File:Berlin_Friedrichstra%C3%9Fe_Utopia_2048_small_file.jpg)"
+msgstr ""
+"[Oryginał na Wikimedia Commons](https://commons.wikimedia.org/wiki/"
+"File:Berlin_Friedrichstra%C3%9Fe_Utopia_2048_small_file.jpg)"
 
 #. type: Plain text
 #: content/art/lino-zeddies/aerroscape-berlin/index.en.md
@@ -3783,8 +3992,16 @@ msgstr "Pocztówka z Barbórki przyszłości"
 
 #. type: Plain text
 #: content/art/panna-n/barborka-postcard/index.en.md
-msgid "An illustration for a Polish [Gazeta Wyborcza](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html) article on Solarpunk (2022), imagining a postcard from the future."
-msgstr "Ilustracja do artykułu w [Gazecie Wyborczej](https://wyborcza.pl/magazyn/7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-batmana.html) na temat Solarpunka (2022), wyobrażająca sobie Barbórkę przyszłości."
+msgid ""
+"An illustration for a Polish [Gazeta Wyborcza](https://wyborcza.pl/magazyn/"
+"7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-"
+"batmana.html) article on Solarpunk (2022), imagining a postcard from the "
+"future."
+msgstr ""
+"Ilustracja do artykułu w [Gazecie Wyborczej](https://wyborcza.pl/magazyn/"
+"7,124059,29139718,haker-i-aktywista-klimatyczny-mam-dosc-iron-mana-"
+"batmana.html) na temat Solarpunka (2022), wyobrażająca sobie Barbórkę "
+"przyszłości."
 
 #. type: Plain text
 #: content/art/panna-n/barborka-postcard/index.en.md
@@ -3793,8 +4010,23 @@ msgstr "[Barbórka](https://pl.wikipedia.org/wiki/Barb%C3%B3rka) jest tradycyjny
 
 #. type: Plain text
 #: content/art/panna-n/barborka-postcard/index.en.md
-msgid "The postcard imagines a future in which Silesia doesn't abandon its culture, language or [traditional outfits](https://en.wikipedia.org/wiki/Saint_Barbara#/media/File:Barb%C3%B3rka_w_Piekarach_%C5%9Al%C4%85skich_(5)_(cropped).jpg) - but focuses on wind energy instead. Over the decades of the shift Silesian could become the unofficial language of the wind turbine technicians across Europe - and Barbórka could change into the Day of the Wind."
-msgstr "Pocztówka wyobraża sobie przyszłość w której Śląsk nie wyrzeka się swojej kultury, języka ani [tradycyjnych strojów](https://en.wikipedia.org/wiki/Saint_Barbara#/media/File:Barb%C3%B3rka_w_Piekarach_%C5%9Al%C4%85skich_(5)_(cropped).jpg) - a zamiast tego skupia się na energii wiatrowej. W nadciągających dekadach [Ślōnsko godka](https://pl.wikipedia.org/wiki/Etnolekt_%C5%9Bl%C4%85ski) może stać się nieoficjalnym języków techników turbin wiatrowych w całej Europie, a Barbórka - Świętem Wiatru."
+msgid ""
+"The postcard imagines a future in which Silesia doesn't abandon its culture, "
+"language or [traditional outfits](https://en.wikipedia.org/wiki/"
+"Saint_Barbara#/media/"
+"File:Barb%C3%B3rka_w_Piekarach_%C5%9Al%C4%85skich_(5)_(cropped).jpg) - but "
+"focuses on wind energy instead. Over the decades of the shift Silesian could "
+"become the unofficial language of the wind turbine technicians across Europe "
+"- and Barbórka could change into the Day of the Wind."
+msgstr ""
+"Pocztówka wyobraża sobie przyszłość w której Śląsk nie wyrzeka się swojej "
+"kultury, języka ani [tradycyjnych strojów](https://en.wikipedia.org/wiki/"
+"Saint_Barbara#/media/"
+"File:Barb%C3%B3rka_w_Piekarach_%C5%9Al%C4%85skich_(5)_(cropped).jpg) - a "
+"zamiast tego skupia się na energii wiatrowej. W nadciągających dekadach "
+"[Ślōnsko godka](https://pl.wikipedia.org/wiki/Etnolekt_%C5%9Bl%C4%85ski) "
+"może stać się nieoficjalnym języków techników turbin wiatrowych w całej "
+"Europie, a Barbórka - Świętem Wiatru."
 
 #. type: Plain text
 #: content/art/panna-n/barborka-postcard/index.en.md
@@ -3852,8 +4084,18 @@ msgstr "[Oryginał na ArtStation](https://www.artstation.com/artwork/WXzGWJ)"
 #. type: Plain text
 #: content/art/scandinavian101/brighter-future-blue/index.en.md
 #: content/art/scandinavian101/brighter-future-light/index.en.md
-msgid "Since [higher-density cities are more sustainable](https://en.wikipedia.org/wiki/Urban_density#Sustainability), Solarpunk futures can see a lot of suburbs dismantled and the land given back to nature - or used for renewable energy generation. [[Read More](https://iopscience.iop.org/article/10.1088/1755-1315/362/1/012106)]"
-msgstr "Since [higher-density cities are more sustainable](https://en.wikipedia.org/wiki/Urban_density#Sustainability), Solarpunk futures can see a lot of suburbs dismantled and the land given back to nature - or used for renewable energy generation. [[Read More](https://iopscience.iop.org/article/10.1088/1755-1315/362/1/012106)]"
+msgid ""
+"Since [higher-density cities are more sustainable](https://en.wikipedia.org/"
+"wiki/Urban_density#Sustainability), Solarpunk futures can see a lot of "
+"suburbs dismantled and the land given back to nature - or used for renewable "
+"energy generation. [[Read More](https://iopscience.iop.org/article/"
+"10.1088/1755-1315/362/1/012106)]"
+msgstr ""
+"Since [higher-density cities are more sustainable](https://en.wikipedia.org/"
+"wiki/Urban_density#Sustainability), Solarpunk futures can see a lot of "
+"suburbs dismantled and the land given back to nature - or used for renewable "
+"energy generation. [[Read More](https://iopscience.iop.org/article/"
+"10.1088/1755-1315/362/1/012106)]"
 
 #. type: Plain text
 #: content/art/scandinavian101/brighter-future-blue/index.en.md
@@ -4197,8 +4439,22 @@ msgstr "I hope you enjoy this attempt to turn my concrete Los Angeles neighborho
 
 #. type: Plain text
 #: content/art/sean-bodley/sweetzer-ave/index.en.md
-msgid "The goal of this assignment was to envision a Carbon Negative apartment building, based on the strategies laid out in the book [Visualizing Climate Change by Stephan Sheppard](https://www.routledge.com/Visualizing-Climate-Change-A-Guide-to-Visual-Communication-of-Climate/Sheppard/p/book/9781844078202?fbclid=IwAR1rm7HSaBGlMT8UXfysBTTKcv1y_s35cli93K2XMWkyw6dPo_WX-nIlHzM). Here is the [previous post](https://www.patreon.com/posts/36468066) highlighting my sources if you're curious."
-msgstr "The goal of this assignment was to envision a Carbon Negative apartment building, based on the strategies laid out in the book [Visualizing Climate Change by Stephan Sheppard](https://www.routledge.com/Visualizing-Climate-Change-A-Guide-to-Visual-Communication-of-Climate/Sheppard/p/book/9781844078202?fbclid=IwAR1rm7HSaBGlMT8UXfysBTTKcv1y_s35cli93K2XMWkyw6dPo_WX-nIlHzM). Here is the [previous post](https://www.patreon.com/posts/36468066) highlighting my sources if you're curious."
+msgid ""
+"The goal of this assignment was to envision a Carbon Negative apartment "
+"building, based on the strategies laid out in the book [Visualizing Climate "
+"Change by Stephan Sheppard](https://www.routledge.com/Visualizing-Climate-"
+"Change-A-Guide-to-Visual-Communication-of-Climate/Sheppard/p/book/"
+"9781844078202?fbclid=IwAR1rm7HSaBGlMT8UXfysBTTKcv1y_s35cli93K2XMWkyw6dPo_WX-"
+"nIlHzM). Here is the [previous post](https://www.patreon.com/posts/36468066) "
+"highlighting my sources if you're curious."
+msgstr ""
+"The goal of this assignment was to envision a Carbon Negative apartment "
+"building, based on the strategies laid out in the book [Visualizing Climate "
+"Change by Stephan Sheppard](https://www.routledge.com/Visualizing-Climate-"
+"Change-A-Guide-to-Visual-Communication-of-Climate/Sheppard/p/book/"
+"9781844078202?fbclid=IwAR1rm7HSaBGlMT8UXfysBTTKcv1y_s35cli93K2XMWkyw6dPo_WX-"
+"nIlHzM). Here is the [previous post](https://www.patreon.com/posts/36468066) "
+"highlighting my sources if you're curious."
 
 #. type: Plain text
 #: content/art/sean-bodley/sweetzer-ave/index.en.md
