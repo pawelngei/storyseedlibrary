@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-08-24 21:31+0200\n"
+"POT-Creation-Date: 2026-08-26 13:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,35 +26,16 @@ msgstr "2025 Art Collab: Life of Learning"
 #. type: Plain text
 #: content/tags/2023-collab/_index.en.md
 #, fuzzy
-#| msgid ""
-#| "The works below are a selection of illustrations created for the 2025 "
-#| "Solarpunk Art Collab ran by the Story Seed Library and [Andrewism]"
-#| "(https://www.youtube.com/@Andrewism/)."
-msgid ""
-"The works below are a selection of illustrations created for the 2023 "
-"Solarpunk Art Collab ran [Andrewism](https://www.youtube.com/@Andrewism/)."
-msgstr ""
-"Die Werke unten sind eine Auswahl von Illustrationen, die für den 2025 "
-"Solarpunk Kunst Collab entstanden sind, eine Kollaboration, die von der "
-"Saatgutbibliothek für Geschichten und von [Andrewism](https://"
-"www.youtube.com/@Andrewism/) organisiert wurde."
+#| msgid "The works below are a selection of illustrations created for the 2025 Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgid "The works below are a selection of illustrations created for the 2023 Solarpunk Art Collab ran [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgstr "Die Werke unten sind eine Auswahl von Illustrationen, die für den 2025 Solarpunk Kunst Collab entstanden sind, eine Kollaboration, die von der Saatgutbibliothek für Geschichten und von [Andrewism](https://www.youtube.com/@Andrewism/) organisiert wurde."
 
 #. type: Plain text
 #: content/tags/2023-collab/_index.en.md
 #, fuzzy
-#| msgid ""
-#| "You can read more about the initiative at its [event page](/pages/"
-#| "andrewisms-art-collab-2025/). All of the works are available on "
-#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/post/"
-#| "788704934138937344/solarpunk-art-2025-life-of-learning)."
-msgid ""
-"All of the works are available on [Andrewism's tumblr](https://andrew-"
-"ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
-msgstr ""
-"Mehr zu dieser Initiative kann auf der [Eventseite](/de/pages/andrewisms-art-"
-"collab-2025/) gefunden werden. Alle Werke sind auf dem [Tumblr von Andrewism]"
-"(https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-"
-"life-of-learning)  zu finden."
+#| msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2025/). All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+msgid "All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
+msgstr "Mehr zu dieser Initiative kann auf der [Eventseite](/de/pages/andrewisms-art-collab-2025/) gefunden werden. Alle Werke sind auf dem [Tumblr von Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)  zu finden."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/2024-wat/_index.en.md
@@ -64,17 +45,8 @@ msgstr "2024 Week and Art Wettbewerb"
 
 #. type: Plain text
 #: content/tags/2024-wat/_index.en.md
-msgid ""
-"In 2024 the French [Week and Art Contest](https://www.weekandart.com/) held "
-"an edition dedicated to Solarpunk! You can see the submissions in their "
-"[gallery](https://galerie.weekandart.com/) (please choose 2024). The winners "
-"can be found on [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/)."
-msgstr ""
-"2024 hielt das französische [Week and Art Contest](https://"
-"www.weekandart.com/) eine Edition zum Solarpunk ab! Die Einreichungen sind "
-"in ihrer [Gallerie](https://galerie.weekandart.com/) zu sehen (wähle 2024). "
-"Die Gewinner:innen sind auf [Instagram](https://www.instagram.com/p/"
-"C8SeLL0qhGE/) zu finden"
+msgid "In 2024 the French [Week and Art Contest](https://www.weekandart.com/) held an edition dedicated to Solarpunk! You can see the submissions in their [gallery](https://galerie.weekandart.com/) (please choose 2024). The winners can be found on [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/)."
+msgstr "2024 hielt das französische [Week and Art Contest](https://www.weekandart.com/) eine Edition zum Solarpunk ab! Die Einreichungen sind in ihrer [Gallerie](https://galerie.weekandart.com/) zu sehen (wähle 2024). Die Gewinner:innen sind auf [Instagram](https://www.instagram.com/p/C8SeLL0qhGE/) zu finden"
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/2025-collab/_index.en.md
@@ -84,15 +56,8 @@ msgstr "2025 Art Collab: Life of Learning"
 
 #. type: Plain text
 #: content/tags/2025-collab/_index.en.md
-msgid ""
-"The works below are a selection of illustrations created for the 2025 "
-"Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://"
-"www.youtube.com/@Andrewism/)."
-msgstr ""
-"Die Werke unten sind eine Auswahl von Illustrationen, die für den 2025 "
-"Solarpunk Kunst Collab entstanden sind, eine Kollaboration, die von der "
-"Saatgutbibliothek für Geschichten und von [Andrewism](https://"
-"www.youtube.com/@Andrewism/) organisiert wurde."
+msgid "The works below are a selection of illustrations created for the 2025 Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgstr "Die Werke unten sind eine Auswahl von Illustrationen, die für den 2025 Solarpunk Kunst Collab entstanden sind, eine Kollaboration, die von der Saatgutbibliothek für Geschichten und von [Andrewism](https://www.youtube.com/@Andrewism/) organisiert wurde."
 
 #. type: Plain text
 #: content/tags/2025-collab/_index.en.md
@@ -133,19 +98,9 @@ msgstr ""
 #. type: Plain text
 #: content/tags/2026-collab/_index.en.md
 #, fuzzy
-#| msgid ""
-#| "The works below are a selection of illustrations created for the 2025 "
-#| "Solarpunk Art Collab ran by the Story Seed Library and [Andrewism]"
-#| "(https://www.youtube.com/@Andrewism/)."
-msgid ""
-"The works below are a selection of illustrations created for the 2026 "
-"Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://"
-"www.youtube.com/@Andrewism/)."
-msgstr ""
-"Die Werke unten sind eine Auswahl von Illustrationen, die für den 2025 "
-"Solarpunk Kunst Collab entstanden sind, eine Kollaboration, die von der "
-"Saatgutbibliothek für Geschichten und von [Andrewism](https://"
-"www.youtube.com/@Andrewism/) organisiert wurde."
+#| msgid "The works below are a selection of illustrations created for the 2025 Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgid "The works below are a selection of illustrations created for the 2026 Solarpunk Art Collab ran by the Story Seed Library and [Andrewism](https://www.youtube.com/@Andrewism/)."
+msgstr "Die Werke unten sind eine Auswahl von Illustrationen, die für den 2025 Solarpunk Kunst Collab entstanden sind, eine Kollaboration, die von der Saatgutbibliothek für Geschichten und von [Andrewism](https://www.youtube.com/@Andrewism/) organisiert wurde."
 
 #. type: Plain text
 #: content/tags/2026-collab/_index.en.md
@@ -163,21 +118,9 @@ msgstr ""
 #. type: Plain text
 #: content/tags/2026-collab/_index.en.md
 #, fuzzy
-#| msgid ""
-#| "You can read more about the initiative at its [event page](/pages/"
-#| "andrewisms-art-collab-2025/). All of the works are available on "
-#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/post/"
-#| "788704934138937344/solarpunk-art-2025-life-of-learning)."
-msgid ""
-"You can read more about the initiative at its [event page](/pages/andrewisms-"
-"art-collab-2026/). All of the works are available on [Andrewism's tumblr]"
-"(https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-"
-"disaster-preparedness)."
-msgstr ""
-"Mehr zu dieser Initiative kann auf der [Eventseite](/de/pages/andrewisms-art-"
-"collab-2025/) gefunden werden. Alle Werke sind auf dem [Tumblr von Andrewism]"
-"(https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-"
-"life-of-learning)  zu finden."
+#| msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2025/). All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2026/). All of the works are available on [Andrewism's tumblr](https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-disaster-preparedness)."
+msgstr "Mehr zu dieser Initiative kann auf der [Eventseite](/de/pages/andrewisms-art-collab-2025/) gefunden werden. Alle Werke sind auf dem [Tumblr von Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)  zu finden."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/africa/_index.en.md

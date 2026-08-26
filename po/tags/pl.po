@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-08-24 21:31+0200\n"
+"POT-Creation-Date: 2026-08-26 13:00+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -33,19 +33,9 @@ msgstr "Poniższe prace zostały stworzone w ramach projektu Solarpunkowej Wspó
 #. type: Plain text
 #: content/tags/2023-collab/_index.en.md
 #, fuzzy
-#| msgid ""
-#| "You can read more about the initiative at its [event page](/pages/"
-#| "andrewisms-art-collab-2025/). All of the works are available on "
-#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/post/"
-#| "788704934138937344/solarpunk-art-2025-life-of-learning)."
-msgid ""
-"All of the works are available on [Andrewism's tumblr](https://andrew-"
-"ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
-msgstr ""
-"Więcej o projekcie możecie dowiedzieć się na [jego stronie [ENG]](/pages/"
-"andrewisms-art-collab-2025/). Wszystkie prace dostępna są na [tumblrze "
-"Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-"
-"art-2025-life-of-learning)."
+#| msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2025/). All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+msgid "All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/741342402945646592/solarpunk-art-2023-bioregions)."
+msgstr "Więcej o projekcie możecie dowiedzieć się na [jego stronie [ENG]](/pages/andrewisms-art-collab-2025/). Wszystkie prace dostępna są na [tumblrze Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/2024-wat/_index.en.md
@@ -119,21 +109,9 @@ msgstr ""
 #. type: Plain text
 #: content/tags/2026-collab/_index.en.md
 #, fuzzy
-#| msgid ""
-#| "You can read more about the initiative at its [event page](/pages/"
-#| "andrewisms-art-collab-2025/). All of the works are available on "
-#| "[Andrewism's tumblr](https://andrew-ism.tumblr.com/post/"
-#| "788704934138937344/solarpunk-art-2025-life-of-learning)."
-msgid ""
-"You can read more about the initiative at its [event page](/pages/andrewisms-"
-"art-collab-2026/). All of the works are available on [Andrewism's tumblr]"
-"(https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-"
-"disaster-preparedness)."
-msgstr ""
-"Więcej o projekcie możecie dowiedzieć się na [jego stronie [ENG]](/pages/"
-"andrewisms-art-collab-2025/). Wszystkie prace dostępna są na [tumblrze "
-"Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-"
-"art-2025-life-of-learning)."
+#| msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2025/). All of the works are available on [Andrewism's tumblr](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
+msgid "You can read more about the initiative at its [event page](/pages/andrewisms-art-collab-2026/). All of the works are available on [Andrewism's tumblr](https://www.tumblr.com/andrew-ism/821781219424485377/solarpunk-art-2026-disaster-preparedness)."
+msgstr "Więcej o projekcie możecie dowiedzieć się na [jego stronie [ENG]](/pages/andrewisms-art-collab-2025/). Wszystkie prace dostępna są na [tumblrze Andrewism](https://andrew-ism.tumblr.com/post/788704934138937344/solarpunk-art-2025-life-of-learning)."
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/tags/africa/_index.en.md
@@ -246,9 +224,7 @@ msgstr "**Użycie niekomercyjne** — Nie należy wykorzystywać utworu do celó
 #. type: Plain text
 #: content/tags/cc-by-nc-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc/4.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc/4.0/"
-"deed.pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nc-nd-3.0/_index.en.md
@@ -302,9 +278,7 @@ msgstr ""
 #, fuzzy
 #| msgid "[[Read More](https://creativecommons.org/licenses/by-nc-nd/4.0/)]"
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc-nd/3.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/"
-"deed.pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nc-nd-4.0/_index.en.md
@@ -332,9 +306,7 @@ msgstr "**Bez utworów zależnych** — Remiksując, przetwarzając lub tworząc
 #. type: Plain text
 #: content/tags/cc-by-nc-nd-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc-nd/4.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/"
-"deed.pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
@@ -361,9 +333,7 @@ msgstr "**Na tych samych warunkach** — Remiksując utwór, przetwarzając go l
 #. type: Plain text
 #: content/tags/cc-by-nc-sa-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nc-sa/4.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-sa/4.0/"
-"deed.pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-nd-4.0/_index.en.md
@@ -385,9 +355,7 @@ msgstr "Ta licencja zezwala na rozpowszechnianie, przedstawianie i wykonywanie u
 #. type: Plain text
 #: content/tags/cc-by-nd-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-nd/4.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nd/4.0/"
-"deed.pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-nd/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc-by-sa-4.0/_index.en.md
@@ -419,9 +387,7 @@ msgstr "**Na tych samych warunkach** — Remiksując utwór, przetwarzając go l
 #. type: Plain text
 #: content/tags/cc-by-sa-4.0/_index.en.md
 msgid "[[Read More](https://creativecommons.org/licenses/by-sa/4.0/)]"
-msgstr ""
-"[[Dowiedz się więcej](https://creativecommons.org/licenses/by-sa/4.0/"
-"deed.pl)]"
+msgstr "[[Dowiedz się więcej](https://creativecommons.org/licenses/by-sa/4.0/deed.pl)]"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/tags/cc0/_index.en.md
