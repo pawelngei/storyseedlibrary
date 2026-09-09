@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-08-26 13:00+0200\n"
+"POT-Creation-Date: 2026-09-09 12:10+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,6 +15,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/artbyaddae/cattails-in-hurricane-season/index.en.md
+#, no-wrap
+msgid "Two Black foragers stand chest-deep in a sunlit marsh under a bank of dark rain clouds. One, in green overalls, reads an illustrated cattail identification zine; the other, with bright magenta locs and a red tank top, points off toward the reeds. Cattails, pickerelweed and gourds crowd around them, and a canvasback duck floats in the dark red water in the foreground."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/artbyaddae/cattails-in-hurricane-season/index.en.md
@@ -3541,6 +3547,12 @@ msgstr ""
 msgid "For the theme, \"Life of Learning”, I wanted to show a solar cooking demonstration held in an urban garden. For this demonstration, people are totally free to come and go as they please, with no age-restrictions. In addition to learning how the solar cooker works, the kids are also learning how to identify herbs—especially really aggressive ones like peppermint that make a fantastic tea and always needs thinning out. :)"
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/lino-zeddies/aerroscape-berlin/index.en.md
+#, no-wrap
+msgid "Aerial view of a reimagined Berlin Friedrichstrasse where every roof carries gardens, solar panels or trees. A terraced green hill of planted balconies rises beside the glass railway station, red regional trains cross a bridge over the Spree, solar-roofed boats drift on the water, and an airship floats past the distant TV tower under a clear blue sky."
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: description
 #: content/art/lino-zeddies/aerroscape-berlin/index.en.md
 #, no-wrap
@@ -4389,6 +4401,18 @@ msgstr ""
 msgid "Dreamed in collaboration with Edgar Ibarra, of [MILPA Collective](https://milpacollective.org/) and is inspired by MILPA’s intention to create a Less Restrictive Program (LRP) for incarcerated youth in Santa Cruz County."
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/abandoned-prison/index.en.md
+#, no-wrap
+msgid "A view from the inside of an abandoned, overgrown, crumbling prison. The walls and floor are covered in moss and graffiti and murals, trees grow between tiles. Teenagers hang around the place without much concern for the danger. They talk, smoke, make out in the sunset-lit watchtower surrounded by wall writing ranging from rebellious to \"person was here\"."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/art/the-lemonaut/abandoned-prison/index.en.md
+#, no-wrap
+msgid "What to do with prisons no longer in use? Some places restructure them to serve a different purpose, others turn them into reminders of the cruelty of the past. This is sort of that. After being wrecked just a smidgeon, the place wasn't maintained, but left to the elements and the reckless - it's now an overgrown relic full of graffiti and murals, and regularly visited by those who aren't scared of decaying stairs and shaky railings. It's a bit controversial among local adults, some arguing it should be cleaned up, others that it's an appropriate bit of risk for the younglings who need a bit of danger to feel alive. Some might still be feeling nostalgic for the times they hung around these moss-covered walls."
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/the-lemonaut/abandoned-prison/index.en.md
 #, no-wrap
@@ -4410,6 +4434,18 @@ msgstr ""
 msgid "The illustration is set in a small fictional town of New Spark."
 msgstr "La ilustración se sitúa en la pequeña ciudad ficticia de Nueva Chispa."
 
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/canteen/index.en.md
+#, no-wrap
+msgid "We're in an outpost among snowy mountain peaks, but despite it the cafeteria atmosphere is very warm. The walls are full of painted-on and framed art, people are chatting and getting their breakfast or dinner. At the table right in front of to us is a couple of researchers chatting over a veggie meal, one being clearly upset over something, likely a project gone wrong, and the other trying to lighten the mood with some corny joke."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/art/the-lemonaut/canteen/index.en.md
+#, no-wrap
+msgid "A canteen in an isolated scientific or environmental outpost, where scientists, engineers, cooks and maintenance staff show each other their human face, while still remembering the importance of their role here and the harsh conditions of the outside. For example: cleaning the plastic from the oceans, measuring the polar ice levels, etc."
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/the-lemonaut/canteen/index.en.md
 #, no-wrap
@@ -4430,6 +4466,18 @@ msgstr ""
 #. type: Plain text
 #: content/art/the-lemonaut/canteen/index.en.md
 msgid "Based on the [story seed](/seeds/the-canteen)."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/chefs/index.en.md
+#, no-wrap
+msgid "A nervous chef is trying to record a TV programme aimed at showing people how to cook healthy and tasty vegan meals in front of a live audience, but most hate the idea. Almost everyone is booing him and a few are waving around signs demanding meat or rejecting alternatives."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/art/the-lemonaut/chefs/index.en.md
+#, no-wrap
+msgid "A group of cooks, dietitians, and teachers are tasked with both creating and promoting well-rounded and tasty vegetarian cuisine in a world living through the culture shock of no affordable meat."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -4476,6 +4524,18 @@ msgstr ""
 msgid "Based on the [story seed](/seeds/the-community-center)."
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/hackerspace/index.en.md
+#, no-wrap
+msgid "An indoor scene of a warm maker- and hackerspace on a sunny day. The street outside is all grass and trees. Tram tracks run parallel to the building. Inside, shelves, workbenches, and tables hold spare parts and tools for making or fixing things. People are working alone and collaborating: someone paints their prosthetic arm, someone is using the sewing machine, or making a bi flag, or teaching another how a prosthetic leg functions, texting, chatting, repairing an e-bike, and that's just the part of the space we can see."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/art/the-lemonaut/hackerspace/index.en.md
+#, no-wrap
+msgid "A community of people with disabilities share their best tricks on how to deal with a harsh world not made for them. A lot of what they share remains unspoken, for every one knows the pain and the challenges they face. A hackerspace sits within a city still clinging to their own ways while the rest of the world changes. Activists, technologists, inventors and educators trying to show the communities around them that it’s possible to live differently, while actively squabbling over whose plan is the best."
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/the-lemonaut/hackerspace/index.en.md
 #, no-wrap
@@ -4504,6 +4564,18 @@ msgstr ""
 msgid "Based on the story seeds: [the hackerspace](/seeds/the-hackerspace) and [the disabled community](/seeds/the-disabled-community)."
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/helicopter-flood-rescue/index.en.md
+#, no-wrap
+msgid "A helicopter rescue operation in a flooded neighborhood somewhere in Indonesia. We're looking down at a group of people stuck on the roof of a building, most of them outwardly happy that the helicopter showed up. An anxious young woman is being lifted aboard, about to join a grandma and three young kids, one of which is excitedly taking a peek outside to the grandma's dismay. The repurposed military helicopter has a picture of a family of opossums painted on its side with the message \"none left behind\". Below the building the water is waist-high and brown. Debris and leaves float on its surface. A few people watch the helicopter from an orange lifeboat being pulled along by emergency workers."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/art/the-lemonaut/helicopter-flood-rescue/index.en.md
+#, no-wrap
+msgid "A rescue operation in the aftermath of a flood set in an unknown location, based on Indonesia."
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/the-lemonaut/helicopter-flood-rescue/index.en.md
 #, no-wrap
@@ -4525,6 +4597,18 @@ msgstr ""
 msgid "![Scandinavian101's version of the Heli Rescue](./scandinavian101.jpg)"
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/mall/index.en.md
+#, no-wrap
+msgid "The atrium of a three-storey mall lit by a huge round window in the center of the ceiling. It's bustling with people: families, friends and individuals resting, hanging out and chatting, working, visiting the various establishments such as the book and tool libraries, tea shop, a place to swap clothes, hydroponics farm and cafeteria. Despite the people being tiny in the grand scheme of things, you can tell what each one is doing. The place has a pleasant light color scheme dominated by green, white and orange-brown. The walls feature art of what you can find on each floor, there's a braille sign next to every door, and the mall's roof is lined with solar panels."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/art/the-lemonaut/mall/index.en.md
+#, no-wrap
+msgid "An illustration of a repurposed mall, where community-organized spaces replaced fast fashion shops."
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/the-lemonaut/mall/index.en.md
 #, no-wrap
@@ -4536,6 +4620,18 @@ msgstr "Un Centro Comercial Reconvertido"
 msgid "An illustration of a repurposed mall, where community-organized spaces replaced fast fashion shops. Originally an illustration to Andrewism's video \"[What If We Ran Revolution Like A Business?](https://www.youtube.com/watch?v=cO0O9cBPmsU)\"."
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/rehearsal-at-portal/index.en.md
+#, no-wrap
+msgid "A comic-style illustration of two teenage girls, one in Kenya and another in Ukraine, meeting up on either side of a big screen installed in their local dance studios. The screen is a so-called portal, filming the inside of a room it's in and showing the footage of its counterpart on a life-sized scale. The girls meet up across a huge distance to learn a dance together, syncing the music on their phones through an internet connection."
+msgstr ""
+
+#. type: Plain text
+#: content/art/the-lemonaut/rehearsal-at-portal/index.en.md
+#, no-wrap
+msgid "For this, I was aiming to show both one person teaching another, and also doing so across national lines without having to travel all the way across the world, since reducing travel to cut down on emissions by using these sorts of \"portals\" is a suggestion I've seen. With one girl in Kenya, the other in Ukraine, they - and other people who come to these spaces, which are meant to be community centers or something akin to that - can connect on a regular basis, form relationships, and teach each other things. In this case it's dance - the Chakacha dance from Mombasa, meant to be danced by women only."
+msgstr ""
+
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/the-lemonaut/rehearsal-at-portal/index.en.md
 #, no-wrap
@@ -4544,12 +4640,19 @@ msgstr "Ensayo en el Portal"
 
 #. type: Plain text
 #: content/art/the-lemonaut/rehearsal-at-portal/index.en.md
-msgid "For this, I was aiming to show both one person teaching another, and also doing so across national lines without having to travel all the way across the world, since reducing travel to cut down on emissions by using these sorts of \"portals\" is a suggestion I've seen. With one girl in Kenya, the other in Ukraine, they - and other people who come to these spaces, which are meant to be community centers or something akin to that - can connect on a regular basis, form relationships, and teach each other things. In this case it's dance - the Chakacha dance from Mombasa, meant to be danced by women only."
+msgid "The wall art on the left is inspired by a mask made by Cyrus Kabiru, a Kenyan artist that crafts intricate masks out of discarded materials, and the hairstyle is similar to one in a Thandiwe Muriu photograph. The wall art on the right side of the screen is based on the paintings of Maria Prymachenko, a renowned Ukrainian artist who lived in the 20th century."
 msgstr ""
 
-#. type: Plain text
-#: content/art/the-lemonaut/rehearsal-at-portal/index.en.md
-msgid "The wall art on the left is inspired by a mask made by Cyrus Kabiru, a Kenyan artist that crafts intricate masks out of discarded materials, and the hairstyle is similar to one in a Thandiwe Muriu photograph. The wall art on the right side of the screen is based on the paintings of Maria Prymachenko, a renowned Ukrainian artist who lived in the 20th century."
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/tailors/index.en.md
+#, no-wrap
+msgid "We're in a small tailor's workshop somewhere in West Africa. It's filled with colorful fabrics and vibrant outfits. Small scraps litter the floor. The tailor, an arm amputee who doesn't wear a prosthetic, is measuring the leg of a young diabetic client who's listening to their older relative or parent talk excitedly about an outfit design. On the wall behind them are posters with notes on designing disabled fashion, such as face mask looks or what not to include in an outfit for a wheelchair user."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/art/the-lemonaut/tailors/index.en.md
+#, no-wrap
+msgid "A new Tailor joins a community which has lacked one for years. In a world of distributed manufacturing tailors are no longer just artisans, but educators, material and sustainability experts, fashion designers and translators of cultures, making sure no garment offends others when traveling. Seeing that they’re much less traditional than their predecessor, will they be accepted by the community? Which bold statement surprised everybody?"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -4572,6 +4675,18 @@ msgstr ""
 #. type: Plain text
 #: content/art/the-lemonaut/tailors/index.en.md
 msgid "Based on the [story seed](/seeds/the-tailors)."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/tower/index.en.md
+#, no-wrap
+msgid "A tall wooden tower and apartment complex stretches high out of frame in the background. We are standing in a corner of a rooftop veggie garden of the building connected to the tower. Under mounted solar panels are rows of modest wooden garden beds, and by one such bed is a small family: the grandma is teaching an eager kiddo about plants while the teenager is staring listlessly into the distance, stuck mid-task. Apartment blocks are scattered in the far-far distance, a railroad bridge carries passengers on their morning or evening commute, and people doodle with chalk on the wide park road below."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/art/the-lemonaut/tower/index.en.md
+#, no-wrap
+msgid "A community is freshly moved into a new, wooden, sustainable, climate-controlled tower designed to help them be close to each other and live communally. For some it is a dream come true, for others it is a culture shock, but everyone is struggling with the trauma of losing their old homes to floods, fires and relocation programs. While the adults deal with their emotions, children are quick to run around and explore the wonders of their new home."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -4601,6 +4716,25 @@ msgstr ""
 msgid "The illustration itself is a collaboration between The Lemonaut (lineart, characters, colors) and Scandinavian101 (architecture, wooden construction research)."
 msgstr ""
 
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/ukrainian-steppe/index.en.md
+#, no-wrap
+msgid "The Ukrainian steppe's present and future divided horizontally in two by an ornate frame. The present is a sunny but brutal day. A lonely shabby bus stop stands at the edge of a dense maize field being shelled with russian missiles, dark smoke billowing up to the sky. A green algae-choked puddle sits at the foot of a poplar tree. The future is a rainy day over that same bus stop, the uniform field of maize replaced with a jumble of colorful wildflowers and grasses. A family takes shelter in the bus stop, checking out the solar-powered minifridge, resting or playing in the rain. The chipping wall paint is replaced with traditional floral wall paintings."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/art/the-lemonaut/ukrainian-steppe/index.en.md
+#, fuzzy, no-wrap
+#| msgid ""
+#| "> The region depicted is the Ukrainian steppe (Temperate Grasslands biome). It's a rapidly disappearing region, as most of the land gets turned into crop fields or forest to provide profit with little regard for the ecosystem. At the top part of the drawing is a bus stop in the rural area near a maize field. Ukraine grows a lot of maize, mostly to provide feed for the meat industry, so rewilding it back into a grassland would be a great way to help achieve degrowth and heal the environment. Also fertilizer use often leads to eutrophication - the green puddle to the left is a small example of that. The country's ecosystems are also being wrecked by the Russian invasion. Helping the land recover from both profit-oriented industry and war is undoubtedly an important step towards Solarpunk.\n"
+#| "> \n"
+#| "> The bus stop is now a pleasant little space to pass the time when getting from one place to the next. It's even got a small solar-powered community fridge and some wall art in the traditional Petrykivka style.\n"
+msgid "The region depicted is the Ukrainian steppe (Temperate Grasslands biome). It's a rapidly disappearing region, as most of the land gets turned into crop fields or forest to provide profit with little regard for the ecosystem. At the top part of the drawing is a bus stop in the rural area near a maize field. Ukraine grows a lot of maize, mostly to provide feed for the meat industry, so rewilding it back into a grassland would be a great way to help achieve degrowth and heal the environment. Also fertilizer use often leads to eutrophication - the green puddle to the left is a small example of that. The country's ecosystems are also being wrecked by the Russian invasion. Helping the land recover from both profit-oriented industry and war is undoubtedly an important step towards Solarpunk."
+msgstr ""
+"> La región representada es una estepa ucraniana (bioma de pradera templada). Es una región que desaparece rápidamente, ya que la mayoría de tierras se convierten en campos de cultivo o bosques para obtener beneficios económicos, sin respeto por el ecosistema. En la parte superior del dibujo, una parada de autobus en una área rural, cerca de un campo de maíz. Ucrania cultiva mucho maíz, en gran parte para alimentar la industria cárnica, así que restaurar estos campos a praderas sería una buena manera de ayudar con el decrecimiento de la zona y reparar el medio ambiente. Además, el fertilizante usualmente provoca eutrofización - un exceso de nutrientes en el suelo que causa charcos verdes, como se ve en el dibujo, a la izquierda. Los ecosistemas del país también están siendo destruídos por la invasión rusa. Ayudar a la tierra a recuperarse de la explotación industrial a gran escala y de la guerra es sin dudas un importante paso hacia una realidad Solarpunk.\n"
+">\n"
+">La parada de bus ahora es un agradable rincón para pasar el tiempo cuando se va de un lugar a otro. Se ha instalado una pequeña nevera comunal impulsada por paneles solares, y un mural de arte tradicional estilo Petrykivka.\n"
+
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/the-lemonaut/ukrainian-steppe/index.en.md
 #, no-wrap
@@ -4623,6 +4757,18 @@ msgstr ""
 "> La región representada es una estepa ucraniana (bioma de pradera templada). Es una región que desaparece rápidamente, ya que la mayoría de tierras se convierten en campos de cultivo o bosques para obtener beneficios económicos, sin respeto por el ecosistema. En la parte superior del dibujo, una parada de autobus en una área rural, cerca de un campo de maíz. Ucrania cultiva mucho maíz, en gran parte para alimentar la industria cárnica, así que restaurar estos campos a praderas sería una buena manera de ayudar con el decrecimiento de la zona y reparar el medio ambiente. Además, el fertilizante usualmente provoca eutrofización - un exceso de nutrientes en el suelo que causa charcos verdes, como se ve en el dibujo, a la izquierda. Los ecosistemas del país también están siendo destruídos por la invasión rusa. Ayudar a la tierra a recuperarse de la explotación industrial a gran escala y de la guerra es sin dudas un importante paso hacia una realidad Solarpunk.\n"
 ">\n"
 ">La parada de bus ahora es un agradable rincón para pasar el tiempo cuando se va de un lugar a otro. Se ha instalado una pequeña nevera comunal impulsada por paneles solares, y un mural de arte tradicional estilo Petrykivka.\n"
+
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/youth-dorm/index.en.md
+#, no-wrap
+msgid "We're in an open-air atrium of a tall hexagonal building at nighttime, spectating it from the side. The windows and doors of its many apartments are facing inwards. One could visit their neighbors by taking a few steps from their own door. In the atrium's center stands a tall tree providing shade in the daytime to a green rest area with a table and a car-turned-chicken-coop. The ground floor has facilities like a craft studio and restroom, among others. Some teens are still hanging around after dark. Despite the late hour, the youth dorm is colorful - every apartment has its own unique shape and stained glass motif. Greenery is everywhere and so are little wall doodles."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: description
+#: content/art/the-lemonaut/youth-dorm/index.en.md
+#, no-wrap
+msgid "A place where young people can go live if they want to have more independence from their elders and try to figure themselves out. It's not a place of complete isolation from society, but a sort of refuge. Nobody is forced to live here, and it's not tied to any one institution like a school or college. Older people are still allowed to enter and hang around, but are asked to respect the social norms outlined by the residents."
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
 #: content/art/the-lemonaut/youth-dorm/index.en.md
