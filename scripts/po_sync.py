@@ -126,7 +126,11 @@ POT_HEADER_OPTS = [
 
 
 def run_po4a(cfg_path, pot_only):
-    cmd = ["po4a", "--force", "--keep-translations", *POT_HEADER_OPTS]
+    # No --force: it bypasses po4a's own write-to-temp-and-compare check,
+    # which discards a regenerated POT/PO differing only in line references
+    # and dates. That check does not fully hold here (see restore_date_only
+    # below), but without --force po4a can also skip work outright.
+    cmd = ["po4a", "--keep-translations", *POT_HEADER_OPTS]
     if pot_only:
         cmd.append("--no-translations")
     cmd.append(str(cfg_path.relative_to(ROOT)))
@@ -182,6 +186,43 @@ def unwrap_po(section):
             tmp.unlink()
     if changed:
         print(f"  unwrapped {changed} po files")
+
+
+POT_DATE_RE = re.compile(rb'^"POT-Creation-Date:.*\n', re.M)
+
+
+def snapshot_po(section) -> dict:
+    """Byte snapshot of po/{section}/*.po(t) taken before po4a runs."""
+    return {p: p.read_bytes() for p in (PO_DIR / section).glob("*.po*")}
+
+
+def restore_date_only(section, before: dict):
+    """Undo rewrites whose only change is the POT-Creation-Date stamp.
+
+    po4a has its own guard for this (Po.pm move_po_if_needed: write to a
+    temp file, diff ignoring `#:` and the date headers, keep the old file if
+    that diff is empty), but it compares its own output against what is on
+    disk - and what is on disk went through unwrap_po() afterwards. msgcat
+    splits the header msgstr at every embedded newline and drops po4a's
+    `markdown-text` flags, so that diff is never empty and po4a moves a
+    freshly stamped POT in on every run - the same net effect --force had.
+
+    So repeat the check here, after normalization, on the only field that
+    is pure noise: a file that is otherwise byte-identical gets its previous
+    content back, keeping the old stamp. Any real change - new strings,
+    changed references, edited translations - still lands, with a fresh
+    stamp alongside it.
+    """
+    restored = 0
+    for path, old in before.items():
+        if not path.exists():
+            continue
+        new = path.read_bytes()
+        if new != old and POT_DATE_RE.sub(b"", new) == POT_DATE_RE.sub(b"", old):
+            path.write_bytes(old)
+            restored += 1
+    if restored:
+        print(f"  {restored} po files rewritten with only a new date stamp, reverted")
 
 
 ALIAS_ITEM_RE = re.compile(r"""^(\s*-\s*)(["']?)(/[^"']*?)(\2\s*)$""")
@@ -291,8 +332,10 @@ def main():
         print(f"\n=== {section} ({len(masters(section))} masters)")
         (PO_DIR / section).mkdir(parents=True, exist_ok=True)
         cfg_path = write_cfg(section, langs)
+        before = snapshot_po(section)
         ok &= run_po4a(cfg_path, args.pot_only)
         unwrap_po(section)
+        restore_date_only(section, before)
 
         if not args.pot_only:
             fixed = stripped = 0
