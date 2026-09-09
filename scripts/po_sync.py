@@ -36,7 +36,7 @@ KEEP_THRESHOLD = 80  # % translated below which a translated md is not written
 
 # Front-matter keys exposed to translators; everything else (tags, authors,
 # aliases, social, dates...) is copied verbatim from the English master.
-YFM_KEYS = "title,description,bio"
+YFM_KEYS = "title,description,bio,alt"
 
 SECTION_GLOBS = {
     "art": ["art/*/*/index.en.md"],

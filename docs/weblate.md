@@ -16,7 +16,8 @@ po4a/{section}.cfg             # generated per sync run, committed
 scripts/po_sync.py             # recurring sync (see below)
 ```
 
-Only `title`, `description` and `bio` front-matter values are translatable;
+Only `title`, `description`, `bio` and `alt` front-matter values are
+translatable;
 `tags`, `authors`, `aliases`, dates etc. are copied verbatim from the English
 master. Author `social` links are the exception: only the English
 `_index.en.md` carries them - the sync strips the block from translated author
