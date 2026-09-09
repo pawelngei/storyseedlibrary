@@ -4,6 +4,7 @@ date: 2026-07-05
 publishDate: 2026-07-09
 draft: false
 description: ""
+alt: "Two Black foragers stand chest-deep in a sunlit marsh under a bank of dark rain clouds. One, in green overalls, reads an illustrated cattail identification zine; the other, with bright magenta locs and a red tank top, points off toward the reeds. Cattails, pickerelweed and gourds crowd around them, and a canvasback duck floats in the dark red water in the foreground."
 tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "water", "foraging", "2026-collab"]
 authors:
  - artbyaddae

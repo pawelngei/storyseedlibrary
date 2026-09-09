@@ -1,6 +1,7 @@
 ---
 aliases:
   - /ti/art/lino-zeddies-aerroscape-berlin/
+alt: 'Aerial view of a reimagined Berlin Friedrichstrasse where every roof carries gardens, solar panels or trees. A terraced green hill of planted balconies rises beside the glass railway station, red regional trains cross a bridge over the Spree, solar-roofed boats drift on the water, and an airship floats past the distant TV tower under a clear blue sky.'
 authors:
   - linozeddies
   - aerroscape
