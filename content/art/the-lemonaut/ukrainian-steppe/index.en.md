@@ -3,7 +3,8 @@ title: "Ukrainian Steppe"
 date: 2023-06-06
 publishDate: 2025-05-13
 draft: false
-description: ""
+description: "The region depicted is the Ukrainian steppe (Temperate Grasslands biome). It's a rapidly disappearing region, as most of the land gets turned into crop fields or forest to provide profit with little regard for the ecosystem. At the top part of the drawing is a bus stop in the rural area near a maize field. Ukraine grows a lot of maize, mostly to provide feed for the meat industry, so rewilding it back into a grassland would be a great way to help achieve degrowth and heal the environment. Also fertilizer use often leads to eutrophication - the green puddle to the left is a small example of that. The country's ecosystems are also being wrecked by the Russian invasion. Helping the land recover from both profit-oriented industry and war is undoubtedly an important step towards Solarpunk."
+alt: "The Ukrainian steppe's present and future divided horizontally in two by an ornate frame. The present is a sunny but brutal day. A lonely shabby bus stop stands at the edge of a dense maize field being shelled with russian missiles, dark smoke billowing up to the sky. A green algae-choked puddle sits at the foot of a poplar tree. The future is a rainy day over that same bus stop, the uniform field of maize replaced with a jumble of colorful wildflowers and grasses. A family takes shelter in the bus stop, checking out the solar-powered minifridge, resting or playing in the rain. The chipping wall paint is replaced with traditional floral wall paintings."
 tags: ["illustration", "CC BY-SA 4.0", "vertical", "infrastructure", "solar", "ruins", "2023-collab", "ukraine"]
 authors:
   - "thelemonaut"

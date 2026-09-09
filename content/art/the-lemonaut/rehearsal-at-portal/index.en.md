@@ -3,7 +3,8 @@ title: "Rehearsal at Portal"
 date: 2025-07-01
 publishDate: 2025-07-13
 draft: false
-description: ""
+description: For this, I was aiming to show both one person teaching another, and also doing so across national lines without having to travel all the way across the world, since reducing travel to cut down on emissions by using these sorts of "portals" is a suggestion I've seen. With one girl in Kenya, the other in Ukraine, they - and other people who come to these spaces, which are meant to be community centers or something akin to that - can connect on a regular basis, form relationships, and teach each other things. In this case it's dance - the Chakacha dance from Mombasa, meant to be danced by women only.
+alt: "A comic-style illustration of two teenage girls, one in Kenya and another in Ukraine, meeting up on either side of a big screen installed in their local dance studios. The screen is a so-called portal, filming the inside of a room it's in and showing the footage of its counterpart on a life-sized scale. The girls meet up across a huge distance to learn a dance together, syncing the music on their phones through an internet connection."
 tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "dancing", "africa", "ukraine", "2025-collab", "coloring-book"]
 authors:
   - "thelemonaut"

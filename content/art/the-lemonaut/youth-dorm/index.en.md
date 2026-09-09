@@ -3,7 +3,8 @@ title: "Youth dorm in New Spark"
 date: 2023-03-03
 publishDate: 2025-05-13
 draft: false
-description: ""
+description: "A place where young people can go live if they want to have more independence from their elders and try to figure themselves out. It's not a place of complete isolation from society, but a sort of refuge. Nobody is forced to live here, and it's not tied to any one institution like a school or college. Older people are still allowed to enter and hang around, but are asked to respect the social norms outlined by the residents."
+alt: "We're in an open-air atrium of a tall hexagonal building at nighttime, spectating it from the side. The windows and doors of its many apartments are facing inwards. One could visit their neighbors by taking a few steps from their own door. In the atrium's center stands a tall tree providing shade in the daytime to a green rest area with a table and a car-turned-chicken-coop. The ground floor has facilities like a craft studio and restroom, among others. Some teens are still hanging around after dark. Despite the late hour, the youth dorm is colorful - every apartment has its own unique shape and stained glass motif. Greenery is everywhere and so are little wall doodles."
 tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "new spark"]
 authors:
   - "thelemonaut"

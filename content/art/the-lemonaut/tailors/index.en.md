@@ -3,7 +3,8 @@ title: "The Tailors"
 date: 2024-08-26
 publishDate: 2025-04-29
 draft: false
-description: ""
+description: A new Tailor joins a community which has lacked one for years. In a world of distributed manufacturing tailors are no longer just artisans, but educators, material and sustainability experts, fashion designers and translators of cultures, making sure no garment offends others when traveling. Seeing that they’re much less traditional than their predecessor, will they be accepted by the community? Which bold statement surprised everybody?
+alt: We're in a small tailor's workshop somewhere in West Africa. It's filled with colorful fabrics and vibrant outfits. Small scraps litter the floor. The tailor, an arm amputee who doesn't wear a prosthetic, is measuring the leg of a young diabetic client who's listening to their older relative or parent talk excitedly about an outfit design. On the wall behind them are posters with notes on designing disabled fashion, such as face mask looks or what not to include in an outfit for a wheelchair user.
 tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "crafts", "Africa", "disability", "coloring-book"]
 authors:
   - "thelemonaut"
