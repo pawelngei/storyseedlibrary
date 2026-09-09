@@ -8,13 +8,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
 "POT-Creation-Date: 2026-08-26 13:01+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"PO-Revision-Date: 2026-09-09 09:42+0000\n"
+"Last-Translator: alxd <alxd@noreply.codeberg.org>\n"
+"Language-Team: Spanish <https://translate.codeberg.org/projects/story-seed-library/pages/es/>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/_index.en.md
@@ -35,30 +37,29 @@ msgstr "Bienvenides a una biblioteca de [arte](/es/art) Solarpunk y [semillas de
 
 #. type: Plain text
 #: content/_index.en.md
-#, fuzzy, no-wrap
-#| msgid "We have {{< art-piece-count >}} illustrations from {{< art-author-count >}} artists!\n"
+#, no-wrap
 msgid "We have {{< art-piece-count >}} illustrations created intentionally by {{< art-author-count >}} artists - not AI.\n"
-msgstr "Si nunca has oído hablar del movimiento Solarpunk, ¡echa un ojo a esta breve [introducción](/es/essays/what-is-solarpunk)!\n"
+msgstr "Contamos con {{< art-piece-count >}} ilustraciones creadas expresamente por {{< art-author-count >}} artistas, no por IA.\n"
 
 #. type: Plain text
 #: content/_index.en.md
 msgid "If you haven't heard about Solarpunk before, check out our short [introduction](/essays/what-is-solarpunk)!"
-msgstr "Si estás buscando recursos para tu proyecto, consulta la sección [qué ilustraciones puedo usar](/es/pages/which-art-can-i-use/)."
+msgstr "Si nunca has oído hablar del movimiento Solarpunk, ¡echa un ojo a esta breve [introducción](/es/essays/what-is-solarpunk)!"
 
 #. type: Plain text
 #: content/_index.en.md
 msgid "If you're looking for art for your project, check out our [which art can I use](/pages/which-art-can-i-use/) section!"
-msgstr "![El centro comunitario por The Lemonaut](cover.jpg \"[El centro comunitario](/es/art/the-lemonaut/community-center/) CC BY-SA 4.0 [The Lemonaut](/es/authors/thelemonaut)\")"
+msgstr "Si estás buscando recursos para tu proyecto, consulta la sección [qué ilustraciones puedo usar](/es/pages/which-art-can-i-use/)!"
 
 #. type: Plain text
 #: content/_index.en.md
 msgid "![The Community Center by the Lemonaut](cover.jpg \"[The Community Center](/art/the-lemonaut/community-center/) CC BY-SA 4.0 [The Lemonaut](/authors/thelemonaut)\")"
-msgstr "Todos los recursos en esta página se pueden usar libremente bajo la respectiva licencia [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) (a menos que se indique de otra manera)."
+msgstr "![El centro comunitario por The Lemonaut](cover.jpg \"[El centro comunitario](/es/art/the-lemonaut/community-center/) CC BY-SA 4.0 [The Lemonaut](/es/authors/thelemonaut)\")"
 
 #. type: Plain text
 #: content/_index.en.md
 msgid "All the materials on this page are free to use under a respective [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) license - unless noted otherwise. Have fun browsing!"
-msgstr "¡Disfruta explorando!"
+msgstr "Todos los recursos en esta página se pueden usar libremente bajo la respectiva licencia [Creative Commons](https://creativecommons.org/share-your-work/cclicenses/) (a menos que se indique de otra manera). ¡Disfruta explorando!"
 
 #. type: Yaml Front Matter Hash Value: description
 #: content/art/_index.en.md content/seeds/_index.en.md
