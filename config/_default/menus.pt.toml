@@ -1,0 +1,118 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Arte"
+pageRef = "arte"
+identifier = "3yRSzr3A8F"
+weight = 10
+
+[[main]]
+name = "Sementes"
+pageRef = "sementes"
+identifier = "3yRSzr3A8D"
+weight = 20
+
+[[main]]
+name = "Mais"
+weight = 30
+
+[[main]]
+parent = "Mais"
+name = "Etiquetas"
+pageRef = "etiquitas"
+identifier = "24BZL6Odw6"
+weight = 30
+
+[[main]]
+parent = "Mais"
+name = "Autores"
+pageRef = "autores"
+identifier = "LD7z6Qopgw"
+weight = 40
+
+[[main]]
+parent = "Mais"
+name = "Livro de colorir"
+pageRef = "tags/coloring-book"
+identifier = "LD7z6Qopcb"
+weight = 50
+
+[[main]]
+name = "Eventos"
+weight = 45
+
+[[main]]
+parent= "Eventos"
+name = "Colaboração Artística 2026"
+pageRef = "/pages/andrewisms-art-collab-2026"
+identifier = "3yRGzr3E3W"
+weight = 10
+
+[[main]]
+parent= "Eventos"
+name = "Colaboração Artística 2025"
+pageRef = "/pages/andrewisms-art-collab-2025"
+identifier = "3yRGzr3A8D"
+weight = 20
+
+[[main]]
+name = "Sobre"
+weight = 50
+
+[[main]]
+parent = "Sobre"
+name = "A Biblioteca"
+pageRef = "/pages/about"
+weight = 1
+
+[[main]]
+parent = "Sobre"
+name = "Solarpunk"
+url = "/essays/what-is-solarpunk"
+weight = 2
+
+[[main]]
+parent = "Sobre"
+name = "Manifesto"
+url = "/essays/solarpunk-manifesto"
+weight = 3
+
+[[main]]
+parent = "Sobre"
+name = "Solarpunk Prompts Podcast"
+url = "https://podcast.tomasino.org/@SolarpunkPrompts"
+weight = 4
+
+[[main]]
+parent = "Sobre"
+name = "O Bibliotecário"
+url = "https://alxd.org/"
+weight = 5
+
+[[main]]
+parent = "Sobre"
+name = "Como contribuir?"
+pageRef = "/pages/contribute"
+weight = 10
+
+[[main]]
+pre = "rss"
+url = "/index.xml"
+identifier = "someRSShere"
+weight = 60
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Como contribuir?"
+pageRef = "/pages/contribute"
+identifier = "Wz0vblbVYr"
+weight = 1
+
+[[footer]]
+name = "Contacto"
+url = "curator@storySeedLibrary.org"
+identifier = "contactUs"
+weight = 2
