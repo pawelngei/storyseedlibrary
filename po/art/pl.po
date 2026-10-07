@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-09-09 12:25+0200\n"
+"POT-Creation-Date: 2026-10-07 12:33+0200\n"
 "PO-Revision-Date: 2026-07-24 15:07+0000\n"
 "Last-Translator: alxd <alxd@noreply.codeberg.org>\n"
 "Language-Team: Polish <https://translate.codeberg.org/projects/story-seed-library/art/pl/>\n"
@@ -4641,6 +4641,33 @@ msgstr "Uwspólnione Centrum Handlowe"
 #: content/art/the-lemonaut/mall/index.en.md
 msgid "An illustration of a repurposed mall, where community-organized spaces replaced fast fashion shops. Originally an illustration to Andrewism's video \"[What If We Ran Revolution Like A Business?](https://www.youtube.com/watch?v=cO0O9cBPmsU)\"."
 msgstr "Ilustracja odbudowanego centrum handlowego w którym przestrzenie wspólne i społeczne zastąpiły sklepy z szybką modą. Stworzona jako ilustracja do wideo na kanale Andrewism - \"[What If We Ran Revolution Like A Business?](https://www.youtube.com/watch?v=cO0O9cBPmsU)\"."
+
+#. type: Yaml Front Matter Hash Value: alt
+#: content/art/the-lemonaut/open-flexure/index.en.md
+#, no-wrap
+msgid "International collaboration between engineers and scientists who work with the OpenFlexure microscope shown as a comic happening inside of the Open Hardware logo, a cog that opens slightly at the bottom to the shape of a keyhole. In each panel is a pair of people busy at their desks. One from each pair crosses the panel boundaries to pass a tool to the next person. Others are constructing their microscopes or doing research using them. A git flow diagram runs along the cog, nestling in its teeth. Behind the cog is a colorful mess of curling cables, overlapping tools, roots, and splashes of water, referencing what the included scientists are working on which involved the microscope."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/art/the-lemonaut/open-flexure/index.en.md
+#, no-wrap
+msgid "Open Flexure: A Collaborative Microscope Without Borders"
+msgstr ""
+
+#. type: Plain text
+#: content/art/the-lemonaut/open-flexure/index.en.md
+msgid "In a sustainable tomorrow technology is created cooperatively and shared freely around the world - and some such projects exist today! The [Open Source Hardware](https://en.wikipedia.org/wiki/Open-source_hardware) movement promotes collaborative creation and distribution of even the most complex devices without locking them with patents or intellectual property."
+msgstr ""
+
+#. type: Plain text
+#: content/art/the-lemonaut/open-flexure/index.en.md
+msgid "[OpenFlexure](https://openflexure.org/) is a great example of it - an automated digital microscope which can be used in both scientific and medical environments - and can be 3D-printed anywhere in the world! It was initially designed at the University of Glasgow in the UK, but was then tested, used and improved by teams from all over the world! It was assessed for malaria research in [Tanzania](https://openflexure.org/about/malaria), used to measure soil health in [Argentina](https://openflexure.org/openflexurecon2022/community_stories/2022/10/20/openflexurecon-castro.html) and monitor water in [Ukraine](https://www.appropedia.org/Tolocar/OpenFlexure_Microscope_in_Ukraine)."
+msgstr ""
+
+#. type: Plain text
+#: content/art/the-lemonaut/open-flexure/index.en.md
+msgid "You can read more about similar open projects at [Appropedia](https://www.appropedia.org/), which hosts multiple collaboratively developed sustainable tech projects!"
+msgstr ""
 
 #. type: Yaml Front Matter Hash Value: alt
 #: content/art/the-lemonaut/rehearsal-at-portal/index.en.md
