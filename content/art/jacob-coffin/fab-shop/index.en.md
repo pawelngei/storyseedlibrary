@@ -9,6 +9,8 @@ authors:
  - jacobcoffin
 ---
 
+Original illustration on [Jacob Coffin's blog](https://jacobcoffinwrites.wordpress.com/2026/09/03/solarpunk-fab-shop/).
+
 This is a postcard I’ve been wanting to make for a while. Generally I try to focus on salvage, reuse, and repurposing in this library economy, but I think it’s also important to show some of the fab shops that supply new goods. (And to include a bit of the industrial side of solarpunk.) Degrowth practices can meet a lot of needs with what we already have, but entropy wins in the end and society will have to produce at least some new stuff to replace the old. I think it’s worth exploring how a solarpunk setting will do that, and how the items produced for a library economy might look different than what we have today.
 
 If this topic interests you, I wrote out a more detailed exploration here: https://wiki.slrpnk.net/writing:repairability_in_solarpunk (the slrpnk.net writing community has a wiki for sharing solarpunk worldbuilding research – feel free to message me if you want to add something!).
