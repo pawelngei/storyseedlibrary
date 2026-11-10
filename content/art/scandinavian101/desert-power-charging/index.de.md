@@ -4,10 +4,16 @@ aliases:
 authors:
   - scandinavian101
 date: 2025-03-16
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "desert", "solar", "infrastructure"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - desert
+  - solar
+  - infrastructure
 title: 'Wüstenenergie – Aufladen'
 ---
 

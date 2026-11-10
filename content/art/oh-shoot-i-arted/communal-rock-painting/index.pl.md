@@ -4,10 +4,15 @@ aliases:
 authors:
   - oh-shoot-i-arted
 date: 2025-06-29
-description: ''
+description:
 draft: false
 publishDate: 2025-07-13
-tags: ["illustration", "CC BY 4.0", "vertical", "people", "2025-collab"]
+tags:
+  - illustration
+  - 'CC BY 4.0'
+  - vertical
+  - people
+  - 2025-collab
 title: 'Wspólne malowanie kamieni'
 ---
 

@@ -9,7 +9,13 @@ date: 2023-05-06
 description: 'An aerial view of a futuristic, sustainable Berlin'
 draft: false
 publishDate: 2025-04-29
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "city", "airship", "transport"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - city
+  - airship
+  - transport
 title: 'Berlin Friedrichstraße Utopia 2048'
 ---
 

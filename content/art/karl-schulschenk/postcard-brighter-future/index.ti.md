@@ -4,9 +4,16 @@ aliases:
 authors:
   - karl-schulschenk
 date: 2022-07-02
-description: ''
+description:
 draft: false
 publishDate: 2025-05-08
-tags: ["illustration", "CC BY-NC-ND 4.0", "horizontal", "people", "transport", "wind turbine", "sea"]
+tags:
+  - illustration
+  - 'CC BY-NC-ND 4.0'
+  - horizontal
+  - people
+  - transport
+  - 'wind turbine'
+  - sea
 title: 'ፖስትካርድ ካብ ብሩህ መጻኢ'
 ---

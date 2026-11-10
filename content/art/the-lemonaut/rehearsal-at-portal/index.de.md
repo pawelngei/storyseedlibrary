@@ -8,7 +8,16 @@ date: 2025-07-01
 description: 'Hier wollte ich eine Person zeigen, die eine andere Person unterrichtet, und zwar über nationale Grenzen hinweg ohne um die ganze Welt reisen zu müssen.  Denn Reisen zu reduzieren und damit Emissionen einzusparen, indem man solche „Portale“ verwendet, ist ein Vorschlag, der mir über den Weg gelaufen ist.  Obwohl das eine Mädchen in Kenia und das andere in der Ukraine ist, können sie -- und andere, die an diese Orte kommen, die als Art Gemeinschaftsorte gedacht sind -- sich regelmäßig verbinden, Freundschaften aufbauen und einander Dinge beibringen.  In diesem Fall geht es um Tanzen -- der Chakacha Tanz aus Mombasa soll nur von Frauen getanzt werden.'
 draft: false
 publishDate: 2025-07-13
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "dancing", "africa", "ukraine", "2025-collab", "coloring-book"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - people
+  - dancing
+  - africa
+  - ukraine
+  - 2025-collab
+  - coloring-book
 title: 'Probe per Portal'
 ---
 

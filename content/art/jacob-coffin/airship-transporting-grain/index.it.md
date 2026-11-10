@@ -4,10 +4,16 @@ aliases:
 authors:
   - jacobcoffin
 date: 2023-11-03
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "vertical", "airship", "transport", "food"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - vertical
+  - airship
+  - transport
+  - food
 title: 'Aeronave per il Trasporto del Grano'
 ---
 

@@ -4,7 +4,13 @@ date: 2026-09-03
 publishDate: 2026-10-18
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0", "horizontal", "city", "people", "trees"]
+tags:
+  - "photobash"
+  - "CC BY 4.0"
+  - "horizontal"
+  - "city"
+  - "people"
+  - "trees"
 authors:
  - jacobcoffin
 ---

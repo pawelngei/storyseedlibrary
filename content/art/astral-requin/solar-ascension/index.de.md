@@ -4,10 +4,14 @@ aliases:
 authors:
   - astralrequin
 date: 2019-08-06
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: ["illustration", "CC BY-NC-ND 3.0", "horizontal", "fantastical"]
+tags:
+  - illustration
+  - 'CC BY-NC-ND 3.0'
+  - horizontal
+  - fantastical
 title: Himmelfahrt
 ---
 

@@ -4,10 +4,17 @@ date: 2023-03-16
 publishDate: 2025-06-01
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "infrastructure", "transport", "city"]
+tags:
+  - "illustration"
+  - "CC BY-NC-SA 4.0"
+  - "horizontal"
+  - "infrastructure"
+  - "transport"
+  - "city"
 authors:
  - commandojugendstil
-series: ["Commando Jugendstil's Panels"]
+series:
+  - "Commando Jugendstil's Panels"
 series_order: 1
 aliases:
   - /art/commando-jugendstil-panel-how-do-people-move-around/

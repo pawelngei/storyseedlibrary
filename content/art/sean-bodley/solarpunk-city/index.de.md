@@ -4,10 +4,16 @@ aliases:
 authors:
   - seanbodley
 date: 2023-03-09
-description: ''
+description:
 draft: false
 publishDate: 2025-04-28
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "city", "wind turbine", "mountains"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - city
+  - 'wind turbine'
+  - mountains
 title: 'Wie man eine Solarpunk-Stadt baut'
 ---
 

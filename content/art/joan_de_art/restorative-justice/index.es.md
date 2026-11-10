@@ -2,10 +2,15 @@
 authors:
   - joan_de_art
 date: 2025-08-29
-description: ''
+description:
 draft: false
 publishDate: 2025-11-11
-tags: ["illustration", "CC BY-NC 4.0", "vertical", "people", "city"]
+tags:
+  - illustration
+  - 'CC BY-NC 4.0'
+  - vertical
+  - people
+  - city
 title: 'Justicia reparadora'
 ---
 

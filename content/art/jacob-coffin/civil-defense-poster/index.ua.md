@@ -4,10 +4,15 @@ aliases:
 authors:
   - jacobcoffin
 date: 2024-03-22
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "vertical", "people", "symbolism"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - vertical
+  - people
+  - symbolism
 title: 'Плакат на тему цивільної оборони'
 ---
 

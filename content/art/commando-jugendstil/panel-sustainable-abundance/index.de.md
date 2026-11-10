@@ -4,12 +4,18 @@ aliases:
 authors:
   - commandojugendstil
 date: 2023-08-16
-description: ''
+description:
 draft: false
 publishDate: 2025-06-01
-series: ["Commando Jugendstil's Panels"]
+series:
+  - "Commando Jugendstil's Panels"
 series_order: 6
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "farming", "city"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
+  - farming
+  - city
 title: 'Nachhaltiger Überfluss'
 ---
 

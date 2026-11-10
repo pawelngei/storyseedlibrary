@@ -4,12 +4,18 @@ aliases:
 authors:
   - commandojugendstil
 date: 2023-04-16
-description: ''
+description:
 draft: false
 publishDate: 2025-06-01
-series: ["Commando Jugendstil's Panels"]
+series:
+  - "Commando Jugendstil's Panels"
 series_order: 2
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "infrastructure", "transport"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
+  - infrastructure
+  - transport
 title: 'Jak solarpunkowe miasto wymienia się dobrami?'
 ---
 

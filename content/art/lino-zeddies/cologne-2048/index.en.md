@@ -4,7 +4,13 @@ date: 2023-05-06
 publishDate: 2025-08-30
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "city", "river", "transport"]
+tags:
+  - "illustration"
+  - "CC BY-NC-SA 4.0"
+  - "horizontal"
+  - "city"
+  - "river"
+  - "transport"
 authors:
   - linozeddies
   - aerroscape

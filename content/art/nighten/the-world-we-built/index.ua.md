@@ -4,9 +4,14 @@ aliases:
 authors:
   - nighten
 date: 2025-08-04
-description: ''
+description:
 draft: false
 publishDate: 2025-08-05
-tags: ["illustration", "CC BY-NC 4.0", "vertical", "people", "wind turbine"]
+tags:
+  - illustration
+  - 'CC BY-NC 4.0'
+  - vertical
+  - people
+  - 'wind turbine'
 title: 'Світ, який ми збудували'
 ---

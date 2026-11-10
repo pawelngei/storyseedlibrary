@@ -7,7 +7,13 @@ date: 2023-11-03
 description: 'Жінка плете кошик з соснових голок разом з дітьми, чоловік ремонтує велосипеди, хтось встановлює сітчасту мережу біля вітрової турбіни. Хтось завершив прання.'
 draft: false
 publishDate: 2025-04-29
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "crafts", "wind turbine"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - people
+  - crafts
+  - 'wind turbine'
 title: 'Плетіння кошиків'
 ---
 

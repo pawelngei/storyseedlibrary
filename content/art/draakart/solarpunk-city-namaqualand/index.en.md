@@ -4,7 +4,14 @@ date: 2023-09-22
 publishDate: 2026-07-24
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "people", "2023-collab", "africa", "south-africa"]
+tags:
+  - "illustration"
+  - "CC BY-NC-SA 4.0"
+  - "horizontal"
+  - "people"
+  - "2023-collab"
+  - "africa"
+  - "south-africa"
 authors:
  - draakart
 ---

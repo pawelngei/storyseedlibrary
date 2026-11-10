@@ -4,10 +4,15 @@ aliases:
 authors:
   - grasshopper-geography
 date: 2025-06-17
-description: ''
+description:
 draft: false
 publishDate: 2025-06-17
-tags: ["map", "CC BY-NC-ND 4.0", "horizontal", "watersheds", "river"]
+tags:
+  - map
+  - 'CC BY-NC-ND 4.0'
+  - horizontal
+  - watersheds
+  - river
 title: "Carte des bassins fluviaux de l'Inde et de la Chine"
 ---
 

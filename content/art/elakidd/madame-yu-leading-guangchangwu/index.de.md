@@ -4,10 +4,17 @@ aliases:
 authors:
   - elakidd
 date: 2025-06-24
-description: ''
+description:
 draft: false
 publishDate: 2025-07-14
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "dancing", "library", "2025-collab"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - people
+  - dancing
+  - library
+  - 2025-collab
 title: 'Guangchangwu geleitet von Frau Yu'
 ---
 

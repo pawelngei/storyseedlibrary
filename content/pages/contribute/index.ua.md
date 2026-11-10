@@ -2,7 +2,7 @@
 authors:
   - alxd
 date: 2025-04-27
-description: ''
+description:
 draft: false
 showAuthorBottom: true
 title: 'Як долучитись до вас?'

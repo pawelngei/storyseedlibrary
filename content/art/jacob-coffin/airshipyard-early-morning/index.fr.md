@@ -4,10 +4,16 @@ aliases:
 authors:
   - jacobcoffin
 date: 2023-11-01
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "horizontal", "airship", "transport", "desert"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - horizontal
+  - airship
+  - transport
+  - desert
 title: 'Chantier aéronaval au petit matin'
 ---
 

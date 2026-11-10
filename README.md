@@ -62,8 +62,12 @@ To add a new tag:
 1. Create a new file `content/tags/{tagName}/_index.en.md` which will determine the name and description of the tag, as well as how it will be displayed on cards.
 2. Modify the content `index.en.md` by adding the `{tagName}` to specific lists, like:
   ```
-  tags: ["illustration", "CC BY-SA 4.0", "my new tag"]
+  tags:
+    - "illustration"
+    - "CC BY-SA 4.0"
+    - "my new tag"
   ```
+  Use this one-item-per-line form - the translation tooling (po4a) rejects inline `["a", "b"]` lists.
 3. All spaces in the tag name are translated to `-` by Hugo.
 
 ### Translating

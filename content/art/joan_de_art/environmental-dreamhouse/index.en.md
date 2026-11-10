@@ -4,7 +4,12 @@ date: 2023-04-23
 publishDate: 2025-11-11
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC 4.0", "vertical", "disability", "solar"]
+tags:
+  - "illustration"
+  - "CC BY-NC 4.0"
+  - "vertical"
+  - "disability"
+  - "solar"
 authors:
   - joan_de_art
 ---

@@ -4,10 +4,17 @@ aliases:
 authors:
   - seanbodley
 date: 2025-02-03
-description: ''
+description:
 draft: false
 publishDate: 2025-04-28
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "library", "economy", "city"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - people
+  - library
+  - economy
+  - city
 title: 'Biblioteka wszystkiego'
 ---
 

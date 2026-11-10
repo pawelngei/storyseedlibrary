@@ -4,10 +4,16 @@ aliases:
 authors:
   - jacobcoffin
 date: 2024-01-03
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "horizontal", "snow", "weather", "city"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - horizontal
+  - snow
+  - weather
+  - city
 title: 'Spazzaneve a Linogas Riempie la Nevaia di Paese'
 ---
 

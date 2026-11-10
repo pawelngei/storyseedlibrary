@@ -2,12 +2,13 @@
 authors:
   - alxd
 date: 2021-10-23
-description: ''
+description:
 draft: false
 images:
   - ../../art/the-lemonaut/chefs/featured.jpg
 showAuthorBottom: true
-tags: ["podcast"]
+tags:
+  - podcast
 title: 'Die Köch:innen'
 ---
 

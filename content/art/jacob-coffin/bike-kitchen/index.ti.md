@@ -4,10 +4,13 @@ aliases:
 authors:
   - jacobcoffin
 date: 2024-08-14
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "horizontal"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - horizontal
 title: 'ዝጠሓለ ግሪንሃውስን ናይ ብሽክለታ ክሽነን'
 ---
 

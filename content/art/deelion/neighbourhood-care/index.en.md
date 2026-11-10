@@ -4,7 +4,14 @@ date: 2026-06-22
 publishDate: 2026-07-09
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "city", "disaster", "2026-collab"]
+tags:
+  - "illustration"
+  - "CC BY-SA 4.0"
+  - "vertical"
+  - "people"
+  - "city"
+  - "disaster"
+  - "2026-collab"
 authors:
  - deelion
 ---

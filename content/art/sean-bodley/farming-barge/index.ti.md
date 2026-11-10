@@ -4,10 +4,17 @@ aliases:
 authors:
   - seanbodley
 date: 2023-02-01
-description: ''
+description:
 draft: false
 publishDate: 2025-04-28
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "sea", "ship", "farming", "wind turbine"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - sea
+  - ship
+  - farming
+  - 'wind turbine'
 title: 'ናይ ሕርሻ ጃልባ'
 ---
 

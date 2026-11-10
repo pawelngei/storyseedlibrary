@@ -9,7 +9,13 @@ date: 2023-05-06
 description: 'Аерофотознімок футуристичного, екологічного Берліна'
 draft: false
 publishDate: 2025-04-29
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "city", "airship", "transport"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - city
+  - airship
+  - transport
 title: 'Утопія в Берліні на Фрідріх-штрасе, 2048'
 ---
 

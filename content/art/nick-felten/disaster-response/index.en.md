@@ -4,7 +4,14 @@ date: 2026-06-13
 publishDate: 2026-07-09
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "flood", "disaster", "2026-collab"]
+tags:
+  - "illustration"
+  - "CC BY-SA 4.0"
+  - "horizontal"
+  - "people"
+  - "flood"
+  - "disaster"
+  - "2026-collab"
 authors:
  - nick-felten
 ---

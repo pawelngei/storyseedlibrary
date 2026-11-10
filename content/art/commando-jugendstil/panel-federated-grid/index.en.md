@@ -4,10 +4,16 @@ date: 2023-11-16
 publishDate: 2025-06-01
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "wind turbine", "city"]
+tags:
+  - "illustration"
+  - "CC BY-NC-SA 4.0"
+  - "horizontal"
+  - "wind turbine"
+  - "city"
 authors:
  - commandojugendstil
-series: ["Commando Jugendstil's Panels"]
+series:
+  - "Commando Jugendstil's Panels"
 series_order: 9
 aliases:
   - /art/commando-jugendstil-panel-federated-grid/

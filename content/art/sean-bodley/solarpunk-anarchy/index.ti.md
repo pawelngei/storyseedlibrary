@@ -4,10 +4,17 @@ aliases:
 authors:
   - seanbodley
 date: 2024-05-10
-description: ''
+description:
 draft: false
 publishDate: 2025-04-28
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "dancing", "music", "food"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - people
+  - dancing
+  - music
+  - food
 title: 'ሶላርፓንክ ኣናርኪ'
 ---
 

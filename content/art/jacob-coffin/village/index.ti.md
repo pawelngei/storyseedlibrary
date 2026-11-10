@@ -4,10 +4,15 @@ aliases:
 authors:
   - jacobcoffin
 date: 2023-12-21
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "horizontal", "farming", "forest"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - horizontal
+  - farming
+  - forest
 title: ገጠር
 ---
 

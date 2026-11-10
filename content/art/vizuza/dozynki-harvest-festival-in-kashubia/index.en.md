@@ -4,7 +4,16 @@ date: 2026-07-05
 publishDate: 2026-07-09
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "farming", "people", "animals", "festival", "2026-collab", "poland"]
+tags:
+  - "illustration"
+  - "CC BY-SA 4.0"
+  - "vertical"
+  - "farming"
+  - "people"
+  - "animals"
+  - "festival"
+  - "2026-collab"
+  - "poland"
 authors:
  - vizuza
 ---

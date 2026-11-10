@@ -4,10 +4,17 @@ aliases:
 authors:
   - solhaelan
 date: 2023-06-07
-description: ''
+description:
 draft: false
 publishDate: 2025-05-02
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "city", "suburbia", "2023-collab", "weather"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
+  - city
+  - suburbia
+  - 2023-collab
+  - weather
 title: 'ኣብ ከባቢ ከተማ ዝርከቡ ጀርዲናት ዝናብ'
 ---
 

@@ -4,10 +4,17 @@ aliases:
 authors:
   - taylor-seamount
 date: 2025-07-11
-description: ''
+description:
 draft: false
 publishDate: 2025-08-09
-tags: ["illustration", "CC BY-NC-SA 4.0", "vertical", "people", "farming", "cooperation", "solar"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - vertical
+  - people
+  - farming
+  - cooperation
+  - solar
 title: 'Молодіжний центр'
 ---
 

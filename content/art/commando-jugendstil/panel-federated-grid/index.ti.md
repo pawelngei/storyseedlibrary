@@ -4,12 +4,18 @@ aliases:
 authors:
   - commandojugendstil
 date: 2023-11-16
-description: ''
+description:
 draft: false
 publishDate: 2025-06-01
-series: ["Commando Jugendstil's Panels"]
+series:
+  - "Commando Jugendstil's Panels"
 series_order: 9
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "wind turbine", "city"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
+  - 'wind turbine'
+  - city
 title: 'ፌደራል ግሪድ እንታይ እዩ?'
 ---
 

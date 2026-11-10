@@ -4,12 +4,17 @@ aliases:
 authors:
   - commandojugendstil
 date: 2023-09-16
-description: ''
+description:
 draft: false
 publishDate: 2025-06-01
-series: ["Commando Jugendstil's Panels"]
+series:
+  - "Commando Jugendstil's Panels"
 series_order: 7
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "farming"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
+  - farming
 title: 'ምሕደራ ማይ፡ እቲ ሶላርፓንክ ዝበሃል መንገዲ'
 ---
 

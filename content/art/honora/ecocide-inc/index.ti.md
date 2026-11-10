@@ -4,10 +4,14 @@ aliases:
 authors:
   - honora
 date: 2020-04-15
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: ["illustration", "CC BY 4.0", "vertical", "symbolism"]
+tags:
+  - illustration
+  - 'CC BY 4.0'
+  - vertical
+  - symbolism
 title: 'ኢኮሳይድ ኢንክ. - ዓወት'
 ---
 

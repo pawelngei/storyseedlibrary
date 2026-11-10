@@ -5,10 +5,16 @@ authors:
   - linozeddies
   - aerroscape
 date: 2023-05-06
-description: ''
+description:
 draft: false
 publishDate: 2025-08-30
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "city", "river", "transport"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
+  - city
+  - river
+  - transport
 title: 'Kolonia - Utopia 2048'
 ---
 

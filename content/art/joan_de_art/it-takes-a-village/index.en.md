@@ -4,7 +4,13 @@ date: 2024-08-23
 publishDate: 2025-11-11
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC 4.0", "vertical", "city", "education", "library"]
+tags:
+  - "illustration"
+  - "CC BY-NC 4.0"
+  - "vertical"
+  - "city"
+  - "education"
+  - "library"
 authors:
   - joan_de_art
 ---

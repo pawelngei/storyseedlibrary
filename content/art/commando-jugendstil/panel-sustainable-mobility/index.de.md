@@ -4,12 +4,18 @@ aliases:
 authors:
   - commandojugendstil
 date: 2023-05-16
-description: ''
+description:
 draft: false
 publishDate: 2025-06-01
-series: ["Commando Jugendstil's Panels"]
+series:
+  - "Commando Jugendstil's Panels"
 series_order: 3
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "infrastructure", "transport"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
+  - infrastructure
+  - transport
 title: 'Was bedeutet nachhaltige Mobilität in der Solarpunk-Stadt?'
 ---
 

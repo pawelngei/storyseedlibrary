@@ -4,10 +4,15 @@ aliases:
 authors:
   - honora
 date: 2021-03-26
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: ["illustration", "CC BY 4.0", "vertical", "forest", "reclaimed structure"]
+tags:
+  - illustration
+  - 'CC BY 4.0'
+  - vertical
+  - forest
+  - 'reclaimed structure'
 title: 'ኣብ ዕረፍቲ'
 ---
 

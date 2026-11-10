@@ -4,10 +4,17 @@ aliases:
 authors:
   - jacobcoffin
 date: 2023-11-06
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "vertical", "snow", "transport", "ropeway", "people"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - vertical
+  - snow
+  - transport
+  - ropeway
+  - people
 title: 'Funivia sopra una Strada Stagionale (Inverno)'
 ---
 

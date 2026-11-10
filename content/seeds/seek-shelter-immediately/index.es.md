@@ -2,10 +2,9 @@
 authors:
   - seth_patterson
 date: 2025-08-29
-description: ''
+description:
 draft: false
 showAuthorBottom: true
-tags: []
 title: 'Buscar refugio inmediatamente'
 ---
 

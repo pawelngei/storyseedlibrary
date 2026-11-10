@@ -6,7 +6,15 @@ authors:
 date: 2025-06-30
 draft: false
 publishDate: 2025-07-13
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "crafts", "solar", "education", "2025-collab"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - people
+  - crafts
+  - solar
+  - education
+  - 2025-collab
 title: Solarkocher-Kochkurs
 ---
 

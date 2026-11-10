@@ -4,10 +4,18 @@ aliases:
 authors:
   - jacobcoffin
 date: 2024-08-20
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "vertical", "ship", "transport", "sea", "wind turbine", "weather"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - vertical
+  - ship
+  - transport
+  - sea
+  - 'wind turbine'
+  - weather
 title: 'Statek podczas sztormu'
 ---
 

@@ -4,7 +4,16 @@ date: 2026-08-05
 publishDate: 2026-08-05
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "solar", "wind turbine", "city", "africa", "nigeria"]
+tags:
+  - "illustration"
+  - "CC BY-SA 4.0"
+  - "horizontal"
+  - "people"
+  - "solar"
+  - "wind turbine"
+  - "city"
+  - "africa"
+  - "nigeria"
 authors:
  - oboh-moses
 ---

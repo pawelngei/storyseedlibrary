@@ -4,10 +4,16 @@ aliases:
 authors:
   - jacobcoffin
 date: 2025-02-10
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "horizontal", "farming", "food", "coloring-book"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - horizontal
+  - farming
+  - food
+  - coloring-book
 title: 'Соларпанкова ферма'
 ---
 

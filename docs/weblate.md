@@ -43,8 +43,10 @@ together.
 
 Gotchas:
 
-- Keep inline YAML lists in front matter on **one line**
-  (`tags: ["a", "b"]`) - po4a's YAML parser rejects multiline flow lists.
+- Write front-matter lists as **block lists** (`tags:` then one `  - "a"` per
+  line). po4a >= 0.73 aborts on any inline list (`tags: ["a", "b"]`,
+  `tags: []`); for an empty list, omit the key. Keep every scalar on one line
+  too - YAML::Tiny cannot parse multiline (multi-paragraph) strings.
 - New English documents appear in the POT on the next sync; no other action
   needed. Deleted masters are dropped from the cfg and reported.
 - A new tag needs `content/tags/{tag}/_index.en.md`

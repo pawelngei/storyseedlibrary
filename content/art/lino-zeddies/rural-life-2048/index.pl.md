@@ -5,10 +5,16 @@ authors:
   - linozeddies
   - aerroscape
 date: 2023-05-06
-description: ''
+description:
 draft: false
 publishDate: 2025-08-30
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "farming", "wind turbine", "river"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
+  - farming
+  - 'wind turbine'
+  - river
 title: 'Życie na wsi - Utopia 2048'
 ---
 

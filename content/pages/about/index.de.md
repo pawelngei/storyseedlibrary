@@ -2,7 +2,7 @@
 authors:
   - alxd
 date: 2025-04-28
-description: ''
+description:
 draft: false
 showAuthorBottom: true
 title: 'Über die Saatgutbibliothek der Geschichten'

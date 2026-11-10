@@ -4,10 +4,14 @@ aliases:
 authors:
   - scandinavian101
 date: 2025-03-16
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "city"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - city
 title: 'Світліше майбутнє - ущільнення передмість - світла версія'
 ---
 

@@ -4,10 +4,18 @@ aliases:
 authors:
   - thelemonaut
 date: 2024-07-05
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "symbolism", "wind turbine", "mining", "coloring-book"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - vertical
+  - people
+  - symbolism
+  - 'wind turbine'
+  - mining
+  - coloring-book
 title: 'Das Gemeinschaftszentrum'
 ---
 

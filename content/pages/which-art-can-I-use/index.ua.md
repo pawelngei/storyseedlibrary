@@ -2,7 +2,7 @@
 authors:
   - alxd
 date: 2025-05-03
-description: ''
+description:
 draft: false
 showAuthorBottom: true
 title: 'Які ілюстрації я можу використати?'

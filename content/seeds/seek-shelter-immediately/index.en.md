@@ -3,7 +3,6 @@ title: "Seek Shelter Immediately"
 date: 2025-08-29
 draft: false
 description: ""
-tags: []
 showAuthorBottom: true
 authors:
   - "seth_patterson"

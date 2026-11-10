@@ -4,7 +4,13 @@ date: 2025-02-02
 publishDate: 2025-11-11
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC 4.0", "vertical", "people", "farming", "suburbia"]
+tags:
+  - "illustration"
+  - "CC BY-NC 4.0"
+  - "vertical"
+  - "people"
+  - "farming"
+  - "suburbia"
 authors:
   - joan_de_art
 ---

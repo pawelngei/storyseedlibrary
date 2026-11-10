@@ -4,10 +4,16 @@ aliases:
 authors:
   - scandinavian101
 date: 2022-09-09
-description: ''
+description:
 draft: false
 publishDate: 2025-05-09
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "train", "transport", "farming"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - train
+  - transport
+  - farming
 title: 'Agriculture durable - Train de céréales - Esquisse'
 ---
 

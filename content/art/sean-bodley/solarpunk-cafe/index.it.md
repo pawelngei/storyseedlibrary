@@ -4,10 +4,15 @@ aliases:
 authors:
   - seanbodley
 date: 2023-09-19
-description: ''
+description:
 draft: false
 publishDate: 2025-04-28
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "wind turbine"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - people
+  - 'wind turbine'
 title: 'Caffé Solarpunk'
 ---
 

@@ -4,7 +4,17 @@ date: 2026-06-04
 publishDate: 2026-07-09
 draft: false
 description: ""
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "disaster", "robots", "ruins", "medicine", "2026-collab", "coloring-book"]
+tags:
+  - "illustration"
+  - "CC BY-SA 4.0"
+  - "horizontal"
+  - "people"
+  - "disaster"
+  - "robots"
+  - "ruins"
+  - "medicine"
+  - "2026-collab"
+  - "coloring-book"
 authors:
  - daniele-turturici
 ---

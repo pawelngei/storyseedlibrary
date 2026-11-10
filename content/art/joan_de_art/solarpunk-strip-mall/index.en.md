@@ -4,7 +4,14 @@ date: 2024-07-13
 publishDate: 2025-11-11
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC 4.0", "horizontal", "city", "solar", "transport", "farming"]
+tags:
+  - "illustration"
+  - "CC BY-NC 4.0"
+  - "horizontal"
+  - "city"
+  - "solar"
+  - "transport"
+  - "farming"
 authors:
   - joan_de_art
 ---

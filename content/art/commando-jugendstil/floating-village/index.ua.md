@@ -4,10 +4,16 @@ aliases:
 authors:
   - commandojugendstil
 date: 2022-11-14
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "sea", "infrastructure", "reclaimed structure"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - vertical
+  - sea
+  - infrastructure
+  - 'reclaimed structure'
 title: 'Селище На Воді'
 ---
 

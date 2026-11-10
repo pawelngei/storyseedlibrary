@@ -4,10 +4,18 @@ aliases:
 authors:
   - solhaelan
 date: 2023-04-03
-description: ''
+description:
 draft: false
 publishDate: 2025-05-02
-tags: ["illustration", "CC BY-NC-SA 4.0", "vertical", "lunarpunk", "night", "city", "music", "infrastructure"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - vertical
+  - lunarpunk
+  - night
+  - city
+  - music
+  - infrastructure
 title: 'ኢንዲ ሉናርፓንክ'
 ---
 

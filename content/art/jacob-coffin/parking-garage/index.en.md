@@ -4,7 +4,15 @@ date: 2023-09-11
 publishDate: 2025-04-29
 draft: false
 description: ""
-tags: [ "photobash", "CC BY 4.0", "horizontal", "infrastructure", "reclaimed structure", "transport", "tram", "coloring-book"]
+tags:
+  - "photobash"
+  - "CC BY 4.0"
+  - "horizontal"
+  - "infrastructure"
+  - "reclaimed structure"
+  - "transport"
+  - "tram"
+  - "coloring-book"
 authors:
  - jacobcoffin
 aliases:

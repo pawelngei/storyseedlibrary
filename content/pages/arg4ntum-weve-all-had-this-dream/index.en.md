@@ -4,7 +4,8 @@ date: 2026-04-06
 publishDate: 2026-04-06
 draft: false
 description: ""
-tags: ["poem"]
+tags:
+  - "poem"
 ---
 
 We've all had this dream

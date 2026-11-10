@@ -2,10 +2,20 @@
 authors:
   - xulia-vicente
 date: 2023-05-14
-description: ''
+description:
 draft: false
 publishDate: 2026-04-13
-tags: ["illustration", "CC BY-ND 4.0", "vertical", "farming", "people", "animals", "robots", "solar", "wind turbine", "coloring-book"]
+tags:
+  - illustration
+  - 'CC BY-ND 4.0'
+  - vertical
+  - farming
+  - people
+  - animals
+  - robots
+  - solar
+  - 'wind turbine'
+  - coloring-book
 title: 'Tierra, agua, aire'
 ---
 

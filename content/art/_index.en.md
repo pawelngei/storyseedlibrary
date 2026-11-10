@@ -3,7 +3,6 @@ title: "Solarpunk Art"
 draft: false
 description: "A gallery of free-to-use Solarpunk art under open licenses"
 slug: "art"
-tags: []
 showDate: false
 showAuthor: false
 showReadingTime: false

@@ -4,10 +4,16 @@ aliases:
 authors:
   - solhaelan
 date: 2024-04-02
-description: ''
+description:
 draft: false
 publishDate: 2025-05-02
-tags: ["illustration", "CC BY-NC-SA 4.0", "square", "library", "infrastructure", "solar"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - square
+  - library
+  - infrastructure
+  - solar
 title: 'Wissen ist Macht'
 ---
 

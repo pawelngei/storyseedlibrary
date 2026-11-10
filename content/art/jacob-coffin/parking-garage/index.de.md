@@ -4,10 +4,18 @@ aliases:
 authors:
   - jacobcoffin
 date: 2023-09-11
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "horizontal", "infrastructure", "reclaimed structure", "transport", "tram", "coloring-book"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - horizontal
+  - infrastructure
+  - 'reclaimed structure'
+  - transport
+  - tram
+  - coloring-book
 title: 'Umfunktioniertes Parkhaus'
 ---
 

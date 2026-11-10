@@ -4,7 +4,12 @@ date: 2025-08-29
 publishDate: 2025-11-11
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC 4.0", "vertical", "people", "city"]
+tags:
+  - "illustration"
+  - "CC BY-NC 4.0"
+  - "vertical"
+  - "people"
+  - "city"
 authors:
   - joan_de_art
 ---

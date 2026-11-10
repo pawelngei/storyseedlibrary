@@ -4,7 +4,15 @@ date: 2026-06-26
 publishDate: 2026-07-09
 draft: false
 description: ""
-tags: ["photobash", "CC BY-SA 4.0", "vertical", "transport", "airship", "forest", "flood", "2026-collab"]
+tags:
+  - "photobash"
+  - "CC BY-SA 4.0"
+  - "vertical"
+  - "transport"
+  - "airship"
+  - "forest"
+  - "flood"
+  - "2026-collab"
 authors:
  - jacobcoffin
 ---

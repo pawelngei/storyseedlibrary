@@ -4,10 +4,18 @@ aliases:
 authors:
   - evhell
 date: 2024-05-12
-description: ''
+description:
 draft: false
 publishDate: 2025-08-05
-tags: ["illustration", "CC BY-NC-SA 4.0", "vertical", "2024-wat", "people", "disability", "city", "fantastical"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - vertical
+  - 2024-wat
+  - people
+  - disability
+  - city
+  - fantastical
 title: 'Au marché des créateurs'
 ---
 

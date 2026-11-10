@@ -12,7 +12,6 @@ showEdit: false
 showReadingTime: false
 showWordCount: false
 slug: art
-tags: []
 title: 'Arte Solarpunk'
 ---
 

@@ -4,9 +4,18 @@ aliases:
 authors:
   - karl-schulschenk
 date: 2022-07-02
-description: ''
+description:
 draft: false
 publishDate: 2025-05-08
-tags: ["illustration", "CC BY-NC-ND 4.0", "horizontal", "people", "city", "wind turbine", "solar", "transport", "farming"]
+tags:
+  - illustration
+  - 'CC BY-NC-ND 4.0'
+  - horizontal
+  - people
+  - city
+  - 'wind turbine'
+  - solar
+  - transport
+  - farming
 title: 'Ville Solarpunk'
 ---

@@ -4,10 +4,13 @@ aliases:
 authors:
   - jacobcoffin
 date: 2024-05-03
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "horizontal"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - horizontal
 title: 'Демонтажна бригада'
 ---
 

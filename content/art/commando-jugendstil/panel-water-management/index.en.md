@@ -4,10 +4,15 @@ date: 2023-09-16
 publishDate: 2025-06-01
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "farming"]
+tags:
+  - "illustration"
+  - "CC BY-NC-SA 4.0"
+  - "horizontal"
+  - "farming"
 authors:
  - commandojugendstil
-series: ["Commando Jugendstil's Panels"]
+series:
+  - "Commando Jugendstil's Panels"
 series_order: 7
 aliases:
   - /art/commando-jugendstil-panel-water-management/

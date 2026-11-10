@@ -4,10 +4,16 @@ aliases:
 authors:
   - jacobcoffin
 date: 2024-10-16
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "horizontal", "sea", "ship", "transport" ]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - horizontal
+  - sea
+  - ship
+  - transport
 title: Frachtschiff
 ---
 

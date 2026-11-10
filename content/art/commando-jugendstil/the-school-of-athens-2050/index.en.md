@@ -4,7 +4,13 @@ date: 2019-06-01
 publishDate: 2025-12-11
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "vertical", "people", "symbolism", "cooperation"]
+tags:
+  - "illustration"
+  - "CC BY-NC-SA 4.0"
+  - "vertical"
+  - "people"
+  - "symbolism"
+  - "cooperation"
 authors:
  - commandojugendstil
 aliases:

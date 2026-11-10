@@ -4,10 +4,19 @@ date: 2025-04-29
 publishDate: 2025-06-07
 draft: false
 description: ""
-tags: ["illustration", "CC BY 4.0", "vertical", "city", "solar", "wind turbine", "people", "transport"]
+tags:
+  - "illustration"
+  - "CC BY 4.0"
+  - "vertical"
+  - "city"
+  - "solar"
+  - "wind turbine"
+  - "people"
+  - "transport"
 authors:
  - dustinjacobus
-series: ["Living City"]
+series:
+  - "Living City"
 series_order: 2
 aliases:
   - /art/dustin-jacobus-living-city-part-2/

@@ -4,12 +4,19 @@ aliases:
 authors:
   - commandojugendstil
 date: 2023-03-16
-description: ''
+description:
 draft: false
 publishDate: 2025-06-01
-series: ["Commando Jugendstil's Panels"]
+series:
+  - "Commando Jugendstil's Panels"
 series_order: 1
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "infrastructure", "transport", "city"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
+  - infrastructure
+  - transport
+  - city
 title: '¿Cómo se mueve la gente en una ciudad solarpunk?'
 ---
 

@@ -3,7 +3,8 @@ title: "The Epidemiologists"
 date: 2021-10-23
 draft: false
 description: ""
-tags: ["podcast"]
+tags:
+  - "podcast"
 showAuthorBottom: true
 authors:
   - "alxd"

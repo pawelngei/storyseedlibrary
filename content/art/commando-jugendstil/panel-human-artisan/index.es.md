@@ -4,12 +4,16 @@ aliases:
 authors:
   - commandojugendstil
 date: 2023-12-16
-description: ''
+description:
 draft: false
 publishDate: 2025-06-01
-series: ["Commando Jugendstil's Panels"]
+series:
+  - "Commando Jugendstil's Panels"
 series_order: 10
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
 title: 'Humane = Artesane'
 ---
 

@@ -2,10 +2,9 @@
 authors:
   - alxd
 date: 2021-10-23
-description: ''
+description:
 draft: false
 showAuthorBottom: true
-tags: []
 title: "Les tisseur.euse.s d'histoires"
 ---
 

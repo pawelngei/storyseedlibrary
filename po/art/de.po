@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-10-07 12:33+0200\n"
+"POT-Creation-Date: 2026-11-10 23:27+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -721,6 +721,12 @@ msgstr "Das Gemeinschaftszentrum"
 #. type: Plain text
 #: content/art/daniele-turturici/community-gardens/index.en.md
 msgid "I envisioned shared gardens within cities where anyone in the community can plant and grow food freely, for everyone’s benefit, with the support of solar-powered robots. Spaces to gather, connect, and spend some relaxing time together, where workshops for children and other community activities can also be organized. A service by the community, for the community."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/art/daniele-turturici/just-call-it-reality/index.en.md
+#, no-wrap
+msgid "Just call it \"reality\""
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -1533,6 +1539,65 @@ msgstr ""
 #. type: Plain text
 #: content/art/jacob-coffin/deconstruction-crew/index.en.md
 msgid "If you read all that, thank you! And if you’re a person who owns a building in real life, and you’re thinking about doing some renovations, please consider reaching out to your local chapter of Habitat for Humanity or another group who will do deconstruction, rather than just smashing everything up and throwing it away."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/art/jacob-coffin/fab-shop/index.en.md
+#, fuzzy, no-wrap
+#| msgid "Solarpunk Workshop"
+msgid "Solarpunk Fab Shop"
+msgstr "Solarpunk-Werkstatt"
+
+#. type: Plain text
+#: content/art/jacob-coffin/fab-shop/index.en.md
+#, fuzzy
+#| msgid "[Original on Wordpress](https://jacobcoffinwrites.wordpress.com/2024/10/16/solarpunk-cargo-ship/)"
+msgid "Original illustration on [Jacob Coffin's blog](https://jacobcoffinwrites.wordpress.com/2026/09/03/solarpunk-fab-shop/)."
+msgstr "[Original auf Wordpress](https://jacobcoffinwrites.wordpress.com/2024/10/16/solarpunk-cargo-ship/)"
+
+#. type: Plain text
+#: content/art/jacob-coffin/fab-shop/index.en.md
+msgid "This is a postcard I’ve been wanting to make for a while. Generally I try to focus on salvage, reuse, and repurposing in this library economy, but I think it’s also important to show some of the fab shops that supply new goods. (And to include a bit of the industrial side of solarpunk.) Degrowth practices can meet a lot of needs with what we already have, but entropy wins in the end and society will have to produce at least some new stuff to replace the old. I think it’s worth exploring how a solarpunk setting will do that, and how the items produced for a library economy might look different than what we have today."
+msgstr ""
+
+#. type: Plain text
+#: content/art/jacob-coffin/fab-shop/index.en.md
+msgid "If this topic interests you, I wrote out a more detailed exploration here: https://wiki.slrpnk.net/writing:repairability_in_solarpunk (the slrpnk.net writing community has a wiki for sharing solarpunk worldbuilding research – feel free to message me if you want to add something!)."
+msgstr ""
+
+#. type: Plain text
+#: content/art/jacob-coffin/fab-shop/index.en.md
+msgid "I’ll also note that a lot of these ideas came from some posts on fabrication and spimes EricHunting wrote in the solarpunk subreddit."
+msgstr ""
+
+#. type: Plain text
+#: content/art/jacob-coffin/fab-shop/index.en.md
+msgid "Okay so what’s in the scene? This is a somewhat mundane solarpunk location: a little fabrication co-op specializing in appliances, set up in an old warehouse at the corner of a tram track and a pedestrianized street."
+msgstr ""
+
+#. type: Plain text
+#: content/art/jacob-coffin/fab-shop/index.en.md
+msgid "The folks who work here use standardized parts and metal stock to produce physical goods based on popular open-source designs. Their customers are library networks which need to keep certain goods in stock, and regular people who either want to own something long-term or need/want a customized version of it. I think people might place a generic order online, or stop by the small office just inside the automatic doors to talk over their needs and customizations."
+msgstr ""
+
+#. type: Plain text
+#: content/art/jacob-coffin/fab-shop/index.en.md
+msgid "The items the folks in this co-op make are designed to last – in some ways they might look simpler, or clunkier than modern-day appliances. The designs generally prioritize standardized, easily-replaceable parts and ease of access for repairs, so the items are often bulkier and heavier than a old-world commercial product, and may lack some of the features enabled by additional electronics. They generally disdain adhesives, tabs, and plastic shrouds, preferring to make the fasteners easily accessible, even going so far as to print/etch instructions for disassembly onto the machinery whenever a step has to be unintuitive."
+msgstr ""
+
+#. type: Plain text
+#: content/art/jacob-coffin/fab-shop/index.en.md
+msgid "That said, their custom products often feature many other kinds of embellishment: embossing, etching, painting, gilding, and other artwork. For a solarpunk society where ‘defaultness’ and resale value are a low priority and punk and DIY are well-established movements, it’s common for small workshops to produce appliances to spec in every way but a decorated case, or to provide the means to add decoration once their customers get it home."
+msgstr ""
+
+#. type: Plain text
+#: content/art/jacob-coffin/fab-shop/index.en.md
+msgid "Speaking of simplicity of design, the yellow and blue mural on the building above the ramp is meant to be a stylized depiction of a cam sequencer, a simple electromechanical system for activating and de-activating switched states in machinery, such as washing machines and dryers. These have been at least partially replaced with microcontrollers and custom Printed Circuit Boards today (as they are cheap, much more re-programmable, and can provide detailed error codes), but it seems likely to me that cam/drum sequencers might feature more heavily in a solarpunk setting where ease of production and reliability are prioritized."
+msgstr ""
+
+#. type: Plain text
+#: content/art/jacob-coffin/fab-shop/index.en.md
+msgid "As for the rest of the scene, the living canopy shading the pedestrianized street is based heavily on similar creations in Jerez de la Frontera in Spain. The observatory-like dome in the background is meant to be part of a solar collection/concentration rig which I described/depicted in more detail [here](https://jacobcoffinwrites.wordpress.com/2024/05/17/solarpunk-workshop/). And the tram track is a former light-rail track which has been folded into the city’s expanding public transit network. I like to imagine that they still run a cargo tram past on a scheduled basis, and that it plays a role in delivering stock/parts and collecting finished products. Probably they sometimes back a library boxtruck up against the end of the loading dock, or haul stuff away on electric rickshaws or pushcarts."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
@@ -4718,29 +4783,35 @@ msgid "An illustration of a repurposed mall, where community-organized spaces re
 msgstr "Eine Illustration eines umfunktionierten Einkaufszentrums, in dem gemeinschaftlich organisierte Räume die Fast Fashion Shops ersetzt haben.  Ursprünglich eine Illustration für Andrewisms Video \"[What If We Ran Revolution Like A Business](https://www.youtube.com/watch?v=cO0O9cBPmsU)\" (Was, wenn wir Revolution wie ein Gewerbe führen würden?)."
 
 #. type: Yaml Front Matter Hash Value: alt
-#: content/art/the-lemonaut/open-flexure/index.en.md
+#: content/art/the-lemonaut/openflexure/index.en.md
 #, no-wrap
 msgid "International collaboration between engineers and scientists who work with the OpenFlexure microscope shown as a comic happening inside of the Open Hardware logo, a cog that opens slightly at the bottom to the shape of a keyhole. In each panel is a pair of people busy at their desks. One from each pair crosses the panel boundaries to pass a tool to the next person. Others are constructing their microscopes or doing research using them. A git flow diagram runs along the cog, nestling in its teeth. Behind the cog is a colorful mess of curling cables, overlapping tools, roots, and splashes of water, referencing what the included scientists are working on which involved the microscope."
 msgstr ""
 
-#. type: Yaml Front Matter Hash Value: title
-#: content/art/the-lemonaut/open-flexure/index.en.md
+#. type: Yaml Front Matter Hash Value: description
+#: content/art/the-lemonaut/openflexure/index.en.md
 #, no-wrap
-msgid "Open Flexure: A Collaborative Microscope Without Borders"
+msgid "In a sustainable tomorrow technology is created cooperatively and shared freely around the world - and some such projects exist today! The Open Source Hardware movement promotes collaborative creation and distribution of even the most complex devices without locking them with patents or intellectual property. OpenFlexure is a great example of it - an automated digital microscope which can be used in both scientific and medical environments - and can be 3D-printed anywhere in the world! It was initially designed at United Kingdom universities, but was then tested, used and improved by a community now spanning over 70 countries! It was assessed for malaria research in Tanzania, used to measure soil health in Argentina and water quality monitoring in Ukraine. You can read more about similar open projects at Appropedia, which hosts multiple collaboratively developed sustainable tech projects!"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/art/the-lemonaut/openflexure/index.en.md
+#, no-wrap
+msgid "OpenFlexure: A Collaborative Microscope Without Borders"
 msgstr ""
 
 #. type: Plain text
-#: content/art/the-lemonaut/open-flexure/index.en.md
+#: content/art/the-lemonaut/openflexure/index.en.md
 msgid "In a sustainable tomorrow technology is created cooperatively and shared freely around the world - and some such projects exist today! The [Open Source Hardware](https://en.wikipedia.org/wiki/Open-source_hardware) movement promotes collaborative creation and distribution of even the most complex devices without locking them with patents or intellectual property."
 msgstr ""
 
 #. type: Plain text
-#: content/art/the-lemonaut/open-flexure/index.en.md
-msgid "[OpenFlexure](https://openflexure.org/) is a great example of it - an automated digital microscope which can be used in both scientific and medical environments - and can be 3D-printed anywhere in the world! It was initially designed at the University of Glasgow in the UK, but was then tested, used and improved by teams from all over the world! It was assessed for malaria research in [Tanzania](https://openflexure.org/about/malaria), used to measure soil health in [Argentina](https://openflexure.org/openflexurecon2022/community_stories/2022/10/20/openflexurecon-castro.html) and monitor water in [Ukraine](https://www.appropedia.org/Tolocar/OpenFlexure_Microscope_in_Ukraine)."
+#: content/art/the-lemonaut/openflexure/index.en.md
+msgid "[OpenFlexure](https://openflexure.org/) is a great example of it - an automated digital microscope which can be used in both scientific and medical environments - and can be 3D-printed anywhere in the world! It was initially designed at United Kingdom universities, but was then tested, used and improved by a community now spanning over 70 countries! It was assessed for malaria research in [Tanzania](https://openflexure.org/about/malaria), used to measure soil health in [Argentina](https://openflexure.org/openflexurecon2022/community_stories/2022/10/20/openflexurecon-castro.html) and water quality monitoring in [Ukraine](https://www.appropedia.org/Tolocar/OpenFlexure_Microscope_in_Ukraine)."
 msgstr ""
 
 #. type: Plain text
-#: content/art/the-lemonaut/open-flexure/index.en.md
+#: content/art/the-lemonaut/openflexure/index.en.md
 msgid "You can read more about similar open projects at [Appropedia](https://www.appropedia.org/), which hosts multiple collaboratively developed sustainable tech projects!"
 msgstr ""
 

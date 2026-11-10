@@ -4,10 +4,15 @@ aliases:
 authors:
   - jacobcoffin
 date: 2024-04-12
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "horizontal", "transport", "train"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - horizontal
+  - transport
+  - train
 title: 'Modulare Natronlokomotive'
 ---
 

@@ -4,12 +4,17 @@ aliases:
 authors:
   - commandojugendstil
 date: 2023-10-16
-description: ''
+description:
 draft: false
 publishDate: 2025-06-01
-series: ["Commando Jugendstil's Panels"]
+series:
+  - "Commando Jugendstil's Panels"
 series_order: 8
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "farming"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
+  - farming
 title: 'Symbioza między energią a przyrodą'
 ---
 

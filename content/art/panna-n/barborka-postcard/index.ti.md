@@ -4,10 +4,16 @@ aliases:
 authors:
   - panna-n
 date: 2022-11-11
-description: ''
+description:
 draft: false
 publishDate: 2025-05-10
-tags: ["illustration", "CC BY-SA 4.0", "vertical", "people", "wind turbine", "poland"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - vertical
+  - people
+  - 'wind turbine'
+  - poland
 title: 'ባርቦርካ ፖስትካርድ'
 ---
 

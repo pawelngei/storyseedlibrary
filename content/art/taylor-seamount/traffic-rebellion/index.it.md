@@ -4,10 +4,18 @@ aliases:
 authors:
   - taylor-seamount
 date: 2024-04-11
-description: ''
+description:
 draft: false
 publishDate: 2025-08-09
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "infrastructure", "city", "transport", "train", "trees"]
+tags:
+  - illustration
+  - 'CC BY-NC-SA 4.0'
+  - horizontal
+  - infrastructure
+  - city
+  - transport
+  - train
+  - trees
 title: 'Rivolta del Traffico'
 ---
 

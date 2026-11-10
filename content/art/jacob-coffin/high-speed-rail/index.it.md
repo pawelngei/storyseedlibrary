@@ -4,10 +4,16 @@ aliases:
 authors:
   - jacobcoffin
 date: 2023-09-06
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "horizontal", "transport", "train", "forest"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - horizontal
+  - transport
+  - train
+  - forest
 title: "Rotaie dell'Alta Velocità"
 ---
 

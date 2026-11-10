@@ -4,7 +4,16 @@ date: 2026-01-28
 publishDate: 2026-02-01
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "horizontal", "city", "people", "trees", "infrastructure", "transport", "ropeway"]
+tags:
+  - "illustration"
+  - "CC BY-NC-SA 4.0"
+  - "horizontal"
+  - "city"
+  - "people"
+  - "trees"
+  - "infrastructure"
+  - "transport"
+  - "ropeway"
 authors:
  - taylor-seamount
 aliases:

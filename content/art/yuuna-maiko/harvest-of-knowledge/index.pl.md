@@ -4,10 +4,18 @@ aliases:
 authors:
   - yuuna-maiko
 date: 2024-08-16
-description: ''
+description:
 draft: false
 publishDate: 2025-08-03
-tags: ["illustration", "CC BY-NC-ND 4.0", "horizontal", "2024-wat", "farming", "people", "animals", "fantastical"]
+tags:
+  - illustration
+  - 'CC BY-NC-ND 4.0'
+  - horizontal
+  - 2024-wat
+  - farming
+  - people
+  - animals
+  - fantastical
 title: 'Żniwa Wiedzy'
 ---
 

@@ -4,7 +4,18 @@ date: 2019-05-08
 publishDate: 2026-06-24
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-ND 4.0", "vertical", "amazofuturism", "brazil", "south america", "city", "river", "people", "animals", "indigenous"]
+tags:
+  - "illustration"
+  - "CC BY-NC-ND 4.0"
+  - "vertical"
+  - "amazofuturism"
+  - "brazil"
+  - "south america"
+  - "city"
+  - "river"
+  - "people"
+  - "animals"
+  - "indigenous"
 authors:
   - q1r0z
 

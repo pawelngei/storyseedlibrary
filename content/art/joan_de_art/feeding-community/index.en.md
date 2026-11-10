@@ -4,7 +4,16 @@ date: 2026-03-29
 publishDate: 2026-03-30
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC 4.0", "vertical", "animals", "city", "solar", "food", "transport", "night"]
+tags:
+  - "illustration"
+  - "CC BY-NC 4.0"
+  - "vertical"
+  - "animals"
+  - "city"
+  - "solar"
+  - "food"
+  - "transport"
+  - "night"
 authors:
   - joan_de_art
 ---

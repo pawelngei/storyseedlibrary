@@ -4,7 +4,14 @@ date: 2024-11-15
 publishDate: 2026-06-15
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC-SA 4.0", "vertical", "people", "city", "transport", "disaster"]
+tags:
+  - "illustration"
+  - "CC BY-NC-SA 4.0"
+  - "vertical"
+  - "people"
+  - "city"
+  - "transport"
+  - "disaster"
 authors:
   - markus-wende
 ---

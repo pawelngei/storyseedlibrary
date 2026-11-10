@@ -4,10 +4,17 @@ aliases:
 authors:
   - jacobcoffin
 date: 2025-03-23
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "horizontal", "tram", "transport", "monorail", "coloring-book"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - horizontal
+  - tram
+  - transport
+  - monorail
+  - coloring-book
 title: 'Tramwaj w wiosce'
 ---
 

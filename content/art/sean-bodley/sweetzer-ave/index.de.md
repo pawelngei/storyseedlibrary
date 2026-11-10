@@ -4,10 +4,17 @@ aliases:
 authors:
   - seanbodley
 date: 2020-08-09
-description: ''
+description:
 draft: false
 publishDate: 2025-04-28
-tags: ["illustration", "CC BY-SA 4.0", "horizontal", "people", "solar", "cooperation", "city"]
+tags:
+  - illustration
+  - 'CC BY-SA 4.0'
+  - horizontal
+  - people
+  - solar
+  - cooperation
+  - city
 title: 'Sweetzer Ave. Kohlenstoffnegative Concept-Art'
 ---
 

@@ -4,10 +4,16 @@ aliases:
 authors:
   - jacobcoffin
 date: 2024-04-07
-description: ''
+description:
 draft: false
 publishDate: 2025-04-29
-tags: [ "photobash", "CC BY 4.0", "vertical", "transport", "train", "mountains"]
+tags:
+  - photobash
+  - 'CC BY 4.0'
+  - vertical
+  - transport
+  - train
+  - mountains
 title: 'Содовий локомотив на станції'
 ---
 

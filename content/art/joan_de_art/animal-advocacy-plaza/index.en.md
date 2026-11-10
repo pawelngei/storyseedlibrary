@@ -4,7 +4,14 @@ date: 2024-07-29
 publishDate: 2025-11-11
 draft: false
 description: ""
-tags: ["illustration", "CC BY-NC 4.0", "vertical", "animals", "city", "solar", "transport"]
+tags:
+  - "illustration"
+  - "CC BY-NC 4.0"
+  - "vertical"
+  - "animals"
+  - "city"
+  - "solar"
+  - "transport"
 authors:
   - joan_de_art
 ---
