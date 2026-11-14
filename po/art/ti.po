@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://codeberg.org/alxd/storyseedlibrary/issues\n"
-"POT-Creation-Date: 2026-11-10 23:27+0100\n"
+"POT-Creation-Date: 2026-11-14 17:47+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3244,6 +3244,58 @@ msgid "Animal rights increased as well. Factory farming became a relic of the pa
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
+#: content/art/joan_de_art/birthing-justice-for-all/index.en.md
+#, no-wrap
+msgid "Birthing Justice for All"
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/birthing-justice-for-all/index.en.md
+msgid "Welcome to the world little one, we finally built it for you."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/birthing-justice-for-all/index.en.md
+msgid "Once, having children was expensive, isolating and even dangerous. Childcare and housing prices made it difficult to find a safe place to have a baby. Loneliness and post-partum depression skyrocketed as couples or individuals were abandoned by society at their most vulnerable."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/birthing-justice-for-all/index.en.md
+msgid "Pregnancy itself was dangerous; not only did we have high maternal and infant mortality rates, but miscarriages and abortions were criminalized and punished. Everything about babies was politicized, pressurized and commodified. Companies offered no paid family leave. The future was terrifying as climate change made it hard to justify having young at all. People without children were shamed and stigmatized as well, there seemed was no way to win."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/birthing-justice-for-all/index.en.md
+msgid "You cannot destroy a nest then ask why there are no eggs."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/birthing-justice-for-all/index.en.md
+msgid "So we changed it. We began to center children instead of banishing them from sight. It started by creating a physical space for families to rest. Parking lots were deconstructed and revamped into playgrounds, sensory gardens, grief centers, family bathrooms, supply swaps, therapy centers, food pantries, shade trees, benches."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/birthing-justice-for-all/index.en.md
+msgid "Elders and teens were brought back into the community fold too. Meal trains ran around the clock, and night-shifts were shared by a loving system of many hands. Lullabies replaced blaring commercials, roaring engines with bicycle bells, concrete with nature. Sleep was returned to all."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/birthing-justice-for-all/index.en.md
+msgid "We channeled our energy and resources into community care, gave doula support and medical advocacy, reproductive care and abortion access to anyone who needed it. Grief was acknowledged. Women’s health research was fully funded, and relationship and sex education classes were freely given. Childcare was baked into every system. No longer did someone need to hunt for a place to breastfeed or access hygiene products."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/birthing-justice-for-all/index.en.md
+#, no-wrap
+msgid " As the village returned, it became safe and affordable and enjoyable to have children again. No longer were they seen an expensive inconvenience, but beloved protectors of our collective future. \n"
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/birthing-justice-for-all/index.en.md
+msgid "Welcome home."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
 #: content/art/joan_de_art/environmental-dreamhouse/index.en.md
 #, no-wrap
 msgid "Environmental Dreamhouse"
@@ -3298,6 +3350,12 @@ msgid "Come and eat! We saved you a place.   \n"
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
+#: content/art/joan_de_art/healthcare-fair-and-free-for-all/index.en.md
+#, no-wrap
+msgid "Healthcare Fair and Free for All"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
 #: content/art/joan_de_art/it-takes-a-village/index.en.md
 #, no-wrap
 msgid "It Takes A Village"
@@ -3336,6 +3394,74 @@ msgstr ""
 #. type: Plain text
 #: content/art/joan_de_art/it-takes-a-village/index.en.md
 msgid "Welcome to the future. Can you come out to play?"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/art/joan_de_art/leave-the-leaves/index.en.md
+#, no-wrap
+msgid "Leave the Leaves"
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/leave-the-leaves/index.en.md
+msgid "Leave the leaves! It is time to silence the leaf blowers and gas-chugging lawnmowers and let our ecosystem (and our ears!) rest and heal. Noise pollution is still pollution. Did you know that beneath your feet is an entire biome that uses leaf litter as circular currency?"
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/leave-the-leaves/index.en.md
+msgid "Here’s how it works. Decomposers like bacteria, protozoa and earthworms break down fallen leaves into nitrate rich mulch, turning leaf piles into a 24/7 café to feed the biome. Hungry trees and plants need to feed on this hearty stew of organic compost during the winter months and build up reserves. Then, during spring and summer the trees will trade this sugar with mushrooms in exchange for phosphorus and chemical signals to talk to their tree friends. Mushrooms cannot actually make their own food, but are fed this leafy ‘soup’ by their guardian trees. The roots turn into a massive farmers market, swapping meals for information and elements. The trees can then grow stronger and taller and healthier, and in the fall drop carbon filled leaves back to the floor to become a rich slurry, and the cycle begins again."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/leave-the-leaves/index.en.md
+msgid "When we blow and throw away the leaves, we starve our backyard ecosystem of currency, shelter, nutrition and information. Fall leaves replenish our eroding topsoil without the use of synthetic fertilizers. If you want bees, butterflies, fireflies, salamanders, mushrooms and healthy trees in your neighborhood it’s time to hang up the leafblower and leave the leaves! They are called LEAVES after all."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/leave-the-leaves/index.en.md
+msgid "We can still keep the sidewalks and walkways clear of leaves for our communities to safely walk on, but leave the leaves in our yards for our ecosystem to heal."
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: content/art/joan_de_art/reclaim-garages-as-third-spaces/index.en.md
+#, no-wrap
+msgid "Reclaim Garages as Third Spaces"
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/reclaim-garages-as-third-spaces/index.en.md
+msgid "Long ago we had surrendered nearly all our outdoor public spaces entirely to parking cars. Parking lots sprawled and oozed between buildings, pushing suburbs and cities further apart and adding hours to traffic time. We destroyed our cities infrastructure in search of free parking, violent disputes over parking spaces were normalized and trivialized."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/reclaim-garages-as-third-spaces/index.en.md
+msgid "Developers chopped the stoops off townhouses and apartments to create more lanes for traffic, trading porches for parking. We cared more about housing for our cars than housing for ourselves. A maze of driveways, garaged doors and concrete parking pads tore the social and environmental fabric, we destroyed third spaces so that only cars were allowed to exist outside."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/reclaim-garages-as-third-spaces/index.en.md
+#, no-wrap
+msgid " Empty, sprawling parking lots turned neighborhoods into heat islands, and flooding resulted in catastrophic losses. We had lost our way. \n"
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/reclaim-garages-as-third-spaces/index.en.md
+msgid "So we change it. We started by banning parking minimums, and returned strips of dedicated parking spaces back into bus lanes, saplings and restaurant patios. We depaved, returning asphalt to prairies and wetlands woven into our cities and towns, which stopped the floods and fires."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/reclaim-garages-as-third-spaces/index.en.md
+msgid "We rolled back urban sprawl, and without parked cars dominating the streets, our neighborhoods became walkable again. We invested in public transportation and bike lanes, our sidewalks were expanded and maintained so that wheelchairs and strollers and walkers had shaded dignity again."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/reclaim-garages-as-third-spaces/index.en.md
+msgid "The roads were returned to the people, children and teens could bike to places on their own again, and a culture of micromobility replaced car culture. Third places moved into the home garages, parking garages, parking lots and car parks. They became colorful touchstones of our community instead of exhaust-filled buildings. No longer did we fight over parking spaces, instead we met each other on the streets as neighbors and friends."
+msgstr ""
+
+#. type: Plain text
+#: content/art/joan_de_art/reclaim-garages-as-third-spaces/index.en.md
+msgid "Parking spaces became our missing third places."
 msgstr ""
 
 #. type: Yaml Front Matter Hash Value: title
